@@ -6,34 +6,48 @@ no app update needed.**
 
 The app reads this repository from `https://cdn.jsdelivr.net/gh/kweyd/kevis-kitchen-recipes@main/`.
 
-## Adding a recipe
+## Contributing
 
-1. **Pick an id**: lowercase, words separated by `-`, no umlauts (`chili-con-carne`, `kaesespaetzle`).
+Everyone is welcome to add or improve recipes, but **all changes go through a pull request**.
+Nobody can push to this repository directly; the maintainer reviews every pull request and decides whether
+to merge it. Only merged recipes reach the app.
+
+Don't want to use Git? Use the app instead: see [Submitting a recipe from the app](#submitting-a-recipe-from-the-app).
+
+### Adding a recipe
+
+1. **Fork** this repository (button *Fork* at the top right on GitHub) and create a branch in your fork,
+   e.g. `recipe/chili-con-carne`.
+2. **Pick an id**: lowercase, words separated by `-`, no umlauts (`chili-con-carne`, `kaesespaetzle`).
    The id is the file name everywhere and must never change once published.
-2. **Copy the template** [`template/recipe.json`](template/recipe.json) twice:
+3. **Copy the template** [`template/recipe.json`](template/recipe.json):
    - `recipes/de/<id>.json` – German (the original, required)
-   - `recipes/en/<id>.json` – English (same id, same amounts, units and number of ingredients and steps)
-3. **Fill in the fields** (see [Fields](#fields) below) and set `"id"` to your id in both files.
-4. **Add a photo** (optional): `images/<id>.jpg`, max. 1200 px on the long side, under 400 KB.
+   - `recipes/en/<id>.json` – English (optional; same id, same amounts, units and number of ingredients and steps)
+4. **Fill in the fields** (see [Fields](#fields) below) and set `"id"` to your id.
+5. **Add a photo** (optional): `images/<id>.jpg`, max. 1200 px on the long side, under 400 KB.
    Only photos you took yourself.
-5. **Check it**:
+6. **Check it** locally:
    ```sh
-   python3 scripts/validate_recipes.py <id>   # strict check of both language files
-   python3 scripts/build_index.py             # rebuilds index.json, fails on broken files
+   python3 scripts/validate_recipes.py <id>   # strict check of the recipe files
    ```
-6. **Commit & push.** The *Build index* workflow rebuilds `index.json` on GitHub as well.
-   jsDelivr caches for up to 12 hours; to publish immediately open
-   `https://purge.jsdelivr.net/gh/kweyd/kevis-kitchen-recipes@main/index.json`.
+   Don't commit `index.json`, it's rebuilt automatically after the merge.
+7. **Open a pull request** against `main` and fill in the checklist. The *Check recipes* workflow validates
+   your files; fix anything it reports by pushing to the same branch.
+8. The maintainer reviews it and may ask for changes. Once it's merged, the recipe is in everyone's app
+   within a day.
 
-## Changing a recipe
+One recipe per pull request, please. Pull requests that change anything outside `recipes/` and `images/`
+(scripts, workflows, README) need a good explanation.
 
-Edit both language files and **raise `"version"` by one** in both. Without that, apps don't download the change.
-Users who edited a catalog recipe in the app keep their own version.
+### Changing a recipe
 
-## Removing a recipe
+Same as above, but edit the existing files and **raise `"version"` by one** in every language file.
+Without that, apps don't download the change. Users who edited a catalog recipe in the app keep their own version.
 
-Delete `recipes/*/<id>.json` and `images/<id>.jpg`, then push. Apps remove it on their next update,
-unless the user changed it.
+### Removing a recipe
+
+Open an issue or a pull request that deletes `recipes/*/<id>.json` and `images/<id>.jpg`. Apps remove the recipe
+on their next update, unless the user changed it.
 
 ## Fields
 
@@ -67,7 +81,7 @@ unless the user changed it.
 | `allergens` | Any of `gluten`, `crustaceans`, `eggs`, `fish`, `peanuts`, `soy`, `milk`, `lactose`, `nuts`, `celery`, `mustard`, `sesame`, `sulphites`, `lupin`, `molluscs`. Empty list if none |
 | `alternatives` | Optional replacements for other diets or allergies (same fields, without `pantry`). An alternative must change the diet or remove an allergen |
 
-## Submitting a recipe (for app users)
+## Submitting a recipe from the app
 
 1. In the app: open your recipe → ⋯ → *Submit to community*.
 2. Copy the recipe, save the photo, open the form, paste the recipe and drop the photo.
@@ -80,12 +94,16 @@ Rules:
 
 ## For maintainers
 
-Review the issue, then add the label **`approved`**. The *Import recipe* workflow creates the files,
-rebuilds `index.json` and closes the issue. Imported recipes only have one language; add the other one
-by hand and run `scripts/validate_recipes.py`. Manual changes in `recipes/` rebuild the index automatically.
+**Pull requests**: check the *Check recipes* result and the content (own words, own photo, sensible amounts,
+`pantry` set for staples), then merge. Pushing to `main` (also by merging) runs *Build index*, which rebuilds
+`index.json`. jsDelivr caches for up to 12 hours; to publish immediately open
+`https://purge.jsdelivr.net/gh/kweyd/kevis-kitchen-recipes@main/index.json`.
 
-After changing the catalog, also update the snapshot bundled in the app, so it works offline from the first
-launch: in the app repository run `python3 tools/build_snapshot.py`.
+**Issues from the app**: review the issue, then add the label **`approved`**. Only people with write access can
+add labels. The *Import recipe* workflow creates the files, rebuilds `index.json` and closes the issue.
+
+**App snapshot**: after changing the catalog, also update the recipes bundled in the app, so it works offline from
+the first launch: in the app repository run `python3 tools/build_snapshot.py`.
 
 ## Structure
 

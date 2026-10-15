@@ -41,7 +41,9 @@ def check(recipe_id):
     data = {}
     for lang, path in files.items():
         if not path.exists():
-            errors.append(f"{lang}: file missing")
+            # German is the original and required, English is optional.
+            if lang == "de":
+                errors.append(f"{lang}: file missing")
             continue
         try:
             data[lang] = json.loads(path.read_text())
