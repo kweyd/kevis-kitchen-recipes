@@ -1,0 +1,229 @@
+{
+  "id": "currywurst-mit-pommes",
+  "version": 1,
+  "title": "Currywurst with Fries",
+  "summary": "The German snack-bar classic at home: bratwurst in homemade curry sauce with air-fryer fries.",
+  "emoji": "🌭",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 870,
+    "protein": 32,
+    "fat": 63,
+    "carbs": 40
+  },
+  "ingredients": [
+    {
+      "name": "Frozen fries",
+      "amount": 200,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Bratwurst sausages",
+      "amount": 4,
+      "unit": "piece",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegan bratwurst",
+          "amount": 4,
+          "unit": "piece",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy",
+            "gluten"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Passata",
+      "amount": 250,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honey",
+      "amount": 0.5,
+      "unit": "tbsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agave syrup",
+          "amount": 0.5,
+          "unit": "tbsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ]
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": false,
+      "note": "contains anchovies",
+      "diet": "fish",
+      "allergens": [
+        "fish",
+        "gluten",
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan Worcestershire sauce",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "gluten",
+            "sulphites"
+          ]
+        },
+        {
+          "name": "Tamari (gluten-free soy sauce)",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Curry powder",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Hot paprika powder",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chili powder",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "note": "optional",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chives",
+      "unit": "to taste",
+      "category": "produce",
+      "pantry": false,
+      "note": "to garnish",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make the fries in the air fryer: spray them lightly with oil and cook at 200 °C for 2 × 10 minutes.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "Finely chop the onion and fry it in a pan with oil until lightly browned.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Then add the honey and caramelise the onion. Deglaze everything with the passata.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Add the remaining sauce ingredients and let it simmer over medium heat.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "At the same time, fry the sausages in another pan.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Slice the sausages, divide them between the plates and pour the curry sauce over them."
+    },
+    {
+      "text": "Divide the fries between both plates and sprinkle some chives over the sauce for colour."
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "id": "mie-nudelsalt",
+  "version": 1,
+  "title": "Mie-Nudelsalat",
+  "summary": "Mie-Nudeln in Cashew-Soja-Soße mit Räuchertofu, Karotten und knackigem Rotkohl.",
+  "emoji": "🥢",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarisch",
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 640,
+    "protein": 31,
+    "fat": 25,
+    "carbs": 70
+  },
+  "ingredients": [
+    {
+      "name": "Räuchertofu",
+      "amount": 200,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Kichererbsen",
+          "amount": 0.8,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Mie-Nudeln",
+      "amount": 125,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "note": "ohne Ei – Zutatenliste prüfen",
+      "diet": "animal",
+      "allergens": [
+        "eggs",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Mie-Nudeln ohne Ei",
+          "amount": 125,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ]
+        },
+        {
+          "name": "Reisnudeln",
+          "amount": 125,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Karotten",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "dick",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rotkohl",
+      "amount": 50,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Cashewmus",
+      "amount": 5,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "nuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Erdnussbutter",
+          "amount": 5,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": [
+            "peanuts"
+          ]
+        },
+        {
+          "name": "Tahin (Sesammus)",
+          "amount": 5,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": [
+            "sesame"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ingwer",
+      "amount": 10,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "ca. 1 cm",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Agavendicksaft",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sesam",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sesame"
+      ]
+    },
+    {
+      "name": "Lauchzwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sojasoße",
+      "amount": 5,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (glutenfreie Sojasauce)",
+          "amount": 5,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Kokos-Aminos",
+          "amount": 5,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Chiliflocken",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Die Mie-Nudeln mit kochendem Wasser übergießen und ziehen lassen.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Knoblauch, Ingwer und Zwiebel schälen und klein hacken. Die Karotten schälen und in mundgerechte Scheiben schneiden, Rotkohl und Lauchzwiebel in feine Streifen schneiden. Den Tofu würfeln."
+    },
+    {
+      "text": "In einer großen Schüssel die Sojasoße mit dem Cashewmus und dem Agavendicksaft zu einer Soße verrühren."
+    },
+    {
+      "text": "Die Nudeln abgießen und unter die Soße heben."
+    },
+    {
+      "text": "Öl in einer Pfanne erhitzen und die Zwiebel anbraten. Anschließend Ingwer und Knoblauch dazugeben.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Wenn der Knoblauch leicht angebraten ist, die Karotten und den Tofu dazugeben.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Wenn alles etwas gebraten hat, die Nudeln unterheben und kurz mit anbraten.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Zum Servieren den Pfanneninhalt auf die Teller verteilen und Sesam, Lauchzwiebel, Rotkohl und Chiliflocken darüberstreuen."
+    }
+  ]
+}

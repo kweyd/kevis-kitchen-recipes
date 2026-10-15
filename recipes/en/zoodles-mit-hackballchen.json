@@ -1,0 +1,315 @@
+{
+  "id": "zoodles-mit-hackballchen",
+  "version": 1,
+  "title": "Zoodles with Meatballs",
+  "summary": "Courgette noodles with juicy beef and salami meatballs in a fruity tomato sauce.",
+  "emoji": "🧆",
+  "servings": 2,
+  "prepMinutes": 45,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 850,
+    "protein": 62,
+    "fat": 50,
+    "carbs": 26
+  },
+  "ingredients": [
+    {
+      "name": "Courgette",
+      "amount": 2,
+      "unit": "piece",
+      "note": "large",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ground beef",
+      "amount": 250,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 1,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegan mince (pea protein)",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 7
+        }
+      ]
+    },
+    {
+      "name": "Salami",
+      "amount": 100,
+      "unit": "g",
+      "note": "finely chopped",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegan salami",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy",
+            "gluten"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Egg",
+      "amount": 1,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Chickpea flour (1 tbsp per egg)",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Parmesan",
+      "amount": 30,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan parmesan alternative",
+          "amount": 30,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Grated cheese",
+      "amount": 30,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan grated cheese",
+          "amount": 30,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Fresh basil",
+      "amount": 0.5,
+      "unit": "bunch",
+      "note": "half a handful",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Passata",
+      "amount": 250,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chopped tomatoes",
+      "amount": 250,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Onion",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tomato paste",
+      "amount": 1.5,
+      "unit": "tbsp",
+      "category": "canned",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honey",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agave syrup",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Lemon juice",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Dried oregano",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Dried basil",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Wash the courgettes and cut them into ribbons with a vegetable peeler."
+    },
+    {
+      "text": "Peel the onion and garlic and chop finely."
+    },
+    {
+      "text": "In a bowl, mix the beef, salami, egg, grated cheese, pepper, salt and half of the garlic, onion and parmesan, then roll into small balls."
+    },
+    {
+      "text": "Heat oil in a pan and brown the meatballs. Then take them out.",
+      "timerMinutes": 6
+    },
+    {
+      "text": "Fry the remaining onion and garlic in the pan. Add the passata, chopped tomatoes and tomato paste."
+    },
+    {
+      "text": "Season with vinegar, honey, oregano and dried basil. Add a little more pepper and salt if needed."
+    },
+    {
+      "text": "Return the meatballs to the sauce and simmer everything for 10 minutes.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "In another pan, sauté the zoodles in a little oil.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Plate up and sprinkle the remaining parmesan and the fresh basil over the portions."
+    }
+  ]
+}

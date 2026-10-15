@@ -1,0 +1,277 @@
+{
+  "id": "chickenpasta-mit-ziegenfrischkase",
+  "version": 1,
+  "title": "Chicken Pasta with Goat's Cream Cheese",
+  "summary": "Creamy pasta with chicken, peas and spinach in a tangy goat's cream cheese sauce.",
+  "emoji": "🍝",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 700,
+    "protein": 45,
+    "fat": 25,
+    "carbs": 65
+  },
+  "ingredients": [
+    {
+      "name": "Chicken breast fillet",
+      "amount": 150,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegan chicken pieces (soy)",
+          "amount": 150,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Chickpeas",
+          "amount": 0.6,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Pasta",
+      "amount": 200,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free pasta",
+          "amount": 200,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Spinach",
+      "amount": 100,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 2,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Goat's cream cheese",
+      "amount": 100,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free cream cheese",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Vegan cream cheese",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Cooking cream",
+      "amount": 100,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free cream",
+          "amount": 100,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Oat cream",
+          "amount": 100,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Soy cream",
+          "amount": 100,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Peas (frozen)",
+      "amount": 140,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Parmesan",
+      "amount": 30,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan parmesan alternative",
+          "amount": 30,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Onion",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 2,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Olive oil",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sweet paprika",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Nutmeg",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the pasta.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Peel the onion and garlic and chop them finely together with the chicken."
+    },
+    {
+      "text": "Heat the olive oil in a pan. Fry the garlic, onion and chicken.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Add the peas, spinach, cream and goat's cream cheese and let it simmer with the lid on.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Drain the pasta and add it to the pan with the paprika. Season with pepper, salt and nutmeg."
+    },
+    {
+      "text": "Divide between plates and grate the parmesan over the top."
+    }
+  ]
+}

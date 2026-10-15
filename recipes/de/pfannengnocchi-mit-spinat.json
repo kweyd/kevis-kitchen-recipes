@@ -1,0 +1,215 @@
+{
+  "id": "pfannengnocchi-mit-spinat",
+  "version": 1,
+  "title": "Pfannengnocchi mit Spinat",
+  "summary": "Gnocchi aus der Pfanne mit Kirschtomaten, Spinat und leicht karamellisierten Zwiebeln – ruckzuck fertig.",
+  "emoji": "🍅",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarisch",
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 540,
+    "protein": 15,
+    "fat": 17,
+    "carbs": 80
+  },
+  "ingredients": [
+    {
+      "name": "Gnocchi",
+      "amount": 400,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreie Gnocchi",
+          "amount": 400,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Kirschtomaten",
+      "amount": 200,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Spinat",
+      "amount": 100,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "frisch",
+      "shelfLifeDays": 2,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rote Zwiebeln",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honig",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agavendicksaft",
+          "amount": 0.5,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Gemüsebrühe",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Wasser",
+      "amount": 50,
+      "unit": "ml",
+      "category": "other",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Parmesan",
+      "amount": 20,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "note": "zum Bestreuen",
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Veganer Parmesan-Ersatz",
+          "amount": 20,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Basilikum",
+      "unit": "to taste",
+      "category": "produce",
+      "pantry": false,
+      "note": "frisch, zum Garnieren",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Die roten Zwiebeln und den Knoblauch schälen und klein hacken."
+    },
+    {
+      "text": "Anschließend in Öl anbraten. Einen halben Teelöffel Honig dazugeben, um die Zwiebeln leicht zu karamellisieren.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Die Kirschtomaten halbieren und mit dem Spinat in die Pfanne geben. Warten, bis der Spinat eingefallen ist.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "50 ml Wasser mit einem halben Teelöffel Gemüsebrühe mischen und zusammen mit den Gnocchi in die Pfanne geben."
+    },
+    {
+      "text": "Nach Bedarf mit Pfeffer und Salz würzen und 5 Minuten kochen lassen.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Am Ende etwas Parmesan und Basilikum darübergeben und servieren."
+    }
+  ]
+}

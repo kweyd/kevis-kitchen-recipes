@@ -1,0 +1,315 @@
+{
+  "id": "zoodles-mit-hackballchen",
+  "version": 1,
+  "title": "Zoodles mit Hackbällchen",
+  "summary": "Zucchini-Nudeln mit saftigen Hack-Salami-Bällchen in fruchtiger Tomatensoße.",
+  "emoji": "🧆",
+  "servings": 2,
+  "prepMinutes": 45,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 850,
+    "protein": 62,
+    "fat": 50,
+    "carbs": 26
+  },
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "amount": 2,
+      "unit": "piece",
+      "note": "dick",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rinderhackfleisch",
+      "amount": 250,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 1,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Veganes Hack (Erbsenprotein)",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 7
+        }
+      ]
+    },
+    {
+      "name": "Salami",
+      "amount": 100,
+      "unit": "g",
+      "note": "fein gehackt",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegane Salami",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy",
+            "gluten"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Ei",
+      "amount": 1,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Kichererbsenmehl (1 EL pro Ei)",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Parmesan",
+      "amount": 30,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Veganer Parmesan-Ersatz",
+          "amount": 30,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Geriebener Käse",
+      "amount": 30,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Veganer Reibekäse",
+          "amount": 30,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Basilikum (frisch)",
+      "amount": 0.5,
+      "unit": "bunch",
+      "note": "eine halbe Handvoll",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Passierte Tomaten",
+      "amount": 250,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Stückige Tomaten",
+      "amount": 250,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zwiebel",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tomatenmark",
+      "amount": 1.5,
+      "unit": "tbsp",
+      "category": "canned",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honig",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agavendicksaft",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Weißweinessig",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Zitronensaft",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Oregano (getrocknet)",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Basilikum (getrocknet)",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zucchini waschen und mit einem Sparschäler in Streifen schneiden."
+    },
+    {
+      "text": "Zwiebel und Knoblauch schälen und kleinschneiden."
+    },
+    {
+      "text": "In einer Schüssel Rinderhack, Salami, Ei, geriebenen Käse, Pfeffer, Salz und die Hälfte von Knoblauch, Zwiebel und Parmesan vermengen und zu kleinen Bällchen rollen."
+    },
+    {
+      "text": "In einer Pfanne Öl erhitzen und die Hackbällchen braun anbraten. Dann herausnehmen.",
+      "timerMinutes": 6
+    },
+    {
+      "text": "Den Rest der Zwiebeln und des Knoblauchs in der Pfanne anbraten. Passierte und stückige Tomaten sowie Tomatenmark dazugeben."
+    },
+    {
+      "text": "Mit Essig, Honig, Oregano und gerebeltem Basilikum würzen. Gegebenenfalls noch etwas Pfeffer und Salz dazugeben."
+    },
+    {
+      "text": "Die Fleischbällchen mit in die Soße geben und alles 10 Minuten köcheln lassen.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "In einer anderen Pfanne die Zoodles mit etwas Öl andünsten.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Anrichten und den restlichen Parmesan und das frische Basilikum über die Portionen verteilen."
+    }
+  ]
+}

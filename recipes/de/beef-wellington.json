@@ -1,0 +1,233 @@
+{
+  "id": "beef-wellington",
+  "version": 1,
+  "title": "Beef Wellington",
+  "summary": "Der Festtagsklassiker: sous vide gegartes Rinderfilet mit Maronen-Pilz-Füllung und Parmaschinken im goldenen Blätterteig.",
+  "emoji": "🥩",
+  "servings": 4,
+  "prepMinutes": 170,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 1020,
+    "protein": 64,
+    "fat": 52,
+    "carbs": 62
+  },
+  "ingredients": [
+    {
+      "name": "Rinderfilet",
+      "amount": 800,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": []
+    },
+    {
+      "name": "Maronen",
+      "amount": 200,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "gekocht, vakuumverpackt",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Braune Champignons",
+      "amount": 250,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Parmaschinken",
+      "amount": 12,
+      "unit": "slice",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": []
+    },
+    {
+      "name": "Blätterteig",
+      "amount": 500,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "note": "aus dem Kühlregal",
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreier Blätterteig",
+          "amount": 500,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Thymian",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "1 Zweig",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Weißwein",
+      "amount": 100,
+      "unit": "ml",
+      "category": "drinks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Weißer Traubensaft",
+          "amount": 100,
+          "unit": "ml",
+          "category": "drinks",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Senf",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "mustard"
+      ]
+    },
+    {
+      "name": "Eigelb",
+      "amount": 1,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "note": "zum Bestreichen",
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Milch (zum Bestreichen)",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk",
+            "lactose"
+          ]
+        },
+        {
+          "name": "Sojadrink (zum Bestreichen)",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 2,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "note": "für die Füllung",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "note": "zum Anbraten",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Das Rinderfilet vakuumieren und bei 52 °C für 90 Minuten sous vide garen.",
+      "timerMinutes": 90
+    },
+    {
+      "text": "Maronen, Champignons, Thymianblättchen, Knoblauch und Weißwein in einen Mixer geben und fein zerkleinern."
+    },
+    {
+      "text": "Die Masse ohne Öl in eine Pfanne geben und die Flüssigkeit verdampfen lassen.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Klarsichtfolie auslegen und den Schinken darauf drapieren. Die Masse aus der Pfanne darauf verteilen."
+    },
+    {
+      "text": "Das Rinderfilet mit Salz und Pfeffer würzen, in einer Pfanne mit etwas Öl rundherum scharf anbraten und mit Senf einreiben.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Das Filet auf die Masse mit dem Schinken legen, mithilfe der Folie einrollen und für mindestens 15 Minuten in den Kühlschrank legen.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Wieder Klarsichtfolie auslegen und den Blätterteig darauf ausrollen."
+    },
+    {
+      "text": "Das Filet ohne Folie auf den Blätterteig legen, ebenfalls einrollen und wieder für mindestens 15 Minuten in den Kühlschrank legen.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Den Ofen auf 200 °C vorheizen."
+    },
+    {
+      "text": "Den Blätterteig mit dem Eigelb bestreichen und für 22 Minuten in den Ofen geben.",
+      "timerMinutes": 22
+    }
+  ]
+}

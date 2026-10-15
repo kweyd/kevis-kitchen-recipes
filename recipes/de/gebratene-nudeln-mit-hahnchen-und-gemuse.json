@@ -1,0 +1,320 @@
+{
+  "id": "gebratene-nudeln-mit-hahnchen-und-gemuse",
+  "version": 1,
+  "title": "Gebratene Nudeln mit Hähnchen und Gemüse",
+  "summary": "Mie-Nudeln mit mariniertem Hähnchen, viel knackigem Gemüse und Sojasoße – besser als vom Asia-Imbiss.",
+  "emoji": "🍜",
+  "servings": 2,
+  "prepMinutes": 60,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 726,
+    "protein": 65,
+    "fat": 15,
+    "carbs": 75
+  },
+  "ingredients": [
+    {
+      "name": "Mie-Nudeln",
+      "amount": 150,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "note": "meist mit Ei",
+      "diet": "animal",
+      "allergens": [
+        "eggs",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Mie-Nudeln ohne Ei",
+          "amount": 150,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ]
+        },
+        {
+          "name": "Reisnudeln",
+          "amount": 150,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Hähnchenbrustfilet",
+      "amount": 300,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegane Hähnchenstücke (Soja)",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Tofu natur",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Karotten",
+      "amount": 150,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Brokkoli",
+      "amount": 200,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprika",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Champignons",
+      "amount": 130,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rote Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lauchzwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sojasoße",
+      "amount": 3,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (glutenfreie Sojasoße)",
+          "amount": 3,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Kokos-Aminos",
+          "amount": 3,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Sesamöl",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sesame"
+      ],
+      "alternatives": [
+        {
+          "name": "Pflanzenöl",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Honig",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Ahornsirup",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Knoblauchpulver",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ingwer",
+      "amount": 5,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "ca. 0,5 cm, gerieben",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chilipulver",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sesamsamen",
+      "amount": 0.5,
+      "unit": "tbsp",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sesame"
+      ]
+    },
+    {
+      "name": "Pflanzenöl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "note": "zum Braten",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Das Hähnchen in dünne Streifen schneiden."
+    },
+    {
+      "text": "Das Hähnchen in einer Schüssel mit 2 EL Sojasoße, Knoblauchpulver, Ingwer, Sesamöl und Honig marinieren und 30 Minuten ziehen lassen.",
+      "timerMinutes": 30
+    },
+    {
+      "text": "Das Hähnchen für 2× 9 Minuten bei 200 °C in den Airfryer geben.",
+      "timerMinutes": 18
+    },
+    {
+      "text": "Frühlingszwiebel, rote und weiße Zwiebel und Champignons kleinschneiden. Brokkoli, Karotten und Paprika in mundgerechte Stücke schneiden."
+    },
+    {
+      "text": "Die Nudeln mit kochendem Wasser übergießen und 5 Minuten ziehen lassen.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Das Gemüse in einer Pfanne mit etwas Öl anbraten. Mit Chilipulver, Pfeffer, Salz und 0,5 EL Sojasoße abschmecken.",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Die Nudeln mit 0,5 EL Sojasoße durchmischen und in der Pfanne kurz anbraten.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Mit dem Hähnchen auf Tellern servieren, Lauchzwiebel und etwas Sesamsamen darüber geben."
+    }
+  ]
+}

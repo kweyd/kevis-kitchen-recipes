@@ -1,0 +1,289 @@
+{
+  "id": "pasta-mit-zitronenschnitzel",
+  "version": 1,
+  "title": "Pasta with Lemon Chicken Schnitzel",
+  "summary": "Tender chicken escalopes in a creamy lemon and garlic sauce with tagliatelle and pumpkin seeds.",
+  "emoji": "🍋",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 1040,
+    "protein": 92,
+    "fat": 26,
+    "carbs": 113
+  },
+  "ingredients": [
+    {
+      "name": "Tagliatelle",
+      "amount": 250,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "gluten",
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Durum wheat tagliatelle (egg-free)",
+          "amount": 250,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ]
+        },
+        {
+          "name": "Gluten-free pasta",
+          "amount": 250,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Chicken breast fillet",
+      "amount": 600,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegan chicken pieces (soy)",
+          "amount": 600,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Chickpeas",
+          "amount": 2.4,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Lemon",
+      "amount": 1.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Milk",
+      "amount": 250,
+      "unit": "ml",
+      "note": "25 ml of it for the marinade",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free milk",
+          "amount": 250,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Oat drink",
+          "amount": 250,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Soy drink",
+          "amount": 250,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Butter",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Vegan butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Flour",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free flour mix",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": 0.5,
+      "unit": "tsp",
+      "note": "powder",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegetable stock without celery",
+          "amount": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Olive oil",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pumpkin seeds",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "snacks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Put a little olive oil in a bowl. Peel the garlic and press it into the bowl. Add the zest of one lemon and the juice of 1.5 lemons along with 25 ml milk, salt and pepper."
+    },
+    {
+      "text": "Cut the chicken breast into thin escalopes, marinate them in the bowl and leave briefly.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Cook the pasta.",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Meanwhile, heat oil in a pan and sear the escalopes on both sides over high heat. Then take them out of the pan.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Melt the butter in the pan and cook the flour in it briefly.",
+      "timerMinutes": 1
+    },
+    {
+      "text": "Add the remaining marinade and milk to the pan and stir in the stock. Bring to the boil, then return the escalopes and simmer for 10 minutes.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Divide the pasta, escalopes and sauce between the plates and sprinkle with pumpkin seeds."
+    }
+  ]
+}

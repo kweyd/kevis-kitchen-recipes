@@ -1,0 +1,179 @@
+{
+  "id": "kartoffel-flammkuchen",
+  "version": 1,
+  "title": "Kartoffel-Flammkuchen",
+  "summary": "Hauchdünner Flammkuchen mit Kräuterfrischkäse, Kartoffelscheiben, Rosmarin und Parmesan.",
+  "emoji": "🥔",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarisch"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 780,
+    "protein": 23,
+    "fat": 28,
+    "carbs": 103
+  },
+  "ingredients": [
+    {
+      "name": "Kartoffeln",
+      "amount": 250,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rosmarin",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "Zweige",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Kräuterfrischkäse",
+      "amount": 75,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreier Kräuterfrischkäse",
+          "amount": 75,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Veganer Kräuterfrischkäse (auf Mandelbasis)",
+          "amount": 75,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "nuts"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Parmesan",
+      "amount": 25,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Veganer Parmesan-Ersatz",
+          "amount": 25,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Italienische Kräuter",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mehl",
+      "amount": 225,
+      "unit": "g",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreie Mehlmischung",
+          "amount": 225,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Olivenöl",
+      "amount": 1.5,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Den Ofen auf 220 °C vorheizen. Kartoffeln schälen und in sehr dünne Scheiben schneiden."
+    },
+    {
+      "text": "Den Rosmarin fein hacken."
+    },
+    {
+      "text": "Mehl mit 100 ml Wasser, Olivenöl und etwas Salz gründlich verkneten."
+    },
+    {
+      "text": "Den Teig ausrollen und auf ein Backblech mit Backpapier legen."
+    },
+    {
+      "text": "Frischkäse mit italienischen Kräutern auf dem Teig verteilen."
+    },
+    {
+      "text": "Die Kartoffelscheiben leicht überlappend darauf verteilen. Rosmarin und Parmesan darüberstreuen und mit Pfeffer würzen."
+    },
+    {
+      "text": "Im Ofen bei 220 °C 14 Minuten backen.",
+      "timerMinutes": 14
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "id": "kartoffelbun-burger-mit-wedges",
+  "version": 1,
+  "title": "Potato Bun Burger with Wedges",
+  "summary": "A double bacon cheeseburger between buns made from potatoes, with spicy potato wedges on the side.",
+  "emoji": "🍔",
+  "servings": 2,
+  "prepMinutes": 120,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 1500,
+    "protein": 75,
+    "fat": 90,
+    "carbs": 105
+  },
+  "ingredients": [
+    {
+      "name": "Mayonnaise",
+      "amount": 3,
+      "unit": "tbsp",
+      "note": "for the burger sauce",
+      "category": "spices",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "eggs",
+        "mustard"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan mayonnaise",
+          "amount": 3,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "mustard"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tomato paste",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "canned",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Lemon juice",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Honey",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agave syrup",
+          "amount": 0.5,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Dried oregano",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chilli",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gherkins",
+      "amount": 3,
+      "unit": "piece",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "mustard"
+      ]
+    },
+    {
+      "name": "Potatoes",
+      "amount": 500,
+      "unit": "g",
+      "note": "for the wedges",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Dried rosemary",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oil",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic powder",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sweet paprika",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Potatoes",
+      "amount": 700,
+      "unit": "g",
+      "note": "for the buns",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Nutmeg",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Eggs",
+      "amount": 2,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Chickpea flour (1 tbsp per egg)",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Romaine lettuce",
+      "amount": 1,
+      "unit": "piece",
+      "note": "8 leaves",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ground beef",
+      "amount": 400,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 1,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegan mince (pea protein)",
+          "amount": 400,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 7
+        }
+      ]
+    },
+    {
+      "name": "Bacon",
+      "amount": 4,
+      "unit": "slice",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 7,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Smoked tofu",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Cheddar",
+      "amount": 4,
+      "unit": "slice",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan cheese slices",
+          "amount": 4,
+          "unit": "slice",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Tomato",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Red onion",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "For the buns, peel the potatoes and boil them for 25 minutes.",
+      "timerMinutes": 25
+    },
+    {
+      "text": "Drain the water, then add the eggs, nutmeg, pepper and salt and blend everything with a hand blender."
+    },
+    {
+      "text": "Once the mixture has cooled, shape 4 flat bun halves and air-fry them at 160 °C for 20 minutes on each side.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "For the burger sauce, finely chop the gherkins and chilli and mix with the mayonnaise, tomato paste, balsamic vinegar, honey, oregano, pepper and salt."
+    },
+    {
+      "text": "For the wedges, wash the potatoes, cut them into quarters and put them in a bowl. Add the oil and spices and air-fry at 200 °C for 20 minutes, turning halfway through.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "Wash the lettuce and separate the leaves from the stalk. Peel the onion and cut into rings. Slice the tomato."
+    },
+    {
+      "text": "Fry the bacon in a pan until crisp, then lay it on kitchen paper.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Shape the mince into four equal patties and put them in the pan with the bacon fat. Turn after 3–4 minutes.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Finally, top the patties with cheddar and cover the pan with a lid so the cheese melts.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Spread the sauce on the bottom bun halves and add lettuce, then stack 2 patties and the bacon on each. Top with onion rings and tomato slices and finish with the other bun half."
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "id": "hahnchen-gyros-mit-reisnudeln",
+  "version": 1,
+  "title": "Chicken Gyros with Orzo",
+  "summary": "Marinated chicken gyros with orzo, fresh vegetables and homemade tzatziki.",
+  "emoji": "🥙",
+  "servings": 2,
+  "prepMinutes": 60,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 750,
+    "protein": 51,
+    "fat": 27,
+    "carbs": 75
+  },
+  "ingredients": [
+    {
+      "name": "Chicken breast fillet",
+      "amount": 300,
+      "unit": "g",
+      "note": "or ready-cut chicken strips",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegan chicken pieces (soy)",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Chickpeas",
+          "amount": 1.2,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Lemons",
+      "amount": 2.5,
+      "unit": "piece",
+      "note": "1 for the marinade, ½ for the tzatziki, 1 for serving",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Orzo (kritharaki)",
+      "amount": 150,
+      "unit": "g",
+      "note": "Greek rice-shaped pasta",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Rice",
+          "amount": 150,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": 100,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Cucumber",
+      "amount": 200,
+      "unit": "g",
+      "note": "100 g for the tzatziki",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 6,
+      "unit": "clove",
+      "note": "3 for the marinade, 3 for the tzatziki",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chilli",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Dried oregano",
+      "amount": 0.5,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Dried thyme",
+      "amount": 0.5,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Olive oil",
+      "amount": 2.5,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sweet paprika",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honey",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agave syrup",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Greek yoghurt",
+      "amount": 300,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free Greek-style yoghurt",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Soy yoghurt (unsweetened)",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dried parsley",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Lemon juice",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Salt",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "For the tzatziki, mix the yoghurt in a bowl with the parsley, ½ tsp each of salt and pepper, the juice of half a lemon and the white wine vinegar. Press in 3 garlic cloves."
+    },
+    {
+      "text": "Peel, deseed and grate 100 g of cucumber, squeeze it out in a tea towel and add it to the bowl. Finally drizzle ½ tbsp olive oil over the top."
+    },
+    {
+      "text": "For the gyros, chop the chilli, the remaining cucumber and the cherry tomatoes. Cut the chicken into small pieces if it isn't already cut."
+    },
+    {
+      "text": "Put the chicken in a bowl with 2 tbsp olive oil, the oregano, thyme, juice of one lemon, paprika, ½ tsp each of pepper and salt and the honey, and press in the remaining 3 garlic cloves. Mix well and leave to marinate for 30 minutes.",
+      "timerMinutes": 30
+    },
+    {
+      "text": "Cook the orzo in a pot of boiling water for 10 minutes.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "At the same time, fry the chicken in a pan.",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Serve the chicken with the tzatziki, tomatoes, cucumber, orzo and lemon wedges."
+    }
+  ]
+}

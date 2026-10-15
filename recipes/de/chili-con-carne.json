@@ -1,0 +1,301 @@
+{
+  "id": "chili-con-carne",
+  "version": 1,
+  "title": "Chili con Carne",
+  "summary": "Herzhaftes Chili mit Hackfleisch, Bohnen, Mais und einem Stück Schokolade für die Tiefe.",
+  "emoji": "🌶️",
+  "servings": 6,
+  "prepMinutes": 60,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 330,
+    "protein": 18,
+    "fat": 21,
+    "carbs": 16
+  },
+  "ingredients": [
+    {
+      "name": "Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "note": "groß",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprika",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chili-Schote",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "1–2, je nach Schärfe",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Hackfleisch",
+      "amount": 400,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "note": "Rind oder gemischt",
+      "shelfLifeDays": 1,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Veganes Hack (Erbsenprotein)",
+          "amount": 400,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 7
+        }
+      ]
+    },
+    {
+      "name": "Rinderbrühe",
+      "amount": 300,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "meat",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe",
+          "amount": 300,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "celery"
+          ]
+        },
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 300,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Stückige Tomaten",
+      "amount": 200,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Passierte Tomaten",
+      "amount": 250,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Kidneybohnen",
+      "amount": 255,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "abgetropft",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mais",
+      "amount": 140,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "aus der Dose, abgetropft",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tomatenmark",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "canned",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprikapulver edelsüß",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chilipulver",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Schokolade",
+      "amount": 2,
+      "unit": "piece",
+      "category": "snacks",
+      "pantry": false,
+      "note": "am besten Zartbitter",
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose",
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegane Zartbitterschokolade",
+          "amount": 2,
+          "unit": "piece",
+          "category": "snacks",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Cayennepfeffer",
+      "amount": 1,
+      "unit": "pinch",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zimt",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Crème fraîche",
+      "amount": 6,
+      "unit": "tbsp",
+      "category": "dairy",
+      "pantry": false,
+      "note": "zum Servieren",
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Crème fraîche",
+          "amount": 6,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Sojajoghurt (ungesüßt)",
+          "amount": 6,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zwiebel und Knoblauch schälen und klein hacken. Paprika und Chili-Schoten klein schneiden."
+    },
+    {
+      "text": "In einem Topf Öl erhitzen und das Hackfleisch scharf anbraten. Zwischendurch immer wieder mit etwas Rinderbrühe ablöschen, bis die Hälfte der Brühe verbraucht ist. Die Brühe soll dabei verdampfen.",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Anschließend Zwiebeln und Knoblauch dazugeben. Wenn die Zwiebeln leicht glasig sind, Paprikapulver und Tomatenmark dazugeben und kurz anbraten.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Jetzt die restlichen Gewürze, Paprika, Chili-Schoten, passierte und stückige Tomaten sowie die restliche Brühe dazugeben und alles 30 Minuten kochen.",
+      "timerMinutes": 30
+    },
+    {
+      "text": "Dann Mais, Kidneybohnen und Schokolade in den Topf geben und weitere 10 Minuten köcheln lassen.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Mit Pfeffer und Salz abschmecken und mit je einem Esslöffel Crème fraîche servieren."
+    }
+  ]
+}

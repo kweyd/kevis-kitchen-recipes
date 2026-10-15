@@ -1,0 +1,197 @@
+{
+  "id": "zitronen-petersilienrisotto",
+  "version": 1,
+  "title": "Zitronen-Petersilien-Risotto",
+  "summary": "Cremiges Weißwein-Risotto mit frischem Zitronen-Petersilien-Pesto und Parmesan.",
+  "emoji": "🍋",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarisch"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 730,
+    "protein": 18,
+    "fat": 27,
+    "carbs": 80
+  },
+  "ingredients": [
+    {
+      "name": "Risottoreis",
+      "amount": 200,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Weißwein",
+      "amount": 250,
+      "unit": "ml",
+      "category": "drinks",
+      "pantry": false,
+      "note": "trocken",
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Zusätzliche Gemüsebrühe ohne Sellerie",
+          "amount": 250,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Gemüsebrühe",
+      "amount": 500,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 500,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Rote Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zitrone",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Petersilie",
+      "amount": 40,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Olivenöl",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "note": "plus etwas zum Andünsten",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Parmesan",
+      "amount": 30,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Veganer Parmesan-Ersatz",
+          "amount": 30,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Pinienkerne",
+      "amount": 20,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "nuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Sonnenblumenkerne",
+          "amount": 20,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Die Zwiebel schälen und hacken. Den Parmesan reiben."
+    },
+    {
+      "text": "In einer Pfanne die Zwiebel in etwas Öl andünsten und kurz danach den Risottoreis dazugeben.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Bevor der Risottoreis anbrennt, mit Weißwein ablöschen."
+    },
+    {
+      "text": "Den Weißwein verkochen lassen und währenddessen die Petersilie zusammen mit dem Saft und dem Abrieb einer Zitrone, Pinienkernen, Olivenöl, der Hälfte vom Parmesan, Pfeffer und Salz zu einem Pesto mixen.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Wenn der Weißwein fast verkocht ist, die Pfanne immer wieder mit der Gemüsebrühe auffüllen, bis der Reis bedeckt ist.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "Wenn fast alle Flüssigkeit weg ist, den Reis mit dem Pesto mischen und mit dem restlichen Parmesan servieren."
+    }
+  ]
+}

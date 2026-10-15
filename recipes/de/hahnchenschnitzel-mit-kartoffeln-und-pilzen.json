@@ -1,0 +1,272 @@
+{
+  "id": "hahnchenschnitzel-mit-kartoffeln-und-pilzen",
+  "version": 1,
+  "title": "Hähnchenschnitzel mit Kartoffeln und Pilzen",
+  "summary": "Knuspriges Schnitzel aus dem Airfryer mit cremigen Champignons und Drillingen.",
+  "emoji": "🍗",
+  "servings": 1,
+  "prepMinutes": 40,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 797,
+    "protein": 59.1,
+    "fat": 23.1,
+    "carbs": 83.5
+  },
+  "ingredients": [
+    {
+      "name": "Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Drillinge (kleine Kartoffeln)",
+      "amount": 225,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Champignons",
+      "amount": 125,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Hähnchenschnitzel",
+      "amount": 175,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Tofu natur (in Scheiben)",
+          "amount": 175,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Kochsahne",
+      "amount": 120,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "note": "7 % Fett",
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Kochsahne",
+          "amount": 120,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Hafer-Cuisine",
+          "amount": 120,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Soja-Cuisine",
+          "amount": 120,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Ei",
+      "amount": 1,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Sojadrink (zum Panieren)",
+          "amount": 50,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Haferdrink (zum Panieren)",
+          "amount": 50,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Weizenmehl",
+      "amount": 15,
+      "unit": "g",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreie Mehlmischung",
+          "amount": 15,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Paniermehl",
+      "amount": 30,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreies Paniermehl",
+          "amount": 30,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Zitrone",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Petersilie",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "produce",
+      "pantry": false,
+      "note": "gehackt",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kartoffeln waschen und in einem Topf kochen.",
+      "timerMinutes": 25
+    },
+    {
+      "text": "Pilze und Zwiebeln schneiden und in einer Pfanne mit etwas Öl anbraten.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Das Hähnchenschnitzel von beiden Seiten mit Pfeffer und Salz bestreuen."
+    },
+    {
+      "text": "Drei tiefe Teller vorbereiten: In einem das Ei verquirlen, im anderen Mehl und im dritten Paniermehl verteilen."
+    },
+    {
+      "text": "Das Schnitzel in dieser Reihenfolge in zwei Durchgängen panieren."
+    },
+    {
+      "text": "Die Kochsahne in die Pfanne geben und mit Pfeffer und Salz würzen."
+    },
+    {
+      "text": "Das Schnitzel für 2x 8 Minuten bei 200 °C in den Airfryer geben, dazwischen wenden.",
+      "timerMinutes": 16
+    },
+    {
+      "text": "Die Kartoffeln abgießen und auf den Teller geben. Die Champignons darüber verteilen und mit Petersilie garnieren. Den Saft der halben Zitrone nach Belieben über dem Schnitzel verteilen."
+    }
+  ]
+}

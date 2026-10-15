@@ -1,0 +1,252 @@
+{
+  "id": "orientalische-hackpfanne-2",
+  "version": 1,
+  "title": "Oriental Beef Skillet with Lemon Sour Cream",
+  "summary": "Spiced mince skillet with peppers, chickpeas and feta, served with a fresh lemon sour cream dip.",
+  "emoji": "🫑",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 815,
+    "protein": 56,
+    "fat": 50,
+    "carbs": 31
+  },
+  "ingredients": [
+    {
+      "name": "Schmand (sour cream)",
+      "amount": 100,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free sour cream",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Plain soy yoghurt",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chickpeas",
+      "amount": 130,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "drained",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Feta",
+      "amount": 100,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan feta alternative",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Bell peppers",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 5,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lemon",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tomato paste",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "canned",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honey",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agave syrup",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Chili pepper",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ground beef",
+      "amount": 400,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 1,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegan mince (pea protein)",
+          "amount": 400,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 7
+        }
+      ]
+    },
+    {
+      "name": "Paprika",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Parsley",
+      "amount": 0.5,
+      "unit": "tbsp",
+      "category": "produce",
+      "pantry": false,
+      "note": "chopped",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Finely chop the onion, garlic and chili. Cut the bell peppers into strips."
+    },
+    {
+      "text": "Fry the onion in a pan with a little oil, add the mince and fry until crumbly.",
+      "timerMinutes": 6
+    },
+    {
+      "text": "Add 2 garlic cloves, the chili and bell peppers to the mince. Then stir in the tomato paste and season with paprika, salt and pepper.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Add 75 ml water and let it simmer for a few minutes.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Fold in the chickpeas and the diced feta and let them warm through."
+    },
+    {
+      "text": "Mix the schmand with the juice of the half lemon, 3 garlic cloves, honey, parsley, pepper and salt and serve with the skillet."
+    }
+  ]
+}

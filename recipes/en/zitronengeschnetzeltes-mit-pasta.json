@@ -1,0 +1,230 @@
+{
+  "id": "zitronengeschnetzeltes-mit-pasta",
+  "version": 1,
+  "title": "Lemon Pork Strips with Pasta",
+  "summary": "Spaghetti with tender pork strips in a fresh lemon cream sauce.",
+  "emoji": "🍋",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 781,
+    "protein": 42.6,
+    "fat": 24.9,
+    "carbs": 95.7
+  },
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": 250,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free spaghetti",
+          "amount": 250,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Thin pork escalopes",
+      "amount": 200,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegan chicken pieces (soy)",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Dried soy chunks",
+          "amount": 70,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sour cream",
+      "amount": 200,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free sour cream",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Plain soy yoghurt",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Garlic",
+      "amount": 5,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Red onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lemon",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "unwaxed",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "White wine",
+      "amount": 75,
+      "unit": "ml",
+      "category": "drinks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "White grape juice",
+          "amount": 75,
+          "unit": "ml",
+          "category": "drinks",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Chili powder",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Basil",
+      "amount": 1,
+      "unit": "bunch",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rapeseed oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the pasta in a pot according to the package instructions.",
+      "timerMinutes": 9
+    },
+    {
+      "text": "Cut the pork escalopes into strips and marinate them in a bowl with 4 of the garlic cloves, the zest of the lemon, 25 ml white wine, a little oil, pepper and salt."
+    },
+    {
+      "text": "Peel and finely chop the onion and fry it in a pan with the last garlic clove.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Add the pork with its marinade and let it brown.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Deglaze with the remaining white wine and let it reduce completely.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Add the sour cream, chili powder and the juice of half the lemon and bring to the boil."
+    },
+    {
+      "text": "Drain the pasta, add it to the pan together with the basil and stir."
+    }
+  ]
+}

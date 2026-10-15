@@ -1,0 +1,255 @@
+{
+  "id": "lachs-erbsen-pasta",
+  "version": 1,
+  "title": "Salmon and Pea Pasta",
+  "summary": "Creamy pasta with peas and crème fraîche, topped with juicy lemon salmon.",
+  "emoji": "🐟",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 819,
+    "protein": 53,
+    "fat": 17,
+    "carbs": 105
+  },
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": 250,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 1,
+      "diet": "fish",
+      "allergens": [
+        "fish"
+      ],
+      "alternatives": [
+        {
+          "name": "Smoked tofu",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Shallot",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Butter",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Plant-based butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Pasta",
+      "amount": 200,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free pasta",
+          "amount": 200,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Peas",
+      "amount": 140,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "note": "frozen",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": 200,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegetable stock without celery",
+          "amount": 200,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Crème fraîche",
+      "amount": 100,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free crème fraîche",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Soy cream",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Parmesan",
+      "amount": 50,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan parmesan alternative",
+          "amount": 50,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Lemon",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Finely chop the shallot, grate the parmesan, and rinse and pat dry the salmon."
+    },
+    {
+      "text": "Cook the pasta in a pot of lightly salted water.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Melt the butter in a pan and fry the shallot in it.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Season the salmon to taste, drizzle with lemon juice and air-fry at 160 °C for 16 minutes.",
+      "timerMinutes": 16
+    },
+    {
+      "text": "Add the peas, vegetable stock and crème fraîche to the pan and bring to the boil.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Drain the pasta and add it to the pan."
+    },
+    {
+      "text": "Divide everything between the plates, add the salmon and sprinkle with parmesan."
+    }
+  ]
+}

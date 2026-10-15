@@ -1,0 +1,403 @@
+{
+  "id": "croissant-burger-mit-susskartoffelpommes-und-parme",
+  "version": 1,
+  "title": "Croissant-Burger mit Süßkartoffelpommes und Parmesan-Dip",
+  "summary": "Buttriges Croissant mit Rinderpatty, Cheddar und Bacon, dazu Süßkartoffelpommes und ein cremiger Parmesan-Dip.",
+  "emoji": "🥐",
+  "servings": 2,
+  "prepMinutes": 60,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 1570,
+    "protein": 67,
+    "fat": 110,
+    "carbs": 78
+  },
+  "ingredients": [
+    {
+      "name": "Croissants",
+      "amount": 2,
+      "unit": "piece",
+      "category": "bakery",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "gluten",
+        "milk",
+        "lactose",
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegane Croissants",
+          "amount": 2,
+          "unit": "piece",
+          "category": "bakery",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ]
+        },
+        {
+          "name": "Glutenfreie Burger Buns",
+          "amount": 2,
+          "unit": "piece",
+          "category": "bakery",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Rinderhackfleisch",
+      "amount": 300,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 1,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Veganes Hack (Erbsenprotein)",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 7
+        }
+      ]
+    },
+    {
+      "name": "Bacon",
+      "amount": 4,
+      "unit": "slice",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 7,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Räuchertofu (in Scheiben)",
+          "amount": 4,
+          "unit": "slice",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Tomate",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Eisbergsalat",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 7,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Cheddar",
+      "amount": 2,
+      "unit": "slice",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegane Cheddar-Scheiben",
+          "amount": 2,
+          "unit": "slice",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": 4,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "eggs",
+        "mustard"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegane Mayonnaise",
+          "amount": 4,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "mustard"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tomatenmark",
+      "amount": 1.5,
+      "unit": "tbsp",
+      "category": "canned",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Balsamico-Essig",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ]
+    },
+    {
+      "name": "Honig",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agavendicksaft",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Cornichons",
+      "amount": 3,
+      "unit": "piece",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "mustard"
+      ]
+    },
+    {
+      "name": "Oregano",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Süßkartoffel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "groß",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 5,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "note": "2 für die Pommes, 3 für den Dip",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Butter",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Butter",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Pflanzliche Butter",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Parmesan",
+      "amount": 100,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Veganer Parmesan-Ersatz",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Weißweinessig",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Zitronensaft",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Petersilie",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "note": "getrocknet oder frisch gehackt",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lauchzwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Eine Pfanne ohne Öl erhitzen und den Bacon darin knusprig braten. Währenddessen Salat und Tomate klein schneiden.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Für die Soße die Mayonnaise mit Tomatenmark, Balsamico-Essig, Honig, Oregano, Pfeffer und Salz mischen. Die Cornichons klein schneiden und ebenfalls in die Soße geben."
+    },
+    {
+      "text": "Das Rinderhackfleisch ungewürzt zu zwei länglichen Patties formen. Den knusprigen Bacon aus der Pfanne nehmen und dafür die Patties hineinlegen."
+    },
+    {
+      "text": "Die Patties von beiden Seiten braten. Für die letzte Minute den Cheddar darauflegen und unter einem Deckel schmelzen lassen.",
+      "timerMinutes": 6
+    },
+    {
+      "text": "Die Croissants aufschneiden und beide Seiten mit der Soße bestreichen. Auf die Unterseite Salat, dann Patty, Tomaten und Bacon legen und zuklappen."
+    },
+    {
+      "text": "Die Süßkartoffel schälen und in 1 cm dicke Streifen schneiden. Für knusprigere Pommes die Streifen vor dem Würzen 30 Minuten in kaltes Wasser legen und gut abtrocknen.",
+      "timerMinutes": 30
+    },
+    {
+      "text": "Die Streifen in einer Schüssel mit etwas Öl, Salz und gepresstem Knoblauch mischen und 2 × 10 Minuten bei 190 °C in den Airfryer geben.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "Für den Dip die Butter in einer Pfanne erhitzen. Gepressten Knoblauch hineingeben und die Pfanne vom Herd nehmen, bevor der Knoblauch braun wird.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Den Weißweinessig dazugeben, den Parmesan und etwas Petersilie einrühren und gut weiterrühren. Am besten ein Küchengerät nutzen, sonst dauert es lange, bis eine homogene Masse entsteht."
+    },
+    {
+      "text": "Beim Servieren ein paar geschnittene Lauchzwiebeln über den Dip streuen."
+    }
+  ]
+}

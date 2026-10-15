@@ -1,0 +1,207 @@
+{
+  "id": "quicky-hahnchen-mit-asia-gemuse",
+  "version": 1,
+  "title": "Quicky Hähnchen mit Asia-Gemüse",
+  "summary": "Proteinreiches Airfryer-Hähnchen in cremiger Miso-Frischkäse-Soße mit Asia-Gemüse.",
+  "emoji": "🥦",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 522,
+    "protein": 53.5,
+    "fat": 29.1,
+    "carbs": 8.2
+  },
+  "ingredients": [
+    {
+      "name": "Hähnchenbrustfilet",
+      "amount": 400,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegane Hähnchenstücke (Soja)",
+          "amount": 400,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Kichererbsen",
+          "amount": 1.5,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": [],
+          "note": "abgetropft"
+        }
+      ]
+    },
+    {
+      "name": "Gemüsepfanne Asiatische Art",
+      "amount": 500,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "note": "TK",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Frischkäse",
+      "amount": 100,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreier Frischkäse",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Veganer Frischkäse (auf Mandelbasis)",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "nuts"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Misopaste",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten",
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Helle Reis-Misopaste (glutenfrei)",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 2,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprikapulver",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Currypulver",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Kardamom",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Thymian (getrocknet)",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hähnchen klein schneiden und mit Pfeffer, Salz, Knoblauch, Kardamom, Thymian und der Hälfte vom Paprikapulver würzen."
+    },
+    {
+      "text": "Das Hähnchen für 8 Minuten bei 200 °C in den Airfryer geben.",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Das Gemüse bei 150 °C für 14 Minuten in den Airfryer geben.",
+      "timerMinutes": 14
+    },
+    {
+      "text": "Den Frischkäse mit Pfeffer, Salz, dem restlichen Paprikapulver, Curry und Misopaste würzen. Etwas Wasser dazugeben und cremig rühren."
+    },
+    {
+      "text": "Das Hähnchen wenden, die Frischkäsesoße darübergeben und für weitere 8 Minuten bei 200 °C in den Airfryer geben.",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Hähnchen mit dem Gemüse servieren."
+    }
+  ]
+}

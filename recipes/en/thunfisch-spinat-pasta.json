@@ -1,0 +1,202 @@
+{
+  "id": "thunfisch-spinat-pasta",
+  "version": 1,
+  "title": "Tuna and Spinach Pasta",
+  "summary": "Tagliatelle with tuna, spinach and lemon, topped with soft mozzarella.",
+  "emoji": "🐟",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 760,
+    "protein": 45,
+    "fat": 29,
+    "carbs": 77
+  },
+  "ingredients": [
+    {
+      "name": "Tagliatelle",
+      "amount": 200,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "note": "usually made with egg",
+      "diet": "animal",
+      "allergens": [
+        "gluten",
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Egg-free tagliatelle (durum wheat)",
+          "amount": 200,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ]
+        },
+        {
+          "name": "Gluten-free tagliatelle",
+          "amount": 200,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Tuna",
+      "amount": 150,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "canned, drained",
+      "diet": "fish",
+      "allergens": [
+        "fish"
+      ],
+      "alternatives": [
+        {
+          "name": "Chickpeas (mashed)",
+          "amount": 0.6,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Frozen spinach",
+      "amount": 150,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lemon",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "organic, zest and juice",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mozzarella",
+      "amount": 1,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "note": "125 g",
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free mozzarella",
+          "amount": 1,
+          "unit": "piece",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Vegan mozzarella alternative",
+          "amount": 1,
+          "unit": "piece",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the pasta.",
+      "timerMinutes": 9
+    },
+    {
+      "text": "Peel and finely chop the onion and garlic."
+    },
+    {
+      "text": "Heat oil in a pan and fry the onion.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Once the onion is browned, add the spinach and garlic.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "When the spinach has thawed, add a spoonful of pasta water to the pan and fold in the tuna."
+    },
+    {
+      "text": "Turn the heat down a little and add the lemon zest and juice. Season with pepper and salt."
+    },
+    {
+      "text": "Drain the pasta and stir it into the pan."
+    },
+    {
+      "text": "Divide between plates and scatter the mozzarella in pieces over the portions."
+    }
+  ]
+}

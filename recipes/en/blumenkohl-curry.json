@@ -1,0 +1,219 @@
+{
+  "id": "blumenkohl-curry",
+  "version": 1,
+  "title": "Cauliflower Curry",
+  "summary": "Creamy coconut curry with cauliflower, sweet potato and chickpeas, served with a fresh parsley yoghurt.",
+  "emoji": "🍛",
+  "servings": 2,
+  "prepMinutes": 45,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 708,
+    "protein": 22,
+    "fat": 31,
+    "carbs": 70
+  },
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Cauliflower",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Yellow curry paste",
+      "amount": 20,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "many brands contain shrimp paste – check the label",
+      "diet": "fish",
+      "allergens": [
+        "crustaceans"
+      ],
+      "alternatives": [
+        {
+          "name": "Yellow curry paste without shrimp paste (vegan)",
+          "amount": 20,
+          "unit": "g",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Light coconut milk",
+      "amount": 400,
+      "unit": "ml",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": 250,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegetable stock without celery",
+          "amount": 250,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Chickpeas",
+      "amount": 140,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "drained",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Natural yoghurt",
+      "amount": 150,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free yoghurt",
+          "amount": 150,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Soy yoghurt",
+          "amount": 150,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Parsley",
+      "amount": 15,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Curry powder",
+      "amount": 1.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sweet paprika",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Nutmeg",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Marjoram",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Peel and dice the sweet potatoes."
+    },
+    {
+      "text": "Lightly fry the curry paste in a pan and deglaze with the coconut milk.",
+      "timerMinutes": 1
+    },
+    {
+      "text": "Add the sweet potatoes to the pan and cook with a lid on for 5 minutes.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Wash the cauliflower and cut it into bite-sized florets."
+    },
+    {
+      "text": "Add the cauliflower and stock to the pan and simmer uncovered for 15 minutes.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Drain and rinse the chickpeas. Add them to the pan and cook for another 10 minutes.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Season with paprika, nutmeg, curry powder, marjoram and salt."
+    },
+    {
+      "text": "Chop the parsley, mix it with the yoghurt and serve with the curry."
+    }
+  ]
+}

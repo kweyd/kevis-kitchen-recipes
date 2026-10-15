@@ -1,0 +1,223 @@
+{
+  "id": "gefullte-paprikaschoten",
+  "version": 1,
+  "title": "Gefüllte Paprikaschoten",
+  "summary": "Paprika gefüllt mit Hackfleisch und Reis, im Ofen in Tomatensoße mit Käse überbacken.",
+  "emoji": "🫑",
+  "servings": 2,
+  "prepMinutes": 60,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 850,
+    "protein": 60,
+    "fat": 30,
+    "carbs": 55
+  },
+  "ingredients": [
+    {
+      "name": "Paprikaschoten",
+      "amount": 4,
+      "unit": "piece",
+      "note": "4 große oder 6 kleine",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mageres Hackfleisch",
+      "amount": 400,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 1,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Veganes Hack (Erbsenprotein)",
+          "amount": 400,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 7
+        }
+      ]
+    },
+    {
+      "name": "Eier",
+      "amount": 2,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Kichererbsenmehl (1 EL pro Ei)",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Chili",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Petersilie (getrocknet)",
+      "amount": 4,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rote Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Reis",
+      "amount": 125,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tomatenmark",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "canned",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gemüsebrühe",
+      "amount": 500,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 500,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Passierte Tomaten",
+      "amount": 200,
+      "unit": "ml",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gratinkäse (gerieben)",
+      "amount": 20,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Veganer Reibekäse",
+          "amount": 20,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Paprika waschen, Deckel abschneiden und innen aushöhlen."
+    },
+    {
+      "text": "Reis kochen.",
+      "timerMinutes": 12
+    },
+    {
+      "text": "Währenddessen die Zwiebel und den Knoblauch schälen und klein hacken. Die Chili klein schneiden."
+    },
+    {
+      "text": "Alles mit dem gekochten Reis, dem Hackfleisch, den Eiern und der Petersilie vermischen und mit Salz und Pfeffer würzen."
+    },
+    {
+      "text": "Den Ofen auf 160 °C vorheizen."
+    },
+    {
+      "text": "Die Paprika mit der Hackfleischmischung füllen und den Deckel daraufsetzen. Die Paprika aufrecht in eine Auflaufform stellen und in den Ofen geben.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Die passierten Tomaten mit Gemüsebrühe und Tomatenmark vermischen und für die letzten 15 Minuten mit in die Form geben. Den Käse darüberstreuen.",
+      "timerMinutes": 15
+    }
+  ]
+}

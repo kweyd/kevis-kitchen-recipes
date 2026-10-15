@@ -1,0 +1,403 @@
+{
+  "id": "croissant-burger-mit-susskartoffelpommes-und-parme",
+  "version": 1,
+  "title": "Croissant Burger with Sweet Potato Fries and Parmesan Dip",
+  "summary": "A buttery croissant with beef patty, cheddar and bacon, plus sweet potato fries and a creamy parmesan dip.",
+  "emoji": "🥐",
+  "servings": 2,
+  "prepMinutes": 60,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 1570,
+    "protein": 67,
+    "fat": 110,
+    "carbs": 78
+  },
+  "ingredients": [
+    {
+      "name": "Croissants",
+      "amount": 2,
+      "unit": "piece",
+      "category": "bakery",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "gluten",
+        "milk",
+        "lactose",
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan croissants",
+          "amount": 2,
+          "unit": "piece",
+          "category": "bakery",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ]
+        },
+        {
+          "name": "Gluten-free burger buns",
+          "amount": 2,
+          "unit": "piece",
+          "category": "bakery",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Ground beef",
+      "amount": 300,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 1,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegan mince (pea protein)",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 7
+        }
+      ]
+    },
+    {
+      "name": "Bacon",
+      "amount": 4,
+      "unit": "slice",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 7,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Smoked tofu (sliced)",
+          "amount": 4,
+          "unit": "slice",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Tomato",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Iceberg lettuce",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 7,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Cheddar",
+      "amount": 2,
+      "unit": "slice",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan cheddar slices",
+          "amount": 2,
+          "unit": "slice",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": 4,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "eggs",
+        "mustard"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan mayonnaise",
+          "amount": 4,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "mustard"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tomato paste",
+      "amount": 1.5,
+      "unit": "tbsp",
+      "category": "canned",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ]
+    },
+    {
+      "name": "Honey",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agave syrup",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Gherkins",
+      "amount": 3,
+      "unit": "piece",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "mustard"
+      ]
+    },
+    {
+      "name": "Oregano",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sweet potato",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "large",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 5,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "note": "2 for the fries, 3 for the dip",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Butter",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free butter",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Vegan butter",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Parmesan",
+      "amount": 100,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan parmesan alternative",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Lemon juice",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Parsley",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "note": "dried or freshly chopped",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Spring onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat a pan without oil and fry the bacon until crispy. Meanwhile, chop the lettuce and tomato.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "For the sauce, mix the mayonnaise with tomato paste, balsamic vinegar, honey, oregano, pepper and salt. Finely chop the gherkins and add them to the sauce."
+    },
+    {
+      "text": "Shape the unseasoned ground beef into two oblong patties. Take the crispy bacon out of the pan and put the patties in instead."
+    },
+    {
+      "text": "Fry the patties on both sides. For the last minute, place the cheddar on top and let it melt under a lid.",
+      "timerMinutes": 6
+    },
+    {
+      "text": "Slice the croissants open and spread both halves with the sauce. Layer lettuce, then the patty, tomato and bacon on the bottom half and close."
+    },
+    {
+      "text": "Peel the sweet potato and cut it into 1 cm thick sticks. For crispier fries, soak them in cold water for 30 minutes before seasoning and dry them well.",
+      "timerMinutes": 30
+    },
+    {
+      "text": "Toss the sticks in a bowl with a little oil, salt and pressed garlic and air-fry them at 190 °C for 2 × 10 minutes.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "For the dip, heat the butter in a pan. Add pressed garlic and take the pan off the heat before the garlic browns.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Add the white wine vinegar, stir in the parmesan and some parsley and keep stirring well. A blender or food processor works best – otherwise it takes a long time to get a smooth dip."
+    },
+    {
+      "text": "When serving, sprinkle a few slices of spring onion over the dip."
+    }
+  ]
+}

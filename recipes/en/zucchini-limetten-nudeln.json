@@ -1,0 +1,151 @@
+{
+  "id": "zucchini-limetten-nudeln",
+  "version": 1,
+  "title": "Courgette Lime Pasta",
+  "summary": "Fresh pasta with courgette in a mildly spicy coconut and lime sauce.",
+  "emoji": "🍋",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegan",
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 640,
+    "protein": 16,
+    "fat": 11,
+    "carbs": 70
+  },
+  "ingredients": [
+    {
+      "name": "Courgette",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lime",
+      "amount": 1,
+      "unit": "piece",
+      "note": "1–2, depending on how limey you like it",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chilli",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pasta",
+      "amount": 250,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free pasta",
+          "amount": 250,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Coconut milk",
+      "amount": 200,
+      "unit": "ml",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 2,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Olive oil",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Turmeric",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Peel the garlic and chop it finely together with the courgette and chilli."
+    },
+    {
+      "text": "Heat the olive oil in a pan and gently fry the garlic.",
+      "timerMinutes": 1
+    },
+    {
+      "text": "Bring a pot of water to the boil and cook the pasta according to the package.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Add the courgette to the pan and season with turmeric, salt and cayenne pepper.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Drain the pasta and add it to the pan with the coconut milk and chilli."
+    },
+    {
+      "text": "Add the zest and juice of one lime and let everything simmer briefly. The second lime is for anyone who really loves lime.",
+      "timerMinutes": 2
+    }
+  ]
+}

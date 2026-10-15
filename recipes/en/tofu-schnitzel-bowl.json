@@ -1,0 +1,282 @@
+{
+  "id": "tofu-schnitzel-bowl",
+  "version": 1,
+  "title": "Tofu Schnitzel Bowl",
+  "summary": "Crispy panko tofu schnitzel on rice with courgette in sweet chilli sauce, avocado and a peanut-lime topping.",
+  "emoji": "🍚",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 750,
+    "protein": 30,
+    "fat": 30,
+    "carbs": 75
+  },
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Courgette",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Spring onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Limes",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sweet chilli sauce",
+      "amount": 75,
+      "unit": "g",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Firm tofu",
+      "amount": 180,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ]
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": 50,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free breadcrumbs",
+          "amount": 50,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Peanuts (roasted, salted)",
+      "amount": 20,
+      "unit": "g",
+      "category": "snacks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "peanuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Sunflower seeds",
+          "amount": 20,
+          "unit": "g",
+          "category": "snacks",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Garlic",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Cornflour",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "White rice",
+      "amount": 150,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honey",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agave syrup",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Egg",
+      "amount": 1,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Flour (mixed with a little water)",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soy sauce",
+      "amount": 25,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (gluten-free soy sauce)",
+          "amount": 25,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Coconut aminos",
+          "amount": 25,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Oil",
+      "unit": "to taste",
+      "note": "for frying",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the rice.",
+      "timerMinutes": 12
+    },
+    {
+      "text": "Meanwhile, peel and finely chop the garlic. Slice the courgette thinly. Cut the spring onion into rings, the limes into quarters and the peeled avocado into strips."
+    },
+    {
+      "text": "In a bowl, mix the sweet chilli sauce with 150 ml water, the honey, soy sauce, a little pepper and the cornflour."
+    },
+    {
+      "text": "Heat oil in a pan and fry the garlic and courgette.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Whisk the egg with pepper and salt on one plate and put the panko on another. Press the tofu and cut it through the middle to make two flat schnitzels. Coat them in egg and then panko – ideally do both stations twice."
+    },
+    {
+      "text": "Mix the spring onion rings with the lime juice and the peanuts."
+    },
+    {
+      "text": "Pour the sweet chilli sauce over the courgette in the pan and let it simmer.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Fry the breaded tofu schnitzels at 200 °C for 4 minutes on each side.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Arrange the rice on plates and top with the courgette in sweet chilli sauce. Add the avocado strips and the peanut, spring onion and lime mixture. Cut the schnitzels into pieces and place them on top."
+    }
+  ]
+}

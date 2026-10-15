@@ -1,0 +1,198 @@
+{
+  "id": "mandelbutter-zucchini-schiffchen",
+  "version": 1,
+  "title": "Almond Butter Courgette Boats",
+  "summary": "Hollowed-out courgettes filled with chicken and peas in a creamy almond and coconut sauce.",
+  "emoji": "🥒",
+  "servings": 2,
+  "prepMinutes": 45,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 600,
+    "protein": 48,
+    "fat": 30,
+    "carbs": 15
+  },
+  "ingredients": [
+    {
+      "name": "Courgette",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Parmesan",
+      "amount": 30,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan parmesan alternative",
+          "amount": 30,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Chicken breast fillet",
+      "amount": 300,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegan chicken pieces (soy)",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Chickpeas",
+          "amount": 1.2,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Almond butter",
+      "amount": 40,
+      "unit": "g",
+      "note": "or 1 tbsp peanut butter",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "nuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Peanut butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": [
+            "peanuts"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coconut milk",
+      "amount": 100,
+      "unit": "ml",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Peas (frozen)",
+      "amount": 120,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chilli powder",
+      "amount": 2,
+      "unit": "pinch",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sweet paprika",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chives",
+      "unit": "to taste",
+      "note": "to garnish",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Wash the courgettes and halve them lengthways. Hollow them out with a spoon."
+    },
+    {
+      "text": "Cut the chicken into small pieces and marinate with pepper, salt, a little oil, chilli powder and sweet paprika."
+    },
+    {
+      "text": "Air-fry the chicken at 200 °C for 2 x 8 minutes.",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Meanwhile, warm the coconut milk with the peas and almond butter in a pot. When the chicken is done, stir it briefly into the mixture."
+    },
+    {
+      "text": "Place the hollowed-out courgettes in the air fryer, fill them with the mixture from the pot and cook at 180 °C for 14 minutes.",
+      "timerMinutes": 14
+    },
+    {
+      "text": "Garnish with chives and parmesan."
+    }
+  ]
+}

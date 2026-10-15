@@ -1,0 +1,254 @@
+{
+  "id": "thai-curry-mit-hahnchen",
+  "version": 1,
+  "title": "Thai-Curry mit Hähnchen",
+  "summary": "Rotes Kokos-Curry mit Hähnchen, buntem Gemüse und Pak Choi, dazu Reis und Erdnüsse.",
+  "emoji": "🍛",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 850,
+    "protein": 47,
+    "fat": 40,
+    "carbs": 80
+  },
+  "ingredients": [
+    {
+      "name": "Mini Pak Choi",
+      "amount": 150,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zucchini",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Braune Champignons",
+      "amount": 75,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Karotte",
+      "amount": 70,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Limetten",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rote Paprika",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Hähnchenbrustfilet",
+      "amount": 300,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegane Hähnchenstücke (Soja)",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Kichererbsen",
+          "amount": 1.2,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Rohrzucker",
+      "amount": 0.5,
+      "unit": "tbsp",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Kokosmilch",
+      "amount": 200,
+      "unit": "ml",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rote Currypaste",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "canned",
+      "pantry": false,
+      "diet": "fish",
+      "allergens": [
+        "crustaceans"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegane rote Currypaste (ohne Garnelen)",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Erdnüsse (geröstet, gesalzen)",
+      "amount": 15,
+      "unit": "g",
+      "note": "eine halbe Handvoll",
+      "category": "snacks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "peanuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Sonnenblumenkerne",
+          "amount": 15,
+          "unit": "g",
+          "category": "snacks",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Weißer Reis",
+      "amount": 125,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rapsöl",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Kurkuma",
+      "amount": 0.25,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rote Chilischote",
+      "amount": 1,
+      "unit": "piece",
+      "note": "optional, für mehr Schärfe",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Karotte schälen und zusammen mit Paprika, Zucchini und Champignons klein schneiden."
+    },
+    {
+      "text": "Hähnchen klein schneiden, mit etwas Öl, Pfeffer und Salz marinieren und für 2x 8 Minuten bei 200 °C in den Airfryer geben.",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Reis waschen und kochen.",
+      "timerMinutes": 12
+    },
+    {
+      "text": "Öl in einer Pfanne erhitzen und das klein geschnittene Gemüse anbraten. Den Rohrzucker dazugeben und 2 Minuten anschmoren.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Dann die Currypaste und Kurkuma (optional auch die gehackte Chili) dazugeben und ein paar weitere Minuten braten lassen.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Mit Kokosmilch und dem Saft einer Limette ablöschen und fünf Minuten köcheln lassen.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Das Fleisch dazugeben und etwas ziehen lassen. Kurz vor Schluss den Pak Choi unterheben.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Mit Reis servieren und mit den Erdnüssen garnieren. Die 2. Limette nutzen, falls man mehr Limettenaroma haben will."
+    }
+  ]
+}

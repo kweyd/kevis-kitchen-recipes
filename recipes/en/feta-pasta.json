@@ -1,0 +1,145 @@
+{
+  "id": "feta-pasta",
+  "version": 1,
+  "title": "Baked Feta Pasta",
+  "summary": "The oven classic: feta and cherry tomatoes melt into a creamy sauce for wholegrain pasta.",
+  "emoji": "🍅",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 809,
+    "protein": 34,
+    "fat": 33,
+    "carbs": 90
+  },
+  "ingredients": [
+    {
+      "name": "Feta",
+      "amount": 200,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan feta alternative",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": 300,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Wholegrain pasta",
+      "amount": 250,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free pasta",
+          "amount": 250,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Olive oil",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Italian herbs",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180 °C."
+    },
+    {
+      "text": "Put the feta in a baking dish. Peel and finely chop the garlic and halve the cherry tomatoes."
+    },
+    {
+      "text": "Add both to the feta in the dish, drizzle with olive oil and bake for 20 minutes.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "Meanwhile bring a pot of water to the boil and cook the pasta.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Take the dish out of the oven and mash everything with a fork."
+    },
+    {
+      "text": "Season with salt, pepper and Italian herbs."
+    },
+    {
+      "text": "Drain the pasta and toss it with the sauce in the baking dish."
+    }
+  ]
+}

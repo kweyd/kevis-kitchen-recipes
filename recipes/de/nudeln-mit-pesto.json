@@ -1,0 +1,142 @@
+{
+  "id": "nudeln-mit-pesto",
+  "version": 1,
+  "title": "Nudeln mit Pesto",
+  "summary": "Selbstgemachtes Basilikumpesto mit gerösteten Pinienkernen und Zitrone – einfach und unschlagbar frisch.",
+  "emoji": "🌿",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarisch",
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 950,
+    "protein": 28,
+    "fat": 51,
+    "carbs": 91
+  },
+  "ingredients": [
+    {
+      "name": "Nudeln",
+      "amount": 250,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreie Nudeln",
+          "amount": 250,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Olivenöl",
+      "amount": 50,
+      "unit": "g",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Parmesan",
+      "amount": 50,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Veganer Parmesan-Ersatz",
+          "amount": 50,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Basilikum",
+      "amount": 50,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pinienkerne",
+      "amount": 50,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "nuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Sonnenblumenkerne",
+          "amount": 50,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Zitrone",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "Saft",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Die Pinienkerne in einer Pfanne ohne Öl anrösten.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Die Pinienkerne zusammen mit dem Zitronensaft, Olivenöl, Parmesan und Basilikum pürieren."
+    },
+    {
+      "text": "Die Nudeln in Salzwasser kochen.",
+      "timerMinutes": 9
+    },
+    {
+      "text": "Die Nudeln abgießen und alles mischen."
+    }
+  ]
+}

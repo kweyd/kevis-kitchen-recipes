@@ -1,0 +1,219 @@
+{
+  "id": "vereinfachtes-bulgoki",
+  "version": 1,
+  "title": "Simple Bulgogi",
+  "summary": "Korean-inspired beef in a sweet and savoury pear-soy marinade with mushrooms and rice.",
+  "emoji": "🥩",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 440,
+    "protein": 24,
+    "fat": 16,
+    "carbs": 49
+  },
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": 300,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "note": "rump or minute steak",
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Soy chunks (dried)",
+          "amount": 100,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Shiitake mushrooms",
+          "amount": 300,
+          "unit": "g",
+          "category": "produce",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Onion",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Spring onions",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chili pepper",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Soy sauce",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (gluten-free soy sauce)",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Coconut aminos",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Carrots",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pear",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "amount": 1,
+      "unit": "pinch",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": 40,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "note": "white",
+      "diet": "plant",
+      "allergens": [
+        "sesame"
+      ]
+    },
+    {
+      "name": "Garlic",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Brown sugar",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Basmati rice",
+      "amount": 150,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mushrooms",
+      "amount": 200,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cut the beef into thin strips about 2 cm long and put them in a bowl."
+    },
+    {
+      "text": "For the marinade, finely chop and mix the sugar, garlic, pear, pepper, one carrot, soy sauce, chili, one spring onion and one onion."
+    },
+    {
+      "text": "Add the marinade to the meat and mix everything well. Cover the bowl and refrigerate for at least 30 minutes.",
+      "timerMinutes": 30
+    },
+    {
+      "text": "Cook the rice.",
+      "timerMinutes": 12
+    },
+    {
+      "text": "Chop the mushrooms and the remaining carrot, onion and spring onion."
+    },
+    {
+      "text": "Heat oil in a pan and fry the mushrooms, carrot and onion. Shortly after, add the meat with the marinade and sear it briefly over high heat.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "When serving, sprinkle the spring onion and sesame seeds over the dish."
+    }
+  ]
+}

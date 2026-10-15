@@ -1,0 +1,151 @@
+{
+  "id": "zucchini-limetten-nudeln",
+  "version": 1,
+  "title": "Zucchini-Limetten-Nudeln",
+  "summary": "Frische Pasta mit Zucchini in einer leicht scharfen Kokos-Limetten-Soße.",
+  "emoji": "🍋",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegan",
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 640,
+    "protein": 16,
+    "fat": 11,
+    "carbs": 70
+  },
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Limette",
+      "amount": 1,
+      "unit": "piece",
+      "note": "1–2, je nachdem, wie viel Limettenaroma man mag",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chili",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Nudeln",
+      "amount": 250,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreie Nudeln",
+          "amount": 250,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Kokosmilch",
+      "amount": 200,
+      "unit": "ml",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 2,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Olivenöl",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Kurkuma",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Cayennepfeffer",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Knoblauch schälen und zusammen mit Zucchini und Chili klein schneiden."
+    },
+    {
+      "text": "Olivenöl in einer Pfanne erhitzen und den Knoblauch andünsten.",
+      "timerMinutes": 1
+    },
+    {
+      "text": "In einem Topf Wasser für die Nudeln erhitzen und die Nudeln darin nach Packungsanleitung kochen.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Die Zucchini in die Pfanne geben und mit Kurkuma, Salz und Cayennepfeffer würzen.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Die Nudeln abgießen und mit der Kokosmilch und der Chili in die Pfanne geben."
+    },
+    {
+      "text": "Abrieb und Saft einer Limette dazugeben und alles kurz köcheln lassen. Die 2. Limette ist für alle, die das Limettenaroma sehr mögen.",
+      "timerMinutes": 2
+    }
+  ]
+}

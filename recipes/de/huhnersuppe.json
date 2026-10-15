@@ -1,0 +1,273 @@
+{
+  "id": "huhnersuppe",
+  "version": 1,
+  "title": "Hühnersuppe",
+  "summary": "Wärmende Hühnersuppe mit viel Gemüse und Buchstabennudeln – wie früher bei Oma.",
+  "emoji": "🍲",
+  "servings": 2,
+  "prepMinutes": 45,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 551,
+    "protein": 58,
+    "fat": 7,
+    "carbs": 28
+  },
+  "ingredients": [
+    {
+      "name": "Hähnchenbrustfilet",
+      "amount": 250,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegane Hähnchenstücke (Soja)",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Kichererbsen",
+          "amount": 1.0,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Hähnchenflügel",
+      "amount": 200,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegane Hähnchenstücke (Soja)",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        }
+      ]
+    },
+    {
+      "name": "Gemüsebrühe",
+      "amount": 700,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 700,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Tomatenmark",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "canned",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 2,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knollensellerie",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Pastinake",
+          "amount": 1,
+          "unit": "piece",
+          "category": "produce",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Karotten",
+      "amount": 150,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Champignons",
+      "amount": 100,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Porree",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lauchzwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Buchstabennudeln",
+      "amount": 100,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "note": "oft mit Ei",
+      "diet": "animal",
+      "allergens": [
+        "gluten",
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Buchstabennudeln ohne Ei (Hartweizen)",
+          "amount": 100,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ]
+        },
+        {
+          "name": "Glutenfreie Suppennudeln",
+          "amount": 100,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Paprikapulver edelsüß",
+      "amount": 0.5,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Kräuter der Provence",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pflanzenöl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "note": "zum Braten",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Knoblauch schälen und klein hacken."
+    },
+    {
+      "text": "Champignons vierteln. Sellerie und Karotten schälen und klein schneiden. Porree in Ringe und die Hähnchenbrustfilets klein schneiden."
+    },
+    {
+      "text": "Zuerst den Knoblauch in etwas Öl andünsten und dann das Tomatenmark dazugeben.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Mit der Brühe ablöschen und aufkochen lassen."
+    },
+    {
+      "text": "Hähnchenflügel, Kräuter der Provence, Paprikapulver, Porree, Champignons, Karotten, Knollensellerie und die Hähnchenbrustfilets dazugeben und insgesamt 25 Minuten kochen lassen.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Die letzten 10 Minuten die Buchstabennudeln dazugeben.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Lauchzwiebel in Ringe schneiden. Die Suppe mit Pfeffer und Salz abschmecken und mit Lauchzwiebeln servieren."
+    }
+  ]
+}

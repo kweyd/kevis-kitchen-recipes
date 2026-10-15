@@ -1,0 +1,231 @@
+{
+  "id": "reisnudel-curry",
+  "version": 1,
+  "title": "Rice Noodle Curry",
+  "summary": "Creamy red coconut curry with tofu, chickpeas, lots of vegetables and rice noodles, topped with roasted peanuts.",
+  "emoji": "🍜",
+  "servings": 3,
+  "prepMinutes": 30,
+  "tags": [
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 725,
+    "protein": 21,
+    "fat": 8,
+    "carbs": 106
+  },
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": 300,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Bell pepper",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pak choi",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Red onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Coconut milk",
+      "amount": 200,
+      "unit": "ml",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chickpeas",
+      "amount": 140,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "drained",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tofu",
+      "amount": 200,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Chickpeas",
+          "amount": 0.8,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Red curry paste",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "canned",
+      "pantry": false,
+      "note": "many brands contain shrimp paste",
+      "diet": "fish",
+      "allergens": [
+        "crustaceans"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan red curry paste (no shrimp paste)",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Chili",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 2,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Cauliflower",
+      "amount": 250,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": 100,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Celery-free vegetable stock",
+          "amount": 100,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Peanuts",
+      "amount": 20,
+      "unit": "g",
+      "category": "snacks",
+      "pantry": false,
+      "note": "half a handful, roasted and salted",
+      "diet": "plant",
+      "allergens": [
+        "peanuts"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cut the bell pepper, onion, chili, garlic, tofu, cauliflower and pak choi into bite-sized pieces."
+    },
+    {
+      "text": "Fry everything in a pot with a little oil.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Add the curry paste and toast it briefly.",
+      "timerMinutes": 1
+    },
+    {
+      "text": "Add the coconut milk, chickpeas and vegetable stock and bring to the boil. Season with pepper and salt.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Meanwhile cook the rice noodles. Rinse them under cold water and add them to the pot.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Sprinkle the peanuts over each portion."
+    }
+  ]
+}

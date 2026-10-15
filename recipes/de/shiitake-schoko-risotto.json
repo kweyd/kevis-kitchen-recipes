@@ -1,0 +1,198 @@
+{
+  "id": "shiitake-schoko-risotto",
+  "version": 1,
+  "title": "Shiitake-Schoko-Risotto",
+  "summary": "Ungewöhnlich gut: Weißwein-Risotto mit würzigen Shiitake und einem Hauch Zartbitterschokolade.",
+  "emoji": "🍄",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarisch"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 734,
+    "protein": 11.1,
+    "fat": 8.8,
+    "carbs": 108
+  },
+  "ingredients": [
+    {
+      "name": "Risottoreis",
+      "amount": 200,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Weißwein",
+      "amount": 250,
+      "unit": "ml",
+      "category": "drinks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 250,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [],
+          "note": "plus ein Spritzer Zitronensaft"
+        }
+      ]
+    },
+    {
+      "name": "Gemüsebrühe",
+      "amount": 500,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 500,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Butter",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Pflanzliche Butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Shiitake-Pilze",
+      "amount": 150,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sojasoße",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (glutenfreie Sojasauce)",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Kokos-Aminos",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Zartbitterschokolade",
+      "amount": 30,
+      "unit": "g",
+      "category": "snacks",
+      "pantry": false,
+      "note": "Sorte ohne Milchbestandteile",
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zwiebel kleinschneiden und mit der Butter in einer Pfanne anbräunen.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Den Risottoreis dazugeben und, wenn er leicht glasig wird, mit dem Weißwein ablöschen."
+    },
+    {
+      "text": "Den Reis kochen lassen und immer wieder mit Gemüsebrühe auffüllen, bis der Reis mit Flüssigkeit bedeckt ist.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "In einer anderen Pfanne die Shiitake-Pilze mit der Sojasoße anbraten.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Die Schokolade in kleine Stücke schneiden."
+    },
+    {
+      "text": "Wenn die Flüssigkeit in der Pfanne mit dem Reis verkocht ist, das Risotto auf die Teller verteilen."
+    },
+    {
+      "text": "Shiitake und Schokolade über die Portionen verteilen."
+    }
+  ]
+}

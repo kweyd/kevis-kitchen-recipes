@@ -1,0 +1,264 @@
+{
+  "id": "grunes-shashuka",
+  "version": 1,
+  "title": "Grünes Shakshuka",
+  "summary": "Eier in Spinat, Erbsen und weißen Bohnen mit Feta, dazu knuspriges Knoblauch-Ciabatta.",
+  "emoji": "🍳",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarisch",
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 800,
+    "protein": 40,
+    "fat": 40,
+    "carbs": 69
+  },
+  "ingredients": [
+    {
+      "name": "TK-Spinat",
+      "amount": 300,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Erbsen",
+      "amount": 100,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "note": "TK",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Feta",
+      "amount": 100,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegane Feta-Alternative",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Weiße Bohnen",
+      "amount": 100,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "abgetropft",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Eier",
+      "amount": 4,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Tofu natur (zerbröselt)",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 5,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "note": "3 für die Pfanne, 2 fürs Ciabatta",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lauchzwiebeln",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprikapulver",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Petersilie",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "note": "getrocknet",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ciabatta",
+      "amount": 1,
+      "unit": "piece",
+      "category": "bakery",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreies Brot",
+          "amount": 1,
+          "unit": "piece",
+          "category": "bakery",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 3
+        }
+      ]
+    },
+    {
+      "name": "Butter",
+      "amount": 20,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Butter",
+          "amount": 20,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Pflanzliche Butter",
+          "amount": 20,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Schnittlauch",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": false,
+      "note": "getrocknet oder frisch gehackt",
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zwiebel und Knoblauch schälen und klein hacken."
+    },
+    {
+      "text": "In einer Pfanne Öl erhitzen und das Paprikapulver ins Öl mischen. Zwiebel und Knoblauch darin anbraten.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Jetzt den TK-Spinat und die Erbsen in die Pfanne geben und auftauen lassen.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Die Lauchzwiebeln klein schneiden und mit den weißen Bohnen in die Pfanne geben. Mit Petersilie, Pfeffer und Salz würzen."
+    },
+    {
+      "text": "4 Kuhlen in der Pfanne freimachen und in jede ein Ei schlagen."
+    },
+    {
+      "text": "Den Feta darüberbröseln, einen Deckel auf die Pfanne setzen und alles 10 Minuten bei mittlerer Temperatur garen.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Währenddessen das Ciabatta toasten und mit Butter, Knoblauch, Salz und Schnittlauch belegen."
+    }
+  ]
+}

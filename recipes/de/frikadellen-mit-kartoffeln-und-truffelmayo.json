@@ -1,0 +1,330 @@
+{
+  "id": "frikadellen-mit-kartoffeln-und-truffelmayo",
+  "version": 1,
+  "title": "Frikadellen mit Kartoffeln und Trüffelmayo",
+  "summary": "Saftige Frikadellen, knusprige Drillinge mit Speck und Rosmarin und eine schnelle Trüffelmayo.",
+  "emoji": "🥔",
+  "servings": 2,
+  "prepMinutes": 50,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 937,
+    "protein": 57,
+    "fat": 52,
+    "carbs": 58
+  },
+  "ingredients": [
+    {
+      "name": "Rinderhackfleisch",
+      "amount": 400,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 1,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Veganes Hack (Erbsenprotein)",
+          "amount": 400,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 7
+        }
+      ]
+    },
+    {
+      "name": "Schalotte",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ei",
+      "amount": 1,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Kichererbsenmehl (1 EL pro Ei)",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Paniermehl",
+      "amount": 30,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreies Paniermehl",
+          "amount": 30,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Senf",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "mustard"
+      ]
+    },
+    {
+      "name": "Honig",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Ahornsirup",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Petersilie",
+      "amount": 1.5,
+      "unit": "tbsp",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprikapulver edelsüß",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gemüsebrühe",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "note": "Pulver",
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Knoblauchpulver",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Drillinge",
+      "amount": 500,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Schinkenwürfel",
+      "amount": 75,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Räuchertofu (gewürfelt)",
+          "amount": 75,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Rosmarin",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": 40,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "eggs",
+        "mustard"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegane Mayonnaise",
+          "amount": 40,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "mustard"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Trüffelöl",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Weißweinessig",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Zitronensaft",
+          "amount": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Pflanzenöl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "note": "zum Braten",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Die Kartoffeln 15 Minuten vorkochen.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Anschließend mit etwas Salz, Pfeffer, Schinkenwürfeln und Rosmarin für 17 Minuten bei 180 °C in den Airfryer geben.",
+      "timerMinutes": 17
+    },
+    {
+      "text": "Für die Trüffelmayo die Mayonnaise mit etwas Salz, Weißweinessig und Trüffelöl verrühren."
+    },
+    {
+      "text": "Schalotte und Knoblauch schälen und fein hacken."
+    },
+    {
+      "text": "Das Hackfleisch mit den restlichen Zutaten (Schalotte, Knoblauch, Ei, Paniermehl, Senf, Honig, Petersilie, Paprikapulver, Gemüsebrühe, Knoblauchpulver, Salz und Pfeffer) vermischen und daraus Frikadellen formen."
+    },
+    {
+      "text": "Die Frikadellen in einer Pfanne mit etwas Öl bei mittlerer Temperatur mit einem Deckel anbraten, dabei einmal wenden.",
+      "timerMinutes": 12
+    },
+    {
+      "text": "Frikadellen mit den Kartoffeln und der Trüffelmayo servieren."
+    }
+  ]
+}

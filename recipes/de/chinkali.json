@@ -1,0 +1,224 @@
+{
+  "id": "chinkali",
+  "version": 1,
+  "title": "Chinkali",
+  "summary": "Georgische Teigtaschen mit saftiger, würziger Hackfüllung – etwas Arbeit, aber jede Falte wert.",
+  "emoji": "🥟",
+  "servings": 3,
+  "prepMinutes": 190,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 850,
+    "protein": 40,
+    "fat": 19,
+    "carbs": 128
+  },
+  "ingredients": [
+    {
+      "name": "Spätzlemehl",
+      "amount": 500,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "note": "alternativ 250 g Typ 405 + 250 g Typ 550",
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreie Mehlmischung",
+          "amount": 500,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Ei",
+      "amount": 1,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "note": "nur das Eigelb",
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Pflanzenöl",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Pflanzenöl",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "note": "plus etwas für Füllung und Kochwasser",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gemischtes Hackfleisch",
+      "amount": 400,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "note": "fettreduziert",
+      "shelfLifeDays": 1,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Veganes Hack (Erbsenprotein)",
+          "amount": 400,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 7
+        }
+      ]
+    },
+    {
+      "name": "Chilischoten",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rote Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Petersilie",
+      "amount": 1,
+      "unit": "bunch",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rinderbrühe",
+      "amount": 1,
+      "unit": "pinch",
+      "category": "spices",
+      "pantry": true,
+      "note": "1 Messerspitze, Pulver",
+      "diet": "meat",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe",
+          "amount": 1,
+          "unit": "pinch",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "celery"
+          ]
+        },
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 1,
+          "unit": "pinch",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Cayennepfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mehl, Salz, Pflanzenöl und Eigelb in eine Schüssel geben und 250 ml Wasser nach und nach beim Kneten zugeben."
+    },
+    {
+      "text": "Den Teig mindestens 2 Stunden im Kühlschrank ruhen lassen.",
+      "timerMinutes": 120
+    },
+    {
+      "text": "Für die Füllung Zwiebel, Knoblauch und Chilischoten fein würfeln, Petersilie waschen, trocken schütteln und fein hacken."
+    },
+    {
+      "text": "Alles mit dem Hackfleisch vermischen. Mit Salz, Pfeffer und Cayennepfeffer würzen."
+    },
+    {
+      "text": "Eine Messerspitze Rinderbrühepulver hinzufügen und mit ca. 2 Tassen Wasser in einer Schüssel vermengen. Ebenfalls mindestens 2 Stunden im Kühlschrank ziehen lassen.",
+      "timerMinutes": 120
+    },
+    {
+      "text": "Den Teig auf einer bemehlten Arbeitsfläche dünn ausrollen und Kreise mit ca. 10–15 cm Durchmesser ausstechen."
+    },
+    {
+      "text": "Je 1 EL Füllung mittig auf einen Teigkreis geben. Den Teig nach oben klappen, dabei kleine Falten schlagen und oben fest zusammendrehen."
+    },
+    {
+      "text": "Die Teigtaschen in kochendem Salzwasser auf mittlerer Hitze 10 Minuten kochen.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Einzeln aus dem Wasser holen und mit eiskaltem Wasser abschrecken."
+    }
+  ]
+}

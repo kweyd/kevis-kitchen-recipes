@@ -1,0 +1,202 @@
+{
+  "id": "lachs-mit-brokkolipuree",
+  "version": 1,
+  "title": "Lachs mit Brokkolipüree",
+  "summary": "Zitronen-Lachs aus dem Airfryer auf cremigem Brokkolipüree mit Reis und roter Kokos-Curry-Soße.",
+  "emoji": "🐟",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 838,
+    "protein": 38,
+    "fat": 51,
+    "carbs": 59
+  },
+  "ingredients": [
+    {
+      "name": "Lachsfilet",
+      "amount": 250,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 1,
+      "diet": "fish",
+      "allergens": [
+        "fish"
+      ],
+      "alternatives": [
+        {
+          "name": "Räuchertofu",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Zitrone",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Reis",
+      "amount": 120,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Brokkoli",
+      "amount": 300,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Schlagsahne",
+      "amount": 100,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Sahne",
+          "amount": 100,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Hafer-Cuisine",
+          "amount": 100,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Soja-Cuisine",
+          "amount": 100,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Rote Currypaste",
+      "amount": 20,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "viele Sorten enthalten Garnelenpaste – Etikett prüfen",
+      "diet": "fish",
+      "allergens": [
+        "crustaceans"
+      ],
+      "alternatives": [
+        {
+          "name": "Rote Currypaste ohne Garnelenpaste (vegan)",
+          "amount": 20,
+          "unit": "g",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Kokosmilch",
+      "amount": 200,
+      "unit": "ml",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Muskatnuss",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Reis nach Packungsanleitung kochen.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Brokkoli waschen, klein schneiden und 10 Minuten in Salzwasser kochen.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Lachs mit Salz und Pfeffer würzen. 2 Scheiben Zitrone auf jedes Lachsstück legen und für 20 Minuten bei 160 °C in den Airfryer geben.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "Currypaste in eine Pfanne geben und anrösten lassen.",
+      "timerMinutes": 1
+    },
+    {
+      "text": "Mit Kokosmilch ablöschen und kurz köcheln lassen.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Das Wasser vom Brokkoli abgießen, Schlagsahne, Muskatnuss, Pfeffer und Salz dazugeben und alles pürieren."
+    },
+    {
+      "text": "Alles zusammen mit den Zitronenscheiben servieren."
+    }
+  ]
+}

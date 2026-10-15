@@ -1,0 +1,209 @@
+{
+  "id": "green-curry-mit-tofu",
+  "version": 1,
+  "title": "Green Curry mit Tofu",
+  "summary": "Cremiges grünes Kokoscurry mit Brokkoli, Zuckerschoten und knusprigem Tofu.",
+  "emoji": "🍛",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 764,
+    "protein": 30,
+    "fat": 37,
+    "carbs": 69
+  },
+  "ingredients": [
+    {
+      "name": "Reis",
+      "amount": 120,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zuckerschoten",
+      "amount": 200,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Brokkoli",
+      "amount": 300,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tofu natur",
+      "amount": 200,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Kichererbsen",
+          "amount": 1,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": [],
+          "note": "abgetropft"
+        }
+      ]
+    },
+    {
+      "name": "Grüne Currypaste",
+      "amount": 50,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "vegane Sorte ohne Garnelenpaste wählen",
+      "diet": "fish",
+      "allergens": [
+        "crustaceans"
+      ],
+      "alternatives": [
+        {
+          "name": "Grüne Currypaste ohne Garnelenpaste (vegan)",
+          "amount": 50,
+          "unit": "g",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Kokosmilch",
+      "amount": 400,
+      "unit": "ml",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lauchzwiebeln",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ingwer",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "ca. 1 cm",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Kurkuma",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Currypulver",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprikapulver",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zitrone",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "unbehandelt",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rapsöl",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Den Brokkoli in kleine Röschen teilen, die Frühlingszwiebel in kleine Ringe schneiden und die Zuckerschoten waschen."
+    },
+    {
+      "text": "Den Reis nach Packungsangabe kochen.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Knoblauch und Ingwer klein hacken."
+    },
+    {
+      "text": "Das Rapsöl in einem Topf erhitzen und Knoblauch, Ingwer, Currypaste und die Gewürze kurz rösten.",
+      "timerMinutes": 1
+    },
+    {
+      "text": "Brokkoli, Frühlingszwiebel, Zuckerschoten und Zitronenabrieb hinzugeben und mit Kokosmilch und etwas Wasser auffüllen."
+    },
+    {
+      "text": "Bei mittlerer Hitze 15 Minuten kochen lassen.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Inzwischen den Tofu kleinschneiden, nach Belieben marinieren und für 12 Minuten bei 200 °C in den Airfryer geben.",
+      "timerMinutes": 12
+    },
+    {
+      "text": "Das Curry mit Reis und Tofu servieren."
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "id": "kiwi-hahnchen-wrap",
+  "version": 1,
+  "title": "Kiwi-Hähnchen-Wrap",
+  "summary": "Knusprige Hähnchenstreifen mit süßer Gold-Kiwi, Spinat und Senf-Crème-fraîche im Vollkornwrap.",
+  "emoji": "🌯",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 910,
+    "protein": 52,
+    "fat": 42,
+    "carbs": 75
+  },
+  "ingredients": [
+    {
+      "name": "Vollkorn-Tortillas",
+      "amount": 4,
+      "unit": "piece",
+      "category": "bakery",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Mais-Tortillas",
+          "amount": 4,
+          "unit": "piece",
+          "category": "bakery",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Glutenfreie Wraps",
+          "amount": 4,
+          "unit": "piece",
+          "category": "bakery",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Gold-Kiwi",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Hähnchenbrustfilet",
+      "amount": 300,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegane Hähnchenstücke (Soja)",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Kichererbsen",
+          "amount": 1.2,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Crème fraîche",
+      "amount": 200,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Crème fraîche",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Sojajoghurt natur",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spinat",
+      "amount": 100,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 2,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Senf",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "mustard"
+      ]
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Das Hähnchenbrustfilet in kleine Streifen schneiden und mit einer Sprühflasche etwas Öl daraufgeben."
+    },
+    {
+      "text": "Die Hähnchenstreifen für 2x 8 Minuten bei 200 °C in den Airfryer geben.",
+      "timerMinutes": 16
+    },
+    {
+      "text": "Spinat und Kiwi waschen und die Kiwi in Scheiben schneiden."
+    },
+    {
+      "text": "In einer Schüssel Crème fraîche mit Senf, Pfeffer und Salz verrühren."
+    },
+    {
+      "text": "Die Tortillas in einer heißen Pfanne ohne Öl von beiden Seiten erhitzen.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Die Tortillas in der Mitte mit der Creme bestreichen, Hähnchen, Kiwi und Spinat daraufgeben und zusammenrollen."
+    }
+  ]
+}

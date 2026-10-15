@@ -1,0 +1,289 @@
+{
+  "id": "nudeln-mit-knoblauch-crunch",
+  "version": 1,
+  "title": "Nudeln mit Knoblauch-Crunch",
+  "summary": "Cremige Tomaten-Sahne-Pasta mit knusprigem Topping aus Knoblauch, Paniermehl und Sesam.",
+  "emoji": "🧄",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarisch",
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 814,
+    "protein": 25,
+    "fat": 37,
+    "carbs": 95
+  },
+  "ingredients": [
+    {
+      "name": "Nudeln",
+      "amount": 200,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreie Nudeln",
+          "amount": 200,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Parmesan",
+      "amount": 40,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Veganer Parmesan-Ersatz",
+          "amount": 40,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 6,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Schlagsahne",
+      "amount": 80,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Sahne",
+          "amount": 80,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Hafer-Cuisine",
+          "amount": 80,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Soja-Cuisine",
+          "amount": 80,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Paniermehl",
+      "amount": 30,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreies Paniermehl",
+          "amount": 30,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Passierte Tomaten",
+      "amount": 200,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sesam",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sesame"
+      ],
+      "alternatives": [
+        {
+          "name": "Sonnenblumenkerne",
+          "amount": 2,
+          "unit": "tsp",
+          "category": "snacks",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Butter",
+      "amount": 15,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Butter",
+          "amount": 15,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Pflanzliche Butter",
+          "amount": 15,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Olivenöl",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tomatenmark",
+      "amount": 40,
+      "unit": "g",
+      "category": "canned",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Petersilie (frisch)",
+      "unit": "to taste",
+      "note": "optional",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Butter in einer Pfanne schmelzen lassen. Den Knoblauch schälen und in die Pfanne raspeln."
+    },
+    {
+      "text": "Paniermehl und Sesam dazugeben und alles goldbraun werden lassen. Danach zur Seite stellen.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Nudeln kochen.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Die Zwiebel schälen und klein schneiden. In einer großen Pfanne das Olivenöl erhitzen und die Zwiebel anbraten.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Tomatenmark dazugeben und etwas anrösten lassen. Die passierten Tomaten zusammen mit der Sahne in die Pfanne geben und mit Salz und Pfeffer würzen.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Etwas Nudelwasser in die Pfanne geben und die Nudeln abgießen. Anschließend die Nudeln in die Pfanne geben, den Parmesan darüberreiben und die gehackte Petersilie dazugeben. Alles umrühren und kurz in der Pfanne lassen."
+    },
+    {
+      "text": "Servieren und den abgekühlten Knoblauch-Crunch über die Portionen verteilen."
+    }
+  ]
+}

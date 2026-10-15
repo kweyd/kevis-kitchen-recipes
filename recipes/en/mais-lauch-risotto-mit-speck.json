@@ -1,0 +1,238 @@
+{
+  "id": "mais-lauch-risotto-mit-speck",
+  "version": 1,
+  "title": "Corn and Leek Risotto with Bacon",
+  "summary": "Creamy risotto with celeriac, sweet corn and crispy thyme bacon.",
+  "emoji": "🌽",
+  "servings": 2,
+  "prepMinutes": 45,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 667,
+    "protein": 22.2,
+    "fat": 25,
+    "carbs": 82.8
+  },
+  "ingredients": [
+    {
+      "name": "Celeriac",
+      "amount": 300,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Parsnips",
+          "amount": 300,
+          "unit": "g",
+          "category": "produce",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Leek",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Shallot",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Thyme",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "1 sprig",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Parmesan",
+      "amount": 25,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan parmesan alternative",
+          "amount": 25,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Bacon",
+      "amount": 100,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 7,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Smoked tofu",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Risotto rice",
+      "amount": 160,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sweetcorn",
+      "amount": 1,
+      "unit": "can",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Apple juice",
+      "amount": 125,
+      "unit": "ml",
+      "category": "drinks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Butter",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Plant-based butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": 500,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "note": "amount not given in the original",
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegetable stock without celery",
+          "amount": 500,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "text": "Peel and finely chop the celeriac, shallot and garlic. Slice the leek into rings."
+    },
+    {
+      "text": "Melt the butter in a pan and fry the chopped ingredients.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Add the rice, fry briefly and then deglaze with vegetable stock and apple juice."
+    },
+    {
+      "text": "Keep adding only as much stock as needed to cover the rice and let it cook.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "In another pan, fry the bacon with the thyme until crispy.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Towards the end, drain the corn, add it to the pan and grate in the parmesan."
+    },
+    {
+      "text": "Divide the risotto between plates and serve topped with the bacon."
+    }
+  ]
+}

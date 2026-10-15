@@ -1,0 +1,365 @@
+{
+  "id": "pizzasuppe-mit-baguette",
+  "version": 1,
+  "title": "Pizza Soup with Baguette",
+  "summary": "Creamy mince and tomato soup with peppers and corn – tastes like pizza, served with crispy herb bread.",
+  "emoji": "🍲",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 1140,
+    "protein": 47,
+    "fat": 61,
+    "carbs": 97
+  },
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": 250,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 1,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegan mince (pea protein)",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 7
+        }
+      ]
+    },
+    {
+      "name": "Diced ham",
+      "amount": 30,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Smoked tofu (diced)",
+          "amount": 30,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Bell pepper",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 5,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sweetcorn",
+      "amount": 140,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "drained",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chopped tomatoes",
+      "amount": 200,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": 200,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Whipping cream",
+      "amount": 100,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free cream",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Oat cream",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Soy cream",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": 100,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegetable stock without celery",
+          "amount": 100,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Herb cream cheese",
+      "amount": 75,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free herb cream cheese",
+          "amount": 75,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Vegan herb cream cheese alternative (coconut-based)",
+          "amount": 75,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Ajvar",
+      "amount": 25,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Italian herbs",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honey",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Maple syrup",
+          "amount": 0.5,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Basil",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "produce",
+      "pantry": false,
+      "note": "fresh, chopped",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Olive oil",
+      "amount": 15,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "note": "plus a little for the bread",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ciabatta",
+      "amount": 300,
+      "unit": "g",
+      "category": "bakery",
+      "pantry": false,
+      "note": "or baguette",
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free bread",
+          "amount": 300,
+          "unit": "g",
+          "category": "bakery",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 3
+        }
+      ]
+    },
+    {
+      "name": "Parmesan",
+      "unit": "to taste",
+      "category": "dairy",
+      "pantry": false,
+      "note": "for serving",
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan parmesan alternative",
+          "unit": "to taste",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Peel the onion and garlic and chop finely. Cut the pepper into bite-sized pieces. Drain the corn, wash the basil and chop it."
+    },
+    {
+      "text": "Heat the olive oil in a pot and fry the onion and pepper.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Add the garlic, corn, diced ham and mince and fry until the mince is crumbly.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Deglaze with the stock, cream and tomatoes and let it simmer for about 10 minutes.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Stir in the ajvar, herb cream cheese and Italian herbs. Season with salt, pepper and honey."
+    },
+    {
+      "text": "Slice the baguette, drizzle with a little olive oil, sprinkle with Italian herbs and toast in the air fryer.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Ladle the soup into bowls and serve with parmesan and basil."
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "id": "zucchini-edamame-salat",
+  "version": 1,
+  "title": "Courgette Edamame Salad",
+  "summary": "Lamb's lettuce with edamame and pistachios, an orange dressing and warm pan-fried courgette and mushrooms.",
+  "emoji": "🥗",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 540,
+    "protein": 29,
+    "fat": 38,
+    "carbs": 20
+  },
+  "ingredients": [
+    {
+      "name": "Orange",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Courgette",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lamb's lettuce",
+      "amount": 150,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 2,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Edamame (frozen, shelled)",
+      "amount": 150,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Peas (frozen)",
+          "amount": 150,
+          "unit": "g",
+          "category": "frozen",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Pistachios",
+      "amount": 60,
+      "unit": "g",
+      "category": "snacks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "nuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Pumpkin seeds",
+          "amount": 60,
+          "unit": "g",
+          "category": "snacks",
+          "diet": "plant",
+          "allergens": []
+        },
+        {
+          "name": "Sunflower seeds",
+          "amount": 60,
+          "unit": "g",
+          "category": "snacks",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Mushrooms",
+      "amount": 150,
+      "unit": "g",
+      "note": "amount estimated",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Soy sauce",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (gluten-free soy sauce)",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Coconut aminos",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Olive oil",
+      "amount": 3,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Lemon juice",
+          "amount": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Honey",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agave syrup",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Wash the courgette, halve it and slice. Peel and finely chop the garlic."
+    },
+    {
+      "text": "Wash the lettuce and mushrooms and slice the mushrooms."
+    },
+    {
+      "text": "Heat 2 tbsp olive oil in a pan and add the garlic, courgette and mushrooms. Add the soy sauce and let it fry for a while.",
+      "timerMinutes": 6
+    },
+    {
+      "text": "Put the lettuce in a bowl with the edamame and pistachios."
+    },
+    {
+      "text": "For the dressing, mix the orange juice with 1 tbsp olive oil, the balsamic vinegar, honey, pepper and salt. Pour it into the bowl and toss everything."
+    },
+    {
+      "text": "Divide the salad between plates and top with the contents of the pan."
+    }
+  ]
+}

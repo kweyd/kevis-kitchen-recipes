@@ -1,0 +1,233 @@
+{
+  "id": "gratinierter-feta-mit-gemuse",
+  "version": 1,
+  "title": "Baked Feta with Vegetables",
+  "summary": "A block of feta baked with colourful vegetables, olives and whole garlic cloves – perfect for dipping with baguette.",
+  "emoji": "🧀",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 840,
+    "protein": 30,
+    "fat": 35,
+    "carbs": 97
+  },
+  "ingredients": [
+    {
+      "name": "Feta",
+      "amount": 200,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "note": "in one block",
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan feta alternative",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Courgette",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": 200,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Parsley",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "produce",
+      "pantry": false,
+      "note": "fresh, chopped",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Yellow bell pepper",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Green chili",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Red onion",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Green olives",
+      "amount": 50,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "pitted",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Allspice",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "note": "1 whole bulb",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Olive oil",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oregano",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honey",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agave syrup",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Baguette",
+      "amount": 1,
+      "unit": "piece",
+      "category": "bakery",
+      "pantry": false,
+      "note": "optional, for dipping",
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free baguette",
+          "amount": 1,
+          "unit": "piece",
+          "category": "bakery",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 3
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "text": "Place the feta in the middle of an ovenproof dish."
+    },
+    {
+      "text": "Peel the garlic bulb and put the whole cloves in a bowl."
+    },
+    {
+      "text": "Peel the onions and cut them into strips, finely chop the chili, halve the olives, dice the bell pepper, and quarter and slice the courgette."
+    },
+    {
+      "text": "Add everything to the bowl with the cherry tomatoes and mix with the spices, parsley, honey and olive oil."
+    },
+    {
+      "text": "Spread the vegetables over the feta in the dish."
+    },
+    {
+      "text": "Bake at 200 °C for 25 minutes.",
+      "timerMinutes": 25
+    },
+    {
+      "text": "Serve with some baguette if you like."
+    }
+  ]
+}

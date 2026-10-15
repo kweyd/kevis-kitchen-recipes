@@ -1,0 +1,226 @@
+{
+  "id": "tortellini-mit-knoblauchsahnesosse",
+  "version": 1,
+  "title": "Tortellini mit Knoblauchsahnesoße",
+  "summary": "Ricotta-Spinat-Tortellini in einer cremigen Knoblauchsahne mit Parmesan – in 15 Minuten auf dem Tisch.",
+  "emoji": "🍝",
+  "servings": 2,
+  "prepMinutes": 15,
+  "tags": [
+    "vegetarisch",
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 779,
+    "protein": 19,
+    "fat": 55,
+    "carbs": 51
+  },
+  "ingredients": [
+    {
+      "name": "Tortellini Ricotta & Spinat",
+      "amount": 250,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "note": "aus dem Kühlregal",
+      "diet": "animal",
+      "allergens": [
+        "gluten",
+        "eggs",
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Gnocchi",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 14
+        },
+        {
+          "name": "Glutenfreie Gnocchi",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Schlagsahne",
+      "amount": 200,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Sahne",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Hafer-Cuisine",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Soja-Cuisine",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Kochsahne",
+      "amount": 150,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Sahne",
+          "amount": 150,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Hafer-Cuisine",
+          "amount": 150,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Soja-Cuisine",
+          "amount": 150,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Parmesan",
+      "amount": 20,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Veganer Parmesan-Ersatz",
+          "amount": 20,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 5,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oregano",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Die Tortellini nach Packungsanweisung zubereiten.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Schlag- und Kochsahne in einer Pfanne erhitzen."
+    },
+    {
+      "text": "Oregano, Salz und Pfeffer dazugeben. Die Knoblauchzehen in die Sahne pressen und kurz köcheln lassen.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Die Tortellini in die Sahne geben und den Parmesan darüber."
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "id": "erdnuss-chili-nudeln",
+  "version": 1,
+  "title": "Peanut Chili Noodles",
+  "summary": "Spicy, creamy noodle soup with peanut butter, coconut milk and fried tofu.",
+  "emoji": "🥜",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 656,
+    "protein": 29,
+    "fat": 32,
+    "carbs": 60
+  },
+  "ingredients": [
+    {
+      "name": "Firm tofu",
+      "amount": 200,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Chickpeas",
+          "amount": 1,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": [],
+          "note": "drained"
+        }
+      ]
+    },
+    {
+      "name": "Hot pepper paste (gochujang)",
+      "amount": 35,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten",
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Sriracha sauce",
+          "amount": 35,
+          "unit": "g",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": [
+            "sulphites"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coconut milk",
+      "amount": 200,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mie noodles",
+      "amount": 125,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "note": "egg-free – check the label",
+      "diet": "animal",
+      "allergens": [
+        "eggs",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Egg-free mie noodles",
+          "amount": 125,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ]
+        },
+        {
+          "name": "Rice noodles",
+          "amount": 125,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Crispy chili oil",
+      "amount": 10,
+      "unit": "g",
+      "category": "spices",
+      "pantry": false,
+      "note": "may contain peanuts depending on the brand",
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ]
+    },
+    {
+      "name": "Peanut butter",
+      "amount": 20,
+      "unit": "g",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "peanuts"
+      ]
+    },
+    {
+      "name": "Onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 5,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ginger",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "about 0.5 cm",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Spring onions",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sesame"
+      ]
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": 500,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegetable stock without celery",
+          "amount": 500,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Soy sauce",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (gluten-free soy sauce)",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Coconut aminos",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Chili flakes",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Press the tofu with kitchen paper and cut it into small cubes. Peel and finely chop the onion."
+    },
+    {
+      "text": "Fry the onion and tofu in a pot with a little oil.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Finely chop the garlic and ginger and add them to the pot. After a few minutes, add the hot pepper paste.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Add the vegetable stock, coconut milk, soy sauce, crispy chili oil and peanut butter to the pot. Season with salt and chili flakes."
+    },
+    {
+      "text": "Pour boiling water over the mie noodles and let them soak for 5 minutes.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Toast the sesame seeds in a dry pan."
+    },
+    {
+      "text": "Drain the noodles and divide them between the plates with the sauce. Garnish with spring onion and sesame."
+    }
+  ]
+}

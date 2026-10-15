@@ -1,0 +1,240 @@
+{
+  "id": "zucchini-edamame-salat",
+  "version": 1,
+  "title": "Zucchini-Edamame-Salat",
+  "summary": "Feldsalat mit Edamame und Pistazien, Orangen-Dressing und warm gebratener Zucchini mit Champignons.",
+  "emoji": "🥗",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarisch",
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 540,
+    "protein": 29,
+    "fat": 38,
+    "carbs": 20
+  },
+  "ingredients": [
+    {
+      "name": "Orange",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zucchini",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Feldsalat",
+      "amount": 150,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 2,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Edamame (TK, geschält)",
+      "amount": 150,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Erbsen (TK)",
+          "amount": 150,
+          "unit": "g",
+          "category": "frozen",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Pistazien",
+      "amount": 60,
+      "unit": "g",
+      "category": "snacks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "nuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Kürbiskerne",
+          "amount": 60,
+          "unit": "g",
+          "category": "snacks",
+          "diet": "plant",
+          "allergens": []
+        },
+        {
+          "name": "Sonnenblumenkerne",
+          "amount": 60,
+          "unit": "g",
+          "category": "snacks",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Champignons",
+      "amount": 150,
+      "unit": "g",
+      "note": "Menge geschätzt",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sojasauce",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (glutenfreie Sojasauce)",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Kokos-Aminos",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Olivenöl",
+      "amount": 3,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Balsamico-Essig",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Zitronensaft",
+          "amount": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Honig",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agavendicksaft",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zucchini waschen, halbieren und in Scheiben schneiden. Knoblauch schälen und klein hacken."
+    },
+    {
+      "text": "Salat und Pilze waschen und die Pilze in Scheiben schneiden."
+    },
+    {
+      "text": "2 EL Olivenöl in einer Pfanne erhitzen und Knoblauch, Zucchini und Champignons in die Pfanne geben. Die Sojasauce dazugeben und etwas anbraten lassen.",
+      "timerMinutes": 6
+    },
+    {
+      "text": "Den Salat mit Edamame und Pistazien in eine Schüssel geben."
+    },
+    {
+      "text": "Für das Dressing den Saft der Orange mit 1 EL Olivenöl, dem Balsamico-Essig, Honig, Pfeffer und Salz mischen. Das Dressing in die Schüssel geben und alles verrühren."
+    },
+    {
+      "text": "Den Salat auf die Teller verteilen und den Inhalt der Pfanne darübergeben."
+    }
+  ]
+}

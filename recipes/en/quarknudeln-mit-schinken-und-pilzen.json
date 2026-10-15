@@ -1,0 +1,181 @@
+{
+  "id": "quarknudeln-mit-schinken-und-pilzen",
+  "version": 1,
+  "title": "Quark Pasta with Bacon and Mushrooms",
+  "summary": "High-protein wholegrain pasta with bacon, mushrooms and a creamy quark sauce, topped with crispy fried onions.",
+  "emoji": "🍄",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 704,
+    "protein": 46,
+    "fat": 15,
+    "carbs": 90
+  },
+  "ingredients": [
+    {
+      "name": "Wholegrain pasta",
+      "amount": 250,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free pasta",
+          "amount": 250,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Brown mushrooms",
+      "amount": 250,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Low-fat quark",
+      "amount": 250,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free low-fat quark",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Plain soy yoghurt",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bacon",
+      "amount": 125,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "note": "diced",
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Smoked tofu",
+          "amount": 125,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Crispy fried onions",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Fresh onion (fried crisp in oil)",
+          "amount": 1,
+          "unit": "piece",
+          "category": "produce",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Parsley",
+      "amount": 0.5,
+      "unit": "bunch",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the pasta in a pot.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Fry the bacon in a pan and slice the mushrooms in the meantime.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Add the mushrooms to the pan and fry them with the bacon.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Add the quark and season with pepper and salt."
+    },
+    {
+      "text": "Drain the pasta, add it to the pan and stir everything together."
+    },
+    {
+      "text": "Top with parsley and crispy fried onions."
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "id": "mais-lauch-risotto-mit-speck",
+  "version": 1,
+  "title": "Mais-Lauch-Risotto mit Speck",
+  "summary": "Cremiges Risotto mit Sellerie, süßem Mais und knusprigem Thymian-Bacon.",
+  "emoji": "🌽",
+  "servings": 2,
+  "prepMinutes": 45,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 667,
+    "protein": 22.2,
+    "fat": 25,
+    "carbs": 82.8
+  },
+  "ingredients": [
+    {
+      "name": "Knollensellerie",
+      "amount": 300,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Pastinaken",
+          "amount": 300,
+          "unit": "g",
+          "category": "produce",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Lauch",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Schalotte",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Thymian",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "1 Zweig",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Parmesan",
+      "amount": 25,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Veganer Parmesan-Ersatz",
+          "amount": 25,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Bacon",
+      "amount": 100,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 7,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Räuchertofu",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Risottoreis",
+      "amount": 160,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mais",
+      "amount": 1,
+      "unit": "can",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Apfelsaft",
+      "amount": 125,
+      "unit": "ml",
+      "category": "drinks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Butter",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Pflanzliche Butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Gemüsebrühe",
+      "amount": 500,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "note": "Menge nicht im Original angegeben",
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 500,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "text": "Knollensellerie, Schalotte und Knoblauch schälen und kleinschneiden. Den Lauch in Ringe schneiden."
+    },
+    {
+      "text": "Die Butter in einer Pfanne zerlaufen lassen und die kleingeschnittenen Zutaten anbraten.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Den Reis dazugeben, kurz anbraten und dann mit Gemüsebrühe und Apfelsaft ablöschen."
+    },
+    {
+      "text": "Immer nur so viel Brühe nachgießen, dass der Reis bedeckt ist, und den Reis garen.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "In einer anderen Pfanne den Bacon mit dem Thymian knusprig anbraten.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Gegen Ende den Mais abgießen, mit in die Pfanne geben und den Parmesan hineinreiben."
+    },
+    {
+      "text": "Das Risotto auf die Teller verteilen und mit dem Bacon servieren."
+    }
+  ]
+}

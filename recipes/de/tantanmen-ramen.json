@@ -1,0 +1,356 @@
+{
+  "id": "tantanmen-ramen",
+  "version": 1,
+  "title": "Tantanmen Ramen",
+  "summary": "Cremig-scharfe Sesam-Ramen mit Steakstreifen, Pak Choi und marinierten Ramen-Eiern.",
+  "emoji": "🍜",
+  "servings": 4,
+  "prepMinutes": 540,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 825,
+    "protein": 47,
+    "fat": 40,
+    "carbs": 72
+  },
+  "ingredients": [
+    {
+      "name": "Sesamkerne",
+      "amount": 150,
+      "unit": "g",
+      "note": "1 Tasse, für die Sesampaste",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sesame"
+      ]
+    },
+    {
+      "name": "Misopaste",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten",
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Helle Reis-Misopaste (glutenfrei)",
+          "amount": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sojasauce",
+      "amount": 90,
+      "unit": "ml",
+      "note": "2 EL für die Würzpaste, 60 ml für die Eier",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (glutenfreie Sojasauce)",
+          "amount": 90,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Kokos-Aminos",
+          "amount": 90,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Reisessig",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Limettensaft",
+          "amount": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Chiliöl",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gochujang",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten",
+        "soy"
+      ]
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ingwer",
+      "amount": 1,
+      "unit": "tsp",
+      "note": "gerieben",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Hühnerbrühe",
+      "amount": 600,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "meat",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe",
+          "amount": 600,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "celery"
+          ]
+        },
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 600,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Haferdrink (ungesüßt)",
+      "amount": 600,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Sojadrink (ungesüßt)",
+          "amount": 600,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Salz",
+      "amount": 1,
+      "unit": "pinch",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Eier",
+      "amount": 4,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ]
+    },
+    {
+      "name": "Mirin",
+      "amount": 60,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zucker",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mini Pak Choi",
+      "amount": 2,
+      "unit": "piece",
+      "note": "oder 1 normaler Pak Choi",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mie-Nudeln",
+      "amount": 250,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "eggs",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Mie-Nudeln ohne Ei",
+          "amount": 250,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ]
+        },
+        {
+          "name": "Reisnudeln",
+          "amount": 250,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Lauchzwiebeln",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rumpsteak",
+      "amount": 300,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Räuchertofu",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "text": "Die Ramen-Eier sollten 8 Stunden oder länger in der Marinade ziehen, also am besten am Vortag zubereiten. Eier kochen (6–9 Minuten, je nachdem, wie weich sie sein sollen).",
+      "timerMinutes": 7
+    },
+    {
+      "text": "Eier in einem Eisbad abkühlen lassen. Nebenher für die Marinade 60 ml Sojasoße, Mirin, 60 ml Wasser und den Zucker in einem kleinen Topf zum Kochen bringen. Sobald es aufkocht, Hitze niedrig stellen und eine weitere Minute köcheln lassen.",
+      "timerMinutes": 1
+    },
+    {
+      "text": "Marinade abkühlen lassen und währenddessen die Eier schälen. Eier vorsichtig in einen kleinen Gefrierbeutel geben, die abgekühlte Marinade dazugeben und so viel Luft wie möglich entweichen lassen. Beutel verschließen und die Eier im Kühlschrank ziehen lassen."
+    },
+    {
+      "text": "Für die Sesampaste die Sesamkerne anrösten und cremig zerkleinern.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Für die Würzpaste 4 EL Sesampaste mit Misopaste, 2 EL Sojasoße, Reisessig, Chiliöl, Gochujang, Knoblauch und Ingwer mischen. In einem Topf kurz anbraten, mit Hühnerbrühe und Hafermilch ablöschen, salzen und aufkochen lassen.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Den Pak Choi blanchieren.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Die Mie-Nudeln nach Packungsanleitung kochen. Die Lauchzwiebeln in Ringe schneiden.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Das Steak kurz scharf anbraten, ruhen lassen und dann in Streifen schneiden.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Die Nudeln auf Schüsseln verteilen, die Brühe darübergießen und mit Pak Choi, Lauchzwiebeln, halbierten Ramen-Eiern und Steakstreifen toppen."
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "id": "nudeln-mit-knoblauch-crunch",
+  "version": 1,
+  "title": "Pasta with Garlic Crunch",
+  "summary": "Creamy tomato pasta topped with a crispy crunch of garlic, breadcrumbs and sesame.",
+  "emoji": "🧄",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 814,
+    "protein": 25,
+    "fat": 37,
+    "carbs": 95
+  },
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": 200,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free pasta",
+          "amount": 200,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Parmesan",
+      "amount": 40,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan parmesan alternative",
+          "amount": 40,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Garlic",
+      "amount": 6,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Whipping cream",
+      "amount": 80,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free cream",
+          "amount": 80,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Oat cream",
+          "amount": 80,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Soy cream",
+          "amount": 80,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": 30,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free breadcrumbs",
+          "amount": 30,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Passata",
+      "amount": 200,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sesame"
+      ],
+      "alternatives": [
+        {
+          "name": "Sunflower seeds",
+          "amount": 2,
+          "unit": "tsp",
+          "category": "snacks",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Butter",
+      "amount": 15,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free butter",
+          "amount": 15,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Vegan butter",
+          "amount": 15,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Olive oil",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tomato paste",
+      "amount": 40,
+      "unit": "g",
+      "category": "canned",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Fresh parsley",
+      "unit": "to taste",
+      "note": "optional",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Melt the butter in a pan. Peel the garlic and grate it into the pan."
+    },
+    {
+      "text": "Add the breadcrumbs and sesame seeds and toast everything until golden brown. Then set aside.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Cook the pasta.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Peel and finely chop the onion. Heat the olive oil in a large pan and fry the onion.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Add the tomato paste and let it toast a little. Add the passata and cream and season with salt and pepper.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Add a splash of pasta water to the pan and drain the pasta. Then add the pasta to the pan, grate the parmesan over it and add the chopped parsley. Stir everything and leave it in the pan briefly."
+    },
+    {
+      "text": "Serve and sprinkle the cooled garlic crunch over the portions."
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "id": "rote-beete-feldsalat-mit-erdnusshahnchen",
+  "version": 1,
+  "title": "Beetroot and Lamb's Lettuce Salad with Peanut Chicken",
+  "summary": "Lamb's lettuce with beetroot and an orange dressing, topped with lentils and peanut-sesame chicken.",
+  "emoji": "🥗",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 800,
+    "protein": 57,
+    "fat": 41,
+    "carbs": 49
+  },
+  "ingredients": [
+    {
+      "name": "Lamb's lettuce",
+      "amount": 150,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chicken breast",
+      "amount": 300,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegan chicken pieces (soy)",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Firm tofu",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Lentils",
+      "amount": 200,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "ready-to-eat, pre-cooked",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Beetroot",
+      "amount": 400,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "pre-cooked",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Orange",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "juice",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honey",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agave syrup",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Olive oil",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": 3,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Lemon juice",
+          "amount": 3,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Water",
+      "amount": 50,
+      "unit": "ml",
+      "category": "other",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Peanut butter",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "peanuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Cashew butter",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": [
+            "nuts"
+          ]
+        },
+        {
+          "name": "Tahini (sesame paste)",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": [
+            "sesame"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soy sauce",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (gluten-free soy sauce)",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Coconut aminos",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": 40,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sesame"
+      ]
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Wash the lamb's lettuce and divide it between 2 plates. Slice the beetroot and divide it between the plates as well."
+    },
+    {
+      "text": "Make a dressing from the white wine vinegar, olive oil, pepper, salt, honey, freshly squeezed orange juice and water and drizzle it over the plates."
+    },
+    {
+      "text": "Heat oil in a pan, cut the chicken into small cubes and sear them over high heat.",
+      "timerMinutes": 6
+    },
+    {
+      "text": "Meanwhile, heat the lentils in a pot.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Deglaze the chicken with soy sauce, then add the peanut butter and stir until everything is evenly coated. Now add the sesame seeds and keep stirring."
+    },
+    {
+      "text": "Divide the lentils between the plates and top with the chicken."
+    }
+  ]
+}

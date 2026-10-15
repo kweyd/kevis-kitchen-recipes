@@ -1,0 +1,176 @@
+{
+  "id": "erdnuss-suppe",
+  "version": 1,
+  "title": "Peanut Soup",
+  "summary": "Spicy, creamy tomato peanut soup with ginger and chili, served with basmati rice.",
+  "emoji": "🥜",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegan",
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 585,
+    "protein": 18,
+    "fat": 27,
+    "carbs": 60
+  },
+  "ingredients": [
+    {
+      "name": "Peanut butter",
+      "amount": 100,
+      "unit": "g",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "peanuts"
+      ]
+    },
+    {
+      "name": "Passata",
+      "amount": 200,
+      "unit": "ml",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": 500,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Celery-free vegetable stock",
+          "amount": 500,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Red onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ginger",
+      "amount": 10,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "a small piece",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Basmati rice",
+      "amount": 125,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Peanuts",
+      "amount": 25,
+      "unit": "g",
+      "category": "snacks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "peanuts"
+      ]
+    },
+    {
+      "name": "Garlic",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tomato paste",
+      "amount": 40,
+      "unit": "g",
+      "category": "canned",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chili powder",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Peel and finely chop the onion, ginger and garlic and fry in a pot with a little oil.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Deglaze with the vegetable stock and passata."
+    },
+    {
+      "text": "Cook the rice.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Add the peanut butter, tomato paste, chili powder, pepper and salt to the soup and simmer for 15 minutes.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Serve the soup with the rice and sprinkle the peanuts over each portion."
+    }
+  ]
+}

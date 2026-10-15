@@ -1,0 +1,219 @@
+{
+  "id": "blumenkohl-curry",
+  "version": 1,
+  "title": "Blumenkohl-Curry",
+  "summary": "Cremiges Kokos-Curry mit Blumenkohl, Süßkartoffel und Kichererbsen, dazu ein frischer Petersilien-Joghurt.",
+  "emoji": "🍛",
+  "servings": 2,
+  "prepMinutes": 45,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 708,
+    "protein": 22,
+    "fat": 31,
+    "carbs": 70
+  },
+  "ingredients": [
+    {
+      "name": "Süßkartoffeln",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Blumenkohl",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gelbe Currypaste",
+      "amount": 20,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "viele Sorten enthalten Garnelenpaste – Etikett prüfen",
+      "diet": "fish",
+      "allergens": [
+        "crustaceans"
+      ],
+      "alternatives": [
+        {
+          "name": "Gelbe Currypaste ohne Garnelenpaste (vegan)",
+          "amount": 20,
+          "unit": "g",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Kokosmilch light",
+      "amount": 400,
+      "unit": "ml",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gemüsebrühe",
+      "amount": 250,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 250,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Kichererbsen",
+      "amount": 140,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "abgetropft",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Joghurt",
+      "amount": 150,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreier Joghurt",
+          "amount": 150,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Sojajoghurt",
+          "amount": 150,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Petersilie",
+      "amount": 15,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Currypulver",
+      "amount": 1.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprikapulver edelsüß",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Muskatnuss",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Majoran",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Die Süßkartoffeln schälen und würfeln."
+    },
+    {
+      "text": "Die Currypaste in einer Pfanne leicht anbraten und mit der Kokosmilch ablöschen.",
+      "timerMinutes": 1
+    },
+    {
+      "text": "Die Süßkartoffeln in die Pfanne geben und mit einem Deckel 5 Minuten kochen lassen.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Den Blumenkohl waschen und in mundgerechte Stücke schneiden."
+    },
+    {
+      "text": "Den Blumenkohl mit der Gemüsebrühe in die Pfanne geben und ohne Deckel 15 Minuten köcheln lassen.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Kichererbsen abgießen und abspülen. Die Kichererbsen in die Pfanne geben und weitere 10 Minuten kochen lassen.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Mit Paprika, Muskatnuss, Currypulver, Majoran und Salz würzen."
+    },
+    {
+      "text": "Petersilie hacken, mit dem Joghurt vermischen und zum Curry servieren."
+    }
+  ]
+}

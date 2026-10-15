@@ -1,0 +1,274 @@
+{
+  "id": "chili-cheese-chicken",
+  "version": 1,
+  "title": "Chili Cheese Chicken",
+  "summary": "Saftiges Hähnchen auf knackigem Romanasalat mit scharfer Jalapeño-Käsesoße – Low Carb und richtig satt machend.",
+  "emoji": "🌶️",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 872,
+    "protein": 80,
+    "fat": 55,
+    "carbs": 15
+  },
+  "ingredients": [
+    {
+      "name": "Hähnchenbrustfilet",
+      "amount": 600,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegane Hähnchenstücke (Soja)",
+          "amount": 600,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Kichererbsen",
+          "amount": 2.4,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Jalapeño",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "1–2, je nach Schärfe",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Old Amsterdam",
+      "amount": 50,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Veganer Reibekäse",
+          "amount": 50,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Sahne-Schmelzkäse",
+      "amount": 190,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreier Frischkäse",
+          "amount": 190,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Vegane Frischkäse-Alternative (Mandel)",
+          "amount": 190,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "nuts"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sahne",
+      "amount": 100,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Sahne",
+          "amount": 100,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Hafer-Cuisine",
+          "amount": 100,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Soja-Cuisine",
+          "amount": 100,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Gemüsebrühe",
+      "amount": 130,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 130,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Romanasalat",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "1 Kopf",
+      "shelfLifeDays": 4,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gemüsezwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chilipulver",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprikapulver edelsüß",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hähnchen und Zwiebel klein schneiden."
+    },
+    {
+      "text": "Eine Pfanne mit Öl besprühen und erhitzen. Hähnchen und Zwiebel darin anbraten.",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Das Hähnchen aus der Pfanne nehmen."
+    },
+    {
+      "text": "Sahne, Gemüsebrühe, den in Stücke geschnittenen Old Amsterdam und den Sahne-Schmelzkäse in die Pfanne geben und schmelzen lassen.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Die Jalapeño in Ringe schneiden und zusammen mit Paprikapulver und Chilipulver in die Pfanne geben. Mit Pfeffer und Salz abschmecken."
+    },
+    {
+      "text": "Salatblätter auf die Teller verteilen und das Hähnchen darauf verteilen."
+    },
+    {
+      "text": "Am Ende die Chili-Cheese-Soße darüber geben."
+    }
+  ]
+}

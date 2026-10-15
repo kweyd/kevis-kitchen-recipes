@@ -1,0 +1,176 @@
+{
+  "id": "erdnuss-suppe",
+  "version": 1,
+  "title": "Erdnusssuppe",
+  "summary": "Würzig-cremige Tomaten-Erdnuss-Suppe mit Ingwer und Chili, dazu Basmatireis.",
+  "emoji": "🥜",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegan",
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 585,
+    "protein": 18,
+    "fat": 27,
+    "carbs": 60
+  },
+  "ingredients": [
+    {
+      "name": "Erdnussbutter",
+      "amount": 100,
+      "unit": "g",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "peanuts"
+      ]
+    },
+    {
+      "name": "Passierte Tomaten",
+      "amount": 200,
+      "unit": "ml",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gemüsebrühe",
+      "amount": 500,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 500,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Rote Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ingwer",
+      "amount": 10,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "etwas",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Basmatireis",
+      "amount": 125,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Erdnüsse",
+      "amount": 25,
+      "unit": "g",
+      "category": "snacks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "peanuts"
+      ]
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tomatenmark",
+      "amount": 40,
+      "unit": "g",
+      "category": "canned",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chilipulver",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zwiebel, Ingwer und Knoblauch schälen, klein schneiden und in einem Topf mit etwas Öl anbraten.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Mit Gemüsebrühe und den passierten Tomaten ablöschen."
+    },
+    {
+      "text": "Den Reis kochen.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Erdnussbutter, Tomatenmark, Chilipulver, Pfeffer und Salz in die Suppe geben und für 15 Minuten kochen.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Die Suppe mit dem Reis anrichten und die Erdnüsse über die Portionen verteilen."
+    }
+  ]
+}

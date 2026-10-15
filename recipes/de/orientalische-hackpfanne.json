@@ -1,0 +1,246 @@
+{
+  "id": "orientalische-hackpfanne",
+  "version": 1,
+  "title": "Orientalische Hackpfanne mit Joghurt-Dip",
+  "summary": "Würzige Hackpfanne mit Paprika, Kichererbsen und Feta, dazu ein frischer Knoblauch-Joghurt-Dip.",
+  "emoji": "🌶️",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 725,
+    "protein": 39,
+    "fat": 45,
+    "carbs": 34
+  },
+  "ingredients": [
+    {
+      "name": "Rinderhackfleisch",
+      "amount": 250,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 1,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Veganes Hack (Erbsenprotein)",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 7
+        }
+      ]
+    },
+    {
+      "name": "Rote Paprika",
+      "amount": 2,
+      "unit": "piece",
+      "note": "2–3, je nach Größe",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rote Chilischote",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Kichererbsen",
+      "amount": 135,
+      "unit": "g",
+      "note": "aus der Dose, abgetropft",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Feta",
+      "amount": 100,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegane Feta-Alternative",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Griechischer Joghurt",
+      "amount": 150,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreier Joghurt griechischer Art",
+          "amount": 150,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Sojajoghurt (ungesüßt)",
+          "amount": 150,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 5,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Schnittlauch (getrocknet)",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rapsöl",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tomatenmark",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "canned",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honig",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agavendicksaft",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Paprikapulver (edelsüß)",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zwiebel, Knoblauch, Paprika und Chili klein schneiden."
+    },
+    {
+      "text": "Öl in einer Pfanne erhitzen und die Zwiebel glasig anbraten.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Hackfleisch dazugeben und krümelig anbraten.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Paprika, die Hälfte vom Knoblauch und die Chili dazugeben und anbraten.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Tomatenmark, Paprikapulver, Pfeffer und Salz dazugeben. Nach zwei Minuten 75 ml Wasser dazugießen und aufkochen lassen.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Kichererbsen und klein geschnittenen Feta unterrühren."
+    },
+    {
+      "text": "Für den Dip den Joghurt mit dem restlichen Knoblauch, Honig und Schnittlauch verrühren und mit Pfeffer und Salz abschmecken."
+    }
+  ]
+}

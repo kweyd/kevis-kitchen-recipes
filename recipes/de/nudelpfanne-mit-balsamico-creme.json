@@ -1,0 +1,215 @@
+{
+  "id": "nudelpfanne-mit-balsamico-creme",
+  "version": 1,
+  "title": "Nudelpfanne mit Balsamico-Creme",
+  "summary": "Leichte Spaghetti-Pfanne mit Tomaten, Spinat, gerösteter Zitrone und Balsamico.",
+  "emoji": "🍅",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarisch",
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 656,
+    "protein": 24,
+    "fat": 8,
+    "carbs": 115
+  },
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": 250,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreie Spaghetti",
+          "amount": 250,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Tomaten",
+      "amount": 400,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Spinat",
+      "amount": 100,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 2,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zitrone",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 5,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprikapulver rosenscharf",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Italienische Kräuter",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pinienkerne",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "snacks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "nuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Sonnenblumenkerne",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "snacks",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Olivenöl",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honig",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agavendicksaft",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Chilipulver",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Balsamico-Creme",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ]
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Die Nudeln in einem Topf kochen.",
+      "timerMinutes": 9
+    },
+    {
+      "text": "Zwiebel und Knoblauch schälen und kleinschneiden, Spinat waschen und Tomaten vierteln."
+    },
+    {
+      "text": "In einer Pfanne Olivenöl erhitzen und die halbierte Zitrone 3 Minuten anrösten.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Die Zitrone aus der Pfanne nehmen und die Zwiebeln anbraten.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Knoblauch, Pinienkerne, Paprikapulver, italienische Kräuter und Honig dazugeben."
+    },
+    {
+      "text": "Die Nudeln abgießen und zusammen mit Balsamico-Creme, Spinat und Tomaten in die Pfanne geben und 5 Minuten kochen lassen. Mit Salz abschmecken.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Mit Chilipulver und den Zitronenhälften servieren."
+    }
+  ]
+}

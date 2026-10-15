@@ -1,0 +1,163 @@
+{
+  "id": "tabouleh",
+  "version": 1,
+  "title": "Tabbouleh",
+  "summary": "Fresh bulgur salad with lots of mint, parsley and crunchy pomegranate seeds.",
+  "emoji": "🥗",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegan"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 692,
+    "protein": 21,
+    "fat": 41,
+    "carbs": 57
+  },
+  "ingredients": [
+    {
+      "name": "Cucumber",
+      "amount": 300,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tomatoes",
+      "amount": 300,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Bulgur",
+      "amount": 160,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Quinoa",
+          "amount": 160,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lemon",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Olive oil",
+      "amount": 60,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mint",
+      "amount": 1,
+      "unit": "bunch",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Parsley",
+      "amount": 40,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pomegranate seeds",
+      "amount": 100,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chili powder",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the bulgur in a pot with twice the amount of water.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Finely chop the cucumber, tomatoes, parsley, mint and onion and put them in a bowl."
+    },
+    {
+      "text": "Squeeze the lemon juice over it and add the olive oil."
+    },
+    {
+      "text": "Let the bulgur cool and add it to the bowl.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Then add the pomegranate seeds, stir and season with pepper, salt and chili."
+    }
+  ]
+}

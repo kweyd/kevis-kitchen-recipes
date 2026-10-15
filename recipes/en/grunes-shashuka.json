@@ -1,0 +1,264 @@
+{
+  "id": "grunes-shashuka",
+  "version": 1,
+  "title": "Green Shakshuka",
+  "summary": "Eggs baked in spinach, peas and white beans with feta, plus crispy garlic ciabatta.",
+  "emoji": "🍳",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 800,
+    "protein": 40,
+    "fat": 40,
+    "carbs": 69
+  },
+  "ingredients": [
+    {
+      "name": "Frozen spinach",
+      "amount": 300,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Peas",
+      "amount": 100,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "note": "frozen",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Feta",
+      "amount": 100,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan feta alternative",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "White beans",
+      "amount": 100,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "drained",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Eggs",
+      "amount": 4,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Firm tofu (crumbled)",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Garlic",
+      "amount": 5,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "note": "3 for the pan, 2 for the ciabatta",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Spring onions",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprika powder",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Parsley",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "note": "dried",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ciabatta",
+      "amount": 1,
+      "unit": "piece",
+      "category": "bakery",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free bread",
+          "amount": 1,
+          "unit": "piece",
+          "category": "bakery",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 3
+        }
+      ]
+    },
+    {
+      "name": "Butter",
+      "amount": 20,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free butter",
+          "amount": 20,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Vegan butter",
+          "amount": 20,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Chives",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": false,
+      "note": "dried or freshly chopped",
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Peel and finely chop the onion and garlic."
+    },
+    {
+      "text": "Heat oil in a pan and stir the paprika into the oil. Fry the onion and garlic in it.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Now add the frozen spinach and peas to the pan and let them thaw.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Slice the spring onions and add them to the pan with the white beans. Season with parsley, pepper and salt."
+    },
+    {
+      "text": "Make 4 wells in the pan and crack an egg into each."
+    },
+    {
+      "text": "Crumble the feta over the top, cover the pan with a lid and cook over medium heat for 10 minutes.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Meanwhile, toast the ciabatta and top it with butter, garlic, salt and chives."
+    }
+  ]
+}

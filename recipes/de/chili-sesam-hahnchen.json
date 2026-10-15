@@ -1,0 +1,266 @@
+{
+  "id": "chili-sesam-hahnchen",
+  "version": 1,
+  "title": "Chili-Sesam-Hähnchen",
+  "summary": "Würziges Sesam-Hähnchen aus dem Airfryer mit Butterreis, Pfannengemüse und Ajvar-Chili-Mayo.",
+  "emoji": "🌶️",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 631,
+    "protein": 41,
+    "fat": 28,
+    "carbs": 47
+  },
+  "ingredients": [
+    {
+      "name": "Hähnchenbrustfilet",
+      "amount": 150,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegane Hähnchenstücke (Soja)",
+          "amount": 150,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Kichererbsen",
+          "amount": 0.6,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Sesamsamen",
+      "amount": 3,
+      "unit": "tbsp",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sesame"
+      ]
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Olivenöl",
+      "amount": 20,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chilipulver",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprikapulver geräuchert",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Reis",
+      "amount": 120,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Butter",
+      "amount": 25,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Butter",
+          "amount": 25,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Pflanzliche Butter",
+          "amount": 25,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Rote Paprika",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Champignons",
+      "amount": 100,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ajvar",
+      "amount": 35,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": 25,
+      "unit": "g",
+      "category": "spices",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "eggs",
+        "mustard"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegane Mayonnaise",
+          "amount": 25,
+          "unit": "g",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "mustard"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crispy Chili Oil",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": false,
+      "note": "je nach Marke auch mit Erdnüssen oder Sesam",
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ]
+    },
+    {
+      "name": "Lauchzwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pflanzenöl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "note": "zum Braten",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hähnchenbrust klein schneiden. Knoblauch schälen und pressen."
+    },
+    {
+      "text": "Das Hähnchen mit 15 ml Olivenöl, Knoblauch, Chilipulver, Paprikapulver und einem Esslöffel Sesam marinieren."
+    },
+    {
+      "text": "Reis zusammen mit der Butter in einem Topf kochen.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Das marinierte Hähnchen für 18 Minuten bei 200 °C in den Airfryer geben. Nach der Hälfte umdrehen.",
+      "timerMinutes": 18
+    },
+    {
+      "text": "Paprika, Zwiebel und Champignons kleinschneiden. Alles mit etwas Öl in einer Pfanne anbraten.",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Ajvar mit Mayonnaise, 5 ml Olivenöl und Crispy Chili Oil mischen."
+    },
+    {
+      "text": "Lauchzwiebel klein schneiden und alles zusammen servieren, mit dem restlichen Sesam bestreut."
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id": "zitronen-feta-pasta-mit-erbsen",
+  "version": 1,
+  "title": "Zitronen-Feta-Pasta mit Erbsen",
+  "summary": "Frische Bandnudeln mit Zitrone, Feta, Dill und Erbsen – cremig dank Kokosmilch.",
+  "emoji": "🍝",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarisch",
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 912,
+    "protein": 33.8,
+    "fat": 40.9,
+    "carbs": 99.4
+  },
+  "ingredients": [
+    {
+      "name": "Bandnudeln",
+      "amount": 250,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "gluten",
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Bandnudeln ohne Ei (Hartweizen)",
+          "amount": 250,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ]
+        },
+        {
+          "name": "Glutenfreie Bandnudeln",
+          "amount": 250,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Kokosmilch",
+      "amount": 200,
+      "unit": "ml",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Erbsen",
+      "amount": 140,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "note": "TK",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Feta",
+      "amount": 100,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegane Feta-Alternative",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Parmesan",
+      "amount": 25,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Veganer Parmesan-Ersatz",
+          "amount": 25,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Butter",
+      "amount": 25,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Butter",
+          "amount": 25,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Pflanzliche Butter",
+          "amount": 25,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Dill",
+      "amount": 1,
+      "unit": "bunch",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zitrone",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "unbehandelt",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Die Nudeln in einem Topf kochen.",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Die Butter in einer Pfanne zerlaufen lassen und den Abrieb und Saft einer Zitrone dazugeben."
+    },
+    {
+      "text": "Erbsen und geriebenen Parmesan dazugeben."
+    },
+    {
+      "text": "Den Feta zerteilen und mit Kokosmilch und Dill in die Pfanne geben.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Die Nudeln abgießen und auch in die Pfanne geben."
+    },
+    {
+      "text": "Mit Pfeffer und Salz abschmecken."
+    }
+  ]
+}

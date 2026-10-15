@@ -1,0 +1,257 @@
+{
+  "id": "lachs-bowl",
+  "version": 1,
+  "title": "Salmon Bowl",
+  "summary": "Marinated air-fried salmon with rice, avocado, orange, edamame and sweet chili mayo.",
+  "emoji": "🍣",
+  "servings": 2,
+  "prepMinutes": 60,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 625,
+    "protein": 36,
+    "fat": 31,
+    "carbs": 56
+  },
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": 125,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Avocado",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salmon fillet",
+      "amount": 250,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "note": "frozen, thawed",
+      "diet": "fish",
+      "allergens": [
+        "fish"
+      ],
+      "alternatives": [
+        {
+          "name": "Firm tofu",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Orange",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Edamame",
+      "amount": 100,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "note": "frozen, shelled",
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Frozen peas",
+          "amount": 100,
+          "unit": "g",
+          "category": "frozen",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Red onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mini cucumber",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ginger",
+      "amount": 10,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "a small piece",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Soy sauce",
+      "amount": 3,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (gluten-free soy sauce)",
+          "amount": 3,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Coconut aminos",
+          "amount": 3,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Brown sugar",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honey",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agave syrup",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "eggs",
+        "mustard"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan mayonnaise",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "mustard"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sweet chili sauce",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Put the salmon in a bowl and marinate it with the soy sauce, brown sugar, honey and finely chopped ginger and garlic."
+    },
+    {
+      "text": "Let the salmon marinate in the fridge for 30 minutes.",
+      "timerMinutes": 30
+    },
+    {
+      "text": "Cut the avocado, orange, onion and cucumber into bite-sized pieces."
+    },
+    {
+      "text": "Warm the edamame in hot water for 5 minutes.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Rinse and cook the rice.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Air-fry the salmon with its marinade at 180 °C for 14 minutes.",
+      "timerMinutes": 14
+    },
+    {
+      "text": "For the sauce, mix the mayonnaise with the sweet chili sauce."
+    },
+    {
+      "text": "Finally, divide the rice between bowls and top with the salmon, toppings and sauce."
+    }
+  ]
+}

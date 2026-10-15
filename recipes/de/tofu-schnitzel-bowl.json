@@ -1,0 +1,282 @@
+{
+  "id": "tofu-schnitzel-bowl",
+  "version": 1,
+  "title": "Tofu-Schnitzel-Bowl",
+  "summary": "Knusprige Panko-Tofuschnitzel auf Reis mit Zucchini in Sweet-Chili-Soße, Avocado und Erdnuss-Limetten-Topping.",
+  "emoji": "🍚",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarisch"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 750,
+    "protein": 30,
+    "fat": 30,
+    "carbs": 75
+  },
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zucchini",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lauchzwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Limetten",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sweet-Chili-Sauce",
+      "amount": 75,
+      "unit": "g",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tofu natur",
+      "amount": 180,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ]
+    },
+    {
+      "name": "Panko-Paniermehl",
+      "amount": 50,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreies Paniermehl",
+          "amount": 50,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Erdnüsse (geröstet, gesalzen)",
+      "amount": 20,
+      "unit": "g",
+      "category": "snacks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "peanuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Sonnenblumenkerne",
+          "amount": 20,
+          "unit": "g",
+          "category": "snacks",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Speisestärke",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Weißer Reis",
+      "amount": 150,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honig",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agavendicksaft",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Ei",
+      "amount": 1,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Mehl (mit etwas Wasser angerührt)",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sojasauce",
+      "amount": 25,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (glutenfreie Sojasauce)",
+          "amount": 25,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Kokos-Aminos",
+          "amount": 25,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "note": "zum Braten und Frittieren",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Reis kochen.",
+      "timerMinutes": 12
+    },
+    {
+      "text": "Währenddessen Knoblauch schälen und klein schneiden. Zucchini in dünne Scheiben schneiden. Lauchzwiebel in Ringe, Limetten in Viertel und die geschälte Avocado in Streifen schneiden."
+    },
+    {
+      "text": "In einer Schüssel die Sweet-Chili-Sauce mit 150 ml Wasser, Honig, Sojasauce, etwas Pfeffer und Speisestärke mischen."
+    },
+    {
+      "text": "Eine Pfanne mit Öl erhitzen und Knoblauch und Zucchini anbraten.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Ei mit Pfeffer und Salz in einem Teller verrühren, in einen anderen Teller das Panko-Paniermehl geben. Den Tofu ausdrücken und mittig durchschneiden, sodass zwei flache Schnitzel entstehen. In beiden Tellern panieren, dabei die Stationen am besten doppelt durchlaufen."
+    },
+    {
+      "text": "Die Lauchzwiebelringe mit dem Saft der Limetten und den Erdnüssen mischen."
+    },
+    {
+      "text": "Die Zucchini in der Pfanne mit der Sweet-Chili-Sauce ablöschen und köcheln lassen.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Die panierten Tofuschnitzel bei 200 °C von jeder Seite 4 Minuten frittieren.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Reis auf den Tellern anrichten, darüber die Zucchini in der Sweet-Chili-Sauce. Darauf die Avocadostreifen und die Mischung aus Erdnüssen, Lauchzwiebeln und Limettensaft verteilen. Die Schnitzel in Stücke schneiden und obendrauf geben."
+    }
+  ]
+}

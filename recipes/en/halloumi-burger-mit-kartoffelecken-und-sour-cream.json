@@ -1,0 +1,387 @@
+{
+  "id": "halloumi-burger-mit-kartoffelecken-und-sour-cream",
+  "version": 1,
+  "title": "Halloumi Burger with Potato Wedges, Sour Cream and a Virgin Mojito",
+  "summary": "Crispy halloumi with avocado sauce and a fried egg in a bun, with spicy wedges and a refreshing virgin mojito.",
+  "emoji": "🍔",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "vegetarian"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 1080,
+    "protein": 42,
+    "fat": 68,
+    "carbs": 79
+  },
+  "ingredients": [
+    {
+      "name": "Burger buns",
+      "amount": 4,
+      "unit": "piece",
+      "category": "bakery",
+      "pantry": false,
+      "note": "pretzel buns work great",
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free burger buns",
+          "amount": 4,
+          "unit": "piece",
+          "category": "bakery",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Butter",
+      "amount": 20,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": true,
+      "note": "for the buns",
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free butter",
+          "amount": 20,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Vegan butter",
+          "amount": 20,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Avocado",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lemon",
+      "amount": 1.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "1 for the burger sauce, ½ for the sour cream",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chili pepper",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "note": "3 for the burger sauce, 1 for the sour cream",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Olive oil",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rocket",
+      "amount": 50,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Eggs",
+      "amount": 4,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Firm tofu (sliced and fried)",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Halloumi",
+      "amount": 400,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 30,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Firm tofu",
+          "amount": 400,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Potatoes",
+      "amount": 500,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oil",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "note": "plus a little for frying",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sweet paprika powder",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chili powder",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Crème fraîche",
+      "amount": 200,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free crème fraîche",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Soy yoghurt (unsweetened)",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "White balsamic vinegar",
+      "amount": 0.5,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ]
+    },
+    {
+      "name": "Spring onion",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ginger ale",
+      "amount": 800,
+      "unit": "ml",
+      "category": "drinks",
+      "pantry": false,
+      "note": "zero sugar if you like",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sparkling water",
+      "amount": 400,
+      "unit": "ml",
+      "category": "drinks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mint",
+      "amount": 1,
+      "unit": "bunch",
+      "category": "produce",
+      "pantry": false,
+      "note": "8 sprigs",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Brown sugar",
+      "amount": 4,
+      "unit": "tsp",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Limes",
+      "amount": 4,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ice cubes",
+      "unit": "to taste",
+      "category": "frozen",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "For the burger sauce, blend the avocado with the juice of one lemon, 3 garlic cloves, the chili, 1 tbsp olive oil and a little pepper and salt, then let it rest in the fridge."
+    },
+    {
+      "text": "Wash the potatoes and cut them into wedges. Toss them well in a large bowl with oil, paprika, chili powder, pepper and salt and let them marinate."
+    },
+    {
+      "text": "Bake the wedges in the oven at 200 °C for 30 minutes, turning them occasionally.",
+      "timerMinutes": 30
+    },
+    {
+      "text": "For the sour cream, stir the crème fraîche with the juice of half a lemon, the white balsamic, one pressed garlic clove, the finely sliced spring onion, and pepper and salt."
+    },
+    {
+      "text": "Cut the halloumi into 4 equal pieces and cook them in the air fryer at 200 °C for 12 minutes per side.",
+      "timerMinutes": 12
+    },
+    {
+      "text": "Meanwhile, butter the burger buns and toast them in a pan. Fry the 4 eggs sunny side up in another pan.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Spread a generous amount of burger sauce on the bottom bun and top with rocket. Add the halloumi, then the egg and the bun lid."
+    },
+    {
+      "text": "For each virgin mojito, quarter a lime. Squeeze 2 quarters into the glass and add the other 2 quarters whole. Add 1 tsp brown sugar and 2 sprigs of mint and press lightly."
+    },
+    {
+      "text": "Pour in 200 ml ginger ale and 100 ml sparkling water and fill the rest of the glass with ice."
+    }
+  ]
+}

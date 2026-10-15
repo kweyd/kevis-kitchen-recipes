@@ -1,0 +1,333 @@
+{
+  "id": "orange-chicken-mit-reis",
+  "version": 1,
+  "title": "Orange Chicken mit Reis",
+  "summary": "Knusprig panierte Hähnchenstücke aus dem Airfryer in fruchtiger Orangen-Soja-Soße auf Reis.",
+  "emoji": "🍊",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 640,
+    "protein": 34,
+    "fat": 17,
+    "carbs": 87
+  },
+  "ingredients": [
+    {
+      "name": "Hähnchenbrustfilet",
+      "amount": 200,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegane Hähnchenstücke (Soja)",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Blumenkohl",
+          "amount": 300,
+          "unit": "g",
+          "category": "produce",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Reis",
+      "amount": 100,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Orange",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "Bio, Abrieb und Saft",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 1,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Schalotte",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lauchzwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sojasoße",
+      "amount": 50,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (glutenfreie Sojasauce)",
+          "amount": 50,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Kokos-Aminos",
+          "amount": 50,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Wasser",
+      "amount": 60,
+      "unit": "ml",
+      "category": "other",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Reisessig",
+      "amount": 25,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ]
+    },
+    {
+      "name": "Zucker",
+      "amount": 1.5,
+      "unit": "tbsp",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sesamöl",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sesame"
+      ],
+      "alternatives": [
+        {
+          "name": "Pflanzenöl",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Speisestärke",
+      "amount": 10,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mehl",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "baking",
+      "pantry": true,
+      "note": "zum Panieren",
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreie Mehlmischung",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Milch",
+      "amount": 100,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Milch",
+          "amount": 100,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Haferdrink",
+          "amount": 100,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Sojadrink",
+          "amount": 100,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Paniermehl",
+      "amount": 50,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreies Paniermehl",
+          "amount": 50,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Den Reis kochen.",
+      "timerMinutes": 12
+    },
+    {
+      "text": "Für die Soße Abrieb und Saft der Orange mit Sojasoße, Wasser, Reisessig, Zucker, Sesamöl und Speisestärke in eine Schüssel geben und umrühren."
+    },
+    {
+      "text": "Die Hähnchenbrust würfeln, mit Mehl bestreuen und in Milch und Paniermehl panieren."
+    },
+    {
+      "text": "Die panierten Hähnchenstücke 16 Minuten bei 200 °C in den Airfryer geben. Nach 8 Minuten wenden.",
+      "timerMinutes": 16
+    },
+    {
+      "text": "Knoblauchzehe und Schalotte schälen, klein schneiden und in einem Topf mit Öl anbraten.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Die Soße aus der Schüssel dazugeben und aufkochen lassen, bis sie etwas dicker wird. Mit Pfeffer und Salz abschmecken.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Am Ende die Hähnchenstücke kurz unter die Soße heben."
+    },
+    {
+      "text": "Den Reis auf die Teller geben, das Hähnchen mit Soße darauf verteilen und ein paar Lauchzwiebelstücke darüberstreuen."
+    }
+  ]
+}

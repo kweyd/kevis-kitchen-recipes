@@ -1,0 +1,269 @@
+{
+  "id": "mie-nudelsalt",
+  "version": 1,
+  "title": "Mie Noodle Salad",
+  "summary": "Mie noodles in a cashew-soy sauce with smoked tofu, carrots and crunchy red cabbage.",
+  "emoji": "🥢",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 640,
+    "protein": 31,
+    "fat": 25,
+    "carbs": 70
+  },
+  "ingredients": [
+    {
+      "name": "Smoked tofu",
+      "amount": 200,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Chickpeas",
+          "amount": 0.8,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Mie noodles",
+      "amount": 125,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "note": "egg-free – check the label",
+      "diet": "animal",
+      "allergens": [
+        "eggs",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Egg-free mie noodles",
+          "amount": 125,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ]
+        },
+        {
+          "name": "Rice noodles",
+          "amount": 125,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Carrots",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "large",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Red cabbage",
+      "amount": 50,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Cashew butter",
+      "amount": 5,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "nuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Peanut butter",
+          "amount": 5,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": [
+            "peanuts"
+          ]
+        },
+        {
+          "name": "Tahini (sesame paste)",
+          "amount": 5,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": [
+            "sesame"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ginger",
+      "amount": 10,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "about 1 cm",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Agave syrup",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sesame"
+      ]
+    },
+    {
+      "name": "Spring onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Soy sauce",
+      "amount": 5,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (gluten-free soy sauce)",
+          "amount": 5,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Coconut aminos",
+          "amount": 5,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Chili flakes",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Pour boiling water over the mie noodles and let them soak.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Peel and finely chop the garlic, ginger and onion. Peel the carrots and cut them into bite-sized slices; cut the red cabbage and spring onion into fine strips. Dice the tofu."
+    },
+    {
+      "text": "In a large bowl, stir the soy sauce with the cashew butter and agave syrup to make a sauce."
+    },
+    {
+      "text": "Drain the noodles and fold them into the sauce."
+    },
+    {
+      "text": "Heat oil in a pan and fry the onion. Then add the ginger and garlic.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Once the garlic is lightly browned, add the carrots and tofu.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "When everything has cooked a little, fold in the noodles and fry them briefly.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "To serve, divide everything between the plates and sprinkle with sesame seeds, spring onion, red cabbage and chili flakes."
+    }
+  ]
+}

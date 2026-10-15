@@ -1,0 +1,304 @@
+{
+  "id": "krauter-fleischballchen-mit-feta-creme",
+  "version": 1,
+  "title": "Kräuter-Fleischbällchen mit Feta-Creme",
+  "summary": "Würzige Kräuter-Fleischbällchen mit knusprigen Zitronen-Kartoffelspalten auf cremiger Feta-Joghurt-Creme.",
+  "emoji": "🧆",
+  "servings": 2,
+  "prepMinutes": 50,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 1250,
+    "protein": 61,
+    "fat": 85,
+    "carbs": 62
+  },
+  "ingredients": [
+    {
+      "name": "Kartoffeln",
+      "amount": 500,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rinderhackfleisch",
+      "amount": 250,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 1,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Veganes Hack (Erbsenprotein)",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 7
+        }
+      ]
+    },
+    {
+      "name": "Minze",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "produce",
+      "pantry": false,
+      "note": "frisch, gehackt",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Dill",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "produce",
+      "pantry": false,
+      "note": "frisch, gehackt",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Petersilie",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "produce",
+      "pantry": false,
+      "note": "frisch, gehackt",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Griechischer Joghurt",
+      "amount": 300,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreier Joghurt griechischer Art",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Sojajoghurt natur",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Feta",
+      "amount": 200,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegane Feta-Alternative",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Eigelb",
+      "amount": 1,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "note": "von 1 Ei",
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Kichererbsenmehl (1 EL + 1 EL Wasser)",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Paniermehl",
+      "amount": 30,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreies Paniermehl",
+          "amount": 30,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Pinienkerne",
+      "amount": 30,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "nuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Sonnenblumenkerne",
+          "amount": 30,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Olivenöl",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chilipulver",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprikapulver edelsüß",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauchpulver",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zitrone",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "note": "für die Kartoffeln",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kartoffeln waschen und in Spalten schneiden."
+    },
+    {
+      "text": "Die Kartoffelspalten mit dem Abrieb einer Zitrone, etwas Öl, Paprikapulver, Knoblauchpulver, Salz und Pfeffer marinieren und für 25 Minuten bei 160 °C in den Airfryer geben.",
+      "timerMinutes": 25
+    },
+    {
+      "text": "Pinienkerne ohne Öl in einer Pfanne anrösten.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Das Hackfleisch mit einem Teil der Pinienkerne, Eigelb, Minze, Dill, Petersilie, Chilipulver, Paniermehl, Salz und Pfeffer vermengen und kleine Fleischbällchen rollen."
+    },
+    {
+      "text": "Die Fleischbällchen für 12 Minuten bei 200 °C in den Airfryer geben.",
+      "timerMinutes": 12
+    },
+    {
+      "text": "Für die Creme den Feta mit griechischem Joghurt, Olivenöl, dem Saft einer Zitrone, Pfeffer und Salz pürieren."
+    },
+    {
+      "text": "Zum Anrichten die Fleischbällchen mit den Kartoffelspalten auf der Creme anrichten und die restlichen Pinienkerne darüber streuen."
+    }
+  ]
+}

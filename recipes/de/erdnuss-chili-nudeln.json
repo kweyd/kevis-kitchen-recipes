@@ -1,0 +1,290 @@
+{
+  "id": "erdnuss-chili-nudeln",
+  "version": 1,
+  "title": "Erdnuss-Chili-Nudeln",
+  "summary": "Scharfe, cremige Nudelsuppe mit Erdnussbutter, Kokosmilch und gebratenem Tofu.",
+  "emoji": "🥜",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarisch",
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 656,
+    "protein": 29,
+    "fat": 32,
+    "carbs": 60
+  },
+  "ingredients": [
+    {
+      "name": "Tofu natur",
+      "amount": 200,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Kichererbsen",
+          "amount": 1,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": [],
+          "note": "abgetropft"
+        }
+      ]
+    },
+    {
+      "name": "Hot Pepper Paste (Gochujang)",
+      "amount": 35,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten",
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Sriracha-Soße",
+          "amount": 35,
+          "unit": "g",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": [
+            "sulphites"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kokosmilch",
+      "amount": 200,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mie-Nudeln",
+      "amount": 125,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "note": "ohne Ei – Zutatenliste prüfen",
+      "diet": "animal",
+      "allergens": [
+        "eggs",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Mie-Nudeln ohne Ei",
+          "amount": 125,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ]
+        },
+        {
+          "name": "Reisnudeln",
+          "amount": 125,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Crispy Chili Öl",
+      "amount": 10,
+      "unit": "g",
+      "category": "spices",
+      "pantry": false,
+      "note": "je nach Marke auch mit Erdnüssen",
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ]
+    },
+    {
+      "name": "Erdnussbutter",
+      "amount": 20,
+      "unit": "g",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "peanuts"
+      ]
+    },
+    {
+      "name": "Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 5,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ingwer",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "ca. 0,5 cm",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lauchzwiebeln",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sesamsamen",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sesame"
+      ]
+    },
+    {
+      "name": "Gemüsebrühe",
+      "amount": 500,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 500,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Sojasoße",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (glutenfreie Sojasauce)",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Kokos-Aminos",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Chiliflocken",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Den Tofu mit Küchenpapier ausdrücken und in kleine Würfel schneiden. Die Zwiebel schälen und kleinschneiden."
+    },
+    {
+      "text": "Zwiebel und Tofu in einem Topf mit etwas Öl anbraten.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Knoblauch und Ingwer klein schneiden und in den Topf geben. Nach ein paar Minuten die Hot Pepper Paste hinzugeben.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Gemüsebrühe, Kokosnussmilch, Sojasoße, Crispy Chili Öl und Erdnussbutter mit in den Topf geben. Mit Salz und Chiliflocken abschmecken."
+    },
+    {
+      "text": "Die Mie-Nudeln mit kochendem Wasser übergießen und 5 Minuten ziehen lassen.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Die Sesamsamen in einer Pfanne ohne Öl rösten."
+    },
+    {
+      "text": "Die Nudeln abgießen und mit der Soße auf die Teller verteilen. Mit Lauchzwiebeln und Sesam garnieren."
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "quarknudeln-mit-schinken-und-pilzen",
+  "version": 1,
+  "title": "Quarknudeln mit Schinken und Pilzen",
+  "summary": "Proteinreiche Vollkornnudeln mit Speck, Champignons und cremiger Quarksoße, getoppt mit Röstzwiebeln.",
+  "emoji": "🍄",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 704,
+    "protein": 46,
+    "fat": 15,
+    "carbs": 90
+  },
+  "ingredients": [
+    {
+      "name": "Vollkornnudeln",
+      "amount": 250,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreie Nudeln",
+          "amount": 250,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Braune Champignons",
+      "amount": 250,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Magerquark",
+      "amount": 250,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreier Magerquark",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Sojajoghurt natur",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Speck",
+      "amount": 125,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "note": "gewürfelt",
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Räuchertofu",
+          "amount": 125,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Röstzwiebeln",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Frische Zwiebel (in Öl knusprig gebraten)",
+          "amount": 1,
+          "unit": "piece",
+          "category": "produce",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Petersilie",
+      "amount": 0.5,
+      "unit": "bunch",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Die Nudeln in einem Topf kochen.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Den Speck in einer Pfanne anbraten und parallel dazu die Champignons in Scheiben schneiden.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Die Champignons in die Pfanne geben und mitbraten.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Den Magerquark dazugeben und mit Pfeffer und Salz würzen."
+    },
+    {
+      "text": "Die Nudeln abgießen, in die Pfanne geben und alles umrühren."
+    },
+    {
+      "text": "Petersilie und Röstzwiebeln darüber geben."
+    }
+  ]
+}

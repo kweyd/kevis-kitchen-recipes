@@ -1,0 +1,193 @@
+{
+  "id": "hahnchen-salatmix-mit-avocado",
+  "version": 1,
+  "title": "Hähnchen-Salatmix mit Avocado",
+  "summary": "Knackiger Salat mit Hähnchenstreifen und einem cremigen Avocado-Knoblauch-Dressing.",
+  "emoji": "🥗",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 360,
+    "protein": 20,
+    "fat": 20,
+    "carbs": 15
+  },
+  "ingredients": [
+    {
+      "name": "Salatmix",
+      "amount": 100,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 2,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salatgurke",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Avocado",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zitrone",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chili",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tomaten",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Karotte",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rote Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mais",
+      "amount": 140,
+      "unit": "g",
+      "note": "abgetropft",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Hähnchenbrustfilet",
+      "amount": 200,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegane Hähnchenstücke (Soja)",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Kichererbsen",
+          "amount": 0.8,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Olivenöl",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hähnchenbrust in Streifen schneiden und für 2x 10 Minuten bei 200 °C in den Airfryer geben.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Salat waschen und kräftig schleudern."
+    },
+    {
+      "text": "Die Zwiebel schälen und in Ringe schneiden. Gurke und Tomaten in Stücke schneiden."
+    },
+    {
+      "text": "Mais abtropfen lassen, Karotte schälen und hobeln und alles mit dem Salat in eine Schüssel geben."
+    },
+    {
+      "text": "Für das Dressing Schale und Kern der Avocado entfernen und den Knoblauch schälen. Alles mit dem Saft einer Zitrone, der Chili, 2 EL Olivenöl und etwas Pfeffer und Salz pürieren."
+    },
+    {
+      "text": "Dressing mit dem Hähnchen in die Schüssel geben und umrühren."
+    }
+  ]
+}

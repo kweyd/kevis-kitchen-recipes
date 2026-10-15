@@ -1,0 +1,233 @@
+{
+  "id": "beef-wellington",
+  "version": 1,
+  "title": "Beef Wellington",
+  "summary": "The festive classic: sous-vide beef fillet with a chestnut mushroom filling and Parma ham in golden puff pastry.",
+  "emoji": "🥩",
+  "servings": 4,
+  "prepMinutes": 170,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 1020,
+    "protein": 64,
+    "fat": 52,
+    "carbs": 62
+  },
+  "ingredients": [
+    {
+      "name": "Beef fillet",
+      "amount": 800,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": []
+    },
+    {
+      "name": "Chestnuts",
+      "amount": 200,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "cooked, vacuum-packed",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Brown mushrooms",
+      "amount": 250,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Parma ham",
+      "amount": 12,
+      "unit": "slice",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": []
+    },
+    {
+      "name": "Puff pastry",
+      "amount": 500,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "note": "chilled",
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free puff pastry",
+          "amount": 500,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Thyme",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "1 sprig",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "White wine",
+      "amount": 100,
+      "unit": "ml",
+      "category": "drinks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "White grape juice",
+          "amount": 100,
+          "unit": "ml",
+          "category": "drinks",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Mustard",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "mustard"
+      ]
+    },
+    {
+      "name": "Egg yolk",
+      "amount": 1,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "note": "for brushing",
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Milk (for brushing)",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk",
+            "lactose"
+          ]
+        },
+        {
+          "name": "Soy drink (for brushing)",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Garlic",
+      "amount": 2,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "note": "for the filling",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "note": "for searing",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vacuum-seal the beef fillet and cook sous vide at 52 °C for 90 minutes.",
+      "timerMinutes": 90
+    },
+    {
+      "text": "Put the chestnuts, mushrooms, thyme leaves, garlic and white wine in a blender and blitz finely."
+    },
+    {
+      "text": "Cook the mixture in a dry pan until all the liquid has evaporated.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Lay out cling film and arrange the ham on it. Spread the mushroom mixture over the ham."
+    },
+    {
+      "text": "Season the beef with salt and pepper, sear it all over in a hot pan with a little oil and brush with mustard.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Place the fillet on the ham and mushroom layer, roll up tightly using the cling film and chill for at least 15 minutes.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Lay out fresh cling film and roll out the puff pastry on it."
+    },
+    {
+      "text": "Unwrap the fillet, place it on the pastry, roll it up and chill again for at least 15 minutes.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Preheat the oven to 200 °C."
+    },
+    {
+      "text": "Brush the pastry with egg yolk and bake for 22 minutes.",
+      "timerMinutes": 22
+    }
+  ]
+}

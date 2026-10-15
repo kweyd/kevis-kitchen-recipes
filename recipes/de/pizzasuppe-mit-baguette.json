@@ -1,0 +1,365 @@
+{
+  "id": "pizzasuppe-mit-baguette",
+  "version": 1,
+  "title": "Pizzasuppe mit Baguette",
+  "summary": "Cremige Hack-Tomaten-Suppe mit Paprika und Mais – schmeckt wie Pizza, dazu knuspriges Kräuterbrot.",
+  "emoji": "🍲",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 1140,
+    "protein": 47,
+    "fat": 61,
+    "carbs": 97
+  },
+  "ingredients": [
+    {
+      "name": "Rinderhackfleisch",
+      "amount": 250,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 1,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Veganes Hack (Erbsenprotein)",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 7
+        }
+      ]
+    },
+    {
+      "name": "Schinkenwürfel",
+      "amount": 30,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Räuchertofu (gewürfelt)",
+          "amount": 30,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Paprika",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 5,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mais",
+      "amount": 140,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "abgetropft",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gehackte Tomaten",
+      "amount": 200,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Stückige Tomaten",
+      "amount": 200,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Schlagsahne",
+      "amount": 100,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Sahne",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Hafer-Cuisine",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Soja-Cuisine",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Gemüsebrühe",
+      "amount": 100,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 100,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Kräuterfrischkäse",
+      "amount": 75,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreier Kräuterfrischkäse",
+          "amount": 75,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Vegane Frischkäse-Alternative Kräuter (Kokosbasis)",
+          "amount": 75,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Ajvar",
+      "amount": 25,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Italienische Kräuter",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honig",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Ahornsirup",
+          "amount": 0.5,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Basilikum",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "produce",
+      "pantry": false,
+      "note": "frisch, gehackt",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Olivenöl",
+      "amount": 15,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "note": "plus etwas für das Brot",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ciabatta",
+      "amount": 300,
+      "unit": "g",
+      "category": "bakery",
+      "pantry": false,
+      "note": "oder Baguette",
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreies Brot",
+          "amount": 300,
+          "unit": "g",
+          "category": "bakery",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 3
+        }
+      ]
+    },
+    {
+      "name": "Parmesan",
+      "unit": "to taste",
+      "category": "dairy",
+      "pantry": false,
+      "note": "zum Servieren",
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Veganer Parmesan-Ersatz",
+          "unit": "to taste",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zwiebel und Knoblauch schälen und klein schneiden. Paprika in mundgerechte Stücke schneiden. Mais abtropfen lassen und Basilikum waschen und zerkleinern."
+    },
+    {
+      "text": "Olivenöl in einem Topf erhitzen, Zwiebeln und Paprika darin anbraten.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Knoblauch, Mais, Schinkenwürfel und Hack dazugeben und das Hack krümelig anbraten.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Mit Gemüsebrühe, Sahne und Tomaten ablöschen und etwa 10 Minuten köcheln lassen.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Ajvar, Kräuterfrischkäse und italienische Kräuter einrühren. Mit Salz, Pfeffer und Honig abschmecken."
+    },
+    {
+      "text": "Das Baguette in Scheiben schneiden, mit etwas Olivenöl beträufeln, mit italienischen Kräutern bestreuen und im Airfryer antoasten.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Die Suppe in Schüsseln füllen und mit Parmesan und Basilikum servieren."
+    }
+  ]
+}

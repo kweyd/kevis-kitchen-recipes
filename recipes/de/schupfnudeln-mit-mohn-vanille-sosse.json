@@ -1,0 +1,174 @@
+{
+  "id": "schupfnudeln-mit-mohn-vanille-sosse",
+  "version": 1,
+  "title": "Schupfnudeln mit Mohn-Vanille-Soße",
+  "summary": "Karamellisierte Schupfnudeln mit Mohn auf Vanillesoße und Pflaumenmus – Dessert als Hauptgericht.",
+  "emoji": "🥟",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarisch",
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 710,
+    "protein": 13,
+    "fat": 20,
+    "carbs": 118
+  },
+  "ingredients": [
+    {
+      "name": "Schupfnudeln",
+      "amount": 500,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "gluten",
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Gnocchi",
+          "amount": 500,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 14
+        },
+        {
+          "name": "Glutenfreie Gnocchi",
+          "amount": 500,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Vanillesoße",
+      "amount": 250,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "note": "fertig gekauft",
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegane Vanillesoße (Soja)",
+          "amount": 250,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Vegane Vanillesoße (Hafer)",
+          "amount": 250,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pflaumenmus",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mohn",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Butter",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Pflanzliche Butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Ahornsirup",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Butter in einer Pfanne erhitzen und die Schupfnudeln darin rundherum goldbraun anbraten.",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Mit dem Ahornsirup die Schupfnudeln karamellisieren.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Anschließend mit dem Mohn bestreuen und gut umrühren."
+    },
+    {
+      "text": "Vanillesoße auf die Teller aufteilen und die Schupfnudeln darüber verteilen."
+    },
+    {
+      "text": "Mit dem Pflaumenmus garnieren."
+    }
+  ]
+}

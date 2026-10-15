@@ -1,0 +1,299 @@
+{
+  "id": "pasta-mit-kirschtomaten",
+  "version": 1,
+  "title": "Pasta mit Kirschtomaten",
+  "summary": "Spaghetti mit geschmorten Kirschtomaten, Schinken, Zitrone und knusprigen Brot-Croutons mit Pinienkernen.",
+  "emoji": "🍅",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 1020,
+    "protein": 31,
+    "fat": 48,
+    "carbs": 112
+  },
+  "ingredients": [
+    {
+      "name": "Kirschtomaten",
+      "amount": 300,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Spaghetti",
+      "amount": 250,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreie Spaghetti",
+          "amount": 250,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Schalotte",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Schinkenwürfel",
+      "amount": 50,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 7,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Räuchertofu (gewürfelt)",
+          "amount": 50,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Pinienkerne",
+      "amount": 50,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "nuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Sonnenblumenkerne",
+          "amount": 50,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Weißbrot",
+      "amount": 50,
+      "unit": "g",
+      "category": "bakery",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreies Brot",
+          "amount": 50,
+          "unit": "g",
+          "category": "bakery",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 3
+        }
+      ]
+    },
+    {
+      "name": "Weißwein",
+      "amount": 50,
+      "unit": "ml",
+      "category": "drinks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Weißer Traubensaft",
+          "amount": 50,
+          "unit": "ml",
+          "category": "drinks",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Parmesan",
+      "amount": 25,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Veganer Parmesan-Ersatz",
+          "amount": 25,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Petersilie",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "produce",
+      "pantry": false,
+      "note": "gehackt",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Basilikum",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "produce",
+      "pantry": false,
+      "note": "gehackt, plus etwas zum Garnieren",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Apfelessig",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ]
+    },
+    {
+      "name": "Tomatenmark",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "canned",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zitrone",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "Bio, nur der Abrieb",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Olivenöl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zucker",
+      "unit": "to taste",
+      "category": "baking",
+      "pantry": true,
+      "note": "optional, falls zu sauer",
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Die Nudeln kochen.",
+      "timerMinutes": 9
+    },
+    {
+      "text": "Schalotte und Knoblauch schälen und klein hacken."
+    },
+    {
+      "text": "In einer Pfanne Olivenöl erhitzen und die Schalotte anbraten. Anschließend Knoblauch, Schinkenwürfel und Kirschtomaten dazugeben und braten, bis die Tomaten aufplatzen und ihren Saft verteilen.",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Dann Tomatenmark, Apfelessig und Weißwein in die Pfanne geben und den Alkohol verkochen lassen.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Die Pinienkerne in einer anderen Pfanne anrösten.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Das Weißbrot in kleine Würfel schneiden, mit Olivenöl beträufeln und in der Pfanne, in der die Pinienkerne waren, goldbraun rösten.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Den Abrieb der Zitrone, Petersilie, Basilikum und den Großteil des Parmesans in die Soße geben. Mit Pfeffer und Salz abschmecken – wenn es zu sauer ist, mit etwas Zucker."
+    },
+    {
+      "text": "Alles auf den Tellern anrichten und noch etwas Parmesan und Basilikum darübergeben."
+    }
+  ]
+}

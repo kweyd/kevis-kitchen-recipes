@@ -1,0 +1,224 @@
+{
+  "id": "chinkali",
+  "version": 1,
+  "title": "Khinkali",
+  "summary": "Georgian dumplings with a juicy, spicy mince filling – a bit of work, but worth every pleat.",
+  "emoji": "🥟",
+  "servings": 3,
+  "prepMinutes": 190,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 850,
+    "protein": 40,
+    "fat": 19,
+    "carbs": 128
+  },
+  "ingredients": [
+    {
+      "name": "Spätzle flour",
+      "amount": 500,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "note": "or 250 g type 405 + 250 g type 550 flour",
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free flour mix",
+          "amount": 500,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Egg",
+      "amount": 1,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "note": "yolk only",
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegetable oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "note": "plus some for the filling and cooking water",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mixed minced meat",
+      "amount": 400,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "note": "reduced fat",
+      "shelfLifeDays": 1,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegan mince (pea protein)",
+          "amount": 400,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 7
+        }
+      ]
+    },
+    {
+      "name": "Chili peppers",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Red onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Parsley",
+      "amount": 1,
+      "unit": "bunch",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Beef stock",
+      "amount": 1,
+      "unit": "pinch",
+      "category": "spices",
+      "pantry": true,
+      "note": "1 pinch of powder",
+      "diet": "meat",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegetable stock",
+          "amount": 1,
+          "unit": "pinch",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "celery"
+          ]
+        },
+        {
+          "name": "Vegetable stock without celery",
+          "amount": 1,
+          "unit": "pinch",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Cayenne pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Put the flour, salt, oil and egg yolk in a bowl and gradually add 250 ml water while kneading."
+    },
+    {
+      "text": "Let the dough rest in the fridge for at least 2 hours.",
+      "timerMinutes": 120
+    },
+    {
+      "text": "For the filling, finely dice the onion, garlic and chilies. Wash the parsley, shake it dry and chop finely."
+    },
+    {
+      "text": "Mix everything with the mince. Season with salt, pepper and cayenne."
+    },
+    {
+      "text": "Add a pinch of beef stock powder and mix with about 2 cups of water in a bowl. Also leave to rest in the fridge for at least 2 hours.",
+      "timerMinutes": 120
+    },
+    {
+      "text": "Roll the dough out thinly on a floured surface and cut out circles about 10–15 cm in diameter."
+    },
+    {
+      "text": "Place 1 tbsp of filling in the centre of each circle. Fold the dough up, making small pleats, and twist it tightly closed at the top."
+    },
+    {
+      "text": "Cook the dumplings in boiling salted water over medium heat for 10 minutes.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Lift them out one by one and rinse with ice-cold water."
+    }
+  ]
+}

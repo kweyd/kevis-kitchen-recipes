@@ -1,0 +1,204 @@
+{
+  "id": "kartoffel-linsen-salat",
+  "version": 1,
+  "title": "Potato Lentil Salad",
+  "summary": "Warm salad of roasted potatoes, red lentils and baby spinach with a honey mustard dressing.",
+  "emoji": "🥔",
+  "servings": 2,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 905,
+    "protein": 23,
+    "fat": 43,
+    "carbs": 96
+  },
+  "ingredients": [
+    {
+      "name": "Baby spinach",
+      "amount": 100,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 2,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Potatoes",
+      "amount": 800,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Red lentils",
+      "amount": 100,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Dill",
+      "amount": 3,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "sprigs",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Parsley",
+      "amount": 3,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "sprigs",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mustard",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "mustard"
+      ]
+    },
+    {
+      "name": "Honey",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agave syrup",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Olive oil",
+      "amount": 6,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "White balsamic vinegar",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Lemon juice",
+          "amount": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Sweet paprika",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rosemary",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Wash the potatoes and cut them into bite-sized pieces."
+    },
+    {
+      "text": "Preheat the oven to 220 °C."
+    },
+    {
+      "text": "Toss the potatoes in a bowl with 2 tbsp olive oil, chopped garlic, paprika and rosemary."
+    },
+    {
+      "text": "Spread them on a baking tray lined with baking paper and roast for 25 minutes.",
+      "timerMinutes": 25
+    },
+    {
+      "text": "Put the lentils in a pot with 300 ml water and cook for 20 minutes.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "Put the lentils and potatoes in a bowl and sprinkle with chopped dill and parsley."
+    },
+    {
+      "text": "Add the spinach."
+    },
+    {
+      "text": "For the dressing, mix the remaining olive oil with the honey, mustard, balsamic vinegar, pepper and salt and pour over the salad."
+    }
+  ]
+}

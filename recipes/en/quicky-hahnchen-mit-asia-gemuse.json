@@ -1,0 +1,207 @@
+{
+  "id": "quicky-hahnchen-mit-asia-gemuse",
+  "version": 1,
+  "title": "Quick Chicken with Asian Vegetables",
+  "summary": "High-protein air-fryer chicken in a creamy miso cream cheese sauce with Asian vegetables.",
+  "emoji": "🥦",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 522,
+    "protein": 53.5,
+    "fat": 29.1,
+    "carbs": 8.2
+  },
+  "ingredients": [
+    {
+      "name": "Chicken breast fillet",
+      "amount": 400,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegan chicken pieces (soy)",
+          "amount": 400,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Chickpeas",
+          "amount": 1.5,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": [],
+          "note": "drained"
+        }
+      ]
+    },
+    {
+      "name": "Asian-style vegetable stir-fry mix",
+      "amount": 500,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "note": "frozen",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Cream cheese",
+      "amount": 100,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free cream cheese",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Vegan cream cheese (almond-based)",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "nuts"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Miso paste",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten",
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Light rice miso (gluten-free)",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Garlic",
+      "amount": 2,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprika",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Curry powder",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Cardamom",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Dried thyme",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cut the chicken into small pieces and season with pepper, salt, garlic, cardamom, thyme and half of the paprika."
+    },
+    {
+      "text": "Air-fry the chicken at 200 °C for 8 minutes.",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Air-fry the vegetables at 150 °C for 14 minutes.",
+      "timerMinutes": 14
+    },
+    {
+      "text": "Season the cream cheese with pepper, salt, the remaining paprika, curry powder and miso paste. Add a little water and stir until creamy."
+    },
+    {
+      "text": "Turn the chicken, pour the cream cheese sauce over it and air-fry at 200 °C for another 8 minutes.",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Serve the chicken with the vegetables."
+    }
+  ]
+}

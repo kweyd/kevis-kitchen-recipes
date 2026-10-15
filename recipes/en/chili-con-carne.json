@@ -1,0 +1,301 @@
+{
+  "id": "chili-con-carne",
+  "version": 1,
+  "title": "Chili con Carne",
+  "summary": "Hearty chili with minced meat, beans, corn and a little chocolate for depth.",
+  "emoji": "🌶️",
+  "servings": 6,
+  "prepMinutes": 60,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 330,
+    "protein": 18,
+    "fat": 21,
+    "carbs": 16
+  },
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "note": "large",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Bell pepper",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chili pepper",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "1–2, depending on heat",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Minced meat",
+      "amount": 400,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "note": "beef or mixed",
+      "shelfLifeDays": 1,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegan mince (pea protein)",
+          "amount": 400,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 7
+        }
+      ]
+    },
+    {
+      "name": "Beef stock",
+      "amount": 300,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "meat",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegetable stock",
+          "amount": 300,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "celery"
+          ]
+        },
+        {
+          "name": "Vegetable stock without celery",
+          "amount": 300,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Chopped tomatoes",
+      "amount": 200,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Passata",
+      "amount": 250,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Kidney beans",
+      "amount": 255,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "drained",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sweetcorn",
+      "amount": 140,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "canned, drained",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tomato paste",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "canned",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sweet paprika powder",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chili powder",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chocolate",
+      "amount": 2,
+      "unit": "piece",
+      "category": "snacks",
+      "pantry": false,
+      "note": "ideally dark chocolate",
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose",
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan dark chocolate",
+          "amount": 2,
+          "unit": "piece",
+          "category": "snacks",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": 1,
+      "unit": "pinch",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Cinnamon",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Crème fraîche",
+      "amount": 6,
+      "unit": "tbsp",
+      "category": "dairy",
+      "pantry": false,
+      "note": "to serve",
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free crème fraîche",
+          "amount": 6,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Soy yoghurt (unsweetened)",
+          "amount": 6,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "text": "Peel and finely chop the onion and garlic. Chop the bell pepper and chili."
+    },
+    {
+      "text": "Heat oil in a pot and brown the mince over high heat. Deglaze with a splash of beef stock every now and then until half of the stock is used up – let it evaporate each time.",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Then add the onion and garlic. Once the onion is translucent, add the paprika powder and tomato paste and fry briefly.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Now add the remaining spices, the bell pepper, chili, passata, chopped tomatoes and the rest of the stock and let everything cook for 30 minutes.",
+      "timerMinutes": 30
+    },
+    {
+      "text": "Then add the corn, kidney beans and chocolate to the pot and simmer for another 10 minutes.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Season with pepper and salt and serve each portion with a tablespoon of crème fraîche."
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "id": "shiitake-schoko-risotto",
+  "version": 1,
+  "title": "Shiitake Chocolate Risotto",
+  "summary": "Unusually good: white wine risotto with savoury shiitake and a hint of dark chocolate.",
+  "emoji": "🍄",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 734,
+    "protein": 11.1,
+    "fat": 8.8,
+    "carbs": 108
+  },
+  "ingredients": [
+    {
+      "name": "Risotto rice",
+      "amount": 200,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "White wine",
+      "amount": 250,
+      "unit": "ml",
+      "category": "drinks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegetable stock without celery",
+          "amount": 250,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [],
+          "note": "plus a squeeze of lemon juice"
+        }
+      ]
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": 500,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegetable stock without celery",
+          "amount": 500,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Butter",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Plant-based butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": 150,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Soy sauce",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (gluten-free soy sauce)",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Coconut aminos",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Dark chocolate",
+      "amount": 30,
+      "unit": "g",
+      "category": "snacks",
+      "pantry": false,
+      "note": "a variety without milk ingredients",
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "text": "Finely chop the onion and brown it in a pan with the butter.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Add the risotto rice and, once it turns slightly translucent, deglaze with the white wine."
+    },
+    {
+      "text": "Let the rice simmer, topping it up with vegetable stock again and again so that it stays just covered with liquid.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "In another pan, fry the shiitake mushrooms with the soy sauce.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Cut the chocolate into small pieces."
+    },
+    {
+      "text": "When the liquid in the rice pan has cooked off, divide the risotto between the plates."
+    },
+    {
+      "text": "Top each portion with the shiitake and chocolate."
+    }
+  ]
+}

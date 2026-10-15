@@ -1,0 +1,167 @@
+{
+  "id": "erbsenrisotto",
+  "version": 1,
+  "title": "Erbsenrisotto",
+  "summary": "Cremiges Risotto mit Weißwein und pürierten Erbsen – grün, frisch und gemütlich.",
+  "emoji": "🍚",
+  "servings": 3,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarisch"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 400,
+    "protein": 8,
+    "fat": 11,
+    "carbs": 59
+  },
+  "ingredients": [
+    {
+      "name": "Risottoreis",
+      "amount": 200,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Weißwein",
+      "amount": 100,
+      "unit": "ml",
+      "category": "drinks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Weißer Traubensaft",
+          "amount": 100,
+          "unit": "ml",
+          "category": "drinks",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Erbsen",
+      "amount": 155,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "kleine Dose",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gemüsebrühe",
+      "amount": 600,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 600,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Geriebener Käse",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Veganer Reibekäse",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Schalotten",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Olivenöl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Die Schalotten schälen und klein schneiden."
+    },
+    {
+      "text": "In einem Topf Olivenöl erhitzen und die Schalotten anbraten.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Den Risottoreis in den Topf geben und mit dem Weißwein ablöschen."
+    },
+    {
+      "text": "Die Gemüsebrühe anrühren und 100 ml davon mit 50 g der Erbsen pürieren."
+    },
+    {
+      "text": "Die restliche Gemüsebrühe nach und nach zum Reis gießen, dabei auch die Brühe mit den pürierten Erbsen dazugeben.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "In den letzten 5 Minuten die restlichen Erbsen dazugeben und mit Pfeffer und Salz abschmecken.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Zum Servieren 2 Esslöffel geriebenen Käse darübergeben."
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "id": "susskartoffeln-mit-lachs",
+  "version": 1,
+  "title": "Süßkartoffeln mit Lachs",
+  "summary": "Gefüllte Süßkartoffel mit Lachs-Reis-Salat und Knoblauch-Joghurt-Dip, alles aus dem Airfryer.",
+  "emoji": "🍠",
+  "servings": 2,
+  "prepMinutes": 75,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 780,
+    "protein": 35,
+    "fat": 32,
+    "carbs": 88
+  },
+  "ingredients": [
+    {
+      "name": "Süßkartoffel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "groß",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lachsfilet",
+      "amount": 250,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 1,
+      "diet": "fish",
+      "allergens": [
+        "fish"
+      ],
+      "alternatives": [
+        {
+          "name": "Räuchertofu",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Zitrone",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Reis",
+      "amount": 120,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rucola",
+      "amount": 30,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Kirschtomaten",
+      "amount": 50,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gurke",
+      "amount": 150,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Radieschen",
+      "amount": 100,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Petersilie",
+      "amount": 20,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Joghurt",
+      "amount": 150,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreier Joghurt",
+          "amount": 150,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Sojajoghurt",
+          "amount": 150,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honig",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Ahornsirup",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Olivenöl",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Essig",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Zitronensaft",
+          "unit": "to taste",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Die Süßkartoffel gründlich waschen, einschneiden und für 25 Minuten bei 200 °C in den Airfryer geben.",
+      "timerMinutes": 25
+    },
+    {
+      "text": "Die Süßkartoffel wenden und weitere 25 Minuten garen.",
+      "timerMinutes": 25
+    },
+    {
+      "text": "Reis in einem Topf kochen.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Petersilie klein schneiden. Radieschen und Gurke würfeln und mit einem Teil der Petersilie und dem Rucola in eine Schüssel geben. Kirschtomaten halbieren und dazugeben."
+    },
+    {
+      "text": "Mit etwas Essig, Öl, Pfeffer und Salz ein Dressing machen und darübergeben. Den fertigen Reis dazugeben."
+    },
+    {
+      "text": "Für den Dip die Knoblauchzehen in den Joghurt pressen. Etwas Pfeffer, Salz, Honig und die restliche Petersilie dazugeben."
+    },
+    {
+      "text": "Den Lachs mit Pfeffer und Salz würzen, mit Zitronenscheiben belegen und für 20 Minuten bei 160 °C in den Airfryer geben.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "Den Lachs zerpflücken und mit dem Salat vermischen."
+    },
+    {
+      "text": "Die Süßkartoffel aufschneiden und mit einem Löffel etwas aushöhlen. Etwas von dem Salat in die Süßkartoffel geben und mit dem Dip servieren."
+    }
+  ]
+}

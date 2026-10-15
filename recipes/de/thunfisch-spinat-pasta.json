@@ -1,0 +1,202 @@
+{
+  "id": "thunfisch-spinat-pasta",
+  "version": 1,
+  "title": "Thunfisch-Spinat-Pasta",
+  "summary": "Bandnudeln mit Thunfisch, Spinat und Zitrone, getoppt mit zartem Mozzarella.",
+  "emoji": "🐟",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 760,
+    "protein": 45,
+    "fat": 29,
+    "carbs": 77
+  },
+  "ingredients": [
+    {
+      "name": "Bandnudeln",
+      "amount": 200,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "note": "meist mit Ei",
+      "diet": "animal",
+      "allergens": [
+        "gluten",
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Bandnudeln ohne Ei (Hartweizen)",
+          "amount": 200,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ]
+        },
+        {
+          "name": "Glutenfreie Bandnudeln",
+          "amount": 200,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Thunfisch",
+      "amount": 150,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "aus der Dose, abgetropft",
+      "diet": "fish",
+      "allergens": [
+        "fish"
+      ],
+      "alternatives": [
+        {
+          "name": "Kichererbsen (zerdrückt)",
+          "amount": 0.6,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "TK-Spinat",
+      "amount": 150,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zitrone",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "Bio, Abrieb und Saft",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mozzarella",
+      "amount": 1,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "note": "125 g",
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreier Mozzarella",
+          "amount": 1,
+          "unit": "piece",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Vegane Mozzarella-Alternative",
+          "amount": 1,
+          "unit": "piece",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Die Nudeln kochen.",
+      "timerMinutes": 9
+    },
+    {
+      "text": "Zwiebel und Knoblauch schälen und klein hacken."
+    },
+    {
+      "text": "Eine Pfanne mit Öl erhitzen und die Zwiebel anbraten.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Wenn die Zwiebel angebraten ist, den Spinat und den Knoblauch dazugeben.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Wenn der Spinat aufgetaut ist, einen Löffel Nudelwasser in die Pfanne geben und den Thunfisch unterheben."
+    },
+    {
+      "text": "Die Temperatur etwas herunterstellen und Abrieb und Saft der Zitrone in die Pfanne geben. Mit Pfeffer und Salz abschmecken."
+    },
+    {
+      "text": "Die Nudeln abgießen und in die Pfanne einrühren."
+    },
+    {
+      "text": "Anschließend auf Teller verteilen und den Mozzarella in Stücken über die Portionen verteilen."
+    }
+  ]
+}

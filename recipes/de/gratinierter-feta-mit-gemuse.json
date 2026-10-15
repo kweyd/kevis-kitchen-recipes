@@ -1,0 +1,233 @@
+{
+  "id": "gratinierter-feta-mit-gemuse",
+  "version": 1,
+  "title": "Gratinierter Feta mit Gemüse",
+  "summary": "Ein Block Feta, im Ofen mit buntem Gemüse, Oliven und ganzen Knoblauchzehen gegart – perfekt zum Dippen mit Baguette.",
+  "emoji": "🧀",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarisch"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 840,
+    "protein": 30,
+    "fat": 35,
+    "carbs": 97
+  },
+  "ingredients": [
+    {
+      "name": "Feta",
+      "amount": 200,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "note": "am Stück",
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegane Feta-Alternative",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Zucchini",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Kirschtomaten",
+      "amount": 200,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Petersilie",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "produce",
+      "pantry": false,
+      "note": "frisch, gehackt",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gelbe Paprika",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Grüne Chili",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rote Zwiebel",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Grüne Oliven",
+      "amount": 50,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "entsteint",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Piment",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "note": "1 ganze Knolle",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Olivenöl",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oregano",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honig",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agavendicksaft",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Baguette",
+      "amount": 1,
+      "unit": "piece",
+      "category": "bakery",
+      "pantry": false,
+      "note": "optional, zum Dippen",
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreies Baguette",
+          "amount": 1,
+          "unit": "piece",
+          "category": "bakery",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 3
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "text": "Den Feta in die Mitte einer feuerfesten Schale legen."
+    },
+    {
+      "text": "Die Knolle Knoblauch schälen und die Zehen im Ganzen in eine Schüssel geben."
+    },
+    {
+      "text": "Die Zwiebeln schälen und in Streifen schneiden, die Chili klein schneiden, die Oliven halbieren, die Paprika klein schneiden und die Zucchini vierteln und in Scheiben schneiden."
+    },
+    {
+      "text": "Alles mit den Kirschtomaten in die Schüssel geben und mit den Gewürzen, Petersilie, Honig und Olivenöl vermischen."
+    },
+    {
+      "text": "Das Gemüse über den Feta in die Schale geben."
+    },
+    {
+      "text": "Die Schale bei 200 °C für 25 Minuten in den Ofen geben.",
+      "timerMinutes": 25
+    },
+    {
+      "text": "Optional etwas Baguette dazu reichen."
+    }
+  ]
+}

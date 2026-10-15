@@ -1,0 +1,179 @@
+{
+  "id": "kartoffel-flammkuchen",
+  "version": 1,
+  "title": "Potato Tarte Flambée",
+  "summary": "Wafer-thin tarte flambée with herb cream cheese, potato slices, rosemary and parmesan.",
+  "emoji": "🥔",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 780,
+    "protein": 23,
+    "fat": 28,
+    "carbs": 103
+  },
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": 250,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rosemary",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "sprigs",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Herb cream cheese",
+      "amount": 75,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free herb cream cheese",
+          "amount": 75,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Vegan herb cream cheese (almond-based)",
+          "amount": 75,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "nuts"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Parmesan",
+      "amount": 25,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan parmesan alternative",
+          "amount": 25,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Italian herbs",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Flour",
+      "amount": 225,
+      "unit": "g",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free flour mix",
+          "amount": 225,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Olive oil",
+      "amount": 1.5,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 220 °C. Peel the potatoes and cut them into very thin slices."
+    },
+    {
+      "text": "Finely chop the rosemary."
+    },
+    {
+      "text": "Knead the flour thoroughly with 100 ml water, the olive oil and a little salt."
+    },
+    {
+      "text": "Roll out the dough and place it on a baking tray lined with baking paper."
+    },
+    {
+      "text": "Spread the cream cheese mixed with Italian herbs over the dough."
+    },
+    {
+      "text": "Arrange the potato slices on top, slightly overlapping. Sprinkle with rosemary and parmesan and season with pepper."
+    },
+    {
+      "text": "Bake in the oven at 220 °C for 14 minutes.",
+      "timerMinutes": 14
+    }
+  ]
+}

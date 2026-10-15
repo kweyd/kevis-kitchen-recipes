@@ -1,0 +1,161 @@
+{
+  "id": "chili-oil-rice",
+  "version": 1,
+  "title": "Chilli Oil Rice",
+  "summary": "Quick rice with peas, spring onions and garlic in sizzling chilli oil.",
+  "emoji": "🌶️",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegan",
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 400,
+    "protein": 10,
+    "fat": 15,
+    "carbs": 42
+  },
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": 150,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Peas (frozen)",
+      "amount": 120,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Spring onions",
+      "amount": 3,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Crispy chilli in oil",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Chilli flakes",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Oil",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Soy sauce",
+      "amount": 1.5,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (gluten-free soy sauce)",
+          "amount": 1.5,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Coconut aminos",
+          "amount": 1.5,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Rice wine vinegar",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Lime juice",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the rice.",
+      "timerMinutes": 12
+    },
+    {
+      "text": "Cut the spring onions into rings. Peel and finely chop the garlic and put everything in a bowl."
+    },
+    {
+      "text": "Heat the oil in a small pot and pour it into the bowl. Mix with the crispy chilli, soy sauce and rice wine vinegar."
+    },
+    {
+      "text": "Warm the peas with the rice for the last few minutes of cooking.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Combine everything and stir well."
+    }
+  ]
+}

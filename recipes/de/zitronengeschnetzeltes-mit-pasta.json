@@ -1,0 +1,230 @@
+{
+  "id": "zitronengeschnetzeltes-mit-pasta",
+  "version": 1,
+  "title": "Zitronengeschnetzeltes mit Pasta",
+  "summary": "Spaghetti mit zartem Schweinegeschnetzeltem in einer frischen Zitronen-Sahne-Soße.",
+  "emoji": "🍋",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 781,
+    "protein": 42.6,
+    "fat": 24.9,
+    "carbs": 95.7
+  },
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": 250,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreie Spaghetti",
+          "amount": 250,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Schweine-Minutenschnitzel",
+      "amount": 200,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegane Hähnchenstücke (Soja)",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Soja-Schnetzel (getrocknet)",
+          "amount": 70,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Saure Sahne",
+      "amount": 200,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie saure Sahne",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Sojajoghurt natur",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 5,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rote Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zitrone",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "unbehandelt",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Weißwein",
+      "amount": 75,
+      "unit": "ml",
+      "category": "drinks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Weißer Traubensaft",
+          "amount": 75,
+          "unit": "ml",
+          "category": "drinks",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Chilipulver",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Basilikum",
+      "amount": 1,
+      "unit": "bunch",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rapsöl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Die Nudeln nach Packungsangabe in einem Topf kochen.",
+      "timerMinutes": 9
+    },
+    {
+      "text": "Die Schweineschnitzel kleinschneiden und mit 4 der Knoblauchzehen, dem Abrieb einer Zitrone, 25 ml Weißwein, etwas Öl, Pfeffer und Salz in einer Schüssel marinieren."
+    },
+    {
+      "text": "Die Zwiebel schälen, kleinschneiden und mit der letzten Knoblauchzehe in einer Pfanne anbraten.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Das Schweinegeschnetzelte mit der Marinade dazugeben und anbraten lassen.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Mit dem restlichen Weißwein ablöschen und komplett einreduzieren lassen.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Die saure Sahne, das Chilipulver und den Saft einer halben Zitrone dazugeben und aufkochen lassen."
+    },
+    {
+      "text": "Die Nudeln abgießen und zusammen mit dem Basilikum in die Pfanne geben und umrühren."
+    }
+  ]
+}

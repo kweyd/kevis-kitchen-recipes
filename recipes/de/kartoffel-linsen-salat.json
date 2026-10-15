@@ -1,0 +1,204 @@
+{
+  "id": "kartoffel-linsen-salat",
+  "version": 1,
+  "title": "Kartoffel-Linsen-Salat",
+  "summary": "Warmer Salat aus Ofenkartoffeln, roten Linsen und Babyspinat mit Honig-Senf-Dressing.",
+  "emoji": "🥔",
+  "servings": 2,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarisch"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 905,
+    "protein": 23,
+    "fat": 43,
+    "carbs": 96
+  },
+  "ingredients": [
+    {
+      "name": "Babyspinat",
+      "amount": 100,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 2,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Kartoffeln",
+      "amount": 800,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rote Linsen",
+      "amount": 100,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Dill",
+      "amount": 3,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "Stiele",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Petersilie",
+      "amount": 3,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "Stiele",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Senf",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "mustard"
+      ]
+    },
+    {
+      "name": "Honig",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agavendicksaft",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Olivenöl",
+      "amount": 6,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Weißer Balsamico",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Zitronensaft",
+          "amount": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Paprikapulver edelsüß",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rosmarin",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kartoffeln waschen und in mundgerechte Stücke schneiden."
+    },
+    {
+      "text": "Den Ofen auf 220 °C vorheizen."
+    },
+    {
+      "text": "Die Kartoffeln in einer Schüssel mit 2 EL Olivenöl, gehacktem Knoblauch, Paprikapulver und Rosmarin marinieren."
+    },
+    {
+      "text": "Die Kartoffeln auf einem Backblech mit Backpapier verteilen und für 25 Minuten in den Ofen geben.",
+      "timerMinutes": 25
+    },
+    {
+      "text": "Die Linsen mit 300 ml Wasser in einen Topf geben und 20 Minuten kochen lassen.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "Linsen und Kartoffeln in eine Schüssel geben und klein gehackten Dill und Petersilie darüber streuen."
+    },
+    {
+      "text": "Den Spinat dazugeben."
+    },
+    {
+      "text": "Für das Dressing das restliche Olivenöl mit Honig, Senf, Balsamico, Pfeffer und Salz vermischen und über den Salat geben."
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "erbsenrisotto",
+  "version": 1,
+  "title": "Pea Risotto",
+  "summary": "Creamy risotto with white wine and puréed peas – green, fresh and comforting.",
+  "emoji": "🍚",
+  "servings": 3,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 400,
+    "protein": 8,
+    "fat": 11,
+    "carbs": 59
+  },
+  "ingredients": [
+    {
+      "name": "Risotto rice",
+      "amount": 200,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "White wine",
+      "amount": 100,
+      "unit": "ml",
+      "category": "drinks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "White grape juice",
+          "amount": 100,
+          "unit": "ml",
+          "category": "drinks",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Peas",
+      "amount": 155,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "small can",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": 600,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegetable stock without celery",
+          "amount": 600,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Grated cheese",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan grated cheese",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Shallots",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Olive oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Peel and finely chop the shallots."
+    },
+    {
+      "text": "Heat olive oil in a pot and fry the shallots.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Add the risotto rice to the pot and deglaze with the white wine."
+    },
+    {
+      "text": "Prepare the vegetable stock and blend 100 ml of it with 50 g of the peas."
+    },
+    {
+      "text": "Gradually pour the remaining stock over the rice, adding the stock with the puréed peas as well.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "For the last 5 minutes, add the remaining peas and season with pepper and salt.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "To serve, sprinkle 2 tablespoons of grated cheese on top."
+    }
+  ]
+}

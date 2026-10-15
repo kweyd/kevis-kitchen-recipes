@@ -1,0 +1,255 @@
+{
+  "id": "sommerrollen-mit-erdnussdip",
+  "version": 1,
+  "title": "Summer Rolls with Peanut Dip",
+  "summary": "Crunchy summer rolls with colourful vegetables and crispy tofu, served with a creamy peanut dip.",
+  "emoji": "🥢",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 571,
+    "protein": 25,
+    "fat": 26,
+    "carbs": 68
+  },
+  "ingredients": [
+    {
+      "name": "Rice paper",
+      "amount": 10,
+      "unit": "piece",
+      "category": "dryGoods",
+      "pantry": false,
+      "note": "10 sheets",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Red cabbage",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tofu",
+      "amount": 150,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Chickpeas",
+          "amount": 0.6,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Carrots",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Cucumber",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Bell pepper",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sesame"
+      ]
+    },
+    {
+      "name": "Honey",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agave syrup",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Soy sauce",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (gluten-free soy sauce)",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Coconut aminos",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Coconut milk",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lime",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ginger",
+      "amount": 15,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "about 2 cm",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": 0.5,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Lime juice",
+          "amount": 0.5,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Peanut butter",
+      "amount": 70,
+      "unit": "g",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "peanuts"
+      ]
+    },
+    {
+      "name": "Oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "note": "for spraying",
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cut the bell pepper, carrots, red cabbage and cucumber into thin strips."
+    },
+    {
+      "text": "Cut the tofu into small pieces, spray with a little oil and air-fry at 200 °C for 2 x 8 minutes.",
+      "timerMinutes": 16
+    },
+    {
+      "text": "For the sauce, finely chop the garlic and ginger and squeeze the lime."
+    },
+    {
+      "text": "Stir everything together with the peanut butter, honey, 3 tbsp water, coconut milk, soy sauce and rice vinegar to make a sauce."
+    },
+    {
+      "text": "Cover a plate with lukewarm water and briefly soften each rice paper sheet on both sides."
+    },
+    {
+      "text": "Lay the rice paper on a dry plate, fill with vegetables and tofu, sprinkle with sesame and roll up."
+    }
+  ]
+}

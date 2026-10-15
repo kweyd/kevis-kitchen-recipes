@@ -1,0 +1,371 @@
+{
+  "id": "kartoffelbun-burger-mit-wedges",
+  "version": 1,
+  "title": "Kartoffelbun-Burger mit Wedges",
+  "summary": "Doppelter Cheeseburger mit Bacon zwischen Buns aus Kartoffeln, dazu würzige Kartoffelecken.",
+  "emoji": "🍔",
+  "servings": 2,
+  "prepMinutes": 120,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 1500,
+    "protein": 75,
+    "fat": 90,
+    "carbs": 105
+  },
+  "ingredients": [
+    {
+      "name": "Mayonnaise",
+      "amount": 3,
+      "unit": "tbsp",
+      "note": "für die Burgersauce",
+      "category": "spices",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "eggs",
+        "mustard"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegane Mayonnaise",
+          "amount": 3,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "mustard"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tomatenmark",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "canned",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Balsamico-Essig",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Zitronensaft",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Honig",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agavendicksaft",
+          "amount": 0.5,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Oregano (getrocknet)",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chili",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gewürzgurken",
+      "amount": 3,
+      "unit": "piece",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "mustard"
+      ]
+    },
+    {
+      "name": "Kartoffeln",
+      "amount": 500,
+      "unit": "g",
+      "note": "für die Kartoffelecken",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rosmarin (getrocknet)",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Cayennepfeffer",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauchpulver",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprikapulver (edelsüß)",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Kartoffeln",
+      "amount": 700,
+      "unit": "g",
+      "note": "für die Buns",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Muskatnuss",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Eier",
+      "amount": 2,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Kichererbsenmehl (1 EL pro Ei)",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Römersalat",
+      "amount": 1,
+      "unit": "piece",
+      "note": "8 Blätter",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rinderhackfleisch",
+      "amount": 400,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 1,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Veganes Hack (Erbsenprotein)",
+          "amount": 400,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 7
+        }
+      ]
+    },
+    {
+      "name": "Bacon",
+      "amount": 4,
+      "unit": "slice",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 7,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Räuchertofu",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Cheddar",
+      "amount": 4,
+      "unit": "slice",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegane Käsescheiben",
+          "amount": 4,
+          "unit": "slice",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Tomate",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rote Zwiebel",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Für die Buns die Kartoffeln schälen und 25 Minuten kochen.",
+      "timerMinutes": 25
+    },
+    {
+      "text": "Das Wasser abgießen, dann die Eier, Muskat, Pfeffer und Salz dazugeben und alles mit einem Pürierstab pürieren."
+    },
+    {
+      "text": "Wenn die Masse kalt ist, 4 flache Bunhälften formen und je Seite 20 Minuten bei 160 °C in den Airfryer geben.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "Für die Burgersauce Gewürzgurken und Chili klein schneiden und mit Mayonnaise, Tomatenmark, Balsamico, Honig, Oregano, Pfeffer und Salz vermischen."
+    },
+    {
+      "text": "Für die Kartoffelecken die Kartoffeln waschen, vierteln und in eine Schüssel geben. Öl und Gewürze darüber geben und für 20 Minuten bei 200 °C in den Airfryer geben. Nach der Hälfte der Zeit wenden.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "Salat waschen und die Blätter vom Strunk trennen. Zwiebel schälen und in Ringe schneiden. Tomate in Scheiben schneiden."
+    },
+    {
+      "text": "In einer Pfanne den Bacon kross braten und dann auf Küchenpapier ablegen.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Das Hackfleisch zu vier gleich großen Patties formen und in die Pfanne mit dem Baconfett geben. Nach 3–4 Minuten wenden.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Zum Schluss die Patties mit Cheddar belegen und einen Deckel auf die Pfanne geben, damit der Cheddar schmilzt.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Die Sauce auf die unteren Bunhälften verteilen, Salat darüber, dann je 2 Patties und den Bacon stapeln. Darüber Zwiebelringe und Tomatenscheiben und die andere Bunhälfte obendrauf."
+    }
+  ]
+}

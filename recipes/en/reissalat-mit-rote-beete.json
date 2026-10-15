@@ -1,0 +1,143 @@
+{
+  "id": "reissalat-mit-rote-beete",
+  "version": 1,
+  "title": "Rice Salad with Beetroot",
+  "summary": "Colourful rice salad with beetroot, apple, avocado and goat's cheese, dressed with red pesto.",
+  "emoji": "🥗",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 602,
+    "protein": 16,
+    "fat": 40,
+    "carbs": 38
+  },
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": 100,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oak leaf lettuce",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "½ head",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Apple",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Cucumber",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Goat's cheese log",
+      "amount": 100,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan feta alternative",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Beetroot",
+      "amount": 100,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "precooked",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Avocado",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Red pesto",
+      "amount": 4,
+      "unit": "tsp",
+      "category": "canned",
+      "pantry": false,
+      "note": "usually contains cheese and cashews",
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "nuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan red pesto",
+          "amount": 4,
+          "unit": "tsp",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": [
+            "nuts"
+          ]
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the rice according to the package instructions and let it cool a little.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Cut the apple, avocado, beetroot, cucumber, lettuce and goat's cheese into small pieces."
+    },
+    {
+      "text": "Mix everything with the rice and the pesto and serve."
+    }
+  ]
+}

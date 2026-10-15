@@ -1,0 +1,231 @@
+{
+  "id": "reisnudel-curry",
+  "version": 1,
+  "title": "Reisnudel-Curry",
+  "summary": "Cremiges rotes Kokoscurry mit Tofu, Kichererbsen, viel Gemüse und Reisnudeln, getoppt mit gerösteten Erdnüssen.",
+  "emoji": "🍜",
+  "servings": 3,
+  "prepMinutes": 30,
+  "tags": [
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 725,
+    "protein": 21,
+    "fat": 8,
+    "carbs": 106
+  },
+  "ingredients": [
+    {
+      "name": "Reisnudeln",
+      "amount": 300,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprika",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pak Choi",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rote Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Kokosmilch",
+      "amount": 200,
+      "unit": "ml",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Kichererbsen",
+      "amount": 140,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "abgetropft",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tofu",
+      "amount": 200,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Kichererbsen",
+          "amount": 0.8,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Rote Currypaste",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "canned",
+      "pantry": false,
+      "note": "viele Sorten enthalten Garnelenpaste",
+      "diet": "fish",
+      "allergens": [
+        "crustaceans"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegane rote Currypaste (ohne Garnelenpaste)",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Chili",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 2,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Blumenkohl",
+      "amount": 250,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gemüsebrühe",
+      "amount": 100,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 100,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Erdnüsse",
+      "amount": 20,
+      "unit": "g",
+      "category": "snacks",
+      "pantry": false,
+      "note": "eine halbe Handvoll, geröstet und gesalzen",
+      "diet": "plant",
+      "allergens": [
+        "peanuts"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "text": "Paprika, Zwiebel, Chili, Knoblauch, Tofu, Blumenkohl und Pak Choi mundgerecht klein schneiden."
+    },
+    {
+      "text": "Alles in einem Topf mit etwas Öl anbraten.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Die Currypaste mit in den Topf geben und kurz anrösten.",
+      "timerMinutes": 1
+    },
+    {
+      "text": "Kokosmilch, Kichererbsen und Gemüsebrühe dazugeben und aufkochen lassen. Mit Pfeffer und Salz abschmecken.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Währenddessen die Reisnudeln kochen. Die Reisnudeln abschrecken und mit in den Topf geben.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Die Erdnüsse über die Portionen geben."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "id": "pfannengnocchi-mit-spinat",
+  "version": 1,
+  "title": "Pan-Fried Gnocchi with Spinach",
+  "summary": "Skillet gnocchi with cherry tomatoes, spinach and gently caramelised onions – ready in no time.",
+  "emoji": "🍅",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 540,
+    "protein": 15,
+    "fat": 17,
+    "carbs": 80
+  },
+  "ingredients": [
+    {
+      "name": "Gnocchi",
+      "amount": 400,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free gnocchi",
+          "amount": 400,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": 200,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Spinach",
+      "amount": 100,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "fresh",
+      "shelfLifeDays": 2,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Red onions",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honey",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agave syrup",
+          "amount": 0.5,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegetable stock without celery",
+          "amount": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Water",
+      "amount": 50,
+      "unit": "ml",
+      "category": "other",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Parmesan",
+      "amount": 20,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "note": "for sprinkling",
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan parmesan alternative",
+          "amount": 20,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Basil",
+      "unit": "to taste",
+      "category": "produce",
+      "pantry": false,
+      "note": "fresh, to garnish",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Peel the red onions and garlic and chop them finely."
+    },
+    {
+      "text": "Then fry them in oil. Add half a teaspoon of honey to lightly caramelise the onions.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Halve the cherry tomatoes and add them to the pan with the spinach. Wait until the spinach has wilted.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Mix 50 ml water with half a teaspoon of vegetable stock and add it to the pan together with the gnocchi."
+    },
+    {
+      "text": "Season with pepper and salt to taste and let it cook for 5 minutes.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Finish with some parmesan and basil and serve."
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "id": "schupfnudeln-mit-mohn-vanille-sosse",
+  "version": 1,
+  "title": "Potato Noodles with Poppy Seed Vanilla Sauce",
+  "summary": "Caramelised potato noodles with poppy seeds on vanilla sauce with plum butter – dessert for dinner.",
+  "emoji": "🥟",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 710,
+    "protein": 13,
+    "fat": 20,
+    "carbs": 118
+  },
+  "ingredients": [
+    {
+      "name": "Schupfnudeln (potato noodles)",
+      "amount": 500,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "gluten",
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Gnocchi",
+          "amount": 500,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 14
+        },
+        {
+          "name": "Gluten-free gnocchi",
+          "amount": 500,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Vanilla sauce",
+      "amount": 250,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "note": "ready-made",
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan vanilla sauce (soy)",
+          "amount": 250,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Vegan vanilla sauce (oat)",
+          "amount": 250,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Plum butter",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Poppy seeds",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Butter",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Vegan butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Maple syrup",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat the butter in a pan and fry the potato noodles until golden brown all over.",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Caramelise the noodles with the maple syrup.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Then sprinkle with the poppy seeds and stir well."
+    },
+    {
+      "text": "Divide the vanilla sauce between the plates and arrange the noodles on top."
+    },
+    {
+      "text": "Garnish with the plum butter."
+    }
+  ]
+}

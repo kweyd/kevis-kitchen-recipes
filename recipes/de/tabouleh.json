@@ -1,0 +1,163 @@
+{
+  "id": "tabouleh",
+  "version": 1,
+  "title": "Tabouleh",
+  "summary": "Frischer Bulgursalat mit viel Minze, Petersilie und knackigen Granatapfelkernen.",
+  "emoji": "🥗",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegan"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 692,
+    "protein": 21,
+    "fat": 41,
+    "carbs": 57
+  },
+  "ingredients": [
+    {
+      "name": "Salatgurke",
+      "amount": 300,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tomaten",
+      "amount": 300,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Bulgur",
+      "amount": 160,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Quinoa",
+          "amount": 160,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zitrone",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Olivenöl",
+      "amount": 60,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Minze",
+      "amount": 1,
+      "unit": "bunch",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Petersilie",
+      "amount": 40,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Granatapfelkerne",
+      "amount": 100,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chilipulver",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Den Bulgur mit der doppelten Menge Wasser in einem Topf kochen.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Salatgurke, Tomaten, Petersilie, Minze und Zwiebel kleinschneiden und in eine Schüssel geben."
+    },
+    {
+      "text": "Den Zitronensaft darüber auspressen und das Olivenöl dazugeben."
+    },
+    {
+      "text": "Den Bulgur abkühlen lassen und mit in die Schüssel geben.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Dann die Granatapfelkerne dazugeben, umrühren und mit Pfeffer, Salz und Chili abschmecken."
+    }
+  ]
+}

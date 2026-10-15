@@ -1,0 +1,251 @@
+{
+  "id": "chili-hahnchen-mit-reis",
+  "version": 1,
+  "title": "Chili-Hähnchen mit Reis",
+  "summary": "Scharf mariniertes Sesam-Hähnchen mit Gemüse, Reis und einem Ajvar-Chili-Dip.",
+  "emoji": "🌶️",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 550,
+    "protein": 24.7,
+    "fat": 27.3,
+    "carbs": 46.6
+  },
+  "ingredients": [
+    {
+      "name": "Hähnchenbrustfilet",
+      "amount": 150,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegane Hähnchenstücke (Soja)",
+          "amount": 150,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Kichererbsen",
+          "amount": 0.5,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": [],
+          "note": "abgetropft"
+        }
+      ]
+    },
+    {
+      "name": "Reis",
+      "amount": 125,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Champignons",
+      "amount": 125,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rote Paprika",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gelbe Chili",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Grüne Chili",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ajvar",
+      "amount": 35,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": 30,
+      "unit": "g",
+      "category": "spices",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "eggs",
+        "mustard"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegane Mayonnaise",
+          "amount": 30,
+          "unit": "g",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "mustard"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Olivenöl",
+      "amount": 4,
+      "unit": "g",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sesamsamen",
+      "amount": 3,
+      "unit": "tbsp",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sesame"
+      ]
+    },
+    {
+      "name": "Paprikapulver edelsüß",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chilipulver",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Crispy Chili Öl",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": false,
+      "note": "je nach Marke auch mit Erdnüssen",
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ]
+    },
+    {
+      "name": "Rapsöl",
+      "amount": 5,
+      "unit": "g",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hähnchen, Chilis, Knoblauch und Zwiebel klein schneiden. Hähnchen und Chilis in eine Schüssel geben."
+    },
+    {
+      "text": "Etwas Rapsöl darübersprühen, Paprikapulver, Knoblauch und Chilipulver dazugeben. Mit Pfeffer und Salz würzen, 1 EL Sesamsamen darüberstreuen und das Hähnchen mit allem marinieren.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Den Reis in einem Topf kochen.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "In einer Pfanne den Schüsselinhalt zusammen mit der Zwiebel anbraten.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Paprika und Champignons klein schneiden und in die Pfanne geben. Bei Bedarf noch etwas Rapsöl darübersprühen und die restlichen 2 EL Sesamsamen dazugeben.",
+      "timerMinutes": 6
+    },
+    {
+      "text": "Für den Dip die Mayonnaise mit Ajvar, Olivenöl und Crispy Chili Öl mischen."
+    },
+    {
+      "text": "Hähnchen-Gemüse mit Reis und Dip servieren."
+    }
+  ]
+}

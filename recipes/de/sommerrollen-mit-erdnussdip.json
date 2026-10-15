@@ -1,0 +1,255 @@
+{
+  "id": "sommerrollen-mit-erdnussdip",
+  "version": 1,
+  "title": "Sommerrollen mit Erdnussdip",
+  "summary": "Knackige Sommerrollen mit buntem Gemüse und knusprigem Tofu, dazu ein cremiger Erdnussdip.",
+  "emoji": "🥢",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarisch"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 571,
+    "protein": 25,
+    "fat": 26,
+    "carbs": 68
+  },
+  "ingredients": [
+    {
+      "name": "Reispapier",
+      "amount": 10,
+      "unit": "piece",
+      "category": "dryGoods",
+      "pantry": false,
+      "note": "10 Blätter",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rotkohl",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tofu",
+      "amount": 150,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Kichererbsen",
+          "amount": 0.6,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Karotten",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gurke",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprika",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sesam",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sesame"
+      ]
+    },
+    {
+      "name": "Honig",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agavendicksaft",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Sojasoße",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (glutenfreie Sojasoße)",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Kokos-Aminos",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Kokosmilch",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Limette",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ingwer",
+      "amount": 15,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "ca. 2 cm",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Reisessig",
+      "amount": 0.5,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Limettensaft",
+          "amount": 0.5,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Erdnussbutter",
+      "amount": 70,
+      "unit": "g",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "peanuts"
+      ]
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "note": "zum Besprühen",
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Paprika, Karotten, Rotkohl und Gurke in Streifen schneiden."
+    },
+    {
+      "text": "Den Tofu klein schneiden, mit etwas Öl besprühen und für 2x 8 Minuten bei 200 °C in den Airfryer geben.",
+      "timerMinutes": 16
+    },
+    {
+      "text": "Für die Soße Knoblauch und Ingwer klein schneiden und die Limette auspressen."
+    },
+    {
+      "text": "Alles mit Erdnussbutter, Honig, 3 EL Wasser, Kokosmilch, Sojasoße und Reisessig zu einer Soße verrühren."
+    },
+    {
+      "text": "Einen Teller mit lauwarmem Wasser bedecken und das Reispapier jeweils von beiden Seiten kurz aufweichen."
+    },
+    {
+      "text": "Das Reispapier auf einem trockenen Teller mit Gemüse und Tofu belegen, mit Sesam bestreuen und aufrollen."
+    }
+  ]
+}

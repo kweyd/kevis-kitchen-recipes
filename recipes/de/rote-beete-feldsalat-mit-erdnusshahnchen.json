@@ -1,0 +1,277 @@
+{
+  "id": "rote-beete-feldsalat-mit-erdnusshahnchen",
+  "version": 1,
+  "title": "Rote-Bete-Feldsalat mit Erdnusshähnchen",
+  "summary": "Feldsalat mit Roter Bete und Orangen-Dressing, dazu Linsen und Hähnchen in Erdnuss-Sesam-Kruste.",
+  "emoji": "🥗",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 800,
+    "protein": 57,
+    "fat": 41,
+    "carbs": 49
+  },
+  "ingredients": [
+    {
+      "name": "Feldsalat",
+      "amount": 150,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Hähnchenbrust",
+      "amount": 300,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegane Hähnchenstücke (Soja)",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Tofu natur",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Linsen",
+      "amount": 200,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "verzehrfertig, vorgegart",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rote Bete",
+      "amount": 400,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "vorgegart",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Orange",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "Saft",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honig",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agavendicksaft",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Olivenöl",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Weißweinessig",
+      "amount": 3,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Zitronensaft",
+          "amount": 3,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Wasser",
+      "amount": 50,
+      "unit": "ml",
+      "category": "other",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Erdnussbutter",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "peanuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Cashewmus",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": [
+            "nuts"
+          ]
+        },
+        {
+          "name": "Tahin (Sesammus)",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": [
+            "sesame"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sojasoße",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (glutenfreie Sojasauce)",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Kokos-Aminos",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Sesam",
+      "amount": 40,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sesame"
+      ]
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Den Feldsalat waschen und auf 2 Teller verteilen. Die Rote Bete schneiden und ebenfalls auf die beiden Teller verteilen."
+    },
+    {
+      "text": "Ein Dressing aus Weißweinessig, Olivenöl, Pfeffer, Salz, Honig, frisch gepresstem Orangensaft und Wasser anrühren und über die Teller verteilen."
+    },
+    {
+      "text": "Öl in einer Pfanne erhitzen, das Hähnchen in kleine Würfel schneiden und scharf anbraten.",
+      "timerMinutes": 6
+    },
+    {
+      "text": "Währenddessen die Linsen in einem Topf erhitzen.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Das Hähnchen in der Pfanne mit Sojasoße ablöschen, dann die Erdnussbutter dazugeben und umrühren, bis alles gleichmäßig verteilt ist. Jetzt noch den Sesam dazugeben und weiterrühren."
+    },
+    {
+      "text": "Die Linsen auf die Teller verteilen und das Hähnchen obendrauf geben."
+    }
+  ]
+}

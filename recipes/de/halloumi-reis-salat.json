@@ -1,0 +1,186 @@
+{
+  "id": "halloumi-reis-salat",
+  "version": 1,
+  "title": "Halloumi-Reis-Salat",
+  "summary": "Knuspriger Halloumi aus dem Airfryer auf Brühreis und frischem Salat mit Honig-Senf-Dressing.",
+  "emoji": "🥗",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarisch",
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 632,
+    "protein": 28,
+    "fat": 36,
+    "carbs": 48
+  },
+  "ingredients": [
+    {
+      "name": "Halloumi",
+      "amount": 250,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Veganer Grillkäse (Halloumi-Alternative)",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        },
+        {
+          "name": "Tofu natur",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Reis",
+      "amount": 100,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gemüsebrühe",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "note": "Pulver",
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 0.5,
+          "unit": "tsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Salatmix",
+      "amount": 130,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zitrone",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honig",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Ahornsirup",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Senf",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "mustard"
+      ]
+    },
+    {
+      "name": "Olivenöl",
+      "amount": 15,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Reis mit der Gemüsebrühe in einem Topf nach Packungsanleitung kochen.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Den Halloumi in kleine Stücke schneiden und im Airfryer bei 200 °C für 2× 9 Minuten anbraten, dazwischen einmal wenden.",
+      "timerMinutes": 18
+    },
+    {
+      "text": "Den Salat waschen und abtropfen lassen."
+    },
+    {
+      "text": "Für das Dressing den Saft einer Zitrone, Honig, Senf, Olivenöl, Pfeffer und Salz mischen."
+    },
+    {
+      "text": "Den Salat mit dem Dressing vermischen."
+    },
+    {
+      "text": "Den Reis auf die Teller geben und den Salat darüber. Den Halloumi über die Portionen geben."
+    }
+  ]
+}

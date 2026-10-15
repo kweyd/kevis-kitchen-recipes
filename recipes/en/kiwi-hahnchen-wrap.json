@@ -1,0 +1,194 @@
+{
+  "id": "kiwi-hahnchen-wrap",
+  "version": 1,
+  "title": "Kiwi Chicken Wrap",
+  "summary": "Crispy chicken strips with sweet golden kiwi, spinach and mustard crème fraîche in a wholegrain wrap.",
+  "emoji": "🌯",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "quick"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 910,
+    "protein": 52,
+    "fat": 42,
+    "carbs": 75
+  },
+  "ingredients": [
+    {
+      "name": "Wholegrain tortillas",
+      "amount": 4,
+      "unit": "piece",
+      "category": "bakery",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Corn tortillas",
+          "amount": 4,
+          "unit": "piece",
+          "category": "bakery",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Gluten-free wraps",
+          "amount": 4,
+          "unit": "piece",
+          "category": "bakery",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Golden kiwi",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chicken breast fillet",
+      "amount": 300,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegan chicken pieces (soy)",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Chickpeas",
+          "amount": 1.2,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Crème fraîche",
+      "amount": 200,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free crème fraîche",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Plain soy yoghurt",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spinach",
+      "amount": 100,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 2,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mustard",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "mustard"
+      ]
+    },
+    {
+      "name": "Oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cut the chicken breast into thin strips and spray with a little oil."
+    },
+    {
+      "text": "Air-fry the chicken at 200 °C for 2 x 8 minutes.",
+      "timerMinutes": 16
+    },
+    {
+      "text": "Wash the spinach and kiwis and slice the kiwis."
+    },
+    {
+      "text": "In a bowl, stir the crème fraîche with mustard, pepper and salt."
+    },
+    {
+      "text": "Warm the tortillas on both sides in a hot dry pan.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Spread the cream down the middle of each tortilla, top with chicken, kiwi and spinach and roll up."
+    }
+  ]
+}

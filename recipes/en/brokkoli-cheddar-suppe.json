@@ -1,0 +1,223 @@
+{
+  "id": "brokkoli-cheddar-suppe",
+  "version": 1,
+  "title": "Broccoli Cheddar Soup",
+  "summary": "Velvety broccoli soup with melted cheddar and pan-fried florets – proper comfort food.",
+  "emoji": "🥦",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 620,
+    "protein": 25,
+    "fat": 53,
+    "carbs": 9
+  },
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "amount": 300,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Red onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Grated cheddar",
+      "amount": 125,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan grated cheese",
+          "amount": 125,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Whipping cream",
+      "amount": 125,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free cream",
+          "amount": 125,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Oat cream",
+          "amount": 125,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Soy cream",
+          "amount": 125,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Garlic",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Butter",
+      "amount": 30,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free butter",
+          "amount": 30,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Plant-based butter",
+          "amount": 30,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": 400,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Celery-free vegetable stock",
+          "amount": 400,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Separate the broccoli florets from the stalk and chop the stalk."
+    },
+    {
+      "text": "Peel and chop the onion and garlic."
+    },
+    {
+      "text": "Heat a third of the butter in a pot and fry the onion with the broccoli stalk.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Add the garlic and cook until lightly browned.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Deglaze with the vegetable stock and season with pepper and salt."
+    },
+    {
+      "text": "Blend everything with a stick blender until smooth and let it simmer.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "In another pot, fry the broccoli florets in the remaining butter.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Once the broccoli is lightly browned, add the blended soup, the cream and the cheddar and cook, stirring, until the cheddar has melted.",
+      "timerMinutes": 3
+    }
+  ]
+}

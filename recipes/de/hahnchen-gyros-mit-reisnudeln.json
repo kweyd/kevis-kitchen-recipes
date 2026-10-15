@@ -1,0 +1,285 @@
+{
+  "id": "hahnchen-gyros-mit-reisnudeln",
+  "version": 1,
+  "title": "Hähnchen-Gyros mit Reisnudeln",
+  "summary": "Mariniertes Hähnchen-Gyros mit Kritharaki, frischem Gemüse und selbstgemachtem Tzatziki.",
+  "emoji": "🥙",
+  "servings": 2,
+  "prepMinutes": 60,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 750,
+    "protein": 51,
+    "fat": 27,
+    "carbs": 75
+  },
+  "ingredients": [
+    {
+      "name": "Hähnchenbrustfilet",
+      "amount": 300,
+      "unit": "g",
+      "note": "oder Hähnchengeschnetzeltes",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegane Hähnchenstücke (Soja)",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Kichererbsen",
+          "amount": 1.2,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Zitronen",
+      "amount": 2.5,
+      "unit": "piece",
+      "note": "1 für die Marinade, ½ fürs Tzatziki, 1 zum Servieren",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Kritharaki",
+      "amount": 150,
+      "unit": "g",
+      "note": "griechische Reisnudeln",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Reis",
+          "amount": 150,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Kirschtomaten",
+      "amount": 100,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gurke",
+      "amount": 200,
+      "unit": "g",
+      "note": "100 g fürs Tzatziki",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 6,
+      "unit": "clove",
+      "note": "3 für die Marinade, 3 fürs Tzatziki",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chili",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oregano (getrocknet)",
+      "amount": 0.5,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Thymian (getrocknet)",
+      "amount": 0.5,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Olivenöl",
+      "amount": 2.5,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprikapulver (edelsüß)",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honig",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agavendicksaft",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Griechischer Joghurt",
+      "amount": 300,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreier Joghurt griechischer Art",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Sojajoghurt (ungesüßt)",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Petersilie (getrocknet)",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Weißweinessig",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Zitronensaft",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Salz",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Für das Tzatziki in einer Schüssel den Joghurt mit Petersilie, je ½ TL Salz und Pfeffer, dem Saft einer halben Zitrone und dem Weißweinessig vermischen. 3 Knoblauchzehen dazupressen."
+    },
+    {
+      "text": "100 g Gurke schälen, entkernen und raspeln, mit einem Geschirrtuch ausdrücken und in die Schüssel geben. Zum Schluss ½ EL Olivenöl darüberträufeln."
+    },
+    {
+      "text": "Für das Gyros Chili, die restliche Gurke und die Kirschtomaten klein schneiden. Das Hähnchen klein schneiden, falls man kein Geschnetzeltes hat."
+    },
+    {
+      "text": "Das Hähnchen mit 2 EL Olivenöl, Oregano, Thymian, dem Saft einer Zitrone, Paprikapulver, je ½ TL Pfeffer und Salz und dem Honig in eine Schüssel geben und die restlichen 3 Knoblauchzehen dazupressen. Alles vermischen und 30 Minuten ziehen lassen.",
+      "timerMinutes": 30
+    },
+    {
+      "text": "Die Kritharaki in einem Topf mit kochendem Wasser 10 Minuten kochen.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Gleichzeitig das Hähnchen in einer Pfanne braten.",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Das Hähnchen mit Tzatziki, Tomaten, Gurke, den Kritharaki und Zitronenspalten servieren."
+    }
+  ]
+}

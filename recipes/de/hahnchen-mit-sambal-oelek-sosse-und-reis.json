@@ -1,0 +1,247 @@
+{
+  "id": "hahnchen-mit-sambal-oelek-sosse-und-reis",
+  "version": 1,
+  "title": "Hähnchen mit Sambal-Oelek-Soße und Reis",
+  "summary": "Hähnchen in scharfer Kokos-Sambal-Soße mit Curryreis, frischem Gurkensalat und Erdnüssen.",
+  "emoji": "🌶️",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 890,
+    "protein": 45,
+    "fat": 47,
+    "carbs": 70
+  },
+  "ingredients": [
+    {
+      "name": "Hähnchenbrustfilet",
+      "amount": 250,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegane Hähnchenstücke (Soja)",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Kichererbsen",
+          "amount": 1.0,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Kokosmilch",
+      "amount": 250,
+      "unit": "ml",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Basmatireis",
+      "amount": 150,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Limette",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gurke",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Weißweinessig",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Zitronensaft",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Sambal Oelek",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sojasoße",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (glutenfreie Sojasauce)",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Kokos-Aminos",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Gesalzene Erdnüsse",
+      "amount": 60,
+      "unit": "g",
+      "category": "snacks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "peanuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Cashewkerne (gesalzen)",
+          "amount": 60,
+          "unit": "g",
+          "category": "snacks",
+          "diet": "plant",
+          "allergens": [
+            "nuts"
+          ]
+        },
+        {
+          "name": "Sonnenblumenkerne (geröstet)",
+          "amount": 60,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Zucker",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Currypulver",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Den Reis mit etwas Salz und einem Teelöffel Currypulver kochen.",
+      "timerMinutes": 12
+    },
+    {
+      "text": "Öl in einer Pfanne erhitzen, das Hähnchen leicht salzen und von beiden Seiten kurz anbraten.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Die Pfanne auf mittlere Hitze stellen und Sambal Oelek, Sojasoße und Kokosmilch dazugeben. Deckel drauf und 10 Minuten köcheln lassen.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Die Gurke in Scheiben schneiden und in eine Schüssel geben. Pfeffer, Salz, Weißweinessig, Zucker, ein Drittel der Erdnüsse und den Saft einer halben Limette dazugeben und alles verrühren."
+    },
+    {
+      "text": "Zum Anrichten den Reis auf die Teller geben, daneben etwas Gurkensalat. Das Hähnchen in Streifen schneiden und mit der Soße auf die Teller geben."
+    },
+    {
+      "text": "Dazu je ein Limettenviertel und die restlichen Erdnüsse servieren."
+    }
+  ]
+}

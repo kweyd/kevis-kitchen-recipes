@@ -1,0 +1,197 @@
+{
+  "id": "zitronen-petersilienrisotto",
+  "version": 1,
+  "title": "Lemon Parsley Risotto",
+  "summary": "Creamy white wine risotto with a fresh lemon parsley pesto and parmesan.",
+  "emoji": "🍋",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 730,
+    "protein": 18,
+    "fat": 27,
+    "carbs": 80
+  },
+  "ingredients": [
+    {
+      "name": "Risotto rice",
+      "amount": 200,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "White wine",
+      "amount": 250,
+      "unit": "ml",
+      "category": "drinks",
+      "pantry": false,
+      "note": "dry",
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Extra vegetable stock without celery",
+          "amount": 250,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": 500,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegetable stock without celery",
+          "amount": 500,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Red onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lemon",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Parsley",
+      "amount": 40,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Olive oil",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "note": "plus a little for sautéing",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Parmesan",
+      "amount": 30,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan parmesan alternative",
+          "amount": 30,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Pine nuts",
+      "amount": 20,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "nuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Sunflower seeds",
+          "amount": 20,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Peel and chop the onion. Grate the parmesan."
+    },
+    {
+      "text": "Sauté the onion in a little oil in a pan, then add the risotto rice shortly after.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Before the rice starts to catch, deglaze with the white wine."
+    },
+    {
+      "text": "Let the wine cook down and meanwhile blend the parsley with the juice and zest of one lemon, the pine nuts, olive oil, half of the parmesan, pepper and salt into a pesto.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "When the wine has almost evaporated, keep topping up the pan with stock until the rice is covered.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "When almost all the liquid is absorbed, stir the pesto into the rice and serve with the remaining parmesan."
+    }
+  ]
+}

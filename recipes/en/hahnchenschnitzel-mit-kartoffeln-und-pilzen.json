@@ -1,0 +1,272 @@
+{
+  "id": "hahnchenschnitzel-mit-kartoffeln-und-pilzen",
+  "version": 1,
+  "title": "Chicken Schnitzel with Potatoes and Mushrooms",
+  "summary": "Crispy air-fryer schnitzel with creamy mushrooms and baby potatoes.",
+  "emoji": "🍗",
+  "servings": 1,
+  "prepMinutes": 40,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 797,
+    "protein": 59.1,
+    "fat": 23.1,
+    "carbs": 83.5
+  },
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Baby potatoes",
+      "amount": 225,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Button mushrooms",
+      "amount": 125,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chicken escalope",
+      "amount": 175,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Firm tofu (sliced)",
+          "amount": 175,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Cooking cream",
+      "amount": 120,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "note": "7% fat",
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free cooking cream",
+          "amount": 120,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Oat cream",
+          "amount": 120,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Soy cream",
+          "amount": 120,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Egg",
+      "amount": 1,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Soy drink (for breading)",
+          "amount": 50,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Oat drink (for breading)",
+          "amount": 50,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Wheat flour",
+      "amount": 15,
+      "unit": "g",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free flour mix",
+          "amount": 15,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": 30,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free breadcrumbs",
+          "amount": 30,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Lemon",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Parsley",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "produce",
+      "pantry": false,
+      "note": "chopped",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Wash the potatoes and boil them in a pot.",
+      "timerMinutes": 25
+    },
+    {
+      "text": "Slice the mushrooms and onion and fry them in a pan with a little oil.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Season the chicken escalope with pepper and salt on both sides."
+    },
+    {
+      "text": "Set out three deep plates: whisk the egg in one, spread the flour in the second and the breadcrumbs in the third."
+    },
+    {
+      "text": "Bread the schnitzel in this order, twice."
+    },
+    {
+      "text": "Add the cooking cream to the pan and season with pepper and salt."
+    },
+    {
+      "text": "Air-fry the schnitzel at 200 °C for 2× 8 minutes, turning it halfway.",
+      "timerMinutes": 16
+    },
+    {
+      "text": "Drain the potatoes and put them on the plate. Spoon the mushrooms over them and garnish with parsley. Squeeze the half lemon over the schnitzel as you like."
+    }
+  ]
+}

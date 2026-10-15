@@ -1,0 +1,223 @@
+{
+  "id": "brokkoli-cheddar-suppe",
+  "version": 1,
+  "title": "Brokkoli-Cheddar-Suppe",
+  "summary": "Samtige Brokkolisuppe mit geschmolzenem Cheddar und angebratenen Röschen – richtig gemütlich.",
+  "emoji": "🥦",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarisch"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 620,
+    "protein": 25,
+    "fat": 53,
+    "carbs": 9
+  },
+  "ingredients": [
+    {
+      "name": "Brokkoli",
+      "amount": 300,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rote Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Geriebener Cheddar",
+      "amount": 125,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Veganer Reibekäse",
+          "amount": 125,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Schlagsahne",
+      "amount": 125,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Sahne",
+          "amount": 125,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Hafer-Cuisine",
+          "amount": 125,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Soja-Cuisine",
+          "amount": 125,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Butter",
+      "amount": 30,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Butter",
+          "amount": 30,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Pflanzliche Butter",
+          "amount": 30,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Gemüsebrühe",
+      "amount": 400,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 400,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Beim Brokkoli die Röschen vom Strunk trennen und den Strunk klein schneiden."
+    },
+    {
+      "text": "Zwiebel und Knoblauch schälen und hacken."
+    },
+    {
+      "text": "In einem Topf ein Drittel der Butter erhitzen und die Zwiebel mit dem Brokkolistrunk anbraten.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Den Knoblauch dazugeben und warten, bis er leicht braun ist.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Dann mit der Gemüsebrühe ablöschen und mit Pfeffer und Salz abschmecken."
+    },
+    {
+      "text": "Mit einem Pürierstab alles zu einer sämigen Masse pürieren und kochen lassen.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "In einem anderen Topf die Brokkoliröschen mit der restlichen Butter anbraten.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Wenn der Brokkoli leicht braun ist, die sämige Masse sowie die Schlagsahne und den Cheddar dazugeben und unter Rühren so lange kochen, bis der Cheddar geschmolzen ist.",
+      "timerMinutes": 3
+    }
+  ]
+}

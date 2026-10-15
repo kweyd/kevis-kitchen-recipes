@@ -1,0 +1,40 @@
+name: Submit a recipe
+description: Share your own recipe with everyone (CC0 / public domain)
+title: "Recipe: "
+labels: ["recipe"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing! In the Kevi's Kitchen app open your recipe → ⋯ → *Submit to community* and tap *Copy recipe*.
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      options:
+        - Deutsch
+        - English
+    validations:
+      required: true
+  - type: textarea
+    id: recipe
+    attributes:
+      label: Recipe
+      description: Paste the copied recipe here.
+      render: json
+    validations:
+      required: true
+  - type: textarea
+    id: photo
+    attributes:
+      label: Photo
+      description: Drag and drop a photo you took yourself (optional).
+  - type: checkboxes
+    id: license
+    attributes:
+      label: License
+      options:
+        - label: I wrote this recipe myself and took the photo myself.
+          required: true
+        - label: I release recipe and photo into the public domain under CC0 1.0.
+          required: true

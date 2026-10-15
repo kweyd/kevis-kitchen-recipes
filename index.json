@@ -1,0 +1,824 @@
+{
+  "version": 2,
+  "recipes": [
+    {
+      "id": "beef-wellington",
+      "version": 1,
+      "image": "images/beef-wellington.jpg",
+      "languages": {
+        "de": "recipes/de/beef-wellington.json",
+        "en": "recipes/en/beef-wellington.json"
+      }
+    },
+    {
+      "id": "blumenkohl-curry",
+      "version": 1,
+      "image": "images/blumenkohl-curry.jpg",
+      "languages": {
+        "de": "recipes/de/blumenkohl-curry.json",
+        "en": "recipes/en/blumenkohl-curry.json"
+      }
+    },
+    {
+      "id": "brokkoli-cheddar-suppe",
+      "version": 1,
+      "image": "images/brokkoli-cheddar-suppe.jpg",
+      "languages": {
+        "de": "recipes/de/brokkoli-cheddar-suppe.json",
+        "en": "recipes/en/brokkoli-cheddar-suppe.json"
+      }
+    },
+    {
+      "id": "butter-chicken",
+      "version": 1,
+      "image": "images/butter-chicken.jpg",
+      "languages": {
+        "de": "recipes/de/butter-chicken.json",
+        "en": "recipes/en/butter-chicken.json"
+      }
+    },
+    {
+      "id": "champignons-stroganoff-art-mit-reis",
+      "version": 1,
+      "image": "images/champignons-stroganoff-art-mit-reis.jpg",
+      "languages": {
+        "de": "recipes/de/champignons-stroganoff-art-mit-reis.json",
+        "en": "recipes/en/champignons-stroganoff-art-mit-reis.json"
+      }
+    },
+    {
+      "id": "chicken-gung-bao",
+      "version": 1,
+      "image": "images/chicken-gung-bao.jpg",
+      "languages": {
+        "de": "recipes/de/chicken-gung-bao.json",
+        "en": "recipes/en/chicken-gung-bao.json"
+      }
+    },
+    {
+      "id": "chickenpasta-mit-ziegenfrischkase",
+      "version": 1,
+      "image": "images/chickenpasta-mit-ziegenfrischkase.jpg",
+      "languages": {
+        "de": "recipes/de/chickenpasta-mit-ziegenfrischkase.json",
+        "en": "recipes/en/chickenpasta-mit-ziegenfrischkase.json"
+      }
+    },
+    {
+      "id": "chili-cheese-chicken",
+      "version": 1,
+      "image": "images/chili-cheese-chicken.jpg",
+      "languages": {
+        "de": "recipes/de/chili-cheese-chicken.json",
+        "en": "recipes/en/chili-cheese-chicken.json"
+      }
+    },
+    {
+      "id": "chili-con-carne",
+      "version": 1,
+      "image": "images/chili-con-carne.jpg",
+      "languages": {
+        "de": "recipes/de/chili-con-carne.json",
+        "en": "recipes/en/chili-con-carne.json"
+      }
+    },
+    {
+      "id": "chili-hahnchen-mit-reis",
+      "version": 1,
+      "image": "images/chili-hahnchen-mit-reis.jpg",
+      "languages": {
+        "de": "recipes/de/chili-hahnchen-mit-reis.json",
+        "en": "recipes/en/chili-hahnchen-mit-reis.json"
+      }
+    },
+    {
+      "id": "chili-oil-rice",
+      "version": 1,
+      "image": "images/chili-oil-rice.jpg",
+      "languages": {
+        "de": "recipes/de/chili-oil-rice.json",
+        "en": "recipes/en/chili-oil-rice.json"
+      }
+    },
+    {
+      "id": "chili-sesam-hahnchen",
+      "version": 1,
+      "image": "images/chili-sesam-hahnchen.jpg",
+      "languages": {
+        "de": "recipes/de/chili-sesam-hahnchen.json",
+        "en": "recipes/en/chili-sesam-hahnchen.json"
+      }
+    },
+    {
+      "id": "chinkali",
+      "version": 1,
+      "image": "images/chinkali.jpg",
+      "languages": {
+        "de": "recipes/de/chinkali.json",
+        "en": "recipes/en/chinkali.json"
+      }
+    },
+    {
+      "id": "creme-brulee",
+      "version": 1,
+      "image": "images/creme-brulee.jpg",
+      "languages": {
+        "de": "recipes/de/creme-brulee.json",
+        "en": "recipes/en/creme-brulee.json"
+      }
+    },
+    {
+      "id": "croissant-burger-mit-susskartoffelpommes-und-parme",
+      "version": 1,
+      "image": "images/croissant-burger-mit-susskartoffelpommes-und-parme.jpg",
+      "languages": {
+        "de": "recipes/de/croissant-burger-mit-susskartoffelpommes-und-parme.json",
+        "en": "recipes/en/croissant-burger-mit-susskartoffelpommes-und-parme.json"
+      }
+    },
+    {
+      "id": "currywurst-mit-pommes",
+      "version": 1,
+      "image": "images/currywurst-mit-pommes.jpg",
+      "languages": {
+        "de": "recipes/de/currywurst-mit-pommes.json",
+        "en": "recipes/en/currywurst-mit-pommes.json"
+      }
+    },
+    {
+      "id": "erbsenrisotto",
+      "version": 1,
+      "image": "images/erbsenrisotto.jpg",
+      "languages": {
+        "de": "recipes/de/erbsenrisotto.json",
+        "en": "recipes/en/erbsenrisotto.json"
+      }
+    },
+    {
+      "id": "erdnuss-chili-nudeln",
+      "version": 1,
+      "image": "images/erdnuss-chili-nudeln.jpg",
+      "languages": {
+        "de": "recipes/de/erdnuss-chili-nudeln.json",
+        "en": "recipes/en/erdnuss-chili-nudeln.json"
+      }
+    },
+    {
+      "id": "erdnuss-suppe",
+      "version": 1,
+      "image": "images/erdnuss-suppe.jpg",
+      "languages": {
+        "de": "recipes/de/erdnuss-suppe.json",
+        "en": "recipes/en/erdnuss-suppe.json"
+      }
+    },
+    {
+      "id": "feta-avocado-pasta",
+      "version": 1,
+      "image": "images/feta-avocado-pasta.jpg",
+      "languages": {
+        "de": "recipes/de/feta-avocado-pasta.json",
+        "en": "recipes/en/feta-avocado-pasta.json"
+      }
+    },
+    {
+      "id": "feta-pasta",
+      "version": 1,
+      "image": "images/feta-pasta.jpg",
+      "languages": {
+        "de": "recipes/de/feta-pasta.json",
+        "en": "recipes/en/feta-pasta.json"
+      }
+    },
+    {
+      "id": "frikadellen-mit-kartoffeln-und-truffelmayo",
+      "version": 1,
+      "image": "images/frikadellen-mit-kartoffeln-und-truffelmayo.jpg",
+      "languages": {
+        "de": "recipes/de/frikadellen-mit-kartoffeln-und-truffelmayo.json",
+        "en": "recipes/en/frikadellen-mit-kartoffeln-und-truffelmayo.json"
+      }
+    },
+    {
+      "id": "gebratene-asia-nudeln-mit-tofu",
+      "version": 1,
+      "image": "images/gebratene-asia-nudeln-mit-tofu.jpg",
+      "languages": {
+        "de": "recipes/de/gebratene-asia-nudeln-mit-tofu.json",
+        "en": "recipes/en/gebratene-asia-nudeln-mit-tofu.json"
+      }
+    },
+    {
+      "id": "gebratene-nudeln-mit-hahnchen-und-gemuse",
+      "version": 1,
+      "image": "images/gebratene-nudeln-mit-hahnchen-und-gemuse.jpg",
+      "languages": {
+        "de": "recipes/de/gebratene-nudeln-mit-hahnchen-und-gemuse.json",
+        "en": "recipes/en/gebratene-nudeln-mit-hahnchen-und-gemuse.json"
+      }
+    },
+    {
+      "id": "gefullte-paprikaschoten",
+      "version": 1,
+      "image": "images/gefullte-paprikaschoten.jpg",
+      "languages": {
+        "de": "recipes/de/gefullte-paprikaschoten.json",
+        "en": "recipes/en/gefullte-paprikaschoten.json"
+      }
+    },
+    {
+      "id": "gnocchi-mit-rinderfilet",
+      "version": 1,
+      "image": "images/gnocchi-mit-rinderfilet.jpg",
+      "languages": {
+        "de": "recipes/de/gnocchi-mit-rinderfilet.json",
+        "en": "recipes/en/gnocchi-mit-rinderfilet.json"
+      }
+    },
+    {
+      "id": "gnocchis-auf-ceasarsalad",
+      "version": 1,
+      "image": "images/gnocchis-auf-ceasarsalad.jpg",
+      "languages": {
+        "de": "recipes/de/gnocchis-auf-ceasarsalad.json",
+        "en": "recipes/en/gnocchis-auf-ceasarsalad.json"
+      }
+    },
+    {
+      "id": "gratinierter-feta-mit-gemuse",
+      "version": 1,
+      "image": "images/gratinierter-feta-mit-gemuse.jpg",
+      "languages": {
+        "de": "recipes/de/gratinierter-feta-mit-gemuse.json",
+        "en": "recipes/en/gratinierter-feta-mit-gemuse.json"
+      }
+    },
+    {
+      "id": "green-curry-mit-tofu",
+      "version": 1,
+      "image": "images/green-curry-mit-tofu.jpg",
+      "languages": {
+        "de": "recipes/de/green-curry-mit-tofu.json",
+        "en": "recipes/en/green-curry-mit-tofu.json"
+      }
+    },
+    {
+      "id": "grunes-shashuka",
+      "version": 1,
+      "image": "images/grunes-shashuka.jpg",
+      "languages": {
+        "de": "recipes/de/grunes-shashuka.json",
+        "en": "recipes/en/grunes-shashuka.json"
+      }
+    },
+    {
+      "id": "hahnchen-gyros-mit-reisnudeln",
+      "version": 1,
+      "image": "images/hahnchen-gyros-mit-reisnudeln.jpg",
+      "languages": {
+        "de": "recipes/de/hahnchen-gyros-mit-reisnudeln.json",
+        "en": "recipes/en/hahnchen-gyros-mit-reisnudeln.json"
+      }
+    },
+    {
+      "id": "hahnchen-mit-reis-in-frischkasesosse",
+      "version": 1,
+      "image": "images/hahnchen-mit-reis-in-frischkasesosse.jpg",
+      "languages": {
+        "de": "recipes/de/hahnchen-mit-reis-in-frischkasesosse.json",
+        "en": "recipes/en/hahnchen-mit-reis-in-frischkasesosse.json"
+      }
+    },
+    {
+      "id": "hahnchen-mit-sambal-oelek-sosse-und-reis",
+      "version": 1,
+      "image": "images/hahnchen-mit-sambal-oelek-sosse-und-reis.jpg",
+      "languages": {
+        "de": "recipes/de/hahnchen-mit-sambal-oelek-sosse-und-reis.json",
+        "en": "recipes/en/hahnchen-mit-sambal-oelek-sosse-und-reis.json"
+      }
+    },
+    {
+      "id": "hahnchen-salatmix-mit-avocado",
+      "version": 1,
+      "image": "images/hahnchen-salatmix-mit-avocado.jpg",
+      "languages": {
+        "de": "recipes/de/hahnchen-salatmix-mit-avocado.json",
+        "en": "recipes/en/hahnchen-salatmix-mit-avocado.json"
+      }
+    },
+    {
+      "id": "hahnchenbrust-auf-gnocchipfanne",
+      "version": 1,
+      "image": "images/hahnchenbrust-auf-gnocchipfanne.jpg",
+      "languages": {
+        "de": "recipes/de/hahnchenbrust-auf-gnocchipfanne.json",
+        "en": "recipes/en/hahnchenbrust-auf-gnocchipfanne.json"
+      }
+    },
+    {
+      "id": "hahnchenbrust-mit-getrockneten-tomaten-und-spinat",
+      "version": 1,
+      "image": "images/hahnchenbrust-mit-getrockneten-tomaten-und-spinat.jpg",
+      "languages": {
+        "de": "recipes/de/hahnchenbrust-mit-getrockneten-tomaten-und-spinat.json",
+        "en": "recipes/en/hahnchenbrust-mit-getrockneten-tomaten-und-spinat.json"
+      }
+    },
+    {
+      "id": "hahnchenpasta-mit-kohlrabi-und-zuckerschoten",
+      "version": 1,
+      "image": "images/hahnchenpasta-mit-kohlrabi-und-zuckerschoten.jpg",
+      "languages": {
+        "de": "recipes/de/hahnchenpasta-mit-kohlrabi-und-zuckerschoten.json",
+        "en": "recipes/en/hahnchenpasta-mit-kohlrabi-und-zuckerschoten.json"
+      }
+    },
+    {
+      "id": "hahnchenschnitzel-mit-kartoffeln-und-pilzen",
+      "version": 1,
+      "image": "images/hahnchenschnitzel-mit-kartoffeln-und-pilzen.jpg",
+      "languages": {
+        "de": "recipes/de/hahnchenschnitzel-mit-kartoffeln-und-pilzen.json",
+        "en": "recipes/en/hahnchenschnitzel-mit-kartoffeln-und-pilzen.json"
+      }
+    },
+    {
+      "id": "halloumi-burger-mit-kartoffelecken-und-sour-cream",
+      "version": 1,
+      "image": "images/halloumi-burger-mit-kartoffelecken-und-sour-cream.jpg",
+      "languages": {
+        "de": "recipes/de/halloumi-burger-mit-kartoffelecken-und-sour-cream.json",
+        "en": "recipes/en/halloumi-burger-mit-kartoffelecken-und-sour-cream.json"
+      }
+    },
+    {
+      "id": "halloumi-reis-salat",
+      "version": 1,
+      "image": "images/halloumi-reis-salat.jpg",
+      "languages": {
+        "de": "recipes/de/halloumi-reis-salat.json",
+        "en": "recipes/en/halloumi-reis-salat.json"
+      }
+    },
+    {
+      "id": "huhnersuppe",
+      "version": 1,
+      "image": "images/huhnersuppe.jpg",
+      "languages": {
+        "de": "recipes/de/huhnersuppe.json",
+        "en": "recipes/en/huhnersuppe.json"
+      }
+    },
+    {
+      "id": "kartoffel-flammkuchen",
+      "version": 1,
+      "image": "images/kartoffel-flammkuchen.jpg",
+      "languages": {
+        "de": "recipes/de/kartoffel-flammkuchen.json",
+        "en": "recipes/en/kartoffel-flammkuchen.json"
+      }
+    },
+    {
+      "id": "kartoffel-linsen-salat",
+      "version": 1,
+      "image": "images/kartoffel-linsen-salat.jpg",
+      "languages": {
+        "de": "recipes/de/kartoffel-linsen-salat.json",
+        "en": "recipes/en/kartoffel-linsen-salat.json"
+      }
+    },
+    {
+      "id": "kartoffelbun-burger-mit-wedges",
+      "version": 1,
+      "image": "images/kartoffelbun-burger-mit-wedges.jpg",
+      "languages": {
+        "de": "recipes/de/kartoffelbun-burger-mit-wedges.json",
+        "en": "recipes/en/kartoffelbun-burger-mit-wedges.json"
+      }
+    },
+    {
+      "id": "kiwi-hahnchen-wrap",
+      "version": 1,
+      "image": "images/kiwi-hahnchen-wrap.jpg",
+      "languages": {
+        "de": "recipes/de/kiwi-hahnchen-wrap.json",
+        "en": "recipes/en/kiwi-hahnchen-wrap.json"
+      }
+    },
+    {
+      "id": "krauter-fleischballchen-mit-feta-creme",
+      "version": 1,
+      "image": "images/krauter-fleischballchen-mit-feta-creme.jpg",
+      "languages": {
+        "de": "recipes/de/krauter-fleischballchen-mit-feta-creme.json",
+        "en": "recipes/en/krauter-fleischballchen-mit-feta-creme.json"
+      }
+    },
+    {
+      "id": "lachs-bowl",
+      "version": 1,
+      "image": "images/lachs-bowl.jpg",
+      "languages": {
+        "de": "recipes/de/lachs-bowl.json",
+        "en": "recipes/en/lachs-bowl.json"
+      }
+    },
+    {
+      "id": "lachs-erbsen-pasta",
+      "version": 1,
+      "image": "images/lachs-erbsen-pasta.jpg",
+      "languages": {
+        "de": "recipes/de/lachs-erbsen-pasta.json",
+        "en": "recipes/en/lachs-erbsen-pasta.json"
+      }
+    },
+    {
+      "id": "lachs-mit-brokkolipuree",
+      "version": 1,
+      "image": "images/lachs-mit-brokkolipuree.jpg",
+      "languages": {
+        "de": "recipes/de/lachs-mit-brokkolipuree.json",
+        "en": "recipes/en/lachs-mit-brokkolipuree.json"
+      }
+    },
+    {
+      "id": "mais-lauch-risotto-mit-speck",
+      "version": 1,
+      "image": "images/mais-lauch-risotto-mit-speck.jpg",
+      "languages": {
+        "de": "recipes/de/mais-lauch-risotto-mit-speck.json",
+        "en": "recipes/en/mais-lauch-risotto-mit-speck.json"
+      }
+    },
+    {
+      "id": "mandelbutter-zucchini-schiffchen",
+      "version": 1,
+      "image": "images/mandelbutter-zucchini-schiffchen.jpg",
+      "languages": {
+        "de": "recipes/de/mandelbutter-zucchini-schiffchen.json",
+        "en": "recipes/en/mandelbutter-zucchini-schiffchen.json"
+      }
+    },
+    {
+      "id": "mie-nudelsalt",
+      "version": 1,
+      "image": "images/mie-nudelsalt.jpg",
+      "languages": {
+        "de": "recipes/de/mie-nudelsalt.json",
+        "en": "recipes/en/mie-nudelsalt.json"
+      }
+    },
+    {
+      "id": "nudeln-mit-hahnchenbrustfilet-und-parmesan",
+      "version": 1,
+      "image": "images/nudeln-mit-hahnchenbrustfilet-und-parmesan.jpg",
+      "languages": {
+        "de": "recipes/de/nudeln-mit-hahnchenbrustfilet-und-parmesan.json",
+        "en": "recipes/en/nudeln-mit-hahnchenbrustfilet-und-parmesan.json"
+      }
+    },
+    {
+      "id": "nudeln-mit-knoblauch-crunch",
+      "version": 1,
+      "image": "images/nudeln-mit-knoblauch-crunch.jpg",
+      "languages": {
+        "de": "recipes/de/nudeln-mit-knoblauch-crunch.json",
+        "en": "recipes/en/nudeln-mit-knoblauch-crunch.json"
+      }
+    },
+    {
+      "id": "nudeln-mit-pesto",
+      "version": 1,
+      "image": "images/nudeln-mit-pesto.jpg",
+      "languages": {
+        "de": "recipes/de/nudeln-mit-pesto.json",
+        "en": "recipes/en/nudeln-mit-pesto.json"
+      }
+    },
+    {
+      "id": "nudelpfanne-mit-balsamico-creme",
+      "version": 1,
+      "image": "images/nudelpfanne-mit-balsamico-creme.jpg",
+      "languages": {
+        "de": "recipes/de/nudelpfanne-mit-balsamico-creme.json",
+        "en": "recipes/en/nudelpfanne-mit-balsamico-creme.json"
+      }
+    },
+    {
+      "id": "one-pot-hahnchen-alfredo",
+      "version": 1,
+      "image": "images/one-pot-hahnchen-alfredo.jpg",
+      "languages": {
+        "de": "recipes/de/one-pot-hahnchen-alfredo.json",
+        "en": "recipes/en/one-pot-hahnchen-alfredo.json"
+      }
+    },
+    {
+      "id": "one-pot-pasta",
+      "version": 1,
+      "image": "images/one-pot-pasta.jpg",
+      "languages": {
+        "de": "recipes/de/one-pot-pasta.json",
+        "en": "recipes/en/one-pot-pasta.json"
+      }
+    },
+    {
+      "id": "orange-chicken-mit-reis",
+      "version": 1,
+      "image": "images/orange-chicken-mit-reis.jpg",
+      "languages": {
+        "de": "recipes/de/orange-chicken-mit-reis.json",
+        "en": "recipes/en/orange-chicken-mit-reis.json"
+      }
+    },
+    {
+      "id": "orientalische-hackpfanne",
+      "version": 1,
+      "image": "images/orientalische-hackpfanne.jpg",
+      "languages": {
+        "de": "recipes/de/orientalische-hackpfanne.json",
+        "en": "recipes/en/orientalische-hackpfanne.json"
+      }
+    },
+    {
+      "id": "orientalische-hackpfanne-2",
+      "version": 1,
+      "image": "images/orientalische-hackpfanne-2.jpg",
+      "languages": {
+        "de": "recipes/de/orientalische-hackpfanne-2.json",
+        "en": "recipes/en/orientalische-hackpfanne-2.json"
+      }
+    },
+    {
+      "id": "pasta-mit-kirschtomaten",
+      "version": 1,
+      "image": "images/pasta-mit-kirschtomaten.jpg",
+      "languages": {
+        "de": "recipes/de/pasta-mit-kirschtomaten.json",
+        "en": "recipes/en/pasta-mit-kirschtomaten.json"
+      }
+    },
+    {
+      "id": "pasta-mit-zitronenschnitzel",
+      "version": 1,
+      "image": "images/pasta-mit-zitronenschnitzel.jpg",
+      "languages": {
+        "de": "recipes/de/pasta-mit-zitronenschnitzel.json",
+        "en": "recipes/en/pasta-mit-zitronenschnitzel.json"
+      }
+    },
+    {
+      "id": "pfannengnocchi-mit-spinat",
+      "version": 1,
+      "image": "images/pfannengnocchi-mit-spinat.jpg",
+      "languages": {
+        "de": "recipes/de/pfannengnocchi-mit-spinat.json",
+        "en": "recipes/en/pfannengnocchi-mit-spinat.json"
+      }
+    },
+    {
+      "id": "pizzasuppe-mit-baguette",
+      "version": 1,
+      "image": "images/pizzasuppe-mit-baguette.jpg",
+      "languages": {
+        "de": "recipes/de/pizzasuppe-mit-baguette.json",
+        "en": "recipes/en/pizzasuppe-mit-baguette.json"
+      }
+    },
+    {
+      "id": "quarknudeln-mit-schinken-und-pilzen",
+      "version": 1,
+      "image": "images/quarknudeln-mit-schinken-und-pilzen.jpg",
+      "languages": {
+        "de": "recipes/de/quarknudeln-mit-schinken-und-pilzen.json",
+        "en": "recipes/en/quarknudeln-mit-schinken-und-pilzen.json"
+      }
+    },
+    {
+      "id": "quicky-hahnchen-mit-asia-gemuse",
+      "version": 1,
+      "image": "images/quicky-hahnchen-mit-asia-gemuse.jpg",
+      "languages": {
+        "de": "recipes/de/quicky-hahnchen-mit-asia-gemuse.json",
+        "en": "recipes/en/quicky-hahnchen-mit-asia-gemuse.json"
+      }
+    },
+    {
+      "id": "reisnudel-curry",
+      "version": 1,
+      "image": "images/reisnudel-curry.jpg",
+      "languages": {
+        "de": "recipes/de/reisnudel-curry.json",
+        "en": "recipes/en/reisnudel-curry.json"
+      }
+    },
+    {
+      "id": "reissalat-mit-rote-beete",
+      "version": 1,
+      "image": "images/reissalat-mit-rote-beete.jpg",
+      "languages": {
+        "de": "recipes/de/reissalat-mit-rote-beete.json",
+        "en": "recipes/en/reissalat-mit-rote-beete.json"
+      }
+    },
+    {
+      "id": "rote-beete-feldsalat-mit-erdnusshahnchen",
+      "version": 1,
+      "image": "images/rote-beete-feldsalat-mit-erdnusshahnchen.jpg",
+      "languages": {
+        "de": "recipes/de/rote-beete-feldsalat-mit-erdnusshahnchen.json",
+        "en": "recipes/en/rote-beete-feldsalat-mit-erdnusshahnchen.json"
+      }
+    },
+    {
+      "id": "scharfe-erdnussnudeln",
+      "version": 1,
+      "image": "images/scharfe-erdnussnudeln.jpg",
+      "languages": {
+        "de": "recipes/de/scharfe-erdnussnudeln.json",
+        "en": "recipes/en/scharfe-erdnussnudeln.json"
+      }
+    },
+    {
+      "id": "schupfnudeln-mit-mohn-vanille-sosse",
+      "version": 1,
+      "image": "images/schupfnudeln-mit-mohn-vanille-sosse.jpg",
+      "languages": {
+        "de": "recipes/de/schupfnudeln-mit-mohn-vanille-sosse.json",
+        "en": "recipes/en/schupfnudeln-mit-mohn-vanille-sosse.json"
+      }
+    },
+    {
+      "id": "shiitake-schoko-risotto",
+      "version": 1,
+      "image": "images/shiitake-schoko-risotto.jpg",
+      "languages": {
+        "de": "recipes/de/shiitake-schoko-risotto.json",
+        "en": "recipes/en/shiitake-schoko-risotto.json"
+      }
+    },
+    {
+      "id": "sommerrollen-mit-erdnussdip",
+      "version": 1,
+      "image": "images/sommerrollen-mit-erdnussdip.jpg",
+      "languages": {
+        "de": "recipes/de/sommerrollen-mit-erdnussdip.json",
+        "en": "recipes/en/sommerrollen-mit-erdnussdip.json"
+      }
+    },
+    {
+      "id": "spaghetti-mit-chili-basilikum-pesto",
+      "version": 1,
+      "image": "images/spaghetti-mit-chili-basilikum-pesto.jpg",
+      "languages": {
+        "de": "recipes/de/spaghetti-mit-chili-basilikum-pesto.json",
+        "en": "recipes/en/spaghetti-mit-chili-basilikum-pesto.json"
+      }
+    },
+    {
+      "id": "susskartoffeln-mit-lachs",
+      "version": 1,
+      "image": "images/susskartoffeln-mit-lachs.jpg",
+      "languages": {
+        "de": "recipes/de/susskartoffeln-mit-lachs.json",
+        "en": "recipes/en/susskartoffeln-mit-lachs.json"
+      }
+    },
+    {
+      "id": "tabouleh",
+      "version": 1,
+      "image": "images/tabouleh.jpg",
+      "languages": {
+        "de": "recipes/de/tabouleh.json",
+        "en": "recipes/en/tabouleh.json"
+      }
+    },
+    {
+      "id": "tantanmen-ramen",
+      "version": 1,
+      "image": "images/tantanmen-ramen.jpg",
+      "languages": {
+        "de": "recipes/de/tantanmen-ramen.json",
+        "en": "recipes/en/tantanmen-ramen.json"
+      }
+    },
+    {
+      "id": "thai-curry-mit-hahnchen",
+      "version": 1,
+      "image": "images/thai-curry-mit-hahnchen.jpg",
+      "languages": {
+        "de": "recipes/de/thai-curry-mit-hahnchen.json",
+        "en": "recipes/en/thai-curry-mit-hahnchen.json"
+      }
+    },
+    {
+      "id": "thunfisch-spinat-pasta",
+      "version": 1,
+      "image": "images/thunfisch-spinat-pasta.jpg",
+      "languages": {
+        "de": "recipes/de/thunfisch-spinat-pasta.json",
+        "en": "recipes/en/thunfisch-spinat-pasta.json"
+      }
+    },
+    {
+      "id": "tofu-schnitzel-bowl",
+      "version": 1,
+      "image": "images/tofu-schnitzel-bowl.jpg",
+      "languages": {
+        "de": "recipes/de/tofu-schnitzel-bowl.json",
+        "en": "recipes/en/tofu-schnitzel-bowl.json"
+      }
+    },
+    {
+      "id": "tortellini-mit-knoblauchsahnesosse",
+      "version": 1,
+      "image": "images/tortellini-mit-knoblauchsahnesosse.jpg",
+      "languages": {
+        "de": "recipes/de/tortellini-mit-knoblauchsahnesosse.json",
+        "en": "recipes/en/tortellini-mit-knoblauchsahnesosse.json"
+      }
+    },
+    {
+      "id": "truffel-feta-pasta",
+      "version": 1,
+      "image": "images/truffel-feta-pasta.jpg",
+      "languages": {
+        "de": "recipes/de/truffel-feta-pasta.json",
+        "en": "recipes/en/truffel-feta-pasta.json"
+      }
+    },
+    {
+      "id": "vereinfachtes-bulgoki",
+      "version": 1,
+      "image": "images/vereinfachtes-bulgoki.jpg",
+      "languages": {
+        "de": "recipes/de/vereinfachtes-bulgoki.json",
+        "en": "recipes/en/vereinfachtes-bulgoki.json"
+      }
+    },
+    {
+      "id": "wikinger-topf",
+      "version": 1,
+      "image": "images/wikinger-topf.jpg",
+      "languages": {
+        "de": "recipes/de/wikinger-topf.json",
+        "en": "recipes/en/wikinger-topf.json"
+      }
+    },
+    {
+      "id": "zitronen-feta-pasta-mit-erbsen",
+      "version": 1,
+      "image": "images/zitronen-feta-pasta-mit-erbsen.jpg",
+      "languages": {
+        "de": "recipes/de/zitronen-feta-pasta-mit-erbsen.json",
+        "en": "recipes/en/zitronen-feta-pasta-mit-erbsen.json"
+      }
+    },
+    {
+      "id": "zitronen-petersilienrisotto",
+      "version": 1,
+      "image": "images/zitronen-petersilienrisotto.jpg",
+      "languages": {
+        "de": "recipes/de/zitronen-petersilienrisotto.json",
+        "en": "recipes/en/zitronen-petersilienrisotto.json"
+      }
+    },
+    {
+      "id": "zitronengeschnetzeltes-mit-pasta",
+      "version": 1,
+      "image": "images/zitronengeschnetzeltes-mit-pasta.jpg",
+      "languages": {
+        "de": "recipes/de/zitronengeschnetzeltes-mit-pasta.json",
+        "en": "recipes/en/zitronengeschnetzeltes-mit-pasta.json"
+      }
+    },
+    {
+      "id": "zoodles-mit-hackballchen",
+      "version": 1,
+      "image": "images/zoodles-mit-hackballchen.jpg",
+      "languages": {
+        "de": "recipes/de/zoodles-mit-hackballchen.json",
+        "en": "recipes/en/zoodles-mit-hackballchen.json"
+      }
+    },
+    {
+      "id": "zucchini-edamame-salat",
+      "version": 1,
+      "image": "images/zucchini-edamame-salat.jpg",
+      "languages": {
+        "de": "recipes/de/zucchini-edamame-salat.json",
+        "en": "recipes/en/zucchini-edamame-salat.json"
+      }
+    },
+    {
+      "id": "zucchini-limetten-nudeln",
+      "version": 1,
+      "image": "images/zucchini-limetten-nudeln.jpg",
+      "languages": {
+        "de": "recipes/de/zucchini-limetten-nudeln.json",
+        "en": "recipes/en/zucchini-limetten-nudeln.json"
+      }
+    }
+  ]
+}

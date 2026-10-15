@@ -1,0 +1,356 @@
+{
+  "id": "tantanmen-ramen",
+  "version": 1,
+  "title": "Tantanmen Ramen",
+  "summary": "Creamy, spicy sesame ramen with steak strips, pak choi and marinated ramen eggs.",
+  "emoji": "🍜",
+  "servings": 4,
+  "prepMinutes": 540,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 825,
+    "protein": 47,
+    "fat": 40,
+    "carbs": 72
+  },
+  "ingredients": [
+    {
+      "name": "Sesame seeds",
+      "amount": 150,
+      "unit": "g",
+      "note": "1 cup, for the sesame paste",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sesame"
+      ]
+    },
+    {
+      "name": "Miso paste",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten",
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Light rice miso (gluten-free)",
+          "amount": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soy sauce",
+      "amount": 90,
+      "unit": "ml",
+      "note": "2 tbsp for the seasoning paste, 60 ml for the eggs",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (gluten-free soy sauce)",
+          "amount": 90,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Coconut aminos",
+          "amount": 90,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Lime juice",
+          "amount": 2,
+          "unit": "tsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Chilli oil",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gochujang",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten",
+        "soy"
+      ]
+    },
+    {
+      "name": "Garlic",
+      "amount": 3,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ginger",
+      "amount": 1,
+      "unit": "tsp",
+      "note": "grated",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chicken stock",
+      "amount": 600,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "meat",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegetable stock",
+          "amount": 600,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "celery"
+          ]
+        },
+        {
+          "name": "Vegetable stock without celery",
+          "amount": 600,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Oat drink (unsweetened)",
+      "amount": 600,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Soy drink (unsweetened)",
+          "amount": 600,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Salt",
+      "amount": 1,
+      "unit": "pinch",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Eggs",
+      "amount": 4,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ]
+    },
+    {
+      "name": "Mirin",
+      "amount": 60,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sugar",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Baby pak choi",
+      "amount": 2,
+      "unit": "piece",
+      "note": "or 1 regular pak choi",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chinese egg-style noodles (mie)",
+      "amount": 250,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "eggs",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Egg-free mie noodles",
+          "amount": 250,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ]
+        },
+        {
+          "name": "Rice noodles",
+          "amount": 250,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Spring onions",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rump steak",
+      "amount": 300,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Smoked tofu",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "text": "The ramen eggs should sit in the marinade for 8 hours or more, so it's best to make them the day before. Boil the eggs (6–9 minutes, depending on how soft you like them).",
+      "timerMinutes": 7
+    },
+    {
+      "text": "Cool the eggs in an ice bath. Meanwhile, for the marinade, bring 60 ml soy sauce, the mirin, 60 ml water and the sugar to the boil in a small pot. As soon as it boils, turn the heat down and simmer for another minute.",
+      "timerMinutes": 1
+    },
+    {
+      "text": "Let the marinade cool and peel the eggs in the meantime. Carefully place the eggs in a small freezer bag, add the cooled marinade and squeeze out as much air as possible. Seal the bag and leave the eggs to marinate in the fridge."
+    },
+    {
+      "text": "For the sesame paste, toast the sesame seeds and blend until creamy.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "For the seasoning paste, mix 4 tbsp sesame paste with the miso, 2 tbsp soy sauce, rice vinegar, chilli oil, gochujang, garlic and ginger. Fry briefly in a pot, deglaze with the chicken stock and oat drink, add the salt and bring to the boil.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Blanch the pak choi.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Cook the noodles according to the package. Cut the spring onions into rings.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Sear the steak briefly over high heat, let it rest and then cut into strips.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Divide the noodles between bowls, pour over the broth and top with the pak choi, spring onions, halved ramen eggs and steak strips."
+    }
+  ]
+}

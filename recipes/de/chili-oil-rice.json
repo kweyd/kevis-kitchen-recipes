@@ -1,0 +1,161 @@
+{
+  "id": "chili-oil-rice",
+  "version": 1,
+  "title": "Chili Oil Rice",
+  "summary": "Schneller Reis mit Erbsen, Lauchzwiebeln und Knoblauch in heißem Chiliöl.",
+  "emoji": "🌶️",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegan",
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 400,
+    "protein": 10,
+    "fat": 15,
+    "carbs": 42
+  },
+  "ingredients": [
+    {
+      "name": "Reis",
+      "amount": 150,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Erbsen (TK)",
+      "amount": 120,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lauchzwiebeln",
+      "amount": 3,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Crispy Chili in Oil",
+      "amount": 2,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Chiliflocken",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Öl",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sojasauce",
+      "amount": 1.5,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (glutenfreie Sojasauce)",
+          "amount": 1.5,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Kokos-Aminos",
+          "amount": 1.5,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Reisweinessig",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Limettensaft",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "text": "Reis kochen.",
+      "timerMinutes": 12
+    },
+    {
+      "text": "Lauchzwiebeln in Ringe schneiden. Knoblauch schälen und klein schneiden und alles in eine Schüssel geben."
+    },
+    {
+      "text": "Das Öl in einem Topf erhitzen und in die Schüssel geben. Mit Crispy Chili, Sojasoße und Reisweinessig mischen."
+    },
+    {
+      "text": "In den letzten Minuten beim Reiskochen die Erbsen mit erwärmen.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Alles zusammenfügen und umrühren."
+    }
+  ]
+}

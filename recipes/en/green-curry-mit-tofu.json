@@ -1,0 +1,209 @@
+{
+  "id": "green-curry-mit-tofu",
+  "version": 1,
+  "title": "Green Curry with Tofu",
+  "summary": "Creamy green coconut curry with broccoli, snow peas and crispy tofu.",
+  "emoji": "🍛",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 764,
+    "protein": 30,
+    "fat": 37,
+    "carbs": 69
+  },
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": 120,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Snow peas",
+      "amount": 200,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Broccoli",
+      "amount": 300,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Firm tofu",
+      "amount": 200,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": [
+        "soy"
+      ],
+      "alternatives": [
+        {
+          "name": "Chickpeas",
+          "amount": 1,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": [],
+          "note": "drained"
+        }
+      ]
+    },
+    {
+      "name": "Green curry paste",
+      "amount": 50,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "choose a vegan one without shrimp paste",
+      "diet": "fish",
+      "allergens": [
+        "crustaceans"
+      ],
+      "alternatives": [
+        {
+          "name": "Green curry paste without shrimp paste (vegan)",
+          "amount": 50,
+          "unit": "g",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Coconut milk",
+      "amount": 400,
+      "unit": "ml",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Spring onions",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ginger",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "about 1 cm",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Turmeric",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Curry powder",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprika",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lemon",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "unwaxed",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rapeseed oil",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cut the broccoli into small florets, slice the spring onion into thin rings and wash the snow peas."
+    },
+    {
+      "text": "Cook the rice according to the package instructions.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Finely chop the garlic and ginger."
+    },
+    {
+      "text": "Heat the rapeseed oil in a pot and briefly toast the garlic, ginger, curry paste and spices.",
+      "timerMinutes": 1
+    },
+    {
+      "text": "Add the broccoli, spring onion, snow peas and lemon zest and top up with the coconut milk and a little water."
+    },
+    {
+      "text": "Simmer over medium heat for 15 minutes.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Meanwhile, cut the tofu into small pieces, marinate as you like and air-fry at 200 °C for 12 minutes.",
+      "timerMinutes": 12
+    },
+    {
+      "text": "Serve the curry with the rice and tofu."
+    }
+  ]
+}

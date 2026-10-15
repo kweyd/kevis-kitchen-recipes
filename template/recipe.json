@@ -1,0 +1,80 @@
+{
+  "id": "my-recipe",
+  "version": 1,
+  "title": "My Recipe",
+  "summary": "One or two sentences that make people want to cook this.",
+  "emoji": "🍲",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [],
+  "author": "Your name",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 500,
+    "protein": 25,
+    "fat": 20,
+    "carbs": 50
+  },
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": 300,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 2,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Firm tofu",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": ["soy"]
+        }
+      ]
+    },
+    {
+      "name": "Onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "note": "large",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rice",
+      "amount": 150,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the rice according to the package instructions.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Dice the onion and the chicken. Fry both in a pan until golden.",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Season with salt and serve with the rice."
+    }
+  ]
+}

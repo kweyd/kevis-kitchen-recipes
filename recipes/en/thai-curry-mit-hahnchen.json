@@ -1,0 +1,254 @@
+{
+  "id": "thai-curry-mit-hahnchen",
+  "version": 1,
+  "title": "Thai Chicken Curry",
+  "summary": "Red coconut curry with chicken, colourful vegetables and pak choi, served with rice and peanuts.",
+  "emoji": "🍛",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 850,
+    "protein": 47,
+    "fat": 40,
+    "carbs": 80
+  },
+  "ingredients": [
+    {
+      "name": "Baby pak choi",
+      "amount": 150,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Courgette",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chestnut mushrooms",
+      "amount": 75,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Carrot",
+      "amount": 70,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Limes",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chicken breast fillet",
+      "amount": 300,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegan chicken pieces (soy)",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Chickpeas",
+          "amount": 1.2,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Cane sugar",
+      "amount": 0.5,
+      "unit": "tbsp",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Coconut milk",
+      "amount": 200,
+      "unit": "ml",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Red curry paste",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "canned",
+      "pantry": false,
+      "diet": "fish",
+      "allergens": [
+        "crustaceans"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan red curry paste (shrimp-free)",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Peanuts (roasted, salted)",
+      "amount": 15,
+      "unit": "g",
+      "note": "half a handful",
+      "category": "snacks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "peanuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Sunflower seeds",
+          "amount": 15,
+          "unit": "g",
+          "category": "snacks",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "White rice",
+      "amount": 125,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rapeseed oil",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Turmeric",
+      "amount": 0.25,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Red chilli",
+      "amount": 1,
+      "unit": "piece",
+      "note": "optional, for extra heat",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Peel the carrot and chop it together with the pepper, courgette and mushrooms."
+    },
+    {
+      "text": "Cut the chicken into small pieces, marinate with a little oil, pepper and salt and air-fry at 200 °C for 2 x 8 minutes.",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Rinse and cook the rice.",
+      "timerMinutes": 12
+    },
+    {
+      "text": "Heat oil in a pan and fry the chopped vegetables. Add the cane sugar and let it caramelise for 2 minutes.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Then add the curry paste and turmeric (and the chopped chilli, if using) and fry for a few more minutes.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Deglaze with the coconut milk and the juice of one lime and simmer for five minutes.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Add the chicken and let it steep for a little while. Fold in the pak choi just before the end.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Serve with rice and garnish with the peanuts. Use the second lime if you want more lime flavour."
+    }
+  ]
+}

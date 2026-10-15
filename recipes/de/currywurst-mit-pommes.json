@@ -1,0 +1,229 @@
+{
+  "id": "currywurst-mit-pommes",
+  "version": 1,
+  "title": "Currywurst mit Pommes",
+  "summary": "Der Imbiss-Klassiker für zu Hause: Bratwurst in selbstgemachter Currysoße mit Pommes aus dem Airfryer.",
+  "emoji": "🌭",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 870,
+    "protein": 32,
+    "fat": 63,
+    "carbs": 40
+  },
+  "ingredients": [
+    {
+      "name": "TK-Pommes",
+      "amount": 200,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Bratwürste",
+      "amount": 4,
+      "unit": "piece",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegane Bratwurst",
+          "amount": 4,
+          "unit": "piece",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy",
+            "gluten"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Passierte Tomaten",
+      "amount": 250,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honig",
+      "amount": 0.5,
+      "unit": "tbsp",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agavendicksaft",
+          "amount": 0.5,
+          "unit": "tbsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Apfelessig",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ]
+    },
+    {
+      "name": "Worcestersauce",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": false,
+      "note": "enthält Sardellen",
+      "diet": "fish",
+      "allergens": [
+        "fish",
+        "gluten",
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegane Worcestersauce",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "gluten",
+            "sulphites"
+          ]
+        },
+        {
+          "name": "Tamari (glutenfreie Sojasauce)",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Currypulver",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprikapulver rosenscharf",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chilipulver",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "note": "optional",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Schnittlauch",
+      "unit": "to taste",
+      "category": "produce",
+      "pantry": false,
+      "note": "zum Garnieren",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Die Pommes im Airfryer zubereiten: leicht mit Öl besprühen und 2 × 10 Minuten bei 200 °C garen.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "Die Zwiebel klein schneiden und in einer Pfanne mit Öl anbraten, bis sie leicht bräunlich wird.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Dann den Honig dazugeben und die Zwiebeln karamellisieren. Alles mit den passierten Tomaten ablöschen.",
+      "timerMinutes": 2
+    },
+    {
+      "text": "Die restlichen Zutaten für die Soße dazugeben und bei mittlerer Hitze köcheln lassen.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Parallel dazu in einer anderen Pfanne die Würstchen braten.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Die Würstchen schneiden, auf die Teller verteilen und die Currywurstsoße darübergeben."
+    },
+    {
+      "text": "Die Pommes auf beide Teller aufteilen und etwas Schnittlauch für die Optik über die Soße streuen."
+    }
+  ]
+}

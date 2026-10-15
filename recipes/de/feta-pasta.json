@@ -1,0 +1,145 @@
+{
+  "id": "feta-pasta",
+  "version": 1,
+  "title": "Feta-Pasta",
+  "summary": "Der Ofen-Klassiker: Feta und Kirschtomaten schmelzen zu einer cremigen Soße für Vollkornnudeln.",
+  "emoji": "🍅",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarisch",
+    "schnell"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 809,
+    "protein": 34,
+    "fat": 33,
+    "carbs": 90
+  },
+  "ingredients": [
+    {
+      "name": "Feta",
+      "amount": 200,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegane Feta-Alternative",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Kirschtomaten",
+      "amount": 300,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Vollkornnudeln",
+      "amount": 250,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreie Nudeln",
+          "amount": 250,
+          "unit": "g",
+          "category": "dryGoods",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Olivenöl",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Italienische Kräuter",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Den Ofen auf 180 °C vorheizen."
+    },
+    {
+      "text": "Den Feta in eine Auflaufform geben. Knoblauch schälen und klein schneiden, Kirschtomaten halbieren."
+    },
+    {
+      "text": "Beides zum Feta in die Auflaufform geben, Olivenöl darüber träufeln und für 20 Minuten in den Ofen geben.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "Währenddessen Wasser in einem Topf aufkochen und die Nudeln darin kochen.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Die Auflaufform aus dem Ofen holen und alles mit einer Gabel zerdrücken."
+    },
+    {
+      "text": "Mit Salz, Pfeffer und italienischen Kräutern würzen."
+    },
+    {
+      "text": "Die Nudeln abgießen und in der Auflaufform mit der Soße vermischen."
+    }
+  ]
+}

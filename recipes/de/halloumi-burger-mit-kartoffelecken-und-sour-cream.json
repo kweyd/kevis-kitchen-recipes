@@ -1,0 +1,387 @@
+{
+  "id": "halloumi-burger-mit-kartoffelecken-und-sour-cream",
+  "version": 1,
+  "title": "Halloumi Burger mit Kartoffelecken, Sour Cream und Virgin Mojito",
+  "summary": "Knuspriger Halloumi mit Avocadosoße und Spiegelei im Bun, dazu würzige Kartoffelecken und ein frischer Virgin Mojito.",
+  "emoji": "🍔",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "vegetarisch"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 1080,
+    "protein": 42,
+    "fat": 68,
+    "carbs": 79
+  },
+  "ingredients": [
+    {
+      "name": "Burger Buns",
+      "amount": 4,
+      "unit": "piece",
+      "category": "bakery",
+      "pantry": false,
+      "note": "gerne Laugenbuns",
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreie Burger Buns",
+          "amount": 4,
+          "unit": "piece",
+          "category": "bakery",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Butter",
+      "amount": 20,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": true,
+      "note": "für die Buns",
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Butter",
+          "amount": 20,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Pflanzliche Butter",
+          "amount": 20,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Avocado",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zitrone",
+      "amount": 1.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "1 für die Burgersoße, ½ für die Sour Cream",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chili-Schote",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 4,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "note": "3 für die Burgersoße, 1 für die Sour Cream",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Olivenöl",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rucola",
+      "amount": 50,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Eier",
+      "amount": 4,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Tofu natur (in Scheiben gebraten)",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Halloumi",
+      "amount": 400,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 30,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Tofu natur",
+          "amount": 400,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Kartoffeln",
+      "amount": 500,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "note": "plus etwas zum Braten",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprikapulver edelsüß",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chilipulver",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Crème fraîche",
+      "amount": 200,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Crème fraîche",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Sojajoghurt (ungesüßt)",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Weißer Balsamico",
+      "amount": 0.5,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "sulphites"
+      ]
+    },
+    {
+      "name": "Lauchzwiebel",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ginger Ale",
+      "amount": 800,
+      "unit": "ml",
+      "category": "drinks",
+      "pantry": false,
+      "note": "gerne Zero",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mineralwasser mit Kohlensäure",
+      "amount": 400,
+      "unit": "ml",
+      "category": "drinks",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Minze",
+      "amount": 1,
+      "unit": "bunch",
+      "category": "produce",
+      "pantry": false,
+      "note": "8 Zweige",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Brauner Zucker",
+      "amount": 4,
+      "unit": "tsp",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Limetten",
+      "amount": 4,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Eiswürfel",
+      "unit": "to taste",
+      "category": "frozen",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Für die Burgersoße die Avocado mit dem Saft einer Zitrone, 3 Knoblauchzehen, der Chili, 1 EL Olivenöl und etwas Pfeffer und Salz im Mixer pürieren und im Kühlschrank ziehen lassen."
+    },
+    {
+      "text": "Die Kartoffeln waschen und in Spalten schneiden. In einer großen Schüssel mit Öl, Paprikapulver, Chilipulver, Pfeffer und Salz gut verrühren und ziehen lassen."
+    },
+    {
+      "text": "Die Kartoffelecken bei 200 °C für 30 Minuten in den Ofen geben und gelegentlich wenden.",
+      "timerMinutes": 30
+    },
+    {
+      "text": "Für die Sour Cream die Crème fraîche mit dem Saft einer halben Zitrone, dem weißen Balsamico, einer gepressten Knoblauchzehe, der fein geschnittenen Lauchzwiebel sowie Pfeffer und Salz verrühren."
+    },
+    {
+      "text": "Den Halloumi in 4 gleich große Stücke schneiden und von jeder Seite 12 Minuten bei 200 °C in den Airfryer geben.",
+      "timerMinutes": 12
+    },
+    {
+      "text": "In der Zwischenzeit die Burger Buns mit Butter bestreichen und in einer Pfanne anrösten. In einer anderen Pfanne die 4 Eier als Spiegeleier braten.",
+      "timerMinutes": 4
+    },
+    {
+      "text": "Auf das untere Bun eine gute Menge Burgersoße und darauf Rucola geben. Auf den Rucola kommt der Halloumi, dann das Ei und der Deckel vom Bun."
+    },
+    {
+      "text": "Für jeden Virgin Mojito eine Limette vierteln. 2 Viertel ins Glas pressen, die anderen 2 Viertel ungepresst ins Glas geben. 1 TL braunen Zucker und 2 Zweige Minze dazugeben und leicht andrücken."
+    },
+    {
+      "text": "Jetzt noch 200 ml Ginger Ale und 100 ml Sprudelwasser ins Glas geben und den Rest des Glases mit Eis auffüllen."
+    }
+  ]
+}

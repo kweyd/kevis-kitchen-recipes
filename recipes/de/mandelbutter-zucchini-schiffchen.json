@@ -1,0 +1,198 @@
+{
+  "id": "mandelbutter-zucchini-schiffchen",
+  "version": 1,
+  "title": "Mandelbutter-Zucchini-Schiffchen",
+  "summary": "Ausgehöhlte Zucchini, gefüllt mit Hähnchen und Erbsen in cremiger Mandel-Kokos-Soße.",
+  "emoji": "🥒",
+  "servings": 2,
+  "prepMinutes": 45,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 600,
+    "protein": 48,
+    "fat": 30,
+    "carbs": 15
+  },
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "amount": 2,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Parmesan",
+      "amount": 30,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Veganer Parmesan-Ersatz",
+          "amount": 30,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Hähnchenbrustfilet",
+      "amount": 300,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegane Hähnchenstücke (Soja)",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Kichererbsen",
+          "amount": 1.2,
+          "unit": "can",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Mandelmus",
+      "amount": 40,
+      "unit": "g",
+      "note": "alternativ 1 EL Erdnussbutter",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "nuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Erdnussbutter",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": [
+            "peanuts"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kokosmilch",
+      "amount": 100,
+      "unit": "ml",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Erbsen (TK)",
+      "amount": 120,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chilipulver",
+      "amount": 2,
+      "unit": "pinch",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprikapulver (edelsüß)",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Schnittlauch",
+      "unit": "to taste",
+      "note": "zum Garnieren",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Die Zucchini waschen und längs halbieren. Mit einem Löffel innen aushöhlen."
+    },
+    {
+      "text": "Das Fleisch in kleine Stücke schneiden und mit Pfeffer, Salz, etwas Öl, Chilipulver und Paprika edelsüß marinieren."
+    },
+    {
+      "text": "Das Hähnchen für 2x 8 Minuten bei 200 °C in den Airfryer geben.",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Währenddessen die Kokosmilch mit den Erbsen und dem Mandelmus in einem Topf erwärmen. Wenn das Fleisch fertig ist, kurz im Topf mit der Masse verrühren."
+    },
+    {
+      "text": "Die ausgehöhlten Zucchini in den Airfryer legen, mit der Masse aus dem Topf füllen und für 14 Minuten bei 180 °C garen.",
+      "timerMinutes": 14
+    },
+    {
+      "text": "Mit Schnittlauch und Parmesan garnieren."
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": "lachs-mit-brokkolipuree",
+  "version": 1,
+  "title": "Salmon with Broccoli Purée",
+  "summary": "Air-fried lemon salmon on creamy broccoli purée with rice and a red coconut curry sauce.",
+  "emoji": "🐟",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 838,
+    "protein": 38,
+    "fat": 51,
+    "carbs": 59
+  },
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": 250,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 1,
+      "diet": "fish",
+      "allergens": [
+        "fish"
+      ],
+      "alternatives": [
+        {
+          "name": "Smoked tofu",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Lemon",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rice",
+      "amount": 120,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Broccoli",
+      "amount": 300,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Whipping cream",
+      "amount": 100,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free cream",
+          "amount": 100,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Oat cream",
+          "amount": 100,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Soy cream",
+          "amount": 100,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Red curry paste",
+      "amount": 20,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "note": "many brands contain shrimp paste – check the label",
+      "diet": "fish",
+      "allergens": [
+        "crustaceans"
+      ],
+      "alternatives": [
+        {
+          "name": "Red curry paste without shrimp paste (vegan)",
+          "amount": 20,
+          "unit": "g",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Coconut milk",
+      "amount": 200,
+      "unit": "ml",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Nutmeg",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the rice according to the package instructions.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Wash the broccoli, cut it into small pieces and cook in salted water for 10 minutes.",
+      "timerMinutes": 10
+    },
+    {
+      "text": "Season the salmon with salt and pepper. Place 2 lemon slices on each piece and cook in the air fryer at 160 °C for 20 minutes.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "Put the curry paste in a pan and toast it.",
+      "timerMinutes": 1
+    },
+    {
+      "text": "Deglaze with the coconut milk and let it simmer briefly.",
+      "timerMinutes": 3
+    },
+    {
+      "text": "Drain the broccoli, add the cream, nutmeg, pepper and salt and purée everything."
+    },
+    {
+      "text": "Serve everything together with the lemon slices."
+    }
+  ]
+}
