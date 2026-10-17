@@ -794,6 +794,15 @@
       }
     },
     {
+      "id": "zitronenhahnchen",
+      "version": 1,
+      "image": "images/zitronenhahnchen.jpg",
+      "languages": {
+        "de": "recipes/de/zitronenhahnchen.json",
+        "en": "recipes/en/zitronenhahnchen.json"
+      }
+    },
+    {
       "id": "zoodles-mit-hackballchen",
       "version": 1,
       "image": "images/zoodles-mit-hackballchen.jpg",
