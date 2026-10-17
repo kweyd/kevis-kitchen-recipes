@@ -16,6 +16,8 @@ DIETS = {"plant", "animal", "fish", "meat"}
 ALLERGENS = {"gluten", "crustaceans", "eggs", "fish", "peanuts", "soy", "milk", "lactose", "nuts", "celery",
              "mustard", "sesame", "sulphites", "lupin", "molluscs"}
 TAGS = {"de": {"vegetarisch", "vegan", "schnell"}, "en": {"vegetarian", "vegan", "quick"}}
+# Cooking is the default and has no "kind". Baking recipes aren't suggested as daily meals (app 1.2+).
+KINDS = {"baking"}
 
 
 def check_ingredient(ing, where, errors):
@@ -64,6 +66,8 @@ def check(recipe_id):
             errors.append(f"{p}: servings must be an int ≥ 1")
         if not isinstance(r.get("prepMinutes"), int) or r["prepMinutes"] < 1:
             errors.append(f"{p}: prepMinutes must be an int")
+        if "kind" in r and r["kind"] not in KINDS:
+            errors.append(f"{p}: kind must be one of {sorted(KINDS)}, or left out for cooking")
         if not set(r.get("tags", [])) <= TAGS[lang]:
             errors.append(f"{p}: tags must be from {sorted(TAGS[lang])}")
         n = r.get("nutritionPerServing", {})
@@ -89,7 +93,7 @@ def check(recipe_id):
                 errors.append(f"{p} step {i}: contains an @mention")
     if len(data) == 2:
         de, en = data["de"], data["en"]
-        for key in ("servings", "prepMinutes", "nutritionPerServing", "emoji"):
+        for key in ("servings", "prepMinutes", "kind", "nutritionPerServing", "emoji"):
             if de.get(key) != en.get(key):
                 errors.append(f"de/en differ in {key}")
         if len(de.get("ingredients", [])) != len(en.get("ingredients", [])):
