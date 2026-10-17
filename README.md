@@ -59,6 +59,7 @@ on their next update, unless the user changed it.
 | `emoji` | One emoji, shown when there is no photo |
 | `servings` | Portions the amounts are for. The app scales from there |
 | `prepMinutes` | Total time in minutes |
+| `kind` | Optional. `baking` for cakes, cookies and the like: the app doesn't suggest them as daily meals, but they can be added to a day. Leave it out for normal meals. For cookies, `servings` is the number of pieces |
 | `tags` | Optional. German: `vegetarisch`, `vegan`, `schnell` · English: `vegetarian`, `vegan`, `quick` |
 | `author` | Your name, or `Kevi's Kitchen` |
 | `license` | Always `CC0-1.0` |
