@@ -1,0 +1,98 @@
+{
+  "id": "zitronenhahnchen",
+  "version": 1,
+  "title": "Zitronenhähnchen",
+  "summary": "Ein leckeres Gericht",
+  "emoji": "🍲",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [],
+  "author": "Kevi's Kitchen Community",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 555,
+    "protein": 15,
+    "fat": 25,
+    "carbs": 55
+  },
+  "ingredients": [
+    {
+      "name": "Nudeln",
+      "amount": 200,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ]
+    },
+    {
+      "name": "Hähnchenbrust",
+      "amount": 300,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "diet": "meat",
+      "allergens": []
+    },
+    {
+      "name": "Zitrone",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Kürbiskerne",
+      "amount": 30,
+      "unit": "g",
+      "category": "other",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "amount": 1,
+      "unit": "pinch",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "amount": 1,
+      "unit": "pinch",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Nudeln kochen",
+      "timerMinutes": 11
+    },
+    {
+      "text": "Hähnchen anbraten und Zitrone drüber",
+      "timerMinutes": 8
+    },
+    {
+      "text": "Mit Pfeffer und Salz würzen und mit Sonnenblumenkernen garnieren"
+    }
+  ]
+}
