@@ -1,11 +1,12 @@
 {
   "id": "creme-brulee",
-  "version": 1,
+  "version": 2,
   "title": "Crème Brûlée",
   "summary": "Silky vanilla custard with a hint of lemon under a crackly caramel crust.",
   "emoji": "🍮",
   "servings": 5,
   "prepMinutes": 560,
+  "kind": "baking",
   "tags": [
     "vegetarian"
   ],
