@@ -120,7 +120,7 @@
     },
     {
       "id": "creme-brulee",
-      "version": 1,
+      "version": 2,
       "image": "images/creme-brulee.jpg",
       "languages": {
         "de": "recipes/de/creme-brulee.json",

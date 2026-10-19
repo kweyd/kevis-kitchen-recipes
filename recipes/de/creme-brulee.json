@@ -1,11 +1,12 @@
 {
   "id": "creme-brulee",
-  "version": 1,
+  "version": 2,
   "title": "Crème brûlée",
   "summary": "Cremiger Vanillepudding mit einem Hauch Zitrone unter knackiger Karamellkruste.",
   "emoji": "🍮",
   "servings": 5,
   "prepMinutes": 560,
+  "kind": "baking",
   "tags": [
     "vegetarisch"
   ],
