@@ -1,0 +1,376 @@
+{
+  "id": "bestis-pilzfrikassee",
+  "version": 1,
+  "title": "Besti's Mushroom Fricassee",
+  "summary": "Creamy fricassee with king oyster mushrooms, button mushrooms, carrots and peas, finished with fresh lemon and served with rice.",
+  "emoji": "🍄",
+  "servings": 2,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 740,
+    "protein": 20,
+    "fat": 23,
+    "carbs": 105
+  },
+  "ingredients": [
+    {
+      "name": "King oyster mushrooms",
+      "amount": 200,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "about 2",
+      "shelfLifeDays": 5,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mushrooms",
+      "amount": 150,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "about 5",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Carrots",
+      "amount": 300,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "2 thick ones",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Peas (frozen)",
+      "amount": 150,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "note": "about 100 g",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 1,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": 500,
+      "unit": "ml",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegetable stock without celery",
+          "amount": 500,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Butter",
+      "amount": 30,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free butter",
+          "amount": 30,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Plant-based butter",
+          "amount": 30,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Flour",
+      "amount": 30,
+      "unit": "g",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free flour mix",
+          "amount": 30,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Milk",
+      "amount": 200,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "note": "whole milk",
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free milk",
+          "amount": 200,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Oat drink",
+          "amount": 200,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Soy drink",
+          "amount": 200,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Oil",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "note": "about 10 g",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprika",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Cumin",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Nutmeg",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Spring onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "green part only",
+      "shelfLifeDays": 7,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Fresh parsley",
+      "unit": "to taste",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lemon",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "organic, for zest and juice",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Cream",
+      "unit": "to taste",
+      "category": "dairy",
+      "pantry": false,
+      "note": "optional",
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free cream",
+          "unit": "to taste",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Oat cream",
+          "unit": "to taste",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Soy cream",
+          "unit": "to taste",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Rice",
+      "amount": 150,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Clean the mushrooms and slice them. Clean the king oyster mushrooms and tear them into medium-sized pieces."
+    },
+    {
+      "text": "Peel, crush and finely chop the garlic. Peel the onion and carrots and cut them into small pieces."
+    },
+    {
+      "text": "Heat a pan. Fry the mushrooms without oil until most of the liquid they release has evaporated. Set them aside."
+    },
+    {
+      "text": "Briefly fry the king oyster mushrooms without oil as well. Season with paprika and cumin. Add the oil, onion and garlic and sweat until translucent. Don't let the garlic brown."
+    },
+    {
+      "text": "Melt the butter in a large pot. Stir in the flour and cook it briefly without letting it brown. Gradually pour in the milk and vegetable stock while stirring vigorously."
+    },
+    {
+      "text": "Add the carrots, peas and all the mushrooms together with the onion and garlic. Season with nutmeg, salt, lemon zest and a little lemon juice. Stir in a little cream if you like."
+    },
+    {
+      "text": "Let the fricassee simmer over low heat for at least 30 minutes. Stir occasionally and add a little liquid if needed.",
+      "timerMinutes": 30
+    },
+    {
+      "text": "Meanwhile, cook the rice in a separate pot of lightly salted water according to the package instructions.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Once the vegetables are tender and the sauce is creamy, stir the chopped parsley into the fricassee. Season with pepper, salt and lemon juice."
+    },
+    {
+      "text": "Divide the fricassee and rice into two portions and sprinkle with finely sliced spring onion greens."
+    }
+  ]
+}

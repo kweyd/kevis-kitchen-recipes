@@ -1,0 +1,375 @@
+{
+  "id": "bestis-bifteki-mit-tomatenreis-und-tzatziki",
+  "version": 1,
+  "title": "Besti's Bifteki with Tomato Rice and Tzatziki",
+  "summary": "Greek-style air-fried beef patties with a feta filling, served with juicy tomato rice and fresh tzatziki.",
+  "emoji": "🧆",
+  "servings": 4,
+  "prepMinutes": 100,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 850,
+    "protein": 43,
+    "fat": 43,
+    "carbs": 70
+  },
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": 500,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "note": "or mixed minced meat",
+      "shelfLifeDays": 1,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegan mince (pea protein)",
+          "amount": 500,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 7
+        }
+      ]
+    },
+    {
+      "name": "Onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Stale bread",
+      "amount": 50,
+      "unit": "g",
+      "category": "bakery",
+      "pantry": false,
+      "note": "leftover bread",
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free bread",
+          "amount": 50,
+          "unit": "g",
+          "category": "bakery",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 3
+        }
+      ]
+    },
+    {
+      "name": "Milk",
+      "amount": 50,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "note": "for soaking",
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free milk",
+          "amount": 50,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Oat drink",
+          "amount": 50,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Soy drink",
+          "amount": 50,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Feta",
+      "amount": 100,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan feta alternative",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Egg",
+      "amount": 1,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Chickpea flour (1 tbsp + 1 tbsp water)",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Fresh parsley",
+      "unit": "to taste",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rosemary",
+      "unit": "to taste",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 7,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Cumin",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oil",
+      "amount": 10,
+      "unit": "g",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Greek yoghurt",
+      "amount": 300,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free Greek-style yoghurt",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Plain soy yoghurt",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cucumber",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "about 200 g",
+      "shelfLifeDays": 7,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Garlic",
+      "amount": 2,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "note": "1–2 cloves, to taste",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lemon",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "unwaxed",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Dill",
+      "unit": "to taste",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Long-grain rice",
+      "amount": 250,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Passata",
+      "amount": 300,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tomato paste",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "canned",
+      "pantry": true,
+      "note": "about 20 g",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": 400,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "note": "a little more if needed",
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegetable stock without celery",
+          "amount": 400,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cut the leftover bread into small pieces and soak it in the milk. Peel the onion, dice it finely and sweat it in the oil until translucent. Let it cool a little.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Finely chop the parsley and rosemary. Mix them thoroughly with the minced meat, onion, egg, soaked bread, cumin, salt and pepper. Cover and let the mixture rest in the fridge for about 1 hour.",
+      "timerMinutes": 60
+    },
+    {
+      "text": "Meanwhile, make the tzatziki: peel the cucumber, remove the seeds and grate it finely. Squeeze it out firmly in a clean kitchen towel."
+    },
+    {
+      "text": "Peel the garlic and chop it finely or press it. Chop the dill. Stir both into the yoghurt together with the cucumber. Season with a little lemon zest, lemon juice, salt and pepper. Keep chilled until serving."
+    },
+    {
+      "text": "For the tomato rice, rinse the rice in a sieve. Put it in a pot with the passata, tomato paste and vegetable stock and bring to the boil. Cover and cook over low heat for about 15–20 minutes (check the cooking time on the rice package). Stir occasionally and add a little more stock if needed.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "Cut the feta into four pieces. Divide the meat mixture into four portions, flatten each one and place a piece of feta in the middle. Close the meat around it so the cheese is completely covered."
+    },
+    {
+      "text": "Cook the bifteki in the air fryer at 180 °C for about 16 minutes, a little longer if they are thick, until cooked through. Alternatively, fry them on both sides in a pan with a little extra oil.",
+      "timerMinutes": 16
+    },
+    {
+      "text": "Season the tomato rice with salt and pepper. Divide it into four portions with the bifteki and tzatziki and serve."
+    }
+  ]
+}

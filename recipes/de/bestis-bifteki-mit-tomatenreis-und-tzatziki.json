@@ -1,0 +1,375 @@
+{
+  "id": "bestis-bifteki-mit-tomatenreis-und-tzatziki",
+  "version": 1,
+  "title": "Besti's Bifteki mit Tomatenreis und Tzatziki",
+  "summary": "Griechische Hackfleisch-Bifteki mit Feta-Füllung aus dem Airfryer, dazu saftiger Tomatenreis und frisches Tzatziki.",
+  "emoji": "🧆",
+  "servings": 4,
+  "prepMinutes": 100,
+  "tags": [],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 850,
+    "protein": 43,
+    "fat": 43,
+    "carbs": 70
+  },
+  "ingredients": [
+    {
+      "name": "Rinderhackfleisch",
+      "amount": 500,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "note": "oder gemischtes Hackfleisch",
+      "shelfLifeDays": 1,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Veganes Hack (Erbsenprotein)",
+          "amount": 500,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 7
+        }
+      ]
+    },
+    {
+      "name": "Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Altbackenes Brot",
+      "amount": 50,
+      "unit": "g",
+      "category": "bakery",
+      "pantry": false,
+      "note": "Brotreste",
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreies Brot",
+          "amount": 50,
+          "unit": "g",
+          "category": "bakery",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 3
+        }
+      ]
+    },
+    {
+      "name": "Milch",
+      "amount": 50,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "note": "zum Einweichen",
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Milch",
+          "amount": 50,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Haferdrink",
+          "amount": 50,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Sojadrink",
+          "amount": 50,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Feta",
+      "amount": 100,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegane Feta-Alternative",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Ei",
+      "amount": 1,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Kichererbsenmehl (1 EL + 1 EL Wasser)",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Petersilie (frisch)",
+      "unit": "to taste",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rosmarin",
+      "unit": "to taste",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 7,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Kreuzkümmel",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Öl",
+      "amount": 10,
+      "unit": "g",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Griechischer Joghurt",
+      "amount": 300,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreier Joghurt griechischer Art",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Sojajoghurt natur",
+          "amount": 300,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Salatgurke",
+      "amount": 0.5,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "ca. 200 g",
+      "shelfLifeDays": 7,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 2,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "note": "1–2 Zehen, nach Geschmack",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zitrone",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "unbehandelt",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Dill",
+      "unit": "to taste",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Langkornreis",
+      "amount": 250,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Passierte Tomaten",
+      "amount": 300,
+      "unit": "g",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Tomatenmark",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "canned",
+      "pantry": true,
+      "note": "ca. 20 g",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gemüsebrühe",
+      "amount": 400,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "note": "bei Bedarf etwas mehr",
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 400,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "text": "Die Brotreste klein schneiden und in der Milch einweichen. Die Zwiebel schälen, fein würfeln und im Öl glasig dünsten. Anschließend etwas abkühlen lassen.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Petersilie und Rosmarin fein hacken. Mit Hackfleisch, Zwiebel, Ei, eingeweichtem Brot, Kreuzkümmel, Salz und Pfeffer gründlich vermengen. Die Masse abgedeckt etwa 1 Stunde im Kühlschrank ruhen lassen.",
+      "timerMinutes": 60
+    },
+    {
+      "text": "Währenddessen das Tzatziki vorbereiten: Die Gurke schälen, entkernen und fein raspeln. In einem sauberen Küchentuch kräftig ausdrücken."
+    },
+    {
+      "text": "Knoblauch schälen und fein hacken oder pressen. Dill hacken. Beides mit Gurke und Joghurt verrühren. Mit etwas Zitronenabrieb, Zitronensaft, Salz und Pfeffer abschmecken. Bis zum Servieren kalt stellen."
+    },
+    {
+      "text": "Für den Tomatenreis den Reis in einem Sieb abspülen. Mit passierten Tomaten, Tomatenmark und Gemüsebrühe in einen Topf geben und aufkochen. Zugedeckt bei kleiner Hitze etwa 15–20 Minuten garen (Garzeit auf der Reispackung beachten). Gelegentlich umrühren und bei Bedarf etwas Brühe ergänzen.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "Den Feta in vier Stücke schneiden. Die Hackmasse in vier Portionen teilen, jeweils flach drücken und ein Stück Feta hineinlegen. Die Hackmasse darum verschließen, sodass der Käse vollständig bedeckt ist."
+    },
+    {
+      "text": "Die Bifteki im Airfryer bei 180 °C etwa 16 Minuten garen, je nach Dicke gegebenenfalls länger, bis sie vollständig durchgegart sind. Alternativ in einer Pfanne mit etwas zusätzlichem Öl von beiden Seiten braten.",
+      "timerMinutes": 16
+    },
+    {
+      "text": "Den Tomatenreis mit Salz und Pfeffer abschmecken. Zusammen mit den Bifteki und dem Tzatziki auf vier Portionen verteilen und servieren."
+    }
+  ]
+}

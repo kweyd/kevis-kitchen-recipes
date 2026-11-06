@@ -1,0 +1,252 @@
+{
+  "id": "bestis-kartoffel-rote-bete-pueree-mit-birne-und-feta",
+  "version": 1,
+  "title": "Besti's Potato and Beetroot Mash with Pear, Caramelised Walnuts and Feta",
+  "summary": "Bright pink potato and beetroot mash topped with paper-thin pear slices, feta and caramelised walnuts.",
+  "emoji": "🥔",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 610,
+    "protein": 17,
+    "fat": 30,
+    "carbs": 65
+  },
+  "ingredients": [
+    {
+      "name": "Floury potatoes",
+      "amount": 400,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "weighed peeled",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Beetroot",
+      "amount": 200,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "pre-cooked",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Milk",
+      "amount": 80,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "note": "whole milk",
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free milk",
+          "amount": 80,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Oat drink",
+          "amount": 80,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Soy drink",
+          "amount": 80,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Butter",
+      "amount": 15,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Lactose-free butter",
+          "amount": 15,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Plant-based butter",
+          "amount": 15,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Pear",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "large, about 200 g",
+      "shelfLifeDays": 7,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Feta",
+      "amount": 100,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegan feta alternative",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Walnuts",
+      "amount": 40,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "nuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Pumpkin seeds",
+          "amount": 40,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Sugar",
+      "amount": 10,
+      "unit": "g",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lemon juice",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salt",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pepper",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Nutmeg",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cut the potatoes into evenly sized pieces and boil them in salted water for about 20 minutes until soft.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "Meanwhile, roughly break up the walnuts. Heat the sugar with 1 tsp of water in a small pan until it melts and turns light golden. Stir in the walnuts, then spread them out on baking paper and let them cool."
+    },
+    {
+      "text": "Wash, quarter and core the pear. Cut or slice it very thinly and drizzle with lemon juice. If you like, arrange the slices later in an overlapping rose."
+    },
+    {
+      "text": "Chop the beetroot, warm it with the milk in a small pot and then purée it until smooth."
+    },
+    {
+      "text": "Drain the potatoes and let them steam off briefly. Mash them with the butter or press them through a potato ricer."
+    },
+    {
+      "text": "Stir the warm beetroot purée into the potatoes. Season with salt, pepper and a little nutmeg. Add a splash of water if needed."
+    },
+    {
+      "text": "Spread the mash onto two plates and arrange the pear slices on top."
+    },
+    {
+      "text": "Crumble the feta over it and sprinkle with the caramelised walnuts."
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "bestis-kartoffel-rote-bete-pueree-mit-birne-und-feta",
+  "version": 1,
+  "title": "Besti's Kartoffel-Rote-Bete-Püree mit Birne, karamellisierten Walnüssen und Feta",
+  "summary": "Leuchtend pinkes Kartoffelpüree mit Roter Bete, getoppt mit hauchdünnen Birnenscheiben, Feta und karamellisierten Walnüssen.",
+  "emoji": "🥔",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarisch"
+  ],
+  "author": "Kevi's Kitchen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 610,
+    "protein": 17,
+    "fat": 30,
+    "carbs": 65
+  },
+  "ingredients": [
+    {
+      "name": "Mehligkochende Kartoffeln",
+      "amount": 400,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "geschält gewogen",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Rote Bete",
+      "amount": 200,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "vorgegart",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Milch",
+      "amount": 80,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "note": "3,5 % Fett",
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Milch",
+          "amount": 80,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Haferdrink",
+          "amount": 80,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Sojadrink",
+          "amount": 80,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Butter",
+      "amount": 15,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Butter",
+          "amount": 15,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Pflanzliche Butter",
+          "amount": 15,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Birne",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "groß, ca. 200 g",
+      "shelfLifeDays": 7,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Feta",
+      "amount": 100,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Vegane Feta-Alternative",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Walnusskerne",
+      "amount": 40,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "nuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Kürbiskerne",
+          "amount": 40,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Zucker",
+      "amount": 10,
+      "unit": "g",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zitronensaft",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Muskatnuss",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Die Kartoffeln in gleich große Stücke schneiden und in Salzwasser etwa 20 Minuten weich kochen.",
+      "timerMinutes": 20
+    },
+    {
+      "text": "Währenddessen die Walnüsse grob zerteilen. Den Zucker mit 1 TL Wasser in einer kleinen Pfanne erhitzen, bis er schmilzt und leicht goldbraun wird. Die Walnüsse unterrühren und anschließend auf Backpapier verteilen. Abkühlen lassen."
+    },
+    {
+      "text": "Die Birne waschen, vierteln und entkernen. In sehr dünne Scheiben schneiden oder hobeln und mit Zitronensaft beträufeln. Wer mag, legt die Scheiben später überlappend zu einer Rose."
+    },
+    {
+      "text": "Die Rote Bete klein schneiden, mit der Milch in einem kleinen Topf erwärmen und anschließend fein pürieren."
+    },
+    {
+      "text": "Die Kartoffeln abgießen und kurz ausdampfen lassen. Mit der Butter zerstampfen oder durch eine Kartoffelpresse drücken."
+    },
+    {
+      "text": "Das warme Rote-Bete-Püree unter die Kartoffeln rühren. Mit Salz, Pfeffer und etwas Muskatnuss abschmecken. Bei Bedarf einen kleinen Schuss Wasser hinzufügen."
+    },
+    {
+      "text": "Das Püree auf zwei Tellern verstreichen. Die Birnenscheiben darauf anrichten."
+    },
+    {
+      "text": "Den Feta darüberbröseln und mit den karamellisierten Walnüssen bestreuen."
+    }
+  ]
+}
