@@ -1,0 +1,354 @@
+{
+  "id": "bestis-udonnudeln-in-erdnusssauce-mit-gemuese-und-chicken-katsu",
+  "version": 1,
+  "title": "Besti's Udon Noodles in Peanut Sauce with Vegetables and Chicken Katsu",
+  "summary": "Thick udon noodles in a creamy peanut sauce with air-fried teriyaki carrots and crispy chicken katsu.",
+  "emoji": "🍜",
+  "servings": 2,
+  "prepMinutes": 45,
+  "tags": [],
+  "author": "Besti's Bisschen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 800,
+    "protein": 45,
+    "fat": 25,
+    "carbs": 80
+  },
+  "ingredients": [
+    {
+      "name": "Udon noodles (pre-cooked)",
+      "amount": 300,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ]
+    },
+    {
+      "name": "Peanut butter",
+      "amount": 30,
+      "unit": "g",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "peanuts"
+      ],
+      "alternatives": [
+        {
+          "name": "Cashew butter",
+          "amount": 30,
+          "unit": "g",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": [
+            "nuts"
+          ]
+        },
+        {
+          "name": "Tahini (sesame paste)",
+          "amount": 30,
+          "unit": "g",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": [
+            "sesame"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soy sauce",
+      "amount": 20,
+      "unit": "ml",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Tamari (gluten-free soy sauce)",
+          "amount": 20,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        },
+        {
+          "name": "Coconut aminos",
+          "amount": 20,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Garlic",
+      "amount": 2,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lemon",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "organic, for zest and juice",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honey",
+      "amount": 10,
+      "unit": "g",
+      "category": "breakfast",
+      "pantry": true,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Maple syrup",
+          "amount": 10,
+          "unit": "g",
+          "category": "breakfast",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Carrots",
+      "amount": 200,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "note": "small, about 100 g",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Oil",
+      "amount": 5,
+      "unit": "g",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": 5,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "sesame"
+      ],
+      "alternatives": [
+        {
+          "name": "Sunflower seeds",
+          "amount": 5,
+          "unit": "g",
+          "category": "snacks",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Teriyaki sauce",
+      "amount": 20,
+      "unit": "g",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free teriyaki sauce",
+          "amount": 20,
+          "unit": "g",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spring onion",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "optional, for garnish",
+      "shelfLifeDays": 7,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Chicken breast",
+      "amount": 250,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 2,
+      "diet": "meat",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Vegan chicken pieces (soy)",
+          "amount": 250,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Chickpeas",
+          "amount": 250,
+          "unit": "g",
+          "category": "canned",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Egg",
+      "amount": 1,
+      "unit": "piece",
+      "category": "dairy",
+      "pantry": false,
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "eggs"
+      ],
+      "alternatives": [
+        {
+          "name": "Chickpea flour (1 tbsp + 1 tbsp water)",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Flour",
+      "amount": 15,
+      "unit": "g",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free flour mix",
+          "amount": 15,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": 30,
+      "unit": "g",
+      "category": "baking",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Gluten-free breadcrumbs",
+          "amount": 30,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Frying oil",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "For the peanut sauce, peel one garlic clove and chop it finely or press it. Stir it together with the peanut butter, soy sauce, 5 g of honey and a little lemon zest and lemon juice. Gradually add water until the sauce is creamy. Taste and set aside."
+    },
+    {
+      "text": "Peel the carrots and cut them into thin sticks or slices. Peel the onion and cut it into wedges. Peel the second garlic clove and chop it finely."
+    },
+    {
+      "text": "Toss the vegetables with the garlic, 5 g of honey, the oil, sesame seeds and teriyaki sauce. Cook in the air fryer at 150 °C for about 14 minutes. Turn them halfway through and cook a little longer if needed until the carrots are as tender as you like.",
+      "timerMinutes": 14
+    },
+    {
+      "text": "Cut the chicken breast into two cutlets of even thickness and pound them a little flatter if needed."
+    },
+    {
+      "text": "Put the flour, beaten egg and panko on three separate plates. Coat the chicken first in flour, then in egg and finally in panko. Press the coating on lightly."
+    },
+    {
+      "text": "Heat the oil in a deep pan or pot. Fry the chicken cutlets over medium-high heat until golden brown on both sides and cooked through. Drain on kitchen paper."
+    },
+    {
+      "text": "Meanwhile, prepare the udon noodles in hot water according to the package instructions and drain them."
+    },
+    {
+      "text": "Gently warm the peanut sauce in a pot. Toss it with the udon noodles and add a little water if needed."
+    },
+    {
+      "text": "Slice the chicken katsu into strips. Divide the noodles and vegetables between two plates and arrange the chicken on top."
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "id": "bestis-pilzfrikassee",
+  "version": 1,
+  "title": "Besti's Pilzfrikassee",
+  "summary": "Cremiges Frikassee mit Kräuterseitlingen, Champignons, Möhren und Erbsen, frisch abgeschmeckt mit Zitrone und serviert mit Reis.",
+  "emoji": "🍄",
+  "servings": 2,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarisch"
+  ],
+  "author": "Besti's Bisschen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 740,
+    "protein": 20,
+    "fat": 23,
+    "carbs": 105
+  },
+  "ingredients": [
+    {
+      "name": "Kräuterseitlinge",
+      "amount": 200,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "ca. 2 Stück",
+      "shelfLifeDays": 5,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Champignons",
+      "amount": 150,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "ca. 5 Stück",
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Möhren",
+      "amount": 300,
+      "unit": "g",
+      "category": "produce",
+      "pantry": false,
+      "note": "2 dicke",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Erbsen (TK)",
+      "amount": 150,
+      "unit": "g",
+      "category": "frozen",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "note": "ca. 100 g",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Knoblauch",
+      "amount": 1,
+      "unit": "clove",
+      "category": "produce",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Gemüsefond",
+      "amount": 500,
+      "unit": "ml",
+      "category": "canned",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "celery"
+      ],
+      "alternatives": [
+        {
+          "name": "Gemüsebrühe ohne Sellerie",
+          "amount": 500,
+          "unit": "ml",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Butter",
+      "amount": 30,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": true,
+      "shelfLifeDays": 0,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Butter",
+          "amount": 30,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Pflanzliche Butter",
+          "amount": 30,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Mehl",
+      "amount": 30,
+      "unit": "g",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreie Mehlmischung",
+          "amount": 30,
+          "unit": "g",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Milch",
+      "amount": 200,
+      "unit": "ml",
+      "category": "dairy",
+      "pantry": false,
+      "note": "3,5 % Fett",
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Milch",
+          "amount": 200,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ],
+          "shelfLifeDays": 7
+        },
+        {
+          "name": "Haferdrink",
+          "amount": 200,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Sojadrink",
+          "amount": 200,
+          "unit": "ml",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Öl",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "spices",
+      "pantry": true,
+      "note": "ca. 10 g",
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Paprikapulver",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Kreuzkümmel",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Muskatnuss",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Lauchzwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "nur das Grün",
+      "shelfLifeDays": 7,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Petersilie (frisch)",
+      "unit": "to taste",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 3,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zitrone",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "Bio, für Abrieb und Saft",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sahne",
+      "unit": "to taste",
+      "category": "dairy",
+      "pantry": false,
+      "note": "optional",
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Sahne",
+          "unit": "to taste",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Hafer-Cuisine",
+          "unit": "to taste",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Soja-Cuisine",
+          "unit": "to taste",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Reis",
+      "amount": 150,
+      "unit": "g",
+      "category": "dryGoods",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Die Champignons putzen und in Scheiben schneiden. Die Kräuterseitlinge putzen und in mittelgroße Stücke zerreißen."
+    },
+    {
+      "text": "Knoblauch schälen, zerdrücken und fein schneiden. Zwiebel und Möhren schälen und klein schneiden."
+    },
+    {
+      "text": "Eine Pfanne erhitzen. Die Champignons ohne Öl braten, bis die austretende Flüssigkeit weitgehend verdampft ist. Anschließend beiseitestellen."
+    },
+    {
+      "text": "Die Kräuterseitlinge ebenfalls kurz ohne Öl braten. Mit Paprikapulver und Kreuzkümmel würzen. Öl, Zwiebel und Knoblauch hinzufügen und glasig dünsten. Den Knoblauch nicht bräunen lassen."
+    },
+    {
+      "text": "Die Butter in einem großen Topf schmelzen. Das Mehl einrühren und kurz anschwitzen, ohne es zu bräunen. Milch und Gemüsefond nach und nach unter kräftigem Rühren zugießen."
+    },
+    {
+      "text": "Möhren, Erbsen und sämtliche Pilze samt Zwiebel und Knoblauch hinzufügen. Mit Muskatnuss, Salz, Zitronenabrieb und etwas Zitronensaft würzen. Nach Wunsch etwas Sahne unterrühren."
+    },
+    {
+      "text": "Das Frikassee mindestens 30 Minuten bei kleiner Hitze köcheln lassen. Gelegentlich umrühren und bei Bedarf etwas Flüssigkeit ergänzen.",
+      "timerMinutes": 30
+    },
+    {
+      "text": "Währenddessen den Reis nach Packungsanweisung in einem separaten Topf mit Wasser und etwas Salz kochen.",
+      "timerMinutes": 15
+    },
+    {
+      "text": "Sobald das Gemüse gar und die Sauce sämig ist, gehackte Petersilie unter das Frikassee rühren. Mit Pfeffer, Salz und Zitronensaft abschmecken."
+    },
+    {
+      "text": "Das Frikassee mit dem Reis auf zwei Portionen verteilen und mit fein geschnittenem Lauchzwiebelgrün bestreuen."
+    }
+  ]
+}

@@ -11,6 +11,51 @@
       }
     },
     {
+      "id": "bestis-bifteki-mit-tomatenreis-und-tzatziki",
+      "version": 1,
+      "image": "images/bestis-bifteki-mit-tomatenreis-und-tzatziki.jpg",
+      "languages": {
+        "de": "recipes/de/bestis-bifteki-mit-tomatenreis-und-tzatziki.json",
+        "en": "recipes/en/bestis-bifteki-mit-tomatenreis-und-tzatziki.json"
+      }
+    },
+    {
+      "id": "bestis-kartoffel-rote-bete-pueree-mit-birne-und-feta",
+      "version": 1,
+      "image": "images/bestis-kartoffel-rote-bete-pueree-mit-birne-und-feta.jpg",
+      "languages": {
+        "de": "recipes/de/bestis-kartoffel-rote-bete-pueree-mit-birne-und-feta.json",
+        "en": "recipes/en/bestis-kartoffel-rote-bete-pueree-mit-birne-und-feta.json"
+      }
+    },
+    {
+      "id": "bestis-pilzfrikassee",
+      "version": 1,
+      "image": "images/bestis-pilzfrikassee.jpg",
+      "languages": {
+        "de": "recipes/de/bestis-pilzfrikassee.json",
+        "en": "recipes/en/bestis-pilzfrikassee.json"
+      }
+    },
+    {
+      "id": "bestis-schweinelende-mit-aepfeln-und-kaese-ueberbacken",
+      "version": 1,
+      "image": "images/bestis-schweinelende-mit-aepfeln-und-kaese-ueberbacken.jpg",
+      "languages": {
+        "de": "recipes/de/bestis-schweinelende-mit-aepfeln-und-kaese-ueberbacken.json",
+        "en": "recipes/en/bestis-schweinelende-mit-aepfeln-und-kaese-ueberbacken.json"
+      }
+    },
+    {
+      "id": "bestis-udonnudeln-in-erdnusssauce-mit-gemuese-und-chicken-katsu",
+      "version": 1,
+      "image": "images/bestis-udonnudeln-in-erdnusssauce-mit-gemuese-und-chicken-katsu.jpg",
+      "languages": {
+        "de": "recipes/de/bestis-udonnudeln-in-erdnusssauce-mit-gemuese-und-chicken-katsu.json",
+        "en": "recipes/en/bestis-udonnudeln-in-erdnusssauce-mit-gemuese-und-chicken-katsu.json"
+      }
+    },
+    {
       "id": "blumenkohl-curry",
       "version": 1,
       "image": "images/blumenkohl-curry.jpg",

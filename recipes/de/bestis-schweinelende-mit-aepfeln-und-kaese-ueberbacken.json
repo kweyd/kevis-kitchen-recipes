@@ -1,0 +1,240 @@
+{
+  "id": "bestis-schweinelende-mit-aepfeln-und-kaese-ueberbacken",
+  "version": 1,
+  "title": "Besti's Schweinelende mit Äpfeln und Käse überbacken",
+  "summary": "Angebratene Schweinelende mit Äpfeln und Zwiebeln in einer würzigen Curry-Senf-Sahne, mit Käse goldbraun überbacken.",
+  "emoji": "🥘",
+  "servings": 4,
+  "prepMinutes": 45,
+  "tags": [],
+  "author": "Besti's Bisschen",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 500,
+    "protein": 36,
+    "fat": 27,
+    "carbs": 23
+  },
+  "ingredients": [
+    {
+      "name": "Schweinelende",
+      "amount": 500,
+      "unit": "g",
+      "category": "meatFish",
+      "pantry": false,
+      "shelfLifeDays": 2,
+      "diet": "meat",
+      "allergens": []
+    },
+    {
+      "name": "Äpfel",
+      "amount": 3,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "note": "3–4, je nach Größe",
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Zwiebel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": true,
+      "shelfLifeDays": 14,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Sahne",
+      "amount": 200,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ],
+      "alternatives": [
+        {
+          "name": "Laktosefreie Sahne",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "animal",
+          "allergens": [
+            "milk"
+          ]
+        },
+        {
+          "name": "Hafer-Cuisine",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "gluten"
+          ],
+          "shelfLifeDays": 0
+        },
+        {
+          "name": "Soja-Cuisine",
+          "amount": 200,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [
+            "soy"
+          ],
+          "shelfLifeDays": 0
+        }
+      ]
+    },
+    {
+      "name": "Geriebener Käse",
+      "amount": 100,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "note": "z. B. Gouda",
+      "shelfLifeDays": 14,
+      "diet": "animal",
+      "allergens": [
+        "milk"
+      ],
+      "alternatives": [
+        {
+          "name": "Veganer Reibekäse",
+          "amount": 100,
+          "unit": "g",
+          "category": "dairy",
+          "diet": "plant",
+          "allergens": [],
+          "shelfLifeDays": 14
+        }
+      ]
+    },
+    {
+      "name": "Rosmarin",
+      "unit": "to taste",
+      "category": "produce",
+      "pantry": false,
+      "shelfLifeDays": 7,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Ketchup",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Senf in Weißwein",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "mustard",
+        "sulphites"
+      ],
+      "alternatives": [
+        {
+          "name": "Mittelscharfer Senf",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "spices",
+          "diet": "plant",
+          "allergens": [
+            "mustard"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Currypulver",
+      "amount": 0.5,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Salz",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Pfeffer",
+      "unit": "to taste",
+      "category": "spices",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Mehl",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "baking",
+      "pantry": true,
+      "diet": "plant",
+      "allergens": [
+        "gluten"
+      ],
+      "alternatives": [
+        {
+          "name": "Glutenfreie Mehlmischung",
+          "amount": 1,
+          "unit": "tsp",
+          "category": "baking",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Öl",
+      "amount": 10,
+      "unit": "g",
+      "category": "spices",
+      "pantry": true,
+      "note": "zum Anbraten",
+      "diet": "plant",
+      "allergens": []
+    }
+  ],
+  "steps": [
+    {
+      "text": "Den Backofen auf 225 °C Ober-/Unterhitze vorheizen."
+    },
+    {
+      "text": "Die Schweinelende von Sehnen und Silberhaut befreien, in dicke Scheiben schneiden und salzen. In etwas Öl scharf anbraten."
+    },
+    {
+      "text": "Die Äpfel schälen, entkernen und in Scheiben schneiden. Die Zwiebel schälen und ebenfalls in Scheiben schneiden."
+    },
+    {
+      "text": "Die angebratenen Fleischscheiben pfeffern und zusammen mit den Zwiebeln und Äpfeln in eine Auflaufform schichten. Rosmarin nach Geschmack dazugeben."
+    },
+    {
+      "text": "Die Sahne mit Ketchup, Senf, Mehl und Currypulver gut verrühren. Über die geschichteten Zutaten gießen."
+    },
+    {
+      "text": "Mit geriebenem Käse bedecken und im vorgeheizten Ofen etwa 30 Minuten backen.",
+      "timerMinutes": 30
+    }
+  ]
+}
