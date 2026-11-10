@@ -14,10 +14,34 @@ CATEGORIES = {"produce", "bakery", "meatFish", "dairy", "dryGoods", "canned", "s
               "snacks", "drinks", "frozen", "household", "other"}
 DIETS = {"plant", "animal", "fish", "meat"}
 ALLERGENS = {"gluten", "crustaceans", "eggs", "fish", "peanuts", "soy", "milk", "lactose", "nuts", "celery",
-             "mustard", "sesame", "sulphites", "lupin", "molluscs"}
+             "mustard", "sesame", "sulphites", "lupin", "molluscs", "histamine"}
 TAGS = {"de": {"vegetarisch", "vegan", "schnell"}, "en": {"vegetarian", "vegan", "quick"}}
-# Cooking is the default and has no "kind". Baking recipes aren't suggested as daily meals (app 1.2+).
-KINDS = {"baking"}
+# Cooking is the default and has no "kind". Baking recipes aren't suggested as daily meals (app 1.2+),
+# breakfast and dinner recipes only for those meals (app 1.5+).
+KINDS = {"breakfast", "dinner", "baking"}
+
+
+def check_step_ingredients(step, where, ingredients, used, errors):
+    """Ingredients a step uses (app 1.5+): position in the ingredient list, optional share of the amount."""
+    uses = step.get("ingredients", [])
+    if not isinstance(uses, list):
+        errors.append(f"{where}: ingredients must be a list")
+        return
+    seen = set()
+    for use in uses:
+        index, share = use.get("ingredient") if isinstance(use, dict) else None, use.get("share", 1) if isinstance(use, dict) else None
+        if not isinstance(index, int) or isinstance(index, bool) or not 0 <= index < len(ingredients):
+            errors.append(f"{where}: ingredient {index!r} is not a position in the ingredient list")
+            continue
+        if index in seen:
+            errors.append(f"{where}: ingredient {index} listed twice")
+        seen.add(index)
+        if not isinstance(share, (int, float)) or isinstance(share, bool) or not 0 < share <= 1:
+            errors.append(f"{where}: share of ingredient {index} must be above 0 and at most 1")
+            continue
+        if "share" in use and share == 1:
+            errors.append(f"{where}: leave out share 1 for ingredient {index}")
+        used[index] = used.get(index, 0) + share
 
 
 def check_ingredient(ing, where, errors):
@@ -84,13 +108,19 @@ def check(recipe_id):
                     errors.append(f"{p} ingredient {i} alternative {j}: solves nothing (same diet, no allergen removed)")
         if not r.get("steps"):
             errors.append(f"{p}: no steps")
+        used = {}
         for i, step in enumerate(r.get("steps", [])):
+            check_step_ingredients(step, f"{p} step {i}", r.get("ingredients", []), used, errors)
             if not isinstance(step.get("text"), str) or not step["text"].strip():
                 errors.append(f"{p} step {i}: text missing")
             if "timerMinutes" in step and (not isinstance(step["timerMinutes"], int) or step["timerMinutes"] < 1):
                 errors.append(f"{p} step {i}: timerMinutes must be an int ≥ 1")
             if "@" in step.get("text", ""):
                 errors.append(f"{p} step {i}: contains an @mention")
+        # Shares are parts of the amount: together the steps can't use more than all of it. "To taste" has no amount.
+        for index, total in used.items():
+            if total > 1.01 and r["ingredients"][index].get("unit") != "to taste":
+                errors.append(f"{p} ingredient {index}: steps use {total:.0%} of it, at most 100 %")
     if len(data) == 2:
         de, en = data["de"], data["en"]
         for key in ("servings", "prepMinutes", "kind", "nutritionPerServing", "emoji"):
@@ -107,6 +137,10 @@ def check(recipe_id):
                     errors.append(f"de/en ingredient {i} differ in number of alternatives")
         if len(de.get("steps", [])) != len(en.get("steps", [])):
             errors.append("de/en have a different number of steps")
+        else:
+            for i, (a, b) in enumerate(zip(de["steps"], en["steps"])):
+                if a.get("ingredients", []) != b.get("ingredients", []):
+                    errors.append(f"de/en step {i} use different ingredients")
     return errors
 
 

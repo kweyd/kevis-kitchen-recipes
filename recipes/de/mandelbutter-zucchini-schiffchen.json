@@ -1,6 +1,6 @@
 {
   "id": "mandelbutter-zucchini-schiffchen",
-  "version": 1,
+  "version": 2,
   "title": "Mandelbutter-Zucchini-Schiffchen",
   "summary": "Ausgehöhlte Zucchini, gefüllt mit Hähnchen und Erbsen in cremiger Mandel-Kokos-Soße.",
   "emoji": "🥒",
@@ -34,7 +34,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -43,7 +44,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -97,7 +100,8 @@
           "category": "breakfast",
           "diet": "plant",
           "allergens": [
-            "peanuts"
+            "peanuts",
+            "histamine"
           ]
         }
       ]
@@ -175,24 +179,68 @@
   ],
   "steps": [
     {
-      "text": "Die Zucchini waschen und längs halbieren. Mit einem Löffel innen aushöhlen."
+      "text": "Die Zucchini waschen und längs halbieren. Mit einem Löffel innen aushöhlen.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Das Fleisch in kleine Stücke schneiden und mit Pfeffer, Salz, etwas Öl, Chilipulver und Paprika edelsüß marinieren."
+      "text": "Das Fleisch in kleine Stücke schneiden und mit Pfeffer, Salz, etwas Öl, Chilipulver und Paprika edelsüß marinieren.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Das Hähnchen für 2x 8 Minuten bei 200 °C in den Airfryer geben.",
       "timerMinutes": 8
     },
     {
-      "text": "Währenddessen die Kokosmilch mit den Erbsen und dem Mandelmus in einem Topf erwärmen. Wenn das Fleisch fertig ist, kurz im Topf mit der Masse verrühren."
+      "text": "Währenddessen die Kokosmilch mit den Erbsen und dem Mandelmus in einem Topf erwärmen. Wenn das Fleisch fertig ist, kurz im Topf mit der Masse verrühren.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Die ausgehöhlten Zucchini in den Airfryer legen, mit der Masse aus dem Topf füllen und für 14 Minuten bei 180 °C garen.",
       "timerMinutes": 14
     },
     {
-      "text": "Mit Schnittlauch und Parmesan garnieren."
+      "text": "Mit Schnittlauch und Parmesan garnieren.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     }
   ]
 }

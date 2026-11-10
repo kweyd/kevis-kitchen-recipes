@@ -1,6 +1,6 @@
 {
   "id": "sommerrollen-mit-erdnussdip",
-  "version": 1,
+  "version": 2,
   "title": "Summer Rolls with Peanut Dip",
   "summary": "Crunchy summer rolls with colourful vegetables and crispy tofu, served with a creamy peanut dip.",
   "emoji": "🥢",
@@ -127,7 +127,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -137,7 +138,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -197,7 +199,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -218,7 +221,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "peanuts"
+        "peanuts",
+        "histamine"
       ]
     },
     {
@@ -233,23 +237,83 @@
   ],
   "steps": [
     {
-      "text": "Cut the bell pepper, carrots, red cabbage and cucumber into thin strips."
+      "text": "Cut the bell pepper, carrots, red cabbage and cucumber into thin strips.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Cut the tofu into small pieces, spray with a little oil and air-fry at 200 °C for 2 x 8 minutes.",
-      "timerMinutes": 16
+      "timerMinutes": 16,
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 15
+        }
+      ]
     },
     {
-      "text": "For the sauce, finely chop the garlic and ginger and squeeze the lime."
+      "text": "For the sauce, finely chop the garlic and ginger and squeeze the lime.",
+      "ingredients": [
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Stir everything together with the peanut butter, honey, 3 tbsp water, coconut milk, soy sauce and rice vinegar to make a sauce."
+      "text": "Stir everything together with the peanut butter, honey, 3 tbsp water, coconut milk, soy sauce and rice vinegar to make a sauce.",
+      "ingredients": [
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
-      "text": "Cover a plate with lukewarm water and briefly soften each rice paper sheet on both sides."
+      "text": "Cover a plate with lukewarm water and briefly soften each rice paper sheet on both sides.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Lay the rice paper on a dry plate, fill with vegetables and tofu, sprinkle with sesame and roll up."
+      "text": "Lay the rice paper on a dry plate, fill with vegetables and tofu, sprinkle with sesame and roll up.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        }
+      ]
     }
   ]
 }

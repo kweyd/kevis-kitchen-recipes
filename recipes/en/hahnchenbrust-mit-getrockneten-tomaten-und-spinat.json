@@ -1,6 +1,6 @@
 {
   "id": "hahnchenbrust-mit-getrockneten-tomaten-und-spinat",
-  "version": 1,
+  "version": 2,
   "title": "Chicken Breast with Sun-Dried Tomatoes and Spinach",
   "summary": "Chicken in a creamy parmesan sauce with sun-dried tomatoes and spinach, served with rice.",
   "emoji": "🍅",
@@ -54,7 +54,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Spinach",
@@ -64,7 +66,9 @@
       "pantry": false,
       "shelfLifeDays": 2,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Parmesan",
@@ -75,7 +79,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -84,7 +89,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -231,24 +238,89 @@
   "steps": [
     {
       "text": "Rinse and cook the rice.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Peel and finely chop the onion and garlic."
+      "text": "Peel and finely chop the onion and garlic.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Cut the chicken into bite-sized pieces, marinate with a little oil, pepper and salt and air-fry at 200 °C for 2 x 8 minutes.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 8,
+          "share": 0.5
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
       "text": "Heat a little oil in a pan. Lightly fry the onion and garlic, then add the washed spinach and the drained sun-dried tomatoes.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 8,
+          "share": 0.5
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "After a few minutes, deglaze with the stock. Add the cream and the chicken to the pan."
+      "text": "After a few minutes, deglaze with the stock. Add the cream and the chicken to the pan.",
+      "ingredients": [
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
-      "text": "Season with oregano, basil, pepper and salt. Grate the parmesan into the pan."
+      "text": "Season with oregano, basil, pepper and salt. Grate the parmesan into the pan.",
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Divide the rice between the plates and spoon the contents of the pan over it."

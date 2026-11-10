@@ -1,6 +1,6 @@
 {
   "id": "zitronen-feta-pasta-mit-erbsen",
-  "version": 1,
+  "version": 2,
   "title": "Zitronen-Feta-Pasta mit Erbsen",
   "summary": "Frische Bandnudeln mit Zitrone, Feta, Dill und Erbsen – cremig dank Kokosmilch.",
   "emoji": "🍝",
@@ -102,7 +102,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -111,7 +112,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -192,23 +195,63 @@
   "steps": [
     {
       "text": "Die Nudeln in einem Topf kochen.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Die Butter in einer Pfanne zerlaufen lassen und den Abrieb und Saft einer Zitrone dazugeben."
+      "text": "Die Butter in einer Pfanne zerlaufen lassen und den Abrieb und Saft einer Zitrone dazugeben.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Erbsen und geriebenen Parmesan dazugeben."
+      "text": "Erbsen und geriebenen Parmesan dazugeben.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Den Feta zerteilen und mit Kokosmilch und Dill in die Pfanne geben.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Die Nudeln abgießen und auch in die Pfanne geben."
     },
     {
-      "text": "Mit Pfeffer und Salz abschmecken."
+      "text": "Mit Pfeffer und Salz abschmecken.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     }
   ]
 }

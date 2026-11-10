@@ -1,6 +1,6 @@
 {
   "id": "nudeln-mit-pesto",
-  "version": 1,
+  "version": 2,
   "title": "Pasta with Pesto",
   "summary": "Homemade basil pesto with toasted pine nuts and lemon – simple and unbeatably fresh.",
   "emoji": "🌿",
@@ -58,7 +58,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -67,7 +68,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -126,14 +129,41 @@
   "steps": [
     {
       "text": "Toast the pine nuts in a dry pan.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
-      "text": "Blend the pine nuts with the lemon juice, olive oil, parmesan and basil."
+      "text": "Blend the pine nuts with the lemon juice, olive oil, parmesan and basil.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Cook the pasta in salted water.",
-      "timerMinutes": 9
+      "timerMinutes": 9,
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Drain the pasta and mix everything together."

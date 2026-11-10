@@ -1,6 +1,6 @@
 {
   "id": "zitronen-feta-pasta-mit-erbsen",
-  "version": 1,
+  "version": 2,
   "title": "Lemon Feta Pasta with Peas",
   "summary": "Ribbon noodles with lemon, feta, dill and peas – creamy thanks to coconut milk.",
   "emoji": "🍝",
@@ -102,7 +102,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -111,7 +112,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -192,23 +195,63 @@
   "steps": [
     {
       "text": "Cook the noodles in a pot.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Melt the butter in a pan and add the zest and juice of the lemon."
+      "text": "Melt the butter in a pan and add the zest and juice of the lemon.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Add the peas and grated parmesan."
+      "text": "Add the peas and grated parmesan.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Crumble the feta and add it to the pan with the coconut milk and dill.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Drain the noodles and add them to the pan as well."
     },
     {
-      "text": "Season with pepper and salt."
+      "text": "Season with pepper and salt.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     }
   ]
 }

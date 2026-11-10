@@ -1,6 +1,6 @@
 {
   "id": "kartoffel-flammkuchen",
-  "version": 1,
+  "version": 2,
   "title": "Potato Tarte Flambée",
   "summary": "Wafer-thin tarte flambée with herb cream cheese, potato slices, rosemary and parmesan.",
   "emoji": "🥔",
@@ -82,7 +82,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -91,7 +92,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -154,22 +157,59 @@
   ],
   "steps": [
     {
-      "text": "Preheat the oven to 220 °C. Peel the potatoes and cut them into very thin slices."
+      "text": "Preheat the oven to 220 °C. Peel the potatoes and cut them into very thin slices.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Finely chop the rosemary."
+      "text": "Finely chop the rosemary.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Knead the flour thoroughly with 100 ml water, the olive oil and a little salt."
+      "text": "Knead the flour thoroughly with 100 ml water, the olive oil and a little salt.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Roll out the dough and place it on a baking tray lined with baking paper."
     },
     {
-      "text": "Spread the cream cheese mixed with Italian herbs over the dough."
+      "text": "Spread the cream cheese mixed with Italian herbs over the dough.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
-      "text": "Arrange the potato slices on top, slightly overlapping. Sprinkle with rosemary and parmesan and season with pepper."
+      "text": "Arrange the potato slices on top, slightly overlapping. Sprinkle with rosemary and parmesan and season with pepper.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Bake in the oven at 220 °C for 14 minutes.",

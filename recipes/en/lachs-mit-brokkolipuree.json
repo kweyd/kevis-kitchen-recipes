@@ -1,6 +1,6 @@
 {
   "id": "lachs-mit-brokkolipuree",
-  "version": 1,
+  "version": 2,
   "title": "Salmon with Broccoli Purée",
   "summary": "Air-fried lemon salmon on creamy broccoli purée with rice and a red coconut curry sauce.",
   "emoji": "🐟",
@@ -35,7 +35,8 @@
           "category": "dairy",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ],
           "shelfLifeDays": 14
         }
@@ -174,26 +175,77 @@
   "steps": [
     {
       "text": "Cook the rice according to the package instructions.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Wash the broccoli, cut it into small pieces and cook in salted water for 10 minutes.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Season the salmon with salt and pepper. Place 2 lemon slices on each piece and cook in the air fryer at 160 °C for 20 minutes.",
-      "timerMinutes": 20
+      "timerMinutes": 20,
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Put the curry paste in a pan and toast it.",
-      "timerMinutes": 1
+      "timerMinutes": 1,
+      "ingredients": [
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
       "text": "Deglaze with the coconut milk and let it simmer briefly.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
-      "text": "Drain the broccoli, add the cream, nutmeg, pepper and salt and purée everything."
+      "text": "Drain the broccoli, add the cream, nutmeg, pepper and salt and purée everything.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Serve everything together with the lemon slices."

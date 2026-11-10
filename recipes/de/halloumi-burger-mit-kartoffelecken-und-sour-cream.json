@@ -1,6 +1,6 @@
 {
   "id": "halloumi-burger-mit-kartoffelecken-und-sour-cream",
-  "version": 1,
+  "version": 2,
   "title": "Halloumi Burger mit Kartoffelecken, Sour Cream und Virgin Mojito",
   "summary": "Knuspriger Halloumi mit Avocadosoße und Spiegelei im Bun, dazu würzige Kartoffelecken und ein frischer Virgin Mojito.",
   "emoji": "🍔",
@@ -84,7 +84,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Zitrone",
@@ -266,7 +268,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ]
     },
     {
@@ -354,34 +357,147 @@
   ],
   "steps": [
     {
-      "text": "Für die Burgersoße die Avocado mit dem Saft einer Zitrone, 3 Knoblauchzehen, der Chili, 1 EL Olivenöl und etwas Pfeffer und Salz im Mixer pürieren und im Kühlschrank ziehen lassen."
+      "text": "Für die Burgersoße die Avocado mit dem Saft einer Zitrone, 3 Knoblauchzehen, der Chili, 1 EL Olivenöl und etwas Pfeffer und Salz im Mixer pürieren und im Kühlschrank ziehen lassen.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3,
+          "share": 0.6667
+        },
+        {
+          "ingredient": 5,
+          "share": 0.75
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 18
+        }
+      ]
     },
     {
-      "text": "Die Kartoffeln waschen und in Spalten schneiden. In einer großen Schüssel mit Öl, Paprikapulver, Chilipulver, Pfeffer und Salz gut verrühren und ziehen lassen."
+      "text": "Die Kartoffeln waschen und in Spalten schneiden. In einer großen Schüssel mit Öl, Paprikapulver, Chilipulver, Pfeffer und Salz gut verrühren und ziehen lassen.",
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 18
+        }
+      ]
     },
     {
       "text": "Die Kartoffelecken bei 200 °C für 30 Minuten in den Ofen geben und gelegentlich wenden.",
       "timerMinutes": 30
     },
     {
-      "text": "Für die Sour Cream die Crème fraîche mit dem Saft einer halben Zitrone, dem weißen Balsamico, einer gepressten Knoblauchzehe, der fein geschnittenen Lauchzwiebel sowie Pfeffer und Salz verrühren."
+      "text": "Für die Sour Cream die Crème fraîche mit dem Saft einer halben Zitrone, dem weißen Balsamico, einer gepressten Knoblauchzehe, der fein geschnittenen Lauchzwiebel sowie Pfeffer und Salz verrühren.",
+      "ingredients": [
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 3,
+          "share": 0.3333
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 5,
+          "share": 0.25
+        },
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 18
+        }
+      ]
     },
     {
       "text": "Den Halloumi in 4 gleich große Stücke schneiden und von jeder Seite 12 Minuten bei 200 °C in den Airfryer geben.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "In der Zwischenzeit die Burger Buns mit Butter bestreichen und in einer Pfanne anrösten. In einer anderen Pfanne die 4 Eier als Spiegeleier braten.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
-      "text": "Auf das untere Bun eine gute Menge Burgersoße und darauf Rucola geben. Auf den Rucola kommt der Halloumi, dann das Ei und der Deckel vom Bun."
+      "text": "Auf das untere Bun eine gute Menge Burgersoße und darauf Rucola geben. Auf den Rucola kommt der Halloumi, dann das Ei und der Deckel vom Bun.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Für jeden Virgin Mojito eine Limette vierteln. 2 Viertel ins Glas pressen, die anderen 2 Viertel ungepresst ins Glas geben. 1 TL braunen Zucker und 2 Zweige Minze dazugeben und leicht andrücken."
+      "text": "Für jeden Virgin Mojito eine Limette vierteln. 2 Viertel ins Glas pressen, die anderen 2 Viertel ungepresst ins Glas geben. 1 TL braunen Zucker und 2 Zweige Minze dazugeben und leicht andrücken.",
+      "ingredients": [
+        {
+          "ingredient": 23
+        },
+        {
+          "ingredient": 22
+        },
+        {
+          "ingredient": 21
+        }
+      ]
     },
     {
-      "text": "Jetzt noch 200 ml Ginger Ale und 100 ml Sprudelwasser ins Glas geben und den Rest des Glases mit Eis auffüllen."
+      "text": "Jetzt noch 200 ml Ginger Ale und 100 ml Sprudelwasser ins Glas geben und den Rest des Glases mit Eis auffüllen.",
+      "ingredients": [
+        {
+          "ingredient": 19
+        },
+        {
+          "ingredient": 20
+        },
+        {
+          "ingredient": 24
+        }
+      ]
     }
   ]
 }

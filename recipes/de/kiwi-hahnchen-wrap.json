@@ -1,6 +1,6 @@
 {
   "id": "kiwi-hahnchen-wrap",
-  "version": 1,
+  "version": 2,
   "title": "Kiwi-Hähnchen-Wrap",
   "summary": "Knusprige Hähnchenstreifen mit süßer Gold-Kiwi, Spinat und Senf-Crème-fraîche im Vollkornwrap.",
   "emoji": "🌯",
@@ -131,7 +131,9 @@
       "pantry": false,
       "shelfLifeDays": 2,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Senf",
@@ -171,21 +173,56 @@
   ],
   "steps": [
     {
-      "text": "Das Hähnchenbrustfilet in kleine Streifen schneiden und mit einer Sprühflasche etwas Öl daraufgeben."
+      "text": "Das Hähnchenbrustfilet in kleine Streifen schneiden und mit einer Sprühflasche etwas Öl daraufgeben.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Die Hähnchenstreifen für 2x 8 Minuten bei 200 °C in den Airfryer geben.",
       "timerMinutes": 16
     },
     {
-      "text": "Spinat und Kiwi waschen und die Kiwi in Scheiben schneiden."
+      "text": "Spinat und Kiwi waschen und die Kiwi in Scheiben schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "In einer Schüssel Crème fraîche mit Senf, Pfeffer und Salz verrühren."
+      "text": "In einer Schüssel Crème fraîche mit Senf, Pfeffer und Salz verrühren.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Die Tortillas in einer heißen Pfanne ohne Öl von beiden Seiten erhitzen.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Die Tortillas in der Mitte mit der Creme bestreichen, Hähnchen, Kiwi und Spinat daraufgeben und zusammenrollen."

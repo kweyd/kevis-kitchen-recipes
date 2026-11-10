@@ -1,6 +1,6 @@
 {
   "id": "beef-wellington",
-  "version": 1,
+  "version": 2,
   "title": "Beef Wellington",
   "summary": "Der Festtagsklassiker: sous vide gegartes Rinderfilet mit Maronen-Pilz-Füllung und Parmaschinken im goldenen Blätterteig.",
   "emoji": "🥩",
@@ -52,7 +52,9 @@
       "category": "meatFish",
       "pantry": false,
       "diet": "meat",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Blätterteig",
@@ -94,7 +96,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -195,28 +198,74 @@
   "steps": [
     {
       "text": "Das Rinderfilet vakuumieren und bei 52 °C für 90 Minuten sous vide garen.",
-      "timerMinutes": 90
+      "timerMinutes": 90,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Maronen, Champignons, Thymianblättchen, Knoblauch und Weißwein in einen Mixer geben und fein zerkleinern."
+      "text": "Maronen, Champignons, Thymianblättchen, Knoblauch und Weißwein in einen Mixer geben und fein zerkleinern.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Die Masse ohne Öl in eine Pfanne geben und die Flüssigkeit verdampfen lassen.",
       "timerMinutes": 10
     },
     {
-      "text": "Klarsichtfolie auslegen und den Schinken darauf drapieren. Die Masse aus der Pfanne darauf verteilen."
+      "text": "Klarsichtfolie auslegen und den Schinken darauf drapieren. Die Masse aus der Pfanne darauf verteilen.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Das Rinderfilet mit Salz und Pfeffer würzen, in einer Pfanne mit etwas Öl rundherum scharf anbraten und mit Senf einreiben.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Das Filet auf die Masse mit dem Schinken legen, mithilfe der Folie einrollen und für mindestens 15 Minuten in den Kühlschrank legen.",
       "timerMinutes": 15
     },
     {
-      "text": "Wieder Klarsichtfolie auslegen und den Blätterteig darauf ausrollen."
+      "text": "Wieder Klarsichtfolie auslegen und den Blätterteig darauf ausrollen.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Das Filet ohne Folie auf den Blätterteig legen, ebenfalls einrollen und wieder für mindestens 15 Minuten in den Kühlschrank legen.",
@@ -227,7 +276,12 @@
     },
     {
       "text": "Den Blätterteig mit dem Eigelb bestreichen und für 22 Minuten in den Ofen geben.",
-      "timerMinutes": 22
+      "timerMinutes": 22,
+      "ingredients": [
+        {
+          "ingredient": 8
+        }
+      ]
     }
   ]
 }

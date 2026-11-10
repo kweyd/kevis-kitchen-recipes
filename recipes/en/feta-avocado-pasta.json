@@ -1,6 +1,6 @@
 {
   "id": "feta-avocado-pasta",
-  "version": 1,
+  "version": 2,
   "title": "Feta Avocado Pasta",
   "summary": "Creamy pasta with an avocado feta sauce, fresh rocket and pine nuts – ready in 20 minutes.",
   "emoji": "🥑",
@@ -112,7 +112,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Honey",
@@ -171,13 +173,50 @@
   "steps": [
     {
       "text": "Cook the pasta according to the package instructions.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Blend the juice of the lime with the avocado flesh, the peeled garlic and half of the rocket."
+      "text": "Blend the juice of the lime with the avocado flesh, the peeled garlic and half of the rocket.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 1,
+          "share": 0.5
+        }
+      ]
     },
     {
-      "text": "Add the feta, honey, olive oil, pepper and salt and blend again."
+      "text": "Add the feta, honey, olive oil, pepper and salt and blend again.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Drain the pasta, leaving a little of the cooking water in the pot with it."
@@ -186,7 +225,16 @@
       "text": "Mix the sauce with the pasta in the pot, then divide between plates."
     },
     {
-      "text": "Top with the remaining rocket and the pine nuts."
+      "text": "Top with the remaining rocket and the pine nuts.",
+      "ingredients": [
+        {
+          "ingredient": 1,
+          "share": 0.5
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     }
   ]
 }

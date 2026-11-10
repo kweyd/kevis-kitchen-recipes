@@ -1,6 +1,6 @@
 {
   "id": "lachs-bowl",
-  "version": 1,
+  "version": 2,
   "title": "Lachs-Bowl",
   "summary": "Marinierter Lachs aus dem Airfryer mit Reis, Avocado, Orange, Edamame und Sweet-Chili-Mayo.",
   "emoji": "🍣",
@@ -32,7 +32,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Lachsfilet",
@@ -139,7 +141,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -149,7 +152,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -226,29 +230,81 @@
   ],
   "steps": [
     {
-      "text": "Den Lachs in eine Schüssel geben und mit Sojasoße, braunem Zucker, Honig sowie fein gehacktem Ingwer und Knoblauch marinieren."
+      "text": "Den Lachs in eine Schüssel geben und mit Sojasoße, braunem Zucker, Honig sowie fein gehacktem Ingwer und Knoblauch marinieren.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Den Lachs für 30 Minuten im Kühlschrank durchziehen lassen.",
       "timerMinutes": 30
     },
     {
-      "text": "Avocado, Orange, Zwiebel und Gurke in mundgerechte Stücke schneiden."
+      "text": "Avocado, Orange, Zwiebel und Gurke in mundgerechte Stücke schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Die Edamame für 5 Minuten in heißem Wasser warm werden lassen.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Den Reis waschen und kochen.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Den Lachs mit Marinade für 14 Minuten bei 180 °C in den Airfryer geben.",
       "timerMinutes": 14
     },
     {
-      "text": "Für die Soße die Mayonnaise mit der Sweet-Chili-Soße mischen."
+      "text": "Für die Soße die Mayonnaise mit der Sweet-Chili-Soße mischen.",
+      "ingredients": [
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
       "text": "Am Ende den Reis in die Schüsseln geben und Lachs, Toppings und Soße darüber verteilen."

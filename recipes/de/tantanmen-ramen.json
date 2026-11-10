@@ -1,6 +1,6 @@
 {
   "id": "tantanmen-ramen",
-  "version": 1,
+  "version": 2,
   "title": "Tantanmen Ramen",
   "summary": "Cremig-scharfe Sesam-Ramen mit Steakstreifen, Pak Choi und marinierten Ramen-Eiern.",
   "emoji": "🍜",
@@ -37,7 +37,8 @@
       "diet": "plant",
       "allergens": [
         "gluten",
-        "soy"
+        "soy",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -47,7 +48,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         }
       ]
@@ -62,7 +64,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -72,7 +75,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -93,7 +97,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -124,7 +129,8 @@
       "diet": "plant",
       "allergens": [
         "gluten",
-        "soy"
+        "soy",
+        "histamine"
       ]
     },
     {
@@ -310,7 +316,8 @@
           "category": "dairy",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ],
           "shelfLifeDays": 14
         }
@@ -320,34 +327,107 @@
   "steps": [
     {
       "text": "Die Ramen-Eier sollten 8 Stunden oder länger in der Marinade ziehen, also am besten am Vortag zubereiten. Eier kochen (6–9 Minuten, je nachdem, wie weich sie sein sollen).",
-      "timerMinutes": 7
+      "timerMinutes": 7,
+      "ingredients": [
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "Eier in einem Eisbad abkühlen lassen. Nebenher für die Marinade 60 ml Sojasoße, Mirin, 60 ml Wasser und den Zucker in einem kleinen Topf zum Kochen bringen. Sobald es aufkocht, Hitze niedrig stellen und eine weitere Minute köcheln lassen.",
-      "timerMinutes": 1
+      "timerMinutes": 1,
+      "ingredients": [
+        {
+          "ingredient": 2,
+          "share": 0.6667
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
       "text": "Marinade abkühlen lassen und währenddessen die Eier schälen. Eier vorsichtig in einen kleinen Gefrierbeutel geben, die abgekühlte Marinade dazugeben und so viel Luft wie möglich entweichen lassen. Beutel verschließen und die Eier im Kühlschrank ziehen lassen."
     },
     {
       "text": "Für die Sesampaste die Sesamkerne anrösten und cremig zerkleinern.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Für die Würzpaste 4 EL Sesampaste mit Misopaste, 2 EL Sojasoße, Reisessig, Chiliöl, Gochujang, Knoblauch und Ingwer mischen. In einem Topf kurz anbraten, mit Hühnerbrühe und Hafermilch ablöschen, salzen und aufkochen lassen.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2,
+          "share": 0.3333
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Den Pak Choi blanchieren.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
       "text": "Die Mie-Nudeln nach Packungsanleitung kochen. Die Lauchzwiebeln in Ringe schneiden.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 16
+        }
+      ]
     },
     {
       "text": "Das Steak kurz scharf anbraten, ruhen lassen und dann in Streifen schneiden.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 17
+        }
+      ]
     },
     {
       "text": "Die Nudeln auf Schüsseln verteilen, die Brühe darübergießen und mit Pak Choi, Lauchzwiebeln, halbierten Ramen-Eiern und Steakstreifen toppen."

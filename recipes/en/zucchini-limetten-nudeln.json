@@ -1,6 +1,6 @@
 {
   "id": "zucchini-limetten-nudeln",
-  "version": 1,
+  "version": 2,
   "title": "Courgette Lime Pasta",
   "summary": "Fresh pasta with courgette in a mildly spicy coconut and lime sauce.",
   "emoji": "🍋",
@@ -126,26 +126,68 @@
   ],
   "steps": [
     {
-      "text": "Peel the garlic and chop it finely together with the courgette and chilli."
+      "text": "Peel the garlic and chop it finely together with the courgette and chilli.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Heat the olive oil in a pan and gently fry the garlic.",
-      "timerMinutes": 1
+      "timerMinutes": 1,
+      "ingredients": [
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Bring a pot of water to the boil and cook the pasta according to the package.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Add the courgette to the pan and season with turmeric, salt and cayenne pepper.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
-      "text": "Drain the pasta and add it to the pan with the coconut milk and chilli."
+      "text": "Drain the pasta and add it to the pan with the coconut milk and chilli.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Add the zest and juice of one lime and let everything simmer briefly. The second lime is for anyone who really loves lime.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     }
   ]
 }

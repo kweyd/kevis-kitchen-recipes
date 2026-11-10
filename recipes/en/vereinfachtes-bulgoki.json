@@ -1,6 +1,6 @@
 {
   "id": "vereinfachtes-bulgoki",
-  "version": 1,
+  "version": 2,
   "title": "Simple Bulgogi",
   "summary": "Korean-inspired beef in a sweet and savoury pear-soy marinade with mushrooms and rice.",
   "emoji": "🥩",
@@ -82,7 +82,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -92,7 +93,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -192,10 +194,47 @@
   ],
   "steps": [
     {
-      "text": "Cut the beef into thin strips about 2 cm long and put them in a bowl."
+      "text": "Cut the beef into thin strips about 2 cm long and put them in a bowl.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "For the marinade, finely chop and mix the sugar, garlic, pear, pepper, one carrot, soy sauce, chili, one spring onion and one onion."
+      "text": "For the marinade, finely chop and mix the sugar, garlic, pear, pepper, one carrot, soy sauce, chili, one spring onion and one onion.",
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 5,
+          "share": 0.5
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 2,
+          "share": 0.5
+        },
+        {
+          "ingredient": 1,
+          "share": 0.5
+        }
+      ]
     },
     {
       "text": "Add the marinade to the meat and mix everything well. Cover the bowl and refrigerate for at least 30 minutes.",
@@ -203,17 +242,49 @@
     },
     {
       "text": "Cook the rice.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
-      "text": "Chop the mushrooms and the remaining carrot, onion and spring onion."
+      "text": "Chop the mushrooms and the remaining carrot, onion and spring onion.",
+      "ingredients": [
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 5,
+          "share": 0.5
+        },
+        {
+          "ingredient": 1,
+          "share": 0.5
+        },
+        {
+          "ingredient": 2,
+          "share": 0.5
+        }
+      ]
     },
     {
       "text": "Heat oil in a pan and fry the mushrooms, carrot and onion. Shortly after, add the meat with the marinade and sear it briefly over high heat.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
-      "text": "When serving, sprinkle the spring onion and sesame seeds over the dish."
+      "text": "When serving, sprinkle the spring onion and sesame seeds over the dish.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        }
+      ]
     }
   ]
 }

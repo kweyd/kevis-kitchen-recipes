@@ -1,6 +1,6 @@
 {
   "id": "gebratene-asia-nudeln-mit-tofu",
-  "version": 1,
+  "version": 2,
   "title": "Asian Fried Noodles with Tofu",
   "summary": "Sweet and spicy mie noodles with crispy air-fryer tofu and sesame.",
   "emoji": "🍜",
@@ -142,7 +142,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -152,7 +153,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -182,7 +184,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ]
     },
     {
@@ -210,27 +213,73 @@
   "steps": [
     {
       "text": "Soak the noodles in a bowl of boiling water.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Press the tofu on kitchen paper, cut it into small pieces and dust with cornstarch."
+      "text": "Press the tofu on kitchen paper, cut it into small pieces and dust with cornstarch.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "Air-fry the tofu at 200 °C for 2× 5 minutes.",
       "timerMinutes": 10
     },
     {
-      "text": "Finely chop the carrots, garlic and chilies and put them in a bowl."
+      "text": "Finely chop the carrots, garlic and chilies and put them in a bowl.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Add the sesame seeds, agave syrup, peanut oil, soy sauce and rice vinegar. Mix everything and bring to the boil in a pan.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Drain the noodles and briefly fry them in another pan. Then add the sauce and tofu and toss everything together."
     },
     {
-      "text": "Slice the spring onions into rings and scatter them over the portions."
+      "text": "Slice the spring onions into rings and scatter them over the portions.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     }
   ]
 }

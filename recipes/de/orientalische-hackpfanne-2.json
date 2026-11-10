@@ -1,6 +1,6 @@
 {
   "id": "orientalische-hackpfanne-2",
-  "version": 1,
+  "version": 2,
   "title": "Orientalische Hackpfanne mit Zitronen-Schmand",
   "summary": "Würzige Hackpfanne mit Paprika, Kichererbsen und Feta, dazu ein frischer Zitronen-Schmand.",
   "emoji": "🫑",
@@ -131,7 +131,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Honig",
@@ -228,25 +230,94 @@
   ],
   "steps": [
     {
-      "text": "Zwiebel, Knoblauch und Chilischote fein hacken. Paprika in Streifen schneiden."
+      "text": "Zwiebel, Knoblauch und Chilischote fein hacken. Paprika in Streifen schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Die Zwiebel in einer Pfanne mit etwas Öl anbraten, das Hackfleisch dazugeben und krümelig braten.",
-      "timerMinutes": 6
+      "timerMinutes": 6,
+      "ingredients": [
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "2 Zehen Knoblauch, Chili und Paprika zum Hackfleisch geben. Anschließend das Tomatenmark unterrühren und mit Paprikapulver, Salz und Pfeffer abschmecken.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 4,
+          "share": 0.4
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
       "text": "75 ml Wasser dazugeben und ein paar Minuten kochen lassen.",
       "timerMinutes": 3
     },
     {
-      "text": "Die Kichererbsen und den kleingeschnittenen Feta unterheben und erwärmen lassen."
+      "text": "Die Kichererbsen und den kleingeschnittenen Feta unterheben und erwärmen lassen.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
-      "text": "Den Schmand mit dem Saft der halben Zitrone, 3 Zehen Knoblauch, Honig, Petersilie, Pfeffer und Salz vermischen und zur Hackpfanne servieren."
+      "text": "Den Schmand mit dem Saft der halben Zitrone, 3 Zehen Knoblauch, Honig, Petersilie, Pfeffer und Salz vermischen und zur Hackpfanne servieren.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 4,
+          "share": 0.6
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 15
+        }
+      ]
     }
   ]
 }

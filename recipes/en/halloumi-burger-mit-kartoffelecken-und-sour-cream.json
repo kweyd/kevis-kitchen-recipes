@@ -1,6 +1,6 @@
 {
   "id": "halloumi-burger-mit-kartoffelecken-und-sour-cream",
-  "version": 1,
+  "version": 2,
   "title": "Halloumi Burger with Potato Wedges, Sour Cream and a Virgin Mojito",
   "summary": "Crispy halloumi with avocado sauce and a fried egg in a bun, with spicy wedges and a refreshing virgin mojito.",
   "emoji": "🍔",
@@ -84,7 +84,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Lemon",
@@ -266,7 +268,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ]
     },
     {
@@ -354,34 +357,147 @@
   ],
   "steps": [
     {
-      "text": "For the burger sauce, blend the avocado with the juice of one lemon, 3 garlic cloves, the chili, 1 tbsp olive oil and a little pepper and salt, then let it rest in the fridge."
+      "text": "For the burger sauce, blend the avocado with the juice of one lemon, 3 garlic cloves, the chili, 1 tbsp olive oil and a little pepper and salt, then let it rest in the fridge.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3,
+          "share": 0.6667
+        },
+        {
+          "ingredient": 5,
+          "share": 0.75
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 18
+        }
+      ]
     },
     {
-      "text": "Wash the potatoes and cut them into wedges. Toss them well in a large bowl with oil, paprika, chili powder, pepper and salt and let them marinate."
+      "text": "Wash the potatoes and cut them into wedges. Toss them well in a large bowl with oil, paprika, chili powder, pepper and salt and let them marinate.",
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 18
+        }
+      ]
     },
     {
       "text": "Bake the wedges in the oven at 200 °C for 30 minutes, turning them occasionally.",
       "timerMinutes": 30
     },
     {
-      "text": "For the sour cream, stir the crème fraîche with the juice of half a lemon, the white balsamic, one pressed garlic clove, the finely sliced spring onion, and pepper and salt."
+      "text": "For the sour cream, stir the crème fraîche with the juice of half a lemon, the white balsamic, one pressed garlic clove, the finely sliced spring onion, and pepper and salt.",
+      "ingredients": [
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 3,
+          "share": 0.3333
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 5,
+          "share": 0.25
+        },
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 18
+        }
+      ]
     },
     {
       "text": "Cut the halloumi into 4 equal pieces and cook them in the air fryer at 200 °C for 12 minutes per side.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "Meanwhile, butter the burger buns and toast them in a pan. Fry the 4 eggs sunny side up in another pan.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
-      "text": "Spread a generous amount of burger sauce on the bottom bun and top with rocket. Add the halloumi, then the egg and the bun lid."
+      "text": "Spread a generous amount of burger sauce on the bottom bun and top with rocket. Add the halloumi, then the egg and the bun lid.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "For each virgin mojito, quarter a lime. Squeeze 2 quarters into the glass and add the other 2 quarters whole. Add 1 tsp brown sugar and 2 sprigs of mint and press lightly."
+      "text": "For each virgin mojito, quarter a lime. Squeeze 2 quarters into the glass and add the other 2 quarters whole. Add 1 tsp brown sugar and 2 sprigs of mint and press lightly.",
+      "ingredients": [
+        {
+          "ingredient": 23
+        },
+        {
+          "ingredient": 22
+        },
+        {
+          "ingredient": 21
+        }
+      ]
     },
     {
-      "text": "Pour in 200 ml ginger ale and 100 ml sparkling water and fill the rest of the glass with ice."
+      "text": "Pour in 200 ml ginger ale and 100 ml sparkling water and fill the rest of the glass with ice.",
+      "ingredients": [
+        {
+          "ingredient": 19
+        },
+        {
+          "ingredient": 20
+        },
+        {
+          "ingredient": 24
+        }
+      ]
     }
   ]
 }

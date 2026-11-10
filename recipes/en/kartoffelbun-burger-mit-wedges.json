@@ -1,6 +1,6 @@
 {
   "id": "kartoffelbun-burger-mit-wedges",
-  "version": 1,
+  "version": 2,
   "title": "Potato Bun Burger with Wedges",
   "summary": "A double bacon cheeseburger between buns made from potatoes, with spicy potato wedges on the side.",
   "emoji": "🍔",
@@ -48,7 +48,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Balsamic vinegar",
@@ -58,7 +60,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -256,7 +259,9 @@
       "pantry": false,
       "shelfLifeDays": 7,
       "diet": "meat",
-      "allergens": [],
+      "allergens": [
+        "histamine"
+      ],
       "alternatives": [
         {
           "name": "Smoked tofu",
@@ -265,7 +270,8 @@
           "category": "dairy",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ],
           "shelfLifeDays": 14
         }
@@ -280,7 +286,8 @@
       "shelfLifeDays": 14,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -301,7 +308,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Red onion",
@@ -333,36 +342,130 @@
   "steps": [
     {
       "text": "For the buns, peel the potatoes and boil them for 25 minutes.",
-      "timerMinutes": 25
+      "timerMinutes": 25,
+      "ingredients": [
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
-      "text": "Drain the water, then add the eggs, nutmeg, pepper and salt and blend everything with a hand blender."
+      "text": "Drain the water, then add the eggs, nutmeg, pepper and salt and blend everything with a hand blender.",
+      "ingredients": [
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 22
+        },
+        {
+          "ingredient": 23
+        }
+      ]
     },
     {
       "text": "Once the mixture has cooled, shape 4 flat bun halves and air-fry them at 160 °C for 20 minutes on each side.",
       "timerMinutes": 20
     },
     {
-      "text": "For the burger sauce, finely chop the gherkins and chilli and mix with the mayonnaise, tomato paste, balsamic vinegar, honey, oregano, pepper and salt."
+      "text": "For the burger sauce, finely chop the gherkins and chilli and mix with the mayonnaise, tomato paste, balsamic vinegar, honey, oregano, pepper and salt.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 22
+        },
+        {
+          "ingredient": 23
+        }
+      ]
     },
     {
       "text": "For the wedges, wash the potatoes, cut them into quarters and put them in a bowl. Add the oil and spices and air-fry at 200 °C for 20 minutes, turning halfway through.",
-      "timerMinutes": 20
+      "timerMinutes": 20,
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
-      "text": "Wash the lettuce and separate the leaves from the stalk. Peel the onion and cut into rings. Slice the tomato."
+      "text": "Wash the lettuce and separate the leaves from the stalk. Peel the onion and cut into rings. Slice the tomato.",
+      "ingredients": [
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 21
+        },
+        {
+          "ingredient": 20
+        }
+      ]
     },
     {
       "text": "Fry the bacon in a pan until crisp, then lay it on kitchen paper.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 18
+        }
+      ]
     },
     {
       "text": "Shape the mince into four equal patties and put them in the pan with the bacon fat. Turn after 3–4 minutes.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 17
+        }
+      ]
     },
     {
       "text": "Finally, top the patties with cheddar and cover the pan with a lid so the cheese melts.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 19
+        }
+      ]
     },
     {
       "text": "Spread the sauce on the bottom bun halves and add lettuce, then stack 2 patties and the bacon on each. Top with onion rings and tomato slices and finish with the other bun half."

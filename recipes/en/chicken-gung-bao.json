@@ -1,6 +1,6 @@
 {
   "id": "chicken-gung-bao",
-  "version": 1,
+  "version": 2,
   "title": "Kung Pao Chicken",
   "summary": "Chicken with pak choi and bean sprouts in a savoury soy sauce, served with basmati rice and peanuts.",
   "emoji": "🥜",
@@ -112,7 +112,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -144,7 +145,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "peanuts"
+        "peanuts",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -174,7 +176,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -196,7 +199,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -206,7 +210,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -267,18 +272,56 @@
   ],
   "steps": [
     {
-      "text": "Peel and finely chop the onion, garlic and ginger. Wash and chop the spring onions and pak choi."
+      "text": "Peel and finely chop the onion, garlic and ginger. Wash and chop the spring onions and pak choi.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
-      "text": "Rinse the sprouts and cut the chicken into strips."
+      "text": "Rinse the sprouts and cut the chicken into strips.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Rinse and cook the rice.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Heat oil in a pan and fry the chicken. Deglaze with the white wine.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Add the garlic, onion and ginger to the pan and fry.",
@@ -286,14 +329,41 @@
     },
     {
       "text": "Add the pak choi, spring onions and sprouts. Season with pepper and salt.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 15
+        }
+      ]
     },
     {
       "text": "Stir together the stock, soy sauce, vinegar and cornflour, pour into the pan and bring everything to the boil.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Serve with the peanuts and rice."
+      "text": "Serve with the peanuts and rice.",
+      "ingredients": [
+        {
+          "ingredient": 9
+        }
+      ]
     }
   ]
 }

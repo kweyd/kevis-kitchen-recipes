@@ -1,6 +1,6 @@
 {
   "id": "pasta-mit-zitronenschnitzel",
-  "version": 1,
+  "version": 2,
   "title": "Pasta with Lemon Chicken Schnitzel",
   "summary": "Tender chicken escalopes in a creamy lemon and garlic sauce with tagliatelle and pumpkin seeds.",
   "emoji": "🍋",
@@ -260,30 +260,90 @@
   ],
   "steps": [
     {
-      "text": "Put a little olive oil in a bowl. Peel the garlic and press it into the bowl. Add the zest of one lemon and the juice of 1.5 lemons along with 25 ml milk, salt and pepper."
+      "text": "Put a little olive oil in a bowl. Peel the garlic and press it into the bowl. Add the zest of one lemon and the juice of 1.5 lemons along with 25 ml milk, salt and pepper.",
+      "ingredients": [
+        {
+          "ingredient": 8,
+          "share": 0.25
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 4,
+          "share": 0.1
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "Cut the chicken breast into thin escalopes, marinate them in the bowl and leave briefly.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Cook the pasta.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Meanwhile, heat oil in a pan and sear the escalopes on both sides over high heat. Then take them out of the pan.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 8,
+          "share": 0.75
+        }
+      ]
     },
     {
       "text": "Melt the butter in the pan and cook the flour in it briefly.",
-      "timerMinutes": 1
+      "timerMinutes": 1,
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Add the remaining marinade and milk to the pan and stir in the stock. Bring to the boil, then return the escalopes and simmer for 10 minutes.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 4,
+          "share": 0.9
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Divide the pasta, escalopes and sauce between the plates and sprinkle with pumpkin seeds."
+      "text": "Divide the pasta, escalopes and sauce between the plates and sprinkle with pumpkin seeds.",
+      "ingredients": [
+        {
+          "ingredient": 9
+        }
+      ]
     }
   ]
 }

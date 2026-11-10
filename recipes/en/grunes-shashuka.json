@@ -1,6 +1,6 @@
 {
   "id": "grunes-shashuka",
-  "version": 1,
+  "version": 2,
   "title": "Green Shakshuka",
   "summary": "Eggs baked in spinach, peas and white beans with feta, plus crispy garlic ciabatta.",
   "emoji": "🍳",
@@ -26,7 +26,9 @@
       "category": "frozen",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Peas",
@@ -237,28 +239,98 @@
   ],
   "steps": [
     {
-      "text": "Peel and finely chop the onion and garlic."
+      "text": "Peel and finely chop the onion and garlic.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 5,
+          "share": 0.8
+        }
+      ]
     },
     {
       "text": "Heat oil in a pan and stir the paprika into the oil. Fry the onion and garlic in it.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Now add the frozen spinach and peas to the pan and let them thaw.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Slice the spring onions and add them to the pan with the white beans. Season with parsley, pepper and salt."
+      "text": "Slice the spring onions and add them to the pan with the white beans. Season with parsley, pepper and salt.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
-      "text": "Make 4 wells in the pan and crack an egg into each."
+      "text": "Make 4 wells in the pan and crack an egg into each.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Crumble the feta over the top, cover the pan with a lid and cook over medium heat for 10 minutes.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
-      "text": "Meanwhile, toast the ciabatta and top it with butter, garlic, salt and chives."
+      "text": "Meanwhile, toast the ciabatta and top it with butter, garlic, salt and chives.",
+      "ingredients": [
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 5,
+          "share": 0.2
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 15
+        }
+      ]
     }
   ]
 }

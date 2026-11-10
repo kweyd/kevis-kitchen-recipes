@@ -1,6 +1,6 @@
 {
   "id": "halloumi-reis-salat",
-  "version": 1,
+  "version": 2,
   "title": "Halloumi Rice Salad",
   "summary": "Crispy air-fried halloumi on stock-cooked rice and fresh salad with a honey mustard dressing.",
   "emoji": "🥗",
@@ -164,17 +164,55 @@
   "steps": [
     {
       "text": "Cook the rice with the vegetable stock in a pot according to the package instructions.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Cut the halloumi into small pieces and crisp them in the air fryer at 200 °C for 2× 9 minutes, turning once in between.",
-      "timerMinutes": 18
+      "timerMinutes": 18,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Wash the salad and let it drain."
+      "text": "Wash the salad and let it drain.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "For the dressing, mix the juice of one lemon with the honey, mustard, olive oil, pepper and salt."
+      "text": "For the dressing, mix the juice of one lemon with the honey, mustard, olive oil, pepper and salt.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Toss the salad with the dressing."

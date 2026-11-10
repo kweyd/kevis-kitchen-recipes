@@ -1,6 +1,6 @@
 {
   "id": "kartoffel-flammkuchen",
-  "version": 1,
+  "version": 2,
   "title": "Kartoffel-Flammkuchen",
   "summary": "Hauchdünner Flammkuchen mit Kräuterfrischkäse, Kartoffelscheiben, Rosmarin und Parmesan.",
   "emoji": "🥔",
@@ -82,7 +82,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -91,7 +92,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -154,22 +157,59 @@
   ],
   "steps": [
     {
-      "text": "Den Ofen auf 220 °C vorheizen. Kartoffeln schälen und in sehr dünne Scheiben schneiden."
+      "text": "Den Ofen auf 220 °C vorheizen. Kartoffeln schälen und in sehr dünne Scheiben schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Den Rosmarin fein hacken."
+      "text": "Den Rosmarin fein hacken.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Mehl mit 100 ml Wasser, Olivenöl und etwas Salz gründlich verkneten."
+      "text": "Mehl mit 100 ml Wasser, Olivenöl und etwas Salz gründlich verkneten.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Den Teig ausrollen und auf ein Backblech mit Backpapier legen."
     },
     {
-      "text": "Frischkäse mit italienischen Kräutern auf dem Teig verteilen."
+      "text": "Frischkäse mit italienischen Kräutern auf dem Teig verteilen.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
-      "text": "Die Kartoffelscheiben leicht überlappend darauf verteilen. Rosmarin und Parmesan darüberstreuen und mit Pfeffer würzen."
+      "text": "Die Kartoffelscheiben leicht überlappend darauf verteilen. Rosmarin und Parmesan darüberstreuen und mit Pfeffer würzen.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Im Ofen bei 220 °C 14 Minuten backen.",

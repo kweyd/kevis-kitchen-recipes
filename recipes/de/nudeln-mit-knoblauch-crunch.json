@@ -1,6 +1,6 @@
 {
   "id": "nudeln-mit-knoblauch-crunch",
-  "version": 1,
+  "version": 2,
   "title": "Nudeln mit Knoblauch-Crunch",
   "summary": "Cremige Tomaten-Sahne-Pasta mit knusprigem Topping aus Knoblauch, Paniermehl und Sesam.",
   "emoji": "🧄",
@@ -49,7 +49,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -58,7 +59,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -146,7 +149,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Sesam",
@@ -230,7 +235,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Petersilie (frisch)",
@@ -261,26 +268,80 @@
   ],
   "steps": [
     {
-      "text": "Butter in einer Pfanne schmelzen lassen. Den Knoblauch schälen und in die Pfanne raspeln."
+      "text": "Butter in einer Pfanne schmelzen lassen. Den Knoblauch schälen und in die Pfanne raspeln.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Paniermehl und Sesam dazugeben und alles goldbraun werden lassen. Danach zur Seite stellen.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Nudeln kochen.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Die Zwiebel schälen und klein schneiden. In einer großen Pfanne das Olivenöl erhitzen und die Zwiebel anbraten.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "Tomatenmark dazugeben und etwas anrösten lassen. Die passierten Tomaten zusammen mit der Sahne in die Pfanne geben und mit Salz und Pfeffer würzen.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
-      "text": "Etwas Nudelwasser in die Pfanne geben und die Nudeln abgießen. Anschließend die Nudeln in die Pfanne geben, den Parmesan darüberreiben und die gehackte Petersilie dazugeben. Alles umrühren und kurz in der Pfanne lassen."
+      "text": "Etwas Nudelwasser in die Pfanne geben und die Nudeln abgießen. Anschließend die Nudeln in die Pfanne geben, den Parmesan darüberreiben und die gehackte Petersilie dazugeben. Alles umrühren und kurz in der Pfanne lassen.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "Servieren und den abgekühlten Knoblauch-Crunch über die Portionen verteilen."

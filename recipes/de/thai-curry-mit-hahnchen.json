@@ -1,6 +1,6 @@
 {
   "id": "thai-curry-mit-hahnchen",
-  "version": 1,
+  "version": 2,
   "title": "Thai-Curry mit Hähnchen",
   "summary": "Rotes Kokos-Curry mit Hähnchen, buntem Gemüse und Pak Choi, dazu Reis und Erdnüsse.",
   "emoji": "🍛",
@@ -152,7 +152,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "peanuts"
+        "peanuts",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -221,34 +222,111 @@
   ],
   "steps": [
     {
-      "text": "Karotte schälen und zusammen mit Paprika, Zucchini und Champignons klein schneiden."
+      "text": "Karotte schälen und zusammen mit Paprika, Zucchini und Champignons klein schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Hähnchen klein schneiden, mit etwas Öl, Pfeffer und Salz marinieren und für 2x 8 Minuten bei 200 °C in den Airfryer geben.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 12,
+          "share": 0.25
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 16
+        }
+      ]
     },
     {
       "text": "Reis waschen und kochen.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "Öl in einer Pfanne erhitzen und das klein geschnittene Gemüse anbraten. Den Rohrzucker dazugeben und 2 Minuten anschmoren.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 12,
+          "share": 0.75
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Dann die Currypaste und Kurkuma (optional auch die gehackte Chili) dazugeben und ein paar weitere Minuten braten lassen.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
       "text": "Mit Kokosmilch und dem Saft einer Limette ablöschen und fünf Minuten köcheln lassen.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 4,
+          "share": 0.5
+        }
+      ]
     },
     {
       "text": "Das Fleisch dazugeben und etwas ziehen lassen. Kurz vor Schluss den Pak Choi unterheben.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Mit Reis servieren und mit den Erdnüssen garnieren. Die 2. Limette nutzen, falls man mehr Limettenaroma haben will."
+      "text": "Mit Reis servieren und mit den Erdnüssen garnieren. Die 2. Limette nutzen, falls man mehr Limettenaroma haben will.",
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 4,
+          "share": 0.5
+        }
+      ]
     }
   ]
 }

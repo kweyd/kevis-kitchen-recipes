@@ -1,6 +1,6 @@
 {
   "id": "thunfisch-spinat-pasta",
-  "version": 1,
+  "version": 2,
   "title": "Thunfisch-Spinat-Pasta",
   "summary": "Bandnudeln mit Thunfisch, Spinat und Zitrone, getoppt mit zartem Mozzarella.",
   "emoji": "🐟",
@@ -60,7 +60,8 @@
       "note": "aus der Dose, abgetropft",
       "diet": "fish",
       "allergens": [
-        "fish"
+        "fish",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -80,7 +81,9 @@
       "category": "frozen",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Zitrone",
@@ -173,30 +176,74 @@
   "steps": [
     {
       "text": "Die Nudeln kochen.",
-      "timerMinutes": 9
+      "timerMinutes": 9,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Zwiebel und Knoblauch schälen und klein hacken."
+      "text": "Zwiebel und Knoblauch schälen und klein hacken.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
       "text": "Eine Pfanne mit Öl erhitzen und die Zwiebel anbraten.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Wenn die Zwiebel angebraten ist, den Spinat und den Knoblauch dazugeben.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
-      "text": "Wenn der Spinat aufgetaut ist, einen Löffel Nudelwasser in die Pfanne geben und den Thunfisch unterheben."
+      "text": "Wenn der Spinat aufgetaut ist, einen Löffel Nudelwasser in die Pfanne geben und den Thunfisch unterheben.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Die Temperatur etwas herunterstellen und Abrieb und Saft der Zitrone in die Pfanne geben. Mit Pfeffer und Salz abschmecken."
+      "text": "Die Temperatur etwas herunterstellen und Abrieb und Saft der Zitrone in die Pfanne geben. Mit Pfeffer und Salz abschmecken.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "Die Nudeln abgießen und in die Pfanne einrühren."
     },
     {
-      "text": "Anschließend auf Teller verteilen und den Mozzarella in Stücken über die Portionen verteilen."
+      "text": "Anschließend auf Teller verteilen und den Mozzarella in Stücken über die Portionen verteilen.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "chili-con-carne",
-  "version": 1,
+  "version": 2,
   "title": "Chili con Carne",
   "summary": "Hearty chili with minced meat, beans, corn and a little chocolate for depth.",
   "emoji": "🌶️",
@@ -114,7 +114,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Passata",
@@ -123,7 +125,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Kidney beans",
@@ -152,7 +156,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Sweet paprika powder",
@@ -183,7 +189,8 @@
       "allergens": [
         "milk",
         "lactose",
-        "soy"
+        "soy",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -192,7 +199,9 @@
           "unit": "piece",
           "category": "snacks",
           "diet": "plant",
-          "allergens": []
+          "allergens": [
+            "histamine"
+          ]
         }
       ]
     },
@@ -276,26 +285,103 @@
   ],
   "steps": [
     {
-      "text": "Peel and finely chop the onion and garlic. Chop the bell pepper and chili."
+      "text": "Peel and finely chop the onion and garlic. Chop the bell pepper and chili.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Heat oil in a pot and brown the mince over high heat. Deglaze with a splash of beef stock every now and then until half of the stock is used up – let it evaporate each time.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 18
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5,
+          "share": 0.5
+        }
+      ]
     },
     {
       "text": "Then add the onion and garlic. Once the onion is translucent, add the paprika powder and tomato paste and fry briefly.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Now add the remaining spices, the bell pepper, chili, passata, chopped tomatoes and the rest of the stock and let everything cook for 30 minutes.",
-      "timerMinutes": 30
+      "timerMinutes": 30,
+      "ingredients": [
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5,
+          "share": 0.5
+        }
+      ]
     },
     {
       "text": "Then add the corn, kidney beans and chocolate to the pot and simmer for another 10 minutes.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
-      "text": "Season with pepper and salt and serve each portion with a tablespoon of crème fraîche."
+      "text": "Season with pepper and salt and serve each portion with a tablespoon of crème fraîche.",
+      "ingredients": [
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 19
+        }
+      ]
     }
   ]
 }

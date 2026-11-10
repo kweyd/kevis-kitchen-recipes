@@ -1,6 +1,6 @@
 {
   "id": "creme-brulee",
-  "version": 2,
+  "version": 3,
   "title": "Crème brûlée",
   "summary": "Cremiger Vanillepudding mit einem Hauch Zitrone unter knackiger Karamellkruste.",
   "emoji": "🍮",
@@ -156,10 +156,32 @@
       "text": "Den Backofen auf 150 °C vorheizen."
     },
     {
-      "text": "Die Sahne mit dem Eigelb und der Milch verquirlen."
+      "text": "Die Sahne mit dem Eigelb und der Milch verquirlen.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Anschließend das Vanillemark, den Zucker und den Zitronenabrieb dazugeben und alles wieder mischen."
+      "text": "Anschließend das Vanillemark, den Zucker und den Zitronenabrieb dazugeben und alles wieder mischen.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Die Flüssigkeit in die Förmchen gießen und in einer Fettpfanne, die mit kochendem Wasser gefüllt ist, 55 Minuten bei 150 °C in den vorgeheizten Ofen stellen.",
@@ -169,7 +191,12 @@
       "text": "Die Förmchen über Nacht in den Kühlschrank stellen."
     },
     {
-      "text": "Erst kurz vor dem Servieren jedes Förmchen gleichmäßig mit je einem Esslöffel Zucker bestreuen und den Zucker mit einem Brenner karamellisieren."
+      "text": "Erst kurz vor dem Servieren jedes Förmchen gleichmäßig mit je einem Esslöffel Zucker bestreuen und den Zucker mit einem Brenner karamellisieren.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        }
+      ]
     }
   ]
 }

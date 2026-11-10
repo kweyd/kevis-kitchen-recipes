@@ -1,6 +1,6 @@
 {
   "id": "mie-nudelsalt",
-  "version": 1,
+  "version": 2,
   "title": "Mie-Nudelsalat",
   "summary": "Mie-Nudeln in Cashew-Soja-Soße mit Räuchertofu, Karotten und knackigem Rotkohl.",
   "emoji": "🥢",
@@ -28,7 +28,8 @@
       "shelfLifeDays": 14,
       "diet": "plant",
       "allergens": [
-        "soy"
+        "soy",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -103,7 +104,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "nuts"
+        "nuts",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -113,7 +115,8 @@
           "category": "breakfast",
           "diet": "plant",
           "allergens": [
-            "peanuts"
+            "peanuts",
+            "histamine"
           ]
         },
         {
@@ -186,7 +189,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -196,7 +200,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -239,20 +244,64 @@
   "steps": [
     {
       "text": "Die Mie-Nudeln mit kochendem Wasser übergießen und ziehen lassen.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Knoblauch, Ingwer und Zwiebel schälen und klein hacken. Die Karotten schälen und in mundgerechte Scheiben schneiden, Rotkohl und Lauchzwiebel in feine Streifen schneiden. Den Tofu würfeln."
+      "text": "Knoblauch, Ingwer und Zwiebel schälen und klein hacken. Die Karotten schälen und in mundgerechte Scheiben schneiden, Rotkohl und Lauchzwiebel in feine Streifen schneiden. Den Tofu würfeln.",
+      "ingredients": [
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "In einer großen Schüssel die Sojasoße mit dem Cashewmus und dem Agavendicksaft zu einer Soße verrühren."
+      "text": "In einer großen Schüssel die Sojasoße mit dem Cashewmus und dem Agavendicksaft zu einer Soße verrühren.",
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Die Nudeln abgießen und unter die Soße heben."
     },
     {
       "text": "Öl in einer Pfanne erhitzen und die Zwiebel anbraten. Anschließend Ingwer und Knoblauch dazugeben.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
       "text": "Wenn der Knoblauch leicht angebraten ist, die Karotten und den Tofu dazugeben.",
@@ -263,7 +312,15 @@
       "timerMinutes": 2
     },
     {
-      "text": "Zum Servieren den Pfanneninhalt auf die Teller verteilen und Sesam, Lauchzwiebel, Rotkohl und Chiliflocken darüberstreuen."
+      "text": "Zum Servieren den Pfanneninhalt auf die Teller verteilen und Sesam, Lauchzwiebel, Rotkohl und Chiliflocken darüberstreuen.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     }
   ]
 }

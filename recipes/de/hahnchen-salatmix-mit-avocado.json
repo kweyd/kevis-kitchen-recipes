@@ -1,6 +1,6 @@
 {
   "id": "hahnchen-salatmix-mit-avocado",
-  "version": 1,
+  "version": 2,
   "title": "Hähnchen-Salatmix mit Avocado",
   "summary": "Knackiger Salat mit Hähnchenstreifen und einem cremigen Avocado-Knoblauch-Dressing.",
   "emoji": "🥗",
@@ -44,7 +44,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Zitrone",
@@ -81,7 +83,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Karotte",
@@ -172,19 +176,71 @@
   "steps": [
     {
       "text": "Hähnchenbrust in Streifen schneiden und für 2x 10 Minuten bei 200 °C in den Airfryer geben.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Salat waschen und kräftig schleudern."
+      "text": "Salat waschen und kräftig schleudern.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Die Zwiebel schälen und in Ringe schneiden. Gurke und Tomaten in Stücke schneiden."
+      "text": "Die Zwiebel schälen und in Ringe schneiden. Gurke und Tomaten in Stücke schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
-      "text": "Mais abtropfen lassen, Karotte schälen und hobeln und alles mit dem Salat in eine Schüssel geben."
+      "text": "Mais abtropfen lassen, Karotte schälen und hobeln und alles mit dem Salat in eine Schüssel geben.",
+      "ingredients": [
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Für das Dressing Schale und Kern der Avocado entfernen und den Knoblauch schälen. Alles mit dem Saft einer Zitrone, der Chili, 2 EL Olivenöl und etwas Pfeffer und Salz pürieren."
+      "text": "Für das Dressing Schale und Kern der Avocado entfernen und den Knoblauch schälen. Alles mit dem Saft einer Zitrone, der Chili, 2 EL Olivenöl und etwas Pfeffer und Salz pürieren.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
       "text": "Dressing mit dem Hähnchen in die Schüssel geben und umrühren."

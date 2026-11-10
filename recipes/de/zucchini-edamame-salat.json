@@ -1,6 +1,6 @@
 {
   "id": "zucchini-edamame-salat",
-  "version": 1,
+  "version": 2,
   "title": "Zucchini-Edamame-Salat",
   "summary": "Feldsalat mit Edamame und Pistazien, Orangen-Dressing und warm gebratener Zucchini mit Champignons.",
   "emoji": "🥗",
@@ -127,7 +127,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -137,7 +138,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -167,7 +169,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -218,20 +221,74 @@
   ],
   "steps": [
     {
-      "text": "Zucchini waschen, halbieren und in Scheiben schneiden. Knoblauch schälen und klein hacken."
+      "text": "Zucchini waschen, halbieren und in Scheiben schneiden. Knoblauch schälen und klein hacken.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
-      "text": "Salat und Pilze waschen und die Pilze in Scheiben schneiden."
+      "text": "Salat und Pilze waschen und die Pilze in Scheiben schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
       "text": "2 EL Olivenöl in einer Pfanne erhitzen und Knoblauch, Zucchini und Champignons in die Pfanne geben. Die Sojasauce dazugeben und etwas anbraten lassen.",
-      "timerMinutes": 6
+      "timerMinutes": 6,
+      "ingredients": [
+        {
+          "ingredient": 8,
+          "share": 0.6667
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Den Salat mit Edamame und Pistazien in eine Schüssel geben."
+      "text": "Den Salat mit Edamame und Pistazien in eine Schüssel geben.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
-      "text": "Für das Dressing den Saft der Orange mit 1 EL Olivenöl, dem Balsamico-Essig, Honig, Pfeffer und Salz mischen. Das Dressing in die Schüssel geben und alles verrühren."
+      "text": "Für das Dressing den Saft der Orange mit 1 EL Olivenöl, dem Balsamico-Essig, Honig, Pfeffer und Salz mischen. Das Dressing in die Schüssel geben und alles verrühren.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 8,
+          "share": 0.3333
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
       "text": "Den Salat auf die Teller verteilen und den Inhalt der Pfanne darübergeben."

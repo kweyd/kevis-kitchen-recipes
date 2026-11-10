@@ -1,6 +1,6 @@
 {
   "id": "orange-chicken-mit-reis",
-  "version": 1,
+  "version": 2,
   "title": "Orange Chicken mit Reis",
   "summary": "Knusprig panierte Hähnchenstücke aus dem Airfryer in fruchtiger Orangen-Soja-Soße auf Reis.",
   "emoji": "🍊",
@@ -103,7 +103,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -113,7 +114,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -143,7 +145,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ]
     },
     {
@@ -303,13 +306,55 @@
   "steps": [
     {
       "text": "Den Reis kochen.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Für die Soße Abrieb und Saft der Orange mit Sojasoße, Wasser, Reisessig, Zucker, Sesamöl und Speisestärke in eine Schüssel geben und umrühren."
+      "text": "Für die Soße Abrieb und Saft der Orange mit Sojasoße, Wasser, Reisessig, Zucker, Sesamöl und Speisestärke in eine Schüssel geben und umrühren.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
-      "text": "Die Hähnchenbrust würfeln, mit Mehl bestreuen und in Milch und Paniermehl panieren."
+      "text": "Die Hähnchenbrust würfeln, mit Mehl bestreuen und in Milch und Paniermehl panieren.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
       "text": "Die panierten Hähnchenstücke 16 Minuten bei 200 °C in den Airfryer geben. Nach 8 Minuten wenden.",
@@ -317,17 +362,41 @@
     },
     {
       "text": "Knoblauchzehe und Schalotte schälen, klein schneiden und in einem Topf mit Öl anbraten.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 17
+        }
+      ]
     },
     {
       "text": "Die Soße aus der Schüssel dazugeben und aufkochen lassen, bis sie etwas dicker wird. Mit Pfeffer und Salz abschmecken.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 16
+        }
+      ]
     },
     {
       "text": "Am Ende die Hähnchenstücke kurz unter die Soße heben."
     },
     {
-      "text": "Den Reis auf die Teller geben, das Hähnchen mit Soße darauf verteilen und ein paar Lauchzwiebelstücke darüberstreuen."
+      "text": "Den Reis auf die Teller geben, das Hähnchen mit Soße darauf verteilen und ein paar Lauchzwiebelstücke darüberstreuen.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        }
+      ]
     }
   ]
 }

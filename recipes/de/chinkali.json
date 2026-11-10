@@ -1,6 +1,6 @@
 {
   "id": "chinkali",
-  "version": 1,
+  "version": 2,
   "title": "Chinkali",
   "summary": "Georgische Teigtaschen mit saftiger, würziger Hackfüllung – etwas Arbeit, aber jede Falte wert.",
   "emoji": "🥟",
@@ -191,21 +191,70 @@
   ],
   "steps": [
     {
-      "text": "Mehl, Salz, Pflanzenöl und Eigelb in eine Schüssel geben und 250 ml Wasser nach und nach beim Kneten zugeben."
+      "text": "Mehl, Salz, Pflanzenöl und Eigelb in eine Schüssel geben und 250 ml Wasser nach und nach beim Kneten zugeben.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 3,
+          "share": 0.5
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Den Teig mindestens 2 Stunden im Kühlschrank ruhen lassen.",
       "timerMinutes": 120
     },
     {
-      "text": "Für die Füllung Zwiebel, Knoblauch und Chilischoten fein würfeln, Petersilie waschen, trocken schütteln und fein hacken."
+      "text": "Für die Füllung Zwiebel, Knoblauch und Chilischoten fein würfeln, Petersilie waschen, trocken schütteln und fein hacken.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Alles mit dem Hackfleisch vermischen. Mit Salz, Pfeffer und Cayennepfeffer würzen."
+      "text": "Alles mit dem Hackfleisch vermischen. Mit Salz, Pfeffer und Cayennepfeffer würzen.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 3,
+          "share": 0.5
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Eine Messerspitze Rinderbrühepulver hinzufügen und mit ca. 2 Tassen Wasser in einer Schüssel vermengen. Ebenfalls mindestens 2 Stunden im Kühlschrank ziehen lassen.",
-      "timerMinutes": 120
+      "timerMinutes": 120,
+      "ingredients": [
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "Den Teig auf einer bemehlten Arbeitsfläche dünn ausrollen und Kreise mit ca. 10–15 cm Durchmesser ausstechen."

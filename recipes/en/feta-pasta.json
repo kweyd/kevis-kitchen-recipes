@@ -1,6 +1,6 @@
 {
   "id": "feta-pasta",
-  "version": 1,
+  "version": 2,
   "title": "Baked Feta Pasta",
   "summary": "The oven classic: feta and cherry tomatoes melt into a creamy sauce for wholegrain pasta.",
   "emoji": "🍅",
@@ -50,7 +50,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Wholegrain pasta",
@@ -122,21 +124,53 @@
       "text": "Preheat the oven to 180 °C."
     },
     {
-      "text": "Put the feta in a baking dish. Peel and finely chop the garlic and halve the cherry tomatoes."
+      "text": "Put the feta in a baking dish. Peel and finely chop the garlic and halve the cherry tomatoes.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Add both to the feta in the dish, drizzle with olive oil and bake for 20 minutes.",
-      "timerMinutes": 20
+      "timerMinutes": 20,
+      "ingredients": [
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Meanwhile bring a pot of water to the boil and cook the pasta.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Take the dish out of the oven and mash everything with a fork."
     },
     {
-      "text": "Season with salt, pepper and Italian herbs."
+      "text": "Season with salt, pepper and Italian herbs.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
       "text": "Drain the pasta and toss it with the sauce in the baking dish."

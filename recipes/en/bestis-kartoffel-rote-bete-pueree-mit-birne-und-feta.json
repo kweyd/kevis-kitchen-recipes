@@ -1,6 +1,6 @@
 {
   "id": "bestis-kartoffel-rote-bete-pueree-mit-birne-und-feta",
-  "version": 1,
+  "version": 2,
   "title": "Besti's Potato and Beetroot Mash with Pear, Caramelised Walnuts and Feta",
   "summary": "Bright pink potato and beetroot mash topped with paper-thin pear slices, feta and caramelised walnuts.",
   "emoji": "🥔",
@@ -166,7 +166,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "nuts"
+        "nuts",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -225,28 +226,81 @@
   "steps": [
     {
       "text": "Cut the potatoes into evenly sized pieces and boil them in salted water for about 20 minutes until soft.",
-      "timerMinutes": 20
+      "timerMinutes": 20,
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
-      "text": "Meanwhile, roughly break up the walnuts. Heat the sugar with 1 tsp of water in a small pan until it melts and turns light golden. Stir in the walnuts, then spread them out on baking paper and let them cool."
+      "text": "Meanwhile, roughly break up the walnuts. Heat the sugar with 1 tsp of water in a small pan until it melts and turns light golden. Stir in the walnuts, then spread them out on baking paper and let them cool.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Wash, quarter and core the pear. Cut or slice it very thinly and drizzle with lemon juice. If you like, arrange the slices later in an overlapping rose."
+      "text": "Wash, quarter and core the pear. Cut or slice it very thinly and drizzle with lemon juice. If you like, arrange the slices later in an overlapping rose.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
-      "text": "Chop the beetroot, warm it with the milk in a small pot and then purée it until smooth."
+      "text": "Chop the beetroot, warm it with the milk in a small pot and then purée it until smooth.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
-      "text": "Drain the potatoes and let them steam off briefly. Mash them with the butter or press them through a potato ricer."
+      "text": "Drain the potatoes and let them steam off briefly. Mash them with the butter or press them through a potato ricer.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Stir the warm beetroot purée into the potatoes. Season with salt, pepper and a little nutmeg. Add a splash of water if needed."
+      "text": "Stir the warm beetroot purée into the potatoes. Season with salt, pepper and a little nutmeg. Add a splash of water if needed.",
+      "ingredients": [
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "Spread the mash onto two plates and arrange the pear slices on top."
     },
     {
-      "text": "Crumble the feta over it and sprinkle with the caramelised walnuts."
+      "text": "Crumble the feta over it and sprinkle with the caramelised walnuts.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        }
+      ]
     }
   ]
 }

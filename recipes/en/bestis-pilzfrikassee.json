@@ -1,6 +1,6 @@
 {
   "id": "bestis-pilzfrikassee",
-  "version": 1,
+  "version": 2,
   "title": "Besti's Mushroom Fricassee",
   "summary": "Creamy fricassee with king oyster mushrooms, button mushrooms, carrots and peas, finished with fresh lemon and served with rice.",
   "emoji": "🍄",
@@ -341,22 +341,83 @@
   ],
   "steps": [
     {
-      "text": "Clean the mushrooms and slice them. Clean the king oyster mushrooms and tear them into medium-sized pieces."
+      "text": "Clean the mushrooms and slice them. Clean the king oyster mushrooms and tear them into medium-sized pieces.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Peel, crush and finely chop the garlic. Peel the onion and carrots and cut them into small pieces."
+      "text": "Peel, crush and finely chop the garlic. Peel the onion and carrots and cut them into small pieces.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Heat a pan. Fry the mushrooms without oil until most of the liquid they release has evaporated. Set them aside."
     },
     {
-      "text": "Briefly fry the king oyster mushrooms without oil as well. Season with paprika and cumin. Add the oil, onion and garlic and sweat until translucent. Don't let the garlic brown."
+      "text": "Briefly fry the king oyster mushrooms without oil as well. Season with paprika and cumin. Add the oil, onion and garlic and sweat until translucent. Don't let the garlic brown.",
+      "ingredients": [
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Melt the butter in a large pot. Stir in the flour and cook it briefly without letting it brown. Gradually pour in the milk and vegetable stock while stirring vigorously."
+      "text": "Melt the butter in a large pot. Stir in the flour and cook it briefly without letting it brown. Gradually pour in the milk and vegetable stock while stirring vigorously.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
-      "text": "Add the carrots, peas and all the mushrooms together with the onion and garlic. Season with nutmeg, salt, lemon zest and a little lemon juice. Stir in a little cream if you like."
+      "text": "Add the carrots, peas and all the mushrooms together with the onion and garlic. Season with nutmeg, salt, lemon zest and a little lemon juice. Stir in a little cream if you like.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 18
+        },
+        {
+          "ingredient": 19
+        }
+      ]
     },
     {
       "text": "Let the fricassee simmer over low heat for at least 30 minutes. Stir occasionally and add a little liquid if needed.",
@@ -364,13 +425,37 @@
     },
     {
       "text": "Meanwhile, cook the rice in a separate pot of lightly salted water according to the package instructions.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 20
+        },
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
-      "text": "Once the vegetables are tender and the sauce is creamy, stir the chopped parsley into the fricassee. Season with pepper, salt and lemon juice."
+      "text": "Once the vegetables are tender and the sauce is creamy, stir the chopped parsley into the fricassee. Season with pepper, salt and lemon juice.",
+      "ingredients": [
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
-      "text": "Divide the fricassee and rice into two portions and sprinkle with finely sliced spring onion greens."
+      "text": "Divide the fricassee and rice into two portions and sprinkle with finely sliced spring onion greens.",
+      "ingredients": [
+        {
+          "ingredient": 16
+        }
+      ]
     }
   ]
 }

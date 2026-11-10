@@ -1,6 +1,6 @@
 {
   "id": "nudeln-mit-pesto",
-  "version": 1,
+  "version": 2,
   "title": "Nudeln mit Pesto",
   "summary": "Selbstgemachtes Basilikumpesto mit gerösteten Pinienkernen und Zitrone – einfach und unschlagbar frisch.",
   "emoji": "🌿",
@@ -58,7 +58,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -67,7 +68,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -126,14 +129,41 @@
   "steps": [
     {
       "text": "Die Pinienkerne in einer Pfanne ohne Öl anrösten.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
-      "text": "Die Pinienkerne zusammen mit dem Zitronensaft, Olivenöl, Parmesan und Basilikum pürieren."
+      "text": "Die Pinienkerne zusammen mit dem Zitronensaft, Olivenöl, Parmesan und Basilikum pürieren.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Die Nudeln in Salzwasser kochen.",
-      "timerMinutes": 9
+      "timerMinutes": 9,
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Die Nudeln abgießen und alles mischen."

@@ -1,6 +1,6 @@
 {
   "id": "hahnchen-mit-reis-in-frischkasesosse",
-  "version": 1,
+  "version": 2,
   "title": "Chicken with Rice in Cream Cheese Sauce",
   "summary": "Bacon-wrapped chicken breast with a honey-mustard touch, served with rice and a creamy herb cheese sauce.",
   "emoji": "🍗",
@@ -64,7 +64,9 @@
       "pantry": false,
       "shelfLifeDays": 7,
       "diet": "meat",
-      "allergens": [],
+      "allergens": [
+        "histamine"
+      ],
       "alternatives": [
         {
           "name": "Smoked tofu",
@@ -73,7 +75,8 @@
           "category": "dairy",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ],
           "shelfLifeDays": 14
         }
@@ -277,14 +280,41 @@
   "steps": [
     {
       "text": "Rinse and cook the rice.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Meanwhile, chop the bell pepper. Butterfly the chicken breasts and fry them in oil for 3 minutes on each side.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
-      "text": "Take them out of the pan and brush with mustard. Wrap the bacon around the chicken and brush thinly with honey."
+      "text": "Take them out of the pan and brush with mustard. Wrap the bacon around the chicken and brush thinly with honey.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Cook the chicken with the bell pepper in the air fryer at 200 °C for 10 minutes.",
@@ -292,7 +322,24 @@
     },
     {
       "text": "For the sauce, bring the herb cream cheese to the boil with the milk, cream, vegetable stock and a little pepper.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Plate everything up together."

@@ -1,6 +1,6 @@
 {
   "id": "champignons-stroganoff-art-mit-reis",
-  "version": 1,
+  "version": 2,
   "title": "Champignon-Stroganoff-Art mit Reis",
   "summary": "Cremige Champignons in Paprika-Sahnesoße mit Spinat, dazu Möhrenreis – Stroganoff auf vegetarische Art.",
   "emoji": "🍄",
@@ -48,7 +48,9 @@
       "note": "frisch",
       "shelfLifeDays": 2,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Basmatireis",
@@ -195,7 +197,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -205,7 +208,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -275,27 +279,92 @@
   ],
   "steps": [
     {
-      "text": "Die Möhre schälen und raspeln."
+      "text": "Die Möhre schälen und raspeln.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "In einem Topf die Butter erhitzen und den Reis mit den Möhrenraspeln darin anrösten. 300 ml kochendes Wasser dazugeben und mit Deckel bei mittlerer Hitze köcheln lassen.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
-      "text": "Zwiebel und Knoblauch schälen. Den Knoblauch klein hacken und die Zwiebel in Ringe schneiden. Die Champignons in dünne Streifen schneiden."
+      "text": "Zwiebel und Knoblauch schälen. Den Knoblauch klein hacken und die Zwiebel in Ringe schneiden. Die Champignons in dünne Streifen schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "In einer Pfanne Öl erhitzen und die Zwiebeln anbraten. Anschließend Knoblauch und Champignons dazugeben.",
-      "timerMinutes": 6
+      "timerMinutes": 6,
+      "ingredients": [
+        {
+          "ingredient": 16
+        }
+      ]
     },
     {
-      "text": "Paprikapulver, Sojasoße, Kochsahne und Gemüsebrühe in die Pfanne geben."
+      "text": "Paprikapulver, Sojasoße, Kochsahne und Gemüsebrühe in die Pfanne geben.",
+      "ingredients": [
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
-      "text": "Die Speisestärke mit etwas Wasser vermischen und in die Pfanne geben."
+      "text": "Die Speisestärke mit etwas Wasser vermischen und in die Pfanne geben.",
+      "ingredients": [
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Gegen Ende den Spinat und die Petersilie hinzufügen und mit Pfeffer und Salz würzen."
+      "text": "Gegen Ende den Spinat und die Petersilie hinzufügen und mit Pfeffer und Salz würzen.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 15
+        }
+      ]
     },
     {
       "text": "Alles auf den Tellern anrichten."

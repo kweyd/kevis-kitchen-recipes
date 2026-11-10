@@ -1,6 +1,6 @@
 {
   "id": "tabouleh",
-  "version": 1,
+  "version": 2,
   "title": "Tabouleh",
   "summary": "Frischer Bulgursalat mit viel Minze, Petersilie und knackigen Granatapfelkernen.",
   "emoji": "🥗",
@@ -34,7 +34,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Bulgur",
@@ -144,20 +146,64 @@
   "steps": [
     {
       "text": "Den Bulgur mit der doppelten Menge Wasser in einem Topf kochen.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
-      "text": "Salatgurke, Tomaten, Petersilie, Minze und Zwiebel kleinschneiden und in eine Schüssel geben."
+      "text": "Salatgurke, Tomaten, Petersilie, Minze und Zwiebel kleinschneiden und in eine Schüssel geben.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Den Zitronensaft darüber auspressen und das Olivenöl dazugeben."
+      "text": "Den Zitronensaft darüber auspressen und das Olivenöl dazugeben.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
       "text": "Den Bulgur abkühlen lassen und mit in die Schüssel geben.",
       "timerMinutes": 15
     },
     {
-      "text": "Dann die Granatapfelkerne dazugeben, umrühren und mit Pfeffer, Salz und Chili abschmecken."
+      "text": "Dann die Granatapfelkerne dazugeben, umrühren und mit Pfeffer, Salz und Chili abschmecken.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     }
   ]
 }

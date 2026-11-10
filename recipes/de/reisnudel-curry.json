@@ -1,6 +1,6 @@
 {
   "id": "reisnudel-curry",
-  "version": 1,
+  "version": 2,
   "title": "Reisnudel-Curry",
   "summary": "Cremiges rotes Kokoscurry mit Tofu, Kichererbsen, viel Gemüse und Reisnudeln, getoppt mit gerösteten Erdnüssen.",
   "emoji": "🍜",
@@ -200,32 +200,93 @@
       "note": "eine halbe Handvoll, geröstet und gesalzen",
       "diet": "plant",
       "allergens": [
-        "peanuts"
+        "peanuts",
+        "histamine"
       ]
     }
   ],
   "steps": [
     {
-      "text": "Paprika, Zwiebel, Chili, Knoblauch, Tofu, Blumenkohl und Pak Choi mundgerecht klein schneiden."
+      "text": "Paprika, Zwiebel, Chili, Knoblauch, Tofu, Blumenkohl und Pak Choi mundgerecht klein schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Alles in einem Topf mit etwas Öl anbraten.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
       "text": "Die Currypaste mit in den Topf geben und kurz anrösten.",
-      "timerMinutes": 1
+      "timerMinutes": 1,
+      "ingredients": [
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Kokosmilch, Kichererbsen und Gemüsebrühe dazugeben und aufkochen lassen. Mit Pfeffer und Salz abschmecken.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
       "text": "Währenddessen die Reisnudeln kochen. Die Reisnudeln abschrecken und mit in den Topf geben.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Die Erdnüsse über die Portionen geben."
+      "text": "Die Erdnüsse über die Portionen geben.",
+      "ingredients": [
+        {
+          "ingredient": 15
+        }
+      ]
     }
   ]
 }

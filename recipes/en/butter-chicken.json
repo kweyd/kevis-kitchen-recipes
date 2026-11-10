@@ -1,6 +1,6 @@
 {
   "id": "butter-chicken",
-  "version": 1,
+  "version": 2,
   "title": "Butter Chicken",
   "summary": "Tender yoghurt-marinated chicken in a creamy, warmly spiced tomato butter sauce with rice.",
   "emoji": "🍛",
@@ -172,7 +172,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Cooking cream",
@@ -266,21 +268,61 @@
   ],
   "steps": [
     {
-      "text": "Cut the chicken into bite-sized pieces and marinate in a bowl with the curry paste and yoghurt."
+      "text": "Cut the chicken into bite-sized pieces and marinate in a bowl with the curry paste and yoghurt.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Peel and finely chop the onion."
+      "text": "Peel and finely chop the onion.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Melt the butter in a pan and press the garlic into it. Add the onion and fry.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
-      "text": "Add the allspice, cinnamon and cardamom to the pan."
+      "text": "Add the allspice, cinnamon and cardamom to the pan.",
+      "ingredients": [
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "Cook the rice in a pot.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Air-fry the chicken with its marinade at 200 °C for 2 x 8 minutes.",
@@ -288,10 +330,26 @@
     },
     {
       "text": "Add the tomato paste to the pan and toast lightly. Add 50 ml water and the cooking cream.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
-      "text": "Season with pepper and salt and stir the chicken and its marinade into the sauce."
+      "text": "Season with pepper and salt and stir the chicken and its marinade into the sauce.",
+      "ingredients": [
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     }
   ]
 }

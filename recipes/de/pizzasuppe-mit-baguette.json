@@ -1,6 +1,6 @@
 {
   "id": "pizzasuppe-mit-baguette",
-  "version": 1,
+  "version": 2,
   "title": "Pizzasuppe mit Baguette",
   "summary": "Cremige Hack-Tomaten-Suppe mit Paprika und Mais – schmeckt wie Pizza, dazu knuspriges Kräuterbrot.",
   "emoji": "🍲",
@@ -54,7 +54,8 @@
           "category": "dairy",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ],
           "shelfLifeDays": 14
         }
@@ -105,7 +106,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Stückige Tomaten",
@@ -114,7 +117,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Schlagsahne",
@@ -305,7 +310,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -313,7 +319,9 @@
           "unit": "to taste",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -337,29 +345,113 @@
   ],
   "steps": [
     {
-      "text": "Zwiebel und Knoblauch schälen und klein schneiden. Paprika in mundgerechte Stücke schneiden. Mais abtropfen lassen und Basilikum waschen und zerkleinern."
+      "text": "Zwiebel und Knoblauch schälen und klein schneiden. Paprika in mundgerechte Stücke schneiden. Mais abtropfen lassen und Basilikum waschen und zerkleinern.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
       "text": "Olivenöl in einem Topf erhitzen, Zwiebeln und Paprika darin anbraten.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 15,
+          "share": 0.6667
+        }
+      ]
     },
     {
       "text": "Knoblauch, Mais, Schinkenwürfel und Hack dazugeben und das Hack krümelig anbraten.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Mit Gemüsebrühe, Sahne und Tomaten ablöschen und etwa 10 Minuten köcheln lassen.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Ajvar, Kräuterfrischkäse und italienische Kräuter einrühren. Mit Salz, Pfeffer und Honig abschmecken."
+      "text": "Ajvar, Kräuterfrischkäse und italienische Kräuter einrühren. Mit Salz, Pfeffer und Honig abschmecken.",
+      "ingredients": [
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 12,
+          "share": 0.5
+        },
+        {
+          "ingredient": 18
+        },
+        {
+          "ingredient": 19
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
       "text": "Das Baguette in Scheiben schneiden, mit etwas Olivenöl beträufeln, mit italienischen Kräutern bestreuen und im Airfryer antoasten.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 15,
+          "share": 0.3333
+        },
+        {
+          "ingredient": 12,
+          "share": 0.5
+        }
+      ]
     },
     {
-      "text": "Die Suppe in Schüsseln füllen und mit Parmesan und Basilikum servieren."
+      "text": "Die Suppe in Schüsseln füllen und mit Parmesan und Basilikum servieren.",
+      "ingredients": [
+        {
+          "ingredient": 17
+        }
+      ]
     }
   ]
 }

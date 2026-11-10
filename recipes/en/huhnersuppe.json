@@ -1,6 +1,6 @@
 {
   "id": "huhnersuppe",
-  "version": 1,
+  "version": 2,
   "title": "Chicken Noodle Soup",
   "summary": "Warming chicken soup with lots of vegetables and alphabet pasta – just like grandma used to make.",
   "emoji": "🍲",
@@ -96,7 +96,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Garlic",
@@ -246,28 +248,90 @@
   ],
   "steps": [
     {
-      "text": "Peel the garlic and chop finely."
+      "text": "Peel the garlic and chop finely.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
-      "text": "Quarter the mushrooms. Peel the celeriac and carrots and cut into small pieces. Slice the leek into rings and cut the chicken breast into small pieces."
+      "text": "Quarter the mushrooms. Peel the celeriac and carrots and cut into small pieces. Slice the leek into rings and cut the chicken breast into small pieces.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "First sauté the garlic in a little oil, then add the tomato paste.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Deglaze with the stock and bring to the boil."
+      "text": "Deglaze with the stock and bring to the boil.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Add the chicken wings, herbes de Provence, paprika, leek, mushrooms, carrots, celeriac and chicken breast and let it cook for 25 minutes in total.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "Add the alphabet pasta for the last 10 minutes.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Slice the spring onion. Season the soup with pepper and salt and serve topped with spring onion."
+      "text": "Slice the spring onion. Season the soup with pepper and salt and serve topped with spring onion.",
+      "ingredients": [
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 14
+        }
+      ]
     }
   ]
 }

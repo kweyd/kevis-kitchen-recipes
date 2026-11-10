@@ -1,6 +1,6 @@
 {
   "id": "krauter-fleischballchen-mit-feta-creme",
-  "version": 1,
+  "version": 2,
   "title": "Herb Meatballs with Feta Cream",
   "summary": "Spiced herb meatballs with crispy lemon potato wedges on a creamy feta yoghurt cream.",
   "emoji": "🧆",
@@ -277,25 +277,101 @@
   ],
   "steps": [
     {
-      "text": "Wash the potatoes and cut them into wedges."
+      "text": "Wash the potatoes and cut them into wedges.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Toss the wedges with the zest of the lemon, a little oil, paprika, garlic powder, salt and pepper and air-fry them at 160 °C for 25 minutes.",
-      "timerMinutes": 25
+      "timerMinutes": 25,
+      "ingredients": [
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 16
+        }
+      ]
     },
     {
       "text": "Toast the pine nuts in a dry pan.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
-      "text": "Mix the minced beef with some of the pine nuts, the egg yolk, mint, dill, parsley, chili powder, breadcrumbs, salt and pepper and roll into small meatballs."
+      "text": "Mix the minced beef with some of the pine nuts, the egg yolk, mint, dill, parsley, chili powder, breadcrumbs, salt and pepper and roll into small meatballs.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 16
+        }
+      ]
     },
     {
       "text": "Air-fry the meatballs at 200 °C for 12 minutes.",
       "timerMinutes": 12
     },
     {
-      "text": "For the cream, blend the feta with the Greek yoghurt, olive oil, the juice of the lemon, pepper and salt until smooth."
+      "text": "For the cream, blend the feta with the Greek yoghurt, olive oil, the juice of the lemon, pepper and salt until smooth.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 17
+        }
+      ]
     },
     {
       "text": "To serve, arrange the meatballs and potato wedges on the cream and scatter the remaining pine nuts over the top."

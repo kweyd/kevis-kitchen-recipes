@@ -1,6 +1,6 @@
 {
   "id": "tofu-schnitzel-bowl",
-  "version": 1,
+  "version": 2,
   "title": "Tofu-Schnitzel-Bowl",
   "summary": "Knusprige Panko-Tofuschnitzel auf Reis mit Zucchini in Sweet-Chili-Soße, Avocado und Erdnuss-Limetten-Topping.",
   "emoji": "🍚",
@@ -25,7 +25,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Zucchini",
@@ -105,7 +107,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "peanuts"
+        "peanuts",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -197,7 +200,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -207,7 +211,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -249,23 +254,89 @@
   "steps": [
     {
       "text": "Reis kochen.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Währenddessen Knoblauch schälen und klein schneiden. Zucchini in dünne Scheiben schneiden. Lauchzwiebel in Ringe, Limetten in Viertel und die geschälte Avocado in Streifen schneiden."
+      "text": "Währenddessen Knoblauch schälen und klein schneiden. Zucchini in dünne Scheiben schneiden. Lauchzwiebel in Ringe, Limetten in Viertel und die geschälte Avocado in Streifen schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "In einer Schüssel die Sweet-Chili-Sauce mit 150 ml Wasser, Honig, Sojasauce, etwas Pfeffer und Speisestärke mischen."
+      "text": "In einer Schüssel die Sweet-Chili-Sauce mit 150 ml Wasser, Honig, Sojasauce, etwas Pfeffer und Speisestärke mischen.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "Eine Pfanne mit Öl erhitzen und Knoblauch und Zucchini anbraten.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
-      "text": "Ei mit Pfeffer und Salz in einem Teller verrühren, in einen anderen Teller das Panko-Paniermehl geben. Den Tofu ausdrücken und mittig durchschneiden, sodass zwei flache Schnitzel entstehen. In beiden Tellern panieren, dabei die Stationen am besten doppelt durchlaufen."
+      "text": "Ei mit Pfeffer und Salz in einem Teller verrühren, in einen anderen Teller das Panko-Paniermehl geben. Den Tofu ausdrücken und mittig durchschneiden, sodass zwei flache Schnitzel entstehen. In beiden Tellern panieren, dabei die Stationen am besten doppelt durchlaufen.",
+      "ingredients": [
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
-      "text": "Die Lauchzwiebelringe mit dem Saft der Limetten und den Erdnüssen mischen."
+      "text": "Die Lauchzwiebelringe mit dem Saft der Limetten und den Erdnüssen mischen.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Die Zucchini in der Pfanne mit der Sweet-Chili-Sauce ablöschen und köcheln lassen.",
@@ -273,7 +344,12 @@
     },
     {
       "text": "Die panierten Tofuschnitzel bei 200 °C von jeder Seite 4 Minuten frittieren.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
       "text": "Reis auf den Tellern anrichten, darüber die Zucchini in der Sweet-Chili-Sauce. Darauf die Avocadostreifen und die Mischung aus Erdnüssen, Lauchzwiebeln und Limettensaft verteilen. Die Schnitzel in Stücke schneiden und obendrauf geben."

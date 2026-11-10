@@ -1,6 +1,6 @@
 {
   "id": "butter-chicken",
-  "version": 1,
+  "version": 2,
   "title": "Butter Chicken",
   "summary": "Zartes Joghurt-Hähnchen in einer cremigen, warm gewürzten Tomaten-Butter-Soße mit Reis.",
   "emoji": "🍛",
@@ -172,7 +172,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Kochsahne",
@@ -266,21 +268,61 @@
   ],
   "steps": [
     {
-      "text": "Hähnchen in mundgerechte Stücke schneiden und in einer Schüssel mit der Currypaste und dem Joghurt marinieren."
+      "text": "Hähnchen in mundgerechte Stücke schneiden und in einer Schüssel mit der Currypaste und dem Joghurt marinieren.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Die Zwiebel schälen und klein schneiden."
+      "text": "Die Zwiebel schälen und klein schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Die Butter in einer Pfanne schmelzen und den Knoblauch in die Pfanne pressen. Die Zwiebel dazugeben und anbraten.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
-      "text": "Piment, Zimt und Kardamom mit in die Pfanne geben."
+      "text": "Piment, Zimt und Kardamom mit in die Pfanne geben.",
+      "ingredients": [
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "Den Reis in einem Topf kochen.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Das Hähnchen mit Marinade für 2x 8 Minuten bei 200 °C in den Airfryer geben.",
@@ -288,10 +330,26 @@
     },
     {
       "text": "Tomatenmark in die Pfanne geben und leicht anrösten. 50 ml Wasser und die Kochsahne dazugeben.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
-      "text": "Mit Pfeffer und Salz abschmecken und das Hähnchen mit Marinade in die Soße einrühren."
+      "text": "Mit Pfeffer und Salz abschmecken und das Hähnchen mit Marinade in die Soße einrühren.",
+      "ingredients": [
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     }
   ]
 }

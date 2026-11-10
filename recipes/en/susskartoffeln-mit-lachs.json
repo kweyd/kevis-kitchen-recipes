@@ -1,6 +1,6 @@
 {
   "id": "susskartoffeln-mit-lachs",
-  "version": 1,
+  "version": 2,
   "title": "Sweet Potatoes with Salmon",
   "summary": "Stuffed sweet potato with salmon rice salad and garlic yoghurt dip, all made in the air fryer.",
   "emoji": "🍠",
@@ -46,7 +46,8 @@
           "category": "dairy",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ],
           "shelfLifeDays": 14
         }
@@ -88,7 +89,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Cucumber",
@@ -196,7 +199,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -228,7 +232,12 @@
   "steps": [
     {
       "text": "Wash the sweet potato thoroughly, score it and put it in the air fryer at 200 °C for 25 minutes.",
-      "timerMinutes": 25
+      "timerMinutes": 25,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Turn the sweet potato and cook for another 25 minutes.",
@@ -236,20 +245,92 @@
     },
     {
       "text": "Cook the rice in a pot.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Chop the parsley. Dice the radishes and cucumber and put them in a bowl with some of the parsley and the rocket. Halve the cherry tomatoes and add them."
+      "text": "Chop the parsley. Dice the radishes and cucumber and put them in a bowl with some of the parsley and the rocket. Halve the cherry tomatoes and add them.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 8,
+          "share": 0.5
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
-      "text": "Make a dressing with a little vinegar, oil, pepper and salt and pour it over. Add the cooked rice."
+      "text": "Make a dressing with a little vinegar, oil, pepper and salt and pour it over. Add the cooked rice.",
+      "ingredients": [
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
-      "text": "For the dip, press the garlic cloves into the yoghurt. Add a little pepper, salt, honey and the remaining parsley."
+      "text": "For the dip, press the garlic cloves into the yoghurt. Add a little pepper, salt, honey and the remaining parsley.",
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 8,
+          "share": 0.5
+        }
+      ]
     },
     {
       "text": "Season the salmon with pepper and salt, top with lemon slices and cook in the air fryer at 160 °C for 20 minutes.",
-      "timerMinutes": 20
+      "timerMinutes": 20,
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Flake the salmon and mix it into the salad."

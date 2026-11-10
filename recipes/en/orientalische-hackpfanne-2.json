@@ -1,6 +1,6 @@
 {
   "id": "orientalische-hackpfanne-2",
-  "version": 1,
+  "version": 2,
   "title": "Oriental Beef Skillet with Lemon Sour Cream",
   "summary": "Spiced mince skillet with peppers, chickpeas and feta, served with a fresh lemon sour cream dip.",
   "emoji": "🫑",
@@ -131,7 +131,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Honey",
@@ -228,25 +230,94 @@
   ],
   "steps": [
     {
-      "text": "Finely chop the onion, garlic and chili. Cut the bell peppers into strips."
+      "text": "Finely chop the onion, garlic and chili. Cut the bell peppers into strips.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Fry the onion in a pan with a little oil, add the mince and fry until crumbly.",
-      "timerMinutes": 6
+      "timerMinutes": 6,
+      "ingredients": [
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Add 2 garlic cloves, the chili and bell peppers to the mince. Then stir in the tomato paste and season with paprika, salt and pepper.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 4,
+          "share": 0.4
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
       "text": "Add 75 ml water and let it simmer for a few minutes.",
       "timerMinutes": 3
     },
     {
-      "text": "Fold in the chickpeas and the diced feta and let them warm through."
+      "text": "Fold in the chickpeas and the diced feta and let them warm through.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
-      "text": "Mix the schmand with the juice of the half lemon, 3 garlic cloves, honey, parsley, pepper and salt and serve with the skillet."
+      "text": "Mix the schmand with the juice of the half lemon, 3 garlic cloves, honey, parsley, pepper and salt and serve with the skillet.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 4,
+          "share": 0.6
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 15
+        }
+      ]
     }
   ]
 }

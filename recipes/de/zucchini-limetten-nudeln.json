@@ -1,6 +1,6 @@
 {
   "id": "zucchini-limetten-nudeln",
-  "version": 1,
+  "version": 2,
   "title": "Zucchini-Limetten-Nudeln",
   "summary": "Frische Pasta mit Zucchini in einer leicht scharfen Kokos-Limetten-Soße.",
   "emoji": "🍋",
@@ -126,26 +126,68 @@
   ],
   "steps": [
     {
-      "text": "Knoblauch schälen und zusammen mit Zucchini und Chili klein schneiden."
+      "text": "Knoblauch schälen und zusammen mit Zucchini und Chili klein schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Olivenöl in einer Pfanne erhitzen und den Knoblauch andünsten.",
-      "timerMinutes": 1
+      "timerMinutes": 1,
+      "ingredients": [
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "In einem Topf Wasser für die Nudeln erhitzen und die Nudeln darin nach Packungsanleitung kochen.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Die Zucchini in die Pfanne geben und mit Kurkuma, Salz und Cayennepfeffer würzen.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
-      "text": "Die Nudeln abgießen und mit der Kokosmilch und der Chili in die Pfanne geben."
+      "text": "Die Nudeln abgießen und mit der Kokosmilch und der Chili in die Pfanne geben.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Abrieb und Saft einer Limette dazugeben und alles kurz köcheln lassen. Die 2. Limette ist für alle, die das Limettenaroma sehr mögen.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     }
   ]
 }

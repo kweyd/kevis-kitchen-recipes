@@ -1,6 +1,6 @@
 {
   "id": "schupfnudeln-mit-mohn-vanille-sosse",
-  "version": 1,
+  "version": 2,
   "title": "Potato Noodles with Poppy Seed Vanilla Sauce",
   "summary": "Caramelised potato noodles with poppy seeds on vanilla sauce with plum butter – dessert for dinner.",
   "emoji": "🥟",
@@ -155,20 +155,48 @@
   "steps": [
     {
       "text": "Heat the butter in a pan and fry the potato noodles until golden brown all over.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Caramelise the noodles with the maple syrup.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
-      "text": "Then sprinkle with the poppy seeds and stir well."
+      "text": "Then sprinkle with the poppy seeds and stir well.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Divide the vanilla sauce between the plates and arrange the noodles on top."
+      "text": "Divide the vanilla sauce between the plates and arrange the noodles on top.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Garnish with the plum butter."
+      "text": "Garnish with the plum butter.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "bestis-bifteki-mit-tomatenreis-und-tzatziki",
-  "version": 1,
+  "version": 2,
   "title": "Besti's Bifteki with Tomato Rice and Tzatziki",
   "summary": "Greek-style air-fried beef patties with a feta filling, served with juicy tomato rice and fresh tzatziki.",
   "emoji": "🧆",
@@ -307,7 +307,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Tomato paste",
@@ -317,7 +319,9 @@
       "pantry": true,
       "note": "about 20 g",
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Vegetable stock",
@@ -345,31 +349,120 @@
   "steps": [
     {
       "text": "Cut the leftover bread into small pieces and soak it in the milk. Peel the onion, dice it finely and sweat it in the oil until translucent. Let it cool a little.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "Finely chop the parsley and rosemary. Mix them thoroughly with the minced meat, onion, egg, soaked bread, cumin, salt and pepper. Cover and let the mixture rest in the fridge for about 1 hour.",
-      "timerMinutes": 60
+      "timerMinutes": 60,
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Meanwhile, make the tzatziki: peel the cucumber, remove the seeds and grate it finely. Squeeze it out firmly in a clean kitchen towel."
+      "text": "Meanwhile, make the tzatziki: peel the cucumber, remove the seeds and grate it finely. Squeeze it out firmly in a clean kitchen towel.",
+      "ingredients": [
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
-      "text": "Peel the garlic and chop it finely or press it. Chop the dill. Stir both into the yoghurt together with the cucumber. Season with a little lemon zest, lemon juice, salt and pepper. Keep chilled until serving."
+      "text": "Peel the garlic and chop it finely or press it. Chop the dill. Stir both into the yoghurt together with the cucumber. Season with a little lemon zest, lemon juice, salt and pepper. Keep chilled until serving.",
+      "ingredients": [
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "For the tomato rice, rinse the rice in a sieve. Put it in a pot with the passata, tomato paste and vegetable stock and bring to the boil. Cover and cook over low heat for about 15–20 minutes (check the cooking time on the rice package). Stir occasionally and add a little more stock if needed.",
-      "timerMinutes": 20
+      "timerMinutes": 20,
+      "ingredients": [
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 18
+        },
+        {
+          "ingredient": 19
+        },
+        {
+          "ingredient": 20
+        }
+      ]
     },
     {
-      "text": "Cut the feta into four pieces. Divide the meat mixture into four portions, flatten each one and place a piece of feta in the middle. Close the meat around it so the cheese is completely covered."
+      "text": "Cut the feta into four pieces. Divide the meat mixture into four portions, flatten each one and place a piece of feta in the middle. Close the meat around it so the cheese is completely covered.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Cook the bifteki in the air fryer at 180 °C for about 16 minutes, a little longer if they are thick, until cooked through. Alternatively, fry them on both sides in a pan with a little extra oil.",
       "timerMinutes": 16
     },
     {
-      "text": "Season the tomato rice with salt and pepper. Divide it into four portions with the bifteki and tzatziki and serve."
+      "text": "Season the tomato rice with salt and pepper. Divide it into four portions with the bifteki and tzatziki and serve.",
+      "ingredients": [
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     }
   ]
 }

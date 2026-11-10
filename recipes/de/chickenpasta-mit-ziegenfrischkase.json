@@ -1,6 +1,6 @@
 {
   "id": "chickenpasta-mit-ziegenfrischkase",
-  "version": 1,
+  "version": 2,
   "title": "Chickenpasta mit Ziegenfrischkäse",
   "summary": "Cremige Pasta mit Hähnchen, Erbsen und Spinat in einer würzigen Ziegenfrischkäse-Soße.",
   "emoji": "🍝",
@@ -77,7 +77,9 @@
       "pantry": false,
       "shelfLifeDays": 2,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Ziegenfrischkäse",
@@ -175,7 +177,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -184,7 +187,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -254,24 +259,78 @@
   "steps": [
     {
       "text": "Nudeln kochen.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Zwiebel und Knoblauch schälen und zusammen mit dem Hähnchen kleinschneiden."
+      "text": "Zwiebel und Knoblauch schälen und zusammen mit dem Hähnchen kleinschneiden.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Olivenöl in einer Pfanne erhitzen. Knoblauch, Zwiebel und Hähnchen anbraten.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "Erbsen, Spinat, Sahne und Ziegenfrischkäse dazugeben und unter einem Deckel köcheln lassen.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Paprikapulver und die Nudeln nach dem Abgießen in die Pfanne geben und mit Pfeffer, Salz und Muskat abschmecken."
+      "text": "Paprikapulver und die Nudeln nach dem Abgießen in die Pfanne geben und mit Pfeffer, Salz und Muskat abschmecken.",
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
-      "text": "Auf die Teller verteilen und Parmesan darüber reiben."
+      "text": "Auf die Teller verteilen und Parmesan darüber reiben.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        }
+      ]
     }
   ]
 }

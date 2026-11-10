@@ -1,6 +1,6 @@
 {
   "id": "lachs-bowl",
-  "version": 1,
+  "version": 2,
   "title": "Salmon Bowl",
   "summary": "Marinated air-fried salmon with rice, avocado, orange, edamame and sweet chili mayo.",
   "emoji": "🍣",
@@ -32,7 +32,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Salmon fillet",
@@ -139,7 +141,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -149,7 +152,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -226,29 +230,81 @@
   ],
   "steps": [
     {
-      "text": "Put the salmon in a bowl and marinate it with the soy sauce, brown sugar, honey and finely chopped ginger and garlic."
+      "text": "Put the salmon in a bowl and marinate it with the soy sauce, brown sugar, honey and finely chopped ginger and garlic.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Let the salmon marinate in the fridge for 30 minutes.",
       "timerMinutes": 30
     },
     {
-      "text": "Cut the avocado, orange, onion and cucumber into bite-sized pieces."
+      "text": "Cut the avocado, orange, onion and cucumber into bite-sized pieces.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Warm the edamame in hot water for 5 minutes.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Rinse and cook the rice.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Air-fry the salmon with its marinade at 180 °C for 14 minutes.",
       "timerMinutes": 14
     },
     {
-      "text": "For the sauce, mix the mayonnaise with the sweet chili sauce."
+      "text": "For the sauce, mix the mayonnaise with the sweet chili sauce.",
+      "ingredients": [
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
       "text": "Finally, divide the rice between bowls and top with the salmon, toppings and sauce."

@@ -1,6 +1,6 @@
 {
   "id": "beef-wellington",
-  "version": 1,
+  "version": 2,
   "title": "Beef Wellington",
   "summary": "The festive classic: sous-vide beef fillet with a chestnut mushroom filling and Parma ham in golden puff pastry.",
   "emoji": "🥩",
@@ -52,7 +52,9 @@
       "category": "meatFish",
       "pantry": false,
       "diet": "meat",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Puff pastry",
@@ -94,7 +96,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -195,28 +198,74 @@
   "steps": [
     {
       "text": "Vacuum-seal the beef fillet and cook sous vide at 52 °C for 90 minutes.",
-      "timerMinutes": 90
+      "timerMinutes": 90,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Put the chestnuts, mushrooms, thyme leaves, garlic and white wine in a blender and blitz finely."
+      "text": "Put the chestnuts, mushrooms, thyme leaves, garlic and white wine in a blender and blitz finely.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Cook the mixture in a dry pan until all the liquid has evaporated.",
       "timerMinutes": 10
     },
     {
-      "text": "Lay out cling film and arrange the ham on it. Spread the mushroom mixture over the ham."
+      "text": "Lay out cling film and arrange the ham on it. Spread the mushroom mixture over the ham.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Season the beef with salt and pepper, sear it all over in a hot pan with a little oil and brush with mustard.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Place the fillet on the ham and mushroom layer, roll up tightly using the cling film and chill for at least 15 minutes.",
       "timerMinutes": 15
     },
     {
-      "text": "Lay out fresh cling film and roll out the puff pastry on it."
+      "text": "Lay out fresh cling film and roll out the puff pastry on it.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Unwrap the fillet, place it on the pastry, roll it up and chill again for at least 15 minutes.",
@@ -227,7 +276,12 @@
     },
     {
       "text": "Brush the pastry with egg yolk and bake for 22 minutes.",
-      "timerMinutes": 22
+      "timerMinutes": 22,
+      "ingredients": [
+        {
+          "ingredient": 8
+        }
+      ]
     }
   ]
 }

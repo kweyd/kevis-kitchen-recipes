@@ -1,6 +1,6 @@
 {
   "id": "currywurst-mit-pommes",
-  "version": 1,
+  "version": 2,
   "title": "Currywurst with Fries",
   "summary": "The German snack-bar classic at home: bratwurst in homemade curry sauce with air-fryer fries.",
   "emoji": "🌭",
@@ -57,7 +57,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Onion",
@@ -95,7 +97,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ]
     },
     {
@@ -109,7 +112,8 @@
       "allergens": [
         "fish",
         "gluten",
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -120,7 +124,8 @@
           "diet": "plant",
           "allergens": [
             "gluten",
-            "sulphites"
+            "sulphites",
+            "histamine"
           ]
         },
         {
@@ -130,7 +135,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         }
       ]
@@ -201,29 +207,86 @@
   "steps": [
     {
       "text": "Make the fries in the air fryer: spray them lightly with oil and cook at 200 °C for 2 × 10 minutes.",
-      "timerMinutes": 20
+      "timerMinutes": 20,
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
       "text": "Finely chop the onion and fry it in a pan with oil until lightly browned.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
       "text": "Then add the honey and caramelise the onion. Deglaze everything with the passata.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Add the remaining sauce ingredients and let it simmer over medium heat.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "At the same time, fry the sausages in another pan.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Slice the sausages, divide them between the plates and pour the curry sauce over them."
     },
     {
-      "text": "Divide the fries between both plates and sprinkle some chives over the sauce for colour."
+      "text": "Divide the fries between both plates and sprinkle some chives over the sauce for colour.",
+      "ingredients": [
+        {
+          "ingredient": 13
+        }
+      ]
     }
   ]
 }

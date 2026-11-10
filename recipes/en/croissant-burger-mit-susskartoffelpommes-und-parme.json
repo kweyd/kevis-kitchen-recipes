@@ -1,6 +1,6 @@
 {
   "id": "croissant-burger-mit-susskartoffelpommes-und-parme",
-  "version": 1,
+  "version": 2,
   "title": "Croissant Burger with Sweet Potato Fries and Parmesan Dip",
   "summary": "A buttery croissant with beef patty, cheddar and bacon, plus sweet potato fries and a creamy parmesan dip.",
   "emoji": "🥐",
@@ -80,7 +80,9 @@
       "pantry": false,
       "shelfLifeDays": 7,
       "diet": "meat",
-      "allergens": [],
+      "allergens": [
+        "histamine"
+      ],
       "alternatives": [
         {
           "name": "Smoked tofu (sliced)",
@@ -89,7 +91,8 @@
           "category": "dairy",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ],
           "shelfLifeDays": 14
         }
@@ -102,7 +105,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Iceberg lettuce",
@@ -123,7 +128,8 @@
       "shelfLifeDays": 14,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -132,7 +138,9 @@
           "unit": "slice",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 14
         }
       ]
@@ -168,7 +176,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Balsamic vinegar",
@@ -178,7 +188,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ]
     },
     {
@@ -308,7 +319,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -317,7 +329,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -330,7 +344,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -366,38 +381,132 @@
   "steps": [
     {
       "text": "Heat a pan without oil and fry the bacon until crispy. Meanwhile, chop the lettuce and tomato.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "For the sauce, mix the mayonnaise with tomato paste, balsamic vinegar, honey, oregano, pepper and salt. Finely chop the gherkins and add them to the sauce."
+      "text": "For the sauce, mix the mayonnaise with tomato paste, balsamic vinegar, honey, oregano, pepper and salt. Finely chop the gherkins and add them to the sauce.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Shape the unseasoned ground beef into two oblong patties. Take the crispy bacon out of the pan and put the patties in instead."
+      "text": "Shape the unseasoned ground beef into two oblong patties. Take the crispy bacon out of the pan and put the patties in instead.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Fry the patties on both sides. For the last minute, place the cheddar on top and let it melt under a lid.",
-      "timerMinutes": 6
+      "timerMinutes": 6,
+      "ingredients": [
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
-      "text": "Slice the croissants open and spread both halves with the sauce. Layer lettuce, then the patty, tomato and bacon on the bottom half and close."
+      "text": "Slice the croissants open and spread both halves with the sauce. Layer lettuce, then the patty, tomato and bacon on the bottom half and close.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Peel the sweet potato and cut it into 1 cm thick sticks. For crispier fries, soak them in cold water for 30 minutes before seasoning and dry them well.",
-      "timerMinutes": 30
+      "timerMinutes": 30,
+      "ingredients": [
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
       "text": "Toss the sticks in a bowl with a little oil, salt and pressed garlic and air-fry them at 190 °C for 2 × 10 minutes.",
-      "timerMinutes": 20
+      "timerMinutes": 20,
+      "ingredients": [
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 16,
+          "share": 0.4
+        }
+      ]
     },
     {
       "text": "For the dip, heat the butter in a pan. Add pressed garlic and take the pan off the heat before the garlic browns.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 16,
+          "share": 0.6
+        }
+      ]
     },
     {
-      "text": "Add the white wine vinegar, stir in the parmesan and some parsley and keep stirring well. A blender or food processor works best – otherwise it takes a long time to get a smooth dip."
+      "text": "Add the white wine vinegar, stir in the parmesan and some parsley and keep stirring well. A blender or food processor works best – otherwise it takes a long time to get a smooth dip.",
+      "ingredients": [
+        {
+          "ingredient": 19
+        },
+        {
+          "ingredient": 18
+        },
+        {
+          "ingredient": 20
+        }
+      ]
     },
     {
-      "text": "When serving, sprinkle a few slices of spring onion over the dip."
+      "text": "When serving, sprinkle a few slices of spring onion over the dip.",
+      "ingredients": [
+        {
+          "ingredient": 21
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "brokkoli-cheddar-suppe",
-  "version": 1,
+  "version": 2,
   "title": "Brokkoli-Cheddar-Suppe",
   "summary": "Samtige Brokkolisuppe mit geschmolzenem Cheddar und angebratenen Röschen – richtig gemütlich.",
   "emoji": "🥦",
@@ -47,7 +47,8 @@
       "shelfLifeDays": 14,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -191,21 +192,51 @@
   ],
   "steps": [
     {
-      "text": "Beim Brokkoli die Röschen vom Strunk trennen und den Strunk klein schneiden."
+      "text": "Beim Brokkoli die Röschen vom Strunk trennen und den Strunk klein schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Zwiebel und Knoblauch schälen und hacken."
+      "text": "Zwiebel und Knoblauch schälen und hacken.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "In einem Topf ein Drittel der Butter erhitzen und die Zwiebel mit dem Brokkolistrunk anbraten.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 5,
+          "share": 0.3333
+        }
+      ]
     },
     {
       "text": "Den Knoblauch dazugeben und warten, bis er leicht braun ist.",
       "timerMinutes": 2
     },
     {
-      "text": "Dann mit der Gemüsebrühe ablöschen und mit Pfeffer und Salz abschmecken."
+      "text": "Dann mit der Gemüsebrühe ablöschen und mit Pfeffer und Salz abschmecken.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Mit einem Pürierstab alles zu einer sämigen Masse pürieren und kochen lassen.",
@@ -213,11 +244,25 @@
     },
     {
       "text": "In einem anderen Topf die Brokkoliröschen mit der restlichen Butter anbraten.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 5,
+          "share": 0.6667
+        }
+      ]
     },
     {
       "text": "Wenn der Brokkoli leicht braun ist, die sämige Masse sowie die Schlagsahne und den Cheddar dazugeben und unter Rühren so lange kochen, bis der Cheddar geschmolzen ist.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     }
   ]
 }

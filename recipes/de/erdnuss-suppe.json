@@ -1,6 +1,6 @@
 {
   "id": "erdnuss-suppe",
-  "version": 1,
+  "version": 2,
   "title": "Erdnusssuppe",
   "summary": "Würzig-cremige Tomaten-Erdnuss-Suppe mit Ingwer und Chili, dazu Basmatireis.",
   "emoji": "🥜",
@@ -27,7 +27,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "peanuts"
+        "peanuts",
+        "histamine"
       ]
     },
     {
@@ -37,7 +38,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Gemüsebrühe",
@@ -98,7 +101,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "peanuts"
+        "peanuts",
+        "histamine"
       ]
     },
     {
@@ -117,7 +121,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Chilipulver",
@@ -156,21 +162,70 @@
   "steps": [
     {
       "text": "Zwiebel, Ingwer und Knoblauch schälen, klein schneiden und in einem Topf mit etwas Öl anbraten.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
-      "text": "Mit Gemüsebrühe und den passierten Tomaten ablöschen."
+      "text": "Mit Gemüsebrühe und den passierten Tomaten ablöschen.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Den Reis kochen.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
       "text": "Erdnussbutter, Tomatenmark, Chilipulver, Pfeffer und Salz in die Suppe geben und für 15 Minuten kochen.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
-      "text": "Die Suppe mit dem Reis anrichten und die Erdnüsse über die Portionen verteilen."
+      "text": "Die Suppe mit dem Reis anrichten und die Erdnüsse über die Portionen verteilen.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        }
+      ]
     }
   ]
 }

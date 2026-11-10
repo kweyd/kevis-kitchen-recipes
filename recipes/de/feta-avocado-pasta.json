@@ -1,6 +1,6 @@
 {
   "id": "feta-avocado-pasta",
-  "version": 1,
+  "version": 2,
   "title": "Feta-Avocado-Pasta",
   "summary": "Cremige Pasta mit Avocado-Feta-Soße, frischem Rucola und gerösteten Pinienkernen – in 20 Minuten fertig.",
   "emoji": "🥑",
@@ -112,7 +112,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Honig",
@@ -171,13 +173,50 @@
   "steps": [
     {
       "text": "Die Nudeln nach Packungsanleitung kochen.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Den Saft einer Limette mit der aus der Schale gelösten Avocado, dem geschälten Knoblauch und der Hälfte vom Rucola pürieren."
+      "text": "Den Saft einer Limette mit der aus der Schale gelösten Avocado, dem geschälten Knoblauch und der Hälfte vom Rucola pürieren.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 1,
+          "share": 0.5
+        }
+      ]
     },
     {
-      "text": "Feta, Honig, Olivenöl, Pfeffer und Salz dazugeben und nochmal pürieren."
+      "text": "Feta, Honig, Olivenöl, Pfeffer und Salz dazugeben und nochmal pürieren.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Die Nudeln abgießen und noch etwas Nudelwasser mit den Nudeln im Topf lassen."
@@ -186,7 +225,16 @@
       "text": "Die pürierte Masse mit den Nudeln im Topf vermischen und dann auf die Teller verteilen."
     },
     {
-      "text": "Den restlichen Rucola und die Pinienkerne darüber geben."
+      "text": "Den restlichen Rucola und die Pinienkerne darüber geben.",
+      "ingredients": [
+        {
+          "ingredient": 1,
+          "share": 0.5
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "currywurst-mit-pommes",
-  "version": 1,
+  "version": 2,
   "title": "Currywurst mit Pommes",
   "summary": "Der Imbiss-Klassiker für zu Hause: Bratwurst in selbstgemachter Currysoße mit Pommes aus dem Airfryer.",
   "emoji": "🌭",
@@ -57,7 +57,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Zwiebel",
@@ -95,7 +97,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ]
     },
     {
@@ -109,7 +112,8 @@
       "allergens": [
         "fish",
         "gluten",
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -120,7 +124,8 @@
           "diet": "plant",
           "allergens": [
             "gluten",
-            "sulphites"
+            "sulphites",
+            "histamine"
           ]
         },
         {
@@ -130,7 +135,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         }
       ]
@@ -201,29 +207,86 @@
   "steps": [
     {
       "text": "Die Pommes im Airfryer zubereiten: leicht mit Öl besprühen und 2 × 10 Minuten bei 200 °C garen.",
-      "timerMinutes": 20
+      "timerMinutes": 20,
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
       "text": "Die Zwiebel klein schneiden und in einer Pfanne mit Öl anbraten, bis sie leicht bräunlich wird.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
       "text": "Dann den Honig dazugeben und die Zwiebeln karamellisieren. Alles mit den passierten Tomaten ablöschen.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Die restlichen Zutaten für die Soße dazugeben und bei mittlerer Hitze köcheln lassen.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "Parallel dazu in einer anderen Pfanne die Würstchen braten.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Die Würstchen schneiden, auf die Teller verteilen und die Currywurstsoße darübergeben."
     },
     {
-      "text": "Die Pommes auf beide Teller aufteilen und etwas Schnittlauch für die Optik über die Soße streuen."
+      "text": "Die Pommes auf beide Teller aufteilen und etwas Schnittlauch für die Optik über die Soße streuen.",
+      "ingredients": [
+        {
+          "ingredient": 13
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "hahnchenbrust-auf-gnocchipfanne",
-  "version": 1,
+  "version": 2,
   "title": "Chicken Breast on a Gnocchi Pan",
   "summary": "Juicy air-fryer chicken breast on gnocchi in a creamy red pesto sauce with spinach.",
   "emoji": "🍗",
@@ -128,7 +128,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Parmesan",
@@ -140,7 +142,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -149,7 +152,9 @@
           "unit": "tbsp",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -162,7 +167,9 @@
       "pantry": false,
       "shelfLifeDays": 2,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Pine nuts",
@@ -194,7 +201,8 @@
       "diet": "animal",
       "allergens": [
         "milk",
-        "nuts"
+        "nuts",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -204,7 +212,8 @@
           "category": "canned",
           "diet": "plant",
           "allergens": [
-            "nuts"
+            "nuts",
+            "histamine"
           ]
         }
       ]
@@ -258,13 +267,40 @@
   ],
   "steps": [
     {
-      "text": "Stir together the cooking cream, chicken stock powder, pesto and 50 ml water."
+      "text": "Stir together the cooking cream, chicken stock powder, pesto and 50 ml water.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Wash and halve the cherry tomatoes."
+      "text": "Wash and halve the cherry tomatoes.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Butterfly the chicken breast and season with salt and pepper."
+      "text": "Butterfly the chicken breast and season with salt and pepper.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Air-fry the chicken breast at 200 °C for 2× 9 minutes.",
@@ -272,18 +308,47 @@
     },
     {
       "text": "Toast the pine nuts in a dry pan.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Fry the gnocchi in a pan with oil and add the cherry tomatoes.",
-      "timerMinutes": 6
+      "timerMinutes": 6,
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "Pour the sauce into the pan with the gnocchi. Add the spinach, let it wilt and season with salt and pepper.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Plate everything and serve with parmesan and the pine nuts."
+      "text": "Plate everything and serve with parmesan and the pine nuts.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     }
   ]
 }

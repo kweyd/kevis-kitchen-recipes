@@ -1,6 +1,6 @@
 {
   "id": "hahnchen-mit-reis-in-frischkasesosse",
-  "version": 1,
+  "version": 2,
   "title": "Hähnchen mit Reis in Frischkäsesoße",
   "summary": "Hähnchenbrust im Baconmantel mit Honig-Senf-Note, dazu Reis und eine cremige Kräuterfrischkäsesoße.",
   "emoji": "🍗",
@@ -64,7 +64,9 @@
       "pantry": false,
       "shelfLifeDays": 7,
       "diet": "meat",
-      "allergens": [],
+      "allergens": [
+        "histamine"
+      ],
       "alternatives": [
         {
           "name": "Räuchertofu",
@@ -73,7 +75,8 @@
           "category": "dairy",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ],
           "shelfLifeDays": 14
         }
@@ -277,14 +280,41 @@
   "steps": [
     {
       "text": "Den Reis waschen und kochen.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Währenddessen die Paprika klein schneiden. Die Hähnchenbrustfilets flach aufschneiden und in Öl von jeder Seite 3 Minuten anbraten.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
-      "text": "Danach aus der Pfanne nehmen und mit Senf bestreichen. Den Bacon um die Hähnchenbrust legen und dünn mit Honig bestreichen."
+      "text": "Danach aus der Pfanne nehmen und mit Senf bestreichen. Den Bacon um die Hähnchenbrust legen und dünn mit Honig bestreichen.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Die Hähnchenbrust mit der Paprika für 10 Minuten bei 200 °C in die Heißluftfritteuse geben.",
@@ -292,7 +322,24 @@
     },
     {
       "text": "Für die Soße Kräuterfrischkäse mit Milch, Sahne, Gemüsebrühe und etwas Pfeffer aufkochen.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Alles zusammen anrichten."

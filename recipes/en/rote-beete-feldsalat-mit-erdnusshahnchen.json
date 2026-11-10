@@ -1,6 +1,6 @@
 {
   "id": "rote-beete-feldsalat-mit-erdnusshahnchen",
-  "version": 1,
+  "version": 2,
   "title": "Beetroot and Lamb's Lettuce Salad with Peanut Chicken",
   "summary": "Lamb's lettuce with beetroot and an orange dressing, topped with lentils and peanut-sesame chicken.",
   "emoji": "🥗",
@@ -129,7 +129,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -159,7 +160,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "peanuts"
+        "peanuts",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -169,7 +171,8 @@
           "category": "breakfast",
           "diet": "plant",
           "allergens": [
-            "nuts"
+            "nuts",
+            "histamine"
           ]
         },
         {
@@ -193,7 +196,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -203,7 +207,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -254,21 +259,76 @@
   ],
   "steps": [
     {
-      "text": "Wash the lamb's lettuce and divide it between 2 plates. Slice the beetroot and divide it between the plates as well."
+      "text": "Wash the lamb's lettuce and divide it between 2 plates. Slice the beetroot and divide it between the plates as well.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Make a dressing from the white wine vinegar, olive oil, pepper, salt, honey, freshly squeezed orange juice and water and drizzle it over the plates."
+      "text": "Make a dressing from the white wine vinegar, olive oil, pepper, salt, honey, freshly squeezed orange juice and water and drizzle it over the plates.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Heat oil in a pan, cut the chicken into small cubes and sear them over high heat.",
-      "timerMinutes": 6
+      "timerMinutes": 6,
+      "ingredients": [
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Meanwhile, heat the lentils in a pot.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
-      "text": "Deglaze the chicken with soy sauce, then add the peanut butter and stir until everything is evenly coated. Now add the sesame seeds and keep stirring."
+      "text": "Deglaze the chicken with soy sauce, then add the peanut butter and stir until everything is evenly coated. Now add the sesame seeds and keep stirring.",
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "Divide the lentils between the plates and top with the chicken."

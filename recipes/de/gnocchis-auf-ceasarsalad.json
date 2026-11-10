@@ -1,6 +1,6 @@
 {
   "id": "gnocchis-auf-ceasarsalad",
-  "version": 1,
+  "version": 2,
   "title": "Gnocchi auf Caesar Salad",
   "summary": "Knusprige Gnocchi und geröstete Kirschtomaten auf Römersalat mit cremigem Caesar-Dressing.",
   "emoji": "🥬",
@@ -35,7 +35,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Naturjoghurt",
@@ -125,7 +127,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -189,7 +192,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -199,7 +203,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -250,24 +255,89 @@
   ],
   "steps": [
     {
-      "text": "Knoblauch schälen und kleinschneiden. Kirschtomaten halbieren."
+      "text": "Knoblauch schälen und kleinschneiden. Kirschtomaten halbieren.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Kirschtomaten mit etwas Öl und Salz bestreuen und zusammen mit der Hälfte vom Knoblauch bei 200 °C für 12 Minuten in den Airfryer geben.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
       "text": "Die Gnocchi bei 200 °C für 12 Minuten in den Airfryer geben. Wer keinen Airfryer mit 2 Kammern hat, kann die Gnocchi auch mit etwas Öl in einer Pfanne braten.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
-      "text": "Für das Dressing die Hälfte vom geriebenen Käse mit dem restlichen Knoblauch, Mayonnaise, Naturjoghurt, Rotweinessig, Sojasoße und Senf pürieren. Mit Pfeffer und Salz abschmecken."
+      "text": "Für das Dressing die Hälfte vom geriebenen Käse mit dem restlichen Knoblauch, Mayonnaise, Naturjoghurt, Rotweinessig, Sojasoße und Senf pürieren. Mit Pfeffer und Salz abschmecken.",
+      "ingredients": [
+        {
+          "ingredient": 3,
+          "share": 0.5
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
-      "text": "Beim Römersalat den Strunk entfernen, den Salat waschen und alles in einer großen Schüssel zusammenführen."
+      "text": "Beim Römersalat den Strunk entfernen, den Salat waschen und alles in einer großen Schüssel zusammenführen.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Den restlichen geriebenen Käse und den Schnittlauch zum Garnieren über die Portionen geben."
+      "text": "Den restlichen geriebenen Käse und den Schnittlauch zum Garnieren über die Portionen geben.",
+      "ingredients": [
+        {
+          "ingredient": 3,
+          "share": 0.5
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "tabouleh",
-  "version": 1,
+  "version": 2,
   "title": "Tabbouleh",
   "summary": "Fresh bulgur salad with lots of mint, parsley and crunchy pomegranate seeds.",
   "emoji": "🥗",
@@ -34,7 +34,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Bulgur",
@@ -144,20 +146,64 @@
   "steps": [
     {
       "text": "Cook the bulgur in a pot with twice the amount of water.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
-      "text": "Finely chop the cucumber, tomatoes, parsley, mint and onion and put them in a bowl."
+      "text": "Finely chop the cucumber, tomatoes, parsley, mint and onion and put them in a bowl.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Squeeze the lemon juice over it and add the olive oil."
+      "text": "Squeeze the lemon juice over it and add the olive oil.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
       "text": "Let the bulgur cool and add it to the bowl.",
       "timerMinutes": 15
     },
     {
-      "text": "Then add the pomegranate seeds, stir and season with pepper, salt and chili."
+      "text": "Then add the pomegranate seeds, stir and season with pepper, salt and chili.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "hahnchenpasta-mit-kohlrabi-und-zuckerschoten",
-  "version": 1,
+  "version": 2,
   "title": "Chicken Pasta with Kohlrabi and Snow Peas",
   "summary": "Creamy ribbon noodles with tender kohlrabi, crunchy snow peas and chicken.",
   "emoji": "🥬",
@@ -126,7 +126,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -135,7 +136,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -247,11 +250,27 @@
   ],
   "steps": [
     {
-      "text": "Cut the chicken breast into pieces. Peel and dice the kohlrabi. Wash the snow peas."
+      "text": "Cut the chicken breast into pieces. Peel and dice the kohlrabi. Wash the snow peas.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Cook the noodles in a pot.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Marinate the chicken as you like and air-fry at 200 °C for 2× 9 minutes.",
@@ -259,14 +278,38 @@
     },
     {
       "text": "Heat the butter in a pan and sauté the kohlrabi.",
-      "timerMinutes": 6
+      "timerMinutes": 6,
+      "ingredients": [
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
       "text": "Add the snow peas and deglaze with the cooking cream. Stir in the stock powder.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Add the parmesan to the sauce and season with pepper and salt."
+      "text": "Add the parmesan to the sauce and season with pepper and salt.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "Briefly toss the noodles and chicken in the pan."
