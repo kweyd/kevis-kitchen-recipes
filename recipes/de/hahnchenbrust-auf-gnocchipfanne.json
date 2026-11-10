@@ -1,6 +1,6 @@
 {
   "id": "hahnchenbrust-auf-gnocchipfanne",
-  "version": 1,
+  "version": 2,
   "title": "Hähnchenbrust auf Gnocchipfanne",
   "summary": "Saftige Airfryer-Hähnchenbrust auf Gnocchi in cremiger Pesto-Rosso-Soße mit Spinat.",
   "emoji": "🍗",
@@ -128,7 +128,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Parmesan",
@@ -140,7 +142,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -149,7 +152,9 @@
           "unit": "tbsp",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -162,7 +167,9 @@
       "pantry": false,
       "shelfLifeDays": 2,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Pinienkerne",
@@ -194,7 +201,8 @@
       "diet": "animal",
       "allergens": [
         "milk",
-        "nuts"
+        "nuts",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -204,7 +212,8 @@
           "category": "canned",
           "diet": "plant",
           "allergens": [
-            "nuts"
+            "nuts",
+            "histamine"
           ]
         }
       ]
@@ -258,13 +267,40 @@
   ],
   "steps": [
     {
-      "text": "Kochsahne, Hühnerbrühe, Pesto und 50 ml Wasser verrühren."
+      "text": "Kochsahne, Hühnerbrühe, Pesto und 50 ml Wasser verrühren.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Die Kirschtomaten waschen und halbieren."
+      "text": "Die Kirschtomaten waschen und halbieren.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Die Hähnchenbrust aufschneiden, aufklappen und mit Salz und Pfeffer würzen."
+      "text": "Die Hähnchenbrust aufschneiden, aufklappen und mit Salz und Pfeffer würzen.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Die Hähnchenbrust für 2x 9 Minuten bei 200 °C in den Airfryer geben.",
@@ -272,18 +308,47 @@
     },
     {
       "text": "Die Pinienkerne in einer Pfanne ohne Öl anrösten.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Die Gnocchi in einer Pfanne mit Öl anbraten und die Kirschtomaten dazugeben.",
-      "timerMinutes": 6
+      "timerMinutes": 6,
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "Die Soße in die Pfanne mit den Gnocchi geben. Spinat dazugeben, zusammenfallen lassen und mit Salz und Pfeffer abschmecken.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Alles auf Teller geben und mit Parmesan und den Pinienkernen servieren."
+      "text": "Alles auf Teller geben und mit Parmesan und den Pinienkernen servieren.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     }
   ]
 }

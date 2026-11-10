@@ -1,6 +1,6 @@
 {
   "id": "tantanmen-ramen",
-  "version": 1,
+  "version": 2,
   "title": "Tantanmen Ramen",
   "summary": "Creamy, spicy sesame ramen with steak strips, pak choi and marinated ramen eggs.",
   "emoji": "🍜",
@@ -37,7 +37,8 @@
       "diet": "plant",
       "allergens": [
         "gluten",
-        "soy"
+        "soy",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -47,7 +48,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         }
       ]
@@ -62,7 +64,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -72,7 +75,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -93,7 +97,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -124,7 +129,8 @@
       "diet": "plant",
       "allergens": [
         "gluten",
-        "soy"
+        "soy",
+        "histamine"
       ]
     },
     {
@@ -310,7 +316,8 @@
           "category": "dairy",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ],
           "shelfLifeDays": 14
         }
@@ -320,34 +327,107 @@
   "steps": [
     {
       "text": "The ramen eggs should sit in the marinade for 8 hours or more, so it's best to make them the day before. Boil the eggs (6–9 minutes, depending on how soft you like them).",
-      "timerMinutes": 7
+      "timerMinutes": 7,
+      "ingredients": [
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "Cool the eggs in an ice bath. Meanwhile, for the marinade, bring 60 ml soy sauce, the mirin, 60 ml water and the sugar to the boil in a small pot. As soon as it boils, turn the heat down and simmer for another minute.",
-      "timerMinutes": 1
+      "timerMinutes": 1,
+      "ingredients": [
+        {
+          "ingredient": 2,
+          "share": 0.6667
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
       "text": "Let the marinade cool and peel the eggs in the meantime. Carefully place the eggs in a small freezer bag, add the cooled marinade and squeeze out as much air as possible. Seal the bag and leave the eggs to marinate in the fridge."
     },
     {
       "text": "For the sesame paste, toast the sesame seeds and blend until creamy.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "For the seasoning paste, mix 4 tbsp sesame paste with the miso, 2 tbsp soy sauce, rice vinegar, chilli oil, gochujang, garlic and ginger. Fry briefly in a pot, deglaze with the chicken stock and oat drink, add the salt and bring to the boil.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2,
+          "share": 0.3333
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Blanch the pak choi.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
       "text": "Cook the noodles according to the package. Cut the spring onions into rings.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 16
+        }
+      ]
     },
     {
       "text": "Sear the steak briefly over high heat, let it rest and then cut into strips.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 17
+        }
+      ]
     },
     {
       "text": "Divide the noodles between bowls, pour over the broth and top with the pak choi, spring onions, halved ramen eggs and steak strips."

@@ -1,6 +1,6 @@
 {
   "id": "feta-pasta",
-  "version": 1,
+  "version": 2,
   "title": "Feta-Pasta",
   "summary": "Der Ofen-Klassiker: Feta und Kirschtomaten schmelzen zu einer cremigen Soße für Vollkornnudeln.",
   "emoji": "🍅",
@@ -50,7 +50,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Vollkornnudeln",
@@ -122,21 +124,53 @@
       "text": "Den Ofen auf 180 °C vorheizen."
     },
     {
-      "text": "Den Feta in eine Auflaufform geben. Knoblauch schälen und klein schneiden, Kirschtomaten halbieren."
+      "text": "Den Feta in eine Auflaufform geben. Knoblauch schälen und klein schneiden, Kirschtomaten halbieren.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Beides zum Feta in die Auflaufform geben, Olivenöl darüber träufeln und für 20 Minuten in den Ofen geben.",
-      "timerMinutes": 20
+      "timerMinutes": 20,
+      "ingredients": [
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Währenddessen Wasser in einem Topf aufkochen und die Nudeln darin kochen.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Die Auflaufform aus dem Ofen holen und alles mit einer Gabel zerdrücken."
     },
     {
-      "text": "Mit Salz, Pfeffer und italienischen Kräutern würzen."
+      "text": "Mit Salz, Pfeffer und italienischen Kräutern würzen.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
       "text": "Die Nudeln abgießen und in der Auflaufform mit der Soße vermischen."

@@ -1,6 +1,6 @@
 {
   "id": "rote-beete-feldsalat-mit-erdnusshahnchen",
-  "version": 1,
+  "version": 2,
   "title": "Rote-Bete-Feldsalat mit Erdnusshähnchen",
   "summary": "Feldsalat mit Roter Bete und Orangen-Dressing, dazu Linsen und Hähnchen in Erdnuss-Sesam-Kruste.",
   "emoji": "🥗",
@@ -129,7 +129,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -159,7 +160,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "peanuts"
+        "peanuts",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -169,7 +171,8 @@
           "category": "breakfast",
           "diet": "plant",
           "allergens": [
-            "nuts"
+            "nuts",
+            "histamine"
           ]
         },
         {
@@ -193,7 +196,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -203,7 +207,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -254,21 +259,76 @@
   ],
   "steps": [
     {
-      "text": "Den Feldsalat waschen und auf 2 Teller verteilen. Die Rote Bete schneiden und ebenfalls auf die beiden Teller verteilen."
+      "text": "Den Feldsalat waschen und auf 2 Teller verteilen. Die Rote Bete schneiden und ebenfalls auf die beiden Teller verteilen.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Ein Dressing aus Weißweinessig, Olivenöl, Pfeffer, Salz, Honig, frisch gepresstem Orangensaft und Wasser anrühren und über die Teller verteilen."
+      "text": "Ein Dressing aus Weißweinessig, Olivenöl, Pfeffer, Salz, Honig, frisch gepresstem Orangensaft und Wasser anrühren und über die Teller verteilen.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Öl in einer Pfanne erhitzen, das Hähnchen in kleine Würfel schneiden und scharf anbraten.",
-      "timerMinutes": 6
+      "timerMinutes": 6,
+      "ingredients": [
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Währenddessen die Linsen in einem Topf erhitzen.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
-      "text": "Das Hähnchen in der Pfanne mit Sojasoße ablöschen, dann die Erdnussbutter dazugeben und umrühren, bis alles gleichmäßig verteilt ist. Jetzt noch den Sesam dazugeben und weiterrühren."
+      "text": "Das Hähnchen in der Pfanne mit Sojasoße ablöschen, dann die Erdnussbutter dazugeben und umrühren, bis alles gleichmäßig verteilt ist. Jetzt noch den Sesam dazugeben und weiterrühren.",
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "Die Linsen auf die Teller verteilen und das Hähnchen obendrauf geben."

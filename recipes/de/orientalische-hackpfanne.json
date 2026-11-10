@@ -1,6 +1,6 @@
 {
   "id": "orientalische-hackpfanne",
-  "version": 1,
+  "version": 2,
   "title": "Orientalische Hackpfanne mit Joghurt-Dip",
   "summary": "Würzige Hackpfanne mit Paprika, Kichererbsen und Feta, dazu ein frischer Knoblauch-Joghurt-Dip.",
   "emoji": "🌶️",
@@ -169,7 +169,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Honig",
@@ -218,29 +220,99 @@
   ],
   "steps": [
     {
-      "text": "Zwiebel, Knoblauch, Paprika und Chili klein schneiden."
+      "text": "Zwiebel, Knoblauch, Paprika und Chili klein schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Öl in einer Pfanne erhitzen und die Zwiebel glasig anbraten.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "Hackfleisch dazugeben und krümelig anbraten.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Paprika, die Hälfte vom Knoblauch und die Chili dazugeben und anbraten.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 7,
+          "share": 0.5
+        }
+      ]
     },
     {
       "text": "Tomatenmark, Paprikapulver, Pfeffer und Salz dazugeben. Nach zwei Minuten 75 ml Wasser dazugießen und aufkochen lassen.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
-      "text": "Kichererbsen und klein geschnittenen Feta unterrühren."
+      "text": "Kichererbsen und klein geschnittenen Feta unterrühren.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
-      "text": "Für den Dip den Joghurt mit dem restlichen Knoblauch, Honig und Schnittlauch verrühren und mit Pfeffer und Salz abschmecken."
+      "text": "Für den Dip den Joghurt mit dem restlichen Knoblauch, Honig und Schnittlauch verrühren und mit Pfeffer und Salz abschmecken.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 7,
+          "share": 0.5
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 14
+        }
+      ]
     }
   ]
 }

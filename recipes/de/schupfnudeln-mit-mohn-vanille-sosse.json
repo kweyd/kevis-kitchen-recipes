@@ -1,6 +1,6 @@
 {
   "id": "schupfnudeln-mit-mohn-vanille-sosse",
-  "version": 1,
+  "version": 2,
   "title": "Schupfnudeln mit Mohn-Vanille-Soße",
   "summary": "Karamellisierte Schupfnudeln mit Mohn auf Vanillesoße und Pflaumenmus – Dessert als Hauptgericht.",
   "emoji": "🥟",
@@ -155,20 +155,48 @@
   "steps": [
     {
       "text": "Butter in einer Pfanne erhitzen und die Schupfnudeln darin rundherum goldbraun anbraten.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Mit dem Ahornsirup die Schupfnudeln karamellisieren.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
-      "text": "Anschließend mit dem Mohn bestreuen und gut umrühren."
+      "text": "Anschließend mit dem Mohn bestreuen und gut umrühren.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Vanillesoße auf die Teller aufteilen und die Schupfnudeln darüber verteilen."
+      "text": "Vanillesoße auf die Teller aufteilen und die Schupfnudeln darüber verteilen.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Mit dem Pflaumenmus garnieren."
+      "text": "Mit dem Pflaumenmus garnieren.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     }
   ]
 }

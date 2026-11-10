@@ -1,6 +1,6 @@
 {
   "id": "bestis-bifteki-mit-tomatenreis-und-tzatziki",
-  "version": 1,
+  "version": 2,
   "title": "Besti's Bifteki mit Tomatenreis und Tzatziki",
   "summary": "Griechische Hackfleisch-Bifteki mit Feta-Füllung aus dem Airfryer, dazu saftiger Tomatenreis und frisches Tzatziki.",
   "emoji": "🧆",
@@ -307,7 +307,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Tomatenmark",
@@ -317,7 +319,9 @@
       "pantry": true,
       "note": "ca. 20 g",
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Gemüsebrühe",
@@ -345,31 +349,120 @@
   "steps": [
     {
       "text": "Die Brotreste klein schneiden und in der Milch einweichen. Die Zwiebel schälen, fein würfeln und im Öl glasig dünsten. Anschließend etwas abkühlen lassen.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "Petersilie und Rosmarin fein hacken. Mit Hackfleisch, Zwiebel, Ei, eingeweichtem Brot, Kreuzkümmel, Salz und Pfeffer gründlich vermengen. Die Masse abgedeckt etwa 1 Stunde im Kühlschrank ruhen lassen.",
-      "timerMinutes": 60
+      "timerMinutes": 60,
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Währenddessen das Tzatziki vorbereiten: Die Gurke schälen, entkernen und fein raspeln. In einem sauberen Küchentuch kräftig ausdrücken."
+      "text": "Währenddessen das Tzatziki vorbereiten: Die Gurke schälen, entkernen und fein raspeln. In einem sauberen Küchentuch kräftig ausdrücken.",
+      "ingredients": [
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
-      "text": "Knoblauch schälen und fein hacken oder pressen. Dill hacken. Beides mit Gurke und Joghurt verrühren. Mit etwas Zitronenabrieb, Zitronensaft, Salz und Pfeffer abschmecken. Bis zum Servieren kalt stellen."
+      "text": "Knoblauch schälen und fein hacken oder pressen. Dill hacken. Beides mit Gurke und Joghurt verrühren. Mit etwas Zitronenabrieb, Zitronensaft, Salz und Pfeffer abschmecken. Bis zum Servieren kalt stellen.",
+      "ingredients": [
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Für den Tomatenreis den Reis in einem Sieb abspülen. Mit passierten Tomaten, Tomatenmark und Gemüsebrühe in einen Topf geben und aufkochen. Zugedeckt bei kleiner Hitze etwa 15–20 Minuten garen (Garzeit auf der Reispackung beachten). Gelegentlich umrühren und bei Bedarf etwas Brühe ergänzen.",
-      "timerMinutes": 20
+      "timerMinutes": 20,
+      "ingredients": [
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 18
+        },
+        {
+          "ingredient": 19
+        },
+        {
+          "ingredient": 20
+        }
+      ]
     },
     {
-      "text": "Den Feta in vier Stücke schneiden. Die Hackmasse in vier Portionen teilen, jeweils flach drücken und ein Stück Feta hineinlegen. Die Hackmasse darum verschließen, sodass der Käse vollständig bedeckt ist."
+      "text": "Den Feta in vier Stücke schneiden. Die Hackmasse in vier Portionen teilen, jeweils flach drücken und ein Stück Feta hineinlegen. Die Hackmasse darum verschließen, sodass der Käse vollständig bedeckt ist.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Die Bifteki im Airfryer bei 180 °C etwa 16 Minuten garen, je nach Dicke gegebenenfalls länger, bis sie vollständig durchgegart sind. Alternativ in einer Pfanne mit etwas zusätzlichem Öl von beiden Seiten braten.",
       "timerMinutes": 16
     },
     {
-      "text": "Den Tomatenreis mit Salz und Pfeffer abschmecken. Zusammen mit den Bifteki und dem Tzatziki auf vier Portionen verteilen und servieren."
+      "text": "Den Tomatenreis mit Salz und Pfeffer abschmecken. Zusammen mit den Bifteki und dem Tzatziki auf vier Portionen verteilen und servieren.",
+      "ingredients": [
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     }
   ]
 }

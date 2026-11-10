@@ -1,6 +1,6 @@
 {
   "id": "nudeln-mit-hahnchenbrustfilet-und-parmesan",
-  "version": 1,
+  "version": 2,
   "title": "Nudeln mit Hähnchenbrustfilet und Parmesan",
   "summary": "Tagliatelle in cremiger Knoblauch-Kräuter-Soße mit Parmesan-Hähnchen.",
   "emoji": "🧀",
@@ -90,7 +90,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -99,7 +100,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -266,10 +269,36 @@
   "steps": [
     {
       "text": "Die Nudeln in einem Topf kochen.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Das Hähnchenbrustfilet in Stücke schneiden und in einer Schüssel mit Olivenöl, einem Drittel des Parmesans, Paprikapulver, Pfeffer und Salz marinieren."
+      "text": "Das Hähnchenbrustfilet in Stücke schneiden und in einer Schüssel mit Olivenöl, einem Drittel des Parmesans, Paprikapulver, Pfeffer und Salz marinieren.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 2,
+          "share": 0.3333
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "Das Hähnchen in einer Pfanne von allen Seiten scharf anbraten und dann aus der Pfanne nehmen.",
@@ -277,13 +306,47 @@
     },
     {
       "text": "Den Knoblauch kleinschneiden und mit etwas Öl in derselben Pfanne anbraten.",
-      "timerMinutes": 1
+      "timerMinutes": 1,
+      "ingredients": [
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
-      "text": "Mit der Kochsahne ablöschen und Petersilie, Basilikum, Kräuterfrischkäse und den restlichen Parmesan dazugeben."
+      "text": "Mit der Kochsahne ablöschen und Petersilie, Basilikum, Kräuterfrischkäse und den restlichen Parmesan dazugeben.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 2,
+          "share": 0.6667
+        }
+      ]
     },
     {
-      "text": "Mit Salz und Pfeffer abschmecken und die Nudeln nach dem Abgießen mit in die Pfanne geben."
+      "text": "Mit Salz und Pfeffer abschmecken und die Nudeln nach dem Abgießen mit in die Pfanne geben.",
+      "ingredients": [
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Zusammen mit dem Hähnchen servieren."

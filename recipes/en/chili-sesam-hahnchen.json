@@ -1,6 +1,6 @@
 {
   "id": "chili-sesam-hahnchen",
-  "version": 1,
+  "version": 2,
   "title": "Chili Sesame Chicken",
   "summary": "Spicy air-fried sesame chicken with butter rice, pan-fried vegetables and ajvar chili mayo.",
   "emoji": "🌶️",
@@ -91,7 +91,9 @@
       "category": "spices",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Rice",
@@ -239,14 +241,49 @@
   ],
   "steps": [
     {
-      "text": "Cut the chicken breast into small pieces. Peel and press the garlic."
+      "text": "Cut the chicken breast into small pieces. Peel and press the garlic.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
-      "text": "Marinate the chicken with 15 ml olive oil, the garlic, chili powder, paprika and one tablespoon of sesame seeds."
+      "text": "Marinate the chicken with 15 ml olive oil, the garlic, chili powder, paprika and one tablespoon of sesame seeds.",
+      "ingredients": [
+        {
+          "ingredient": 3,
+          "share": 0.75
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 1,
+          "share": 0.3333
+        },
+        {
+          "ingredient": 16
+        }
+      ]
     },
     {
       "text": "Cook the rice together with the butter in a pot.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Cook the marinated chicken in the air fryer at 200 °C for 18 minutes, turning halfway.",
@@ -254,13 +291,51 @@
     },
     {
       "text": "Chop the pepper, onion and mushrooms. Fry everything in a pan with a little oil.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 15
+        }
+      ]
     },
     {
-      "text": "Mix the ajvar with the mayonnaise, 5 ml olive oil and the crispy chili oil."
+      "text": "Mix the ajvar with the mayonnaise, 5 ml olive oil and the crispy chili oil.",
+      "ingredients": [
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 3,
+          "share": 0.25
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
-      "text": "Slice the spring onion and serve everything together, sprinkled with the remaining sesame seeds."
+      "text": "Slice the spring onion and serve everything together, sprinkled with the remaining sesame seeds.",
+      "ingredients": [
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 1,
+          "share": 0.6667
+        }
+      ]
     }
   ]
 }

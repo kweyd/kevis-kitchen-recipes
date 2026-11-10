@@ -1,6 +1,6 @@
 {
   "id": "kartoffel-linsen-salat",
-  "version": 1,
+  "version": 2,
   "title": "Kartoffel-Linsen-Salat",
   "summary": "Warmer Salat aus Ofenkartoffeln, roten Linsen und Babyspinat mit Honig-Senf-Dressing.",
   "emoji": "🥔",
@@ -26,7 +26,9 @@
       "pantry": false,
       "shelfLifeDays": 2,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Kartoffeln",
@@ -125,7 +127,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -175,13 +178,33 @@
   ],
   "steps": [
     {
-      "text": "Kartoffeln waschen und in mundgerechte Stücke schneiden."
+      "text": "Kartoffeln waschen und in mundgerechte Stücke schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Den Ofen auf 220 °C vorheizen."
     },
     {
-      "text": "Die Kartoffeln in einer Schüssel mit 2 EL Olivenöl, gehacktem Knoblauch, Paprikapulver und Rosmarin marinieren."
+      "text": "Die Kartoffeln in einer Schüssel mit 2 EL Olivenöl, gehacktem Knoblauch, Paprikapulver und Rosmarin marinieren.",
+      "ingredients": [
+        {
+          "ingredient": 7,
+          "share": 0.3333
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "Die Kartoffeln auf einem Backblech mit Backpapier verteilen und für 25 Minuten in den Ofen geben.",
@@ -189,16 +212,55 @@
     },
     {
       "text": "Die Linsen mit 300 ml Wasser in einen Topf geben und 20 Minuten kochen lassen.",
-      "timerMinutes": 20
+      "timerMinutes": 20,
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
-      "text": "Linsen und Kartoffeln in eine Schüssel geben und klein gehackten Dill und Petersilie darüber streuen."
+      "text": "Linsen und Kartoffeln in eine Schüssel geben und klein gehackten Dill und Petersilie darüber streuen.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
-      "text": "Den Spinat dazugeben."
+      "text": "Den Spinat dazugeben.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Für das Dressing das restliche Olivenöl mit Honig, Senf, Balsamico, Pfeffer und Salz vermischen und über den Salat geben."
+      "text": "Für das Dressing das restliche Olivenöl mit Honig, Senf, Balsamico, Pfeffer und Salz vermischen und über den Salat geben.",
+      "ingredients": [
+        {
+          "ingredient": 7,
+          "share": 0.6667
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     }
   ]
 }

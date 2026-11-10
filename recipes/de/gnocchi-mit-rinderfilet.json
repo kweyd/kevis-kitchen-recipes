@@ -1,6 +1,6 @@
 {
   "id": "gnocchi-mit-rinderfilet",
-  "version": 1,
+  "version": 2,
   "title": "Gnocchi mit Rinderfilet",
   "summary": "Zartes Rinderfilet auf cremigen Champignon-Gnocchi – fast wie im Restaurant.",
   "emoji": "🥩",
@@ -187,22 +187,66 @@
   "steps": [
     {
       "text": "Schalotten und Champignons kleinschneiden und in einer Pfanne mit etwas Öl anbraten.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Die Gnocchi und die Rinderbrühe dazugeben und köcheln lassen.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
       "text": "Das Rinderfilet mit Pfeffer und Salz würzen und 2 Minuten von allen Seiten scharf anbraten.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "Anschließend für 10 Minuten bei 150 °C in den Airfryer geben.",
       "timerMinutes": 10
     },
     {
-      "text": "Die Kochsahne in die Pfanne mit den Champignons geben und mit Pfeffer, Salz und Petersilie abschmecken."
+      "text": "Die Kochsahne in die Pfanne mit den Champignons geben und mit Pfeffer, Salz und Petersilie abschmecken.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Das Rinderfilet in Scheiben schneiden und auf den Gnocchi servieren."

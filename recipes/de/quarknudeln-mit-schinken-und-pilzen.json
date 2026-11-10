@@ -1,6 +1,6 @@
 {
   "id": "quarknudeln-mit-schinken-und-pilzen",
-  "version": 1,
+  "version": 2,
   "title": "Quarknudeln mit Schinken und Pilzen",
   "summary": "Proteinreiche Vollkornnudeln mit Speck, Champignons und cremiger Quarksoße, getoppt mit Röstzwiebeln.",
   "emoji": "🍄",
@@ -91,7 +91,9 @@
       "pantry": false,
       "note": "gewürfelt",
       "diet": "meat",
-      "allergens": [],
+      "allergens": [
+        "histamine"
+      ],
       "alternatives": [
         {
           "name": "Räuchertofu",
@@ -100,7 +102,8 @@
           "category": "dairy",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ],
           "shelfLifeDays": 14
         }
@@ -158,24 +161,56 @@
   "steps": [
     {
       "text": "Die Nudeln in einem Topf kochen.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Den Speck in einer Pfanne anbraten und parallel dazu die Champignons in Scheiben schneiden.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Die Champignons in die Pfanne geben und mitbraten.",
       "timerMinutes": 5
     },
     {
-      "text": "Den Magerquark dazugeben und mit Pfeffer und Salz würzen."
+      "text": "Den Magerquark dazugeben und mit Pfeffer und Salz würzen.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Die Nudeln abgießen, in die Pfanne geben und alles umrühren."
     },
     {
-      "text": "Petersilie und Röstzwiebeln darüber geben."
+      "text": "Petersilie und Röstzwiebeln darüber geben.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     }
   ]
 }

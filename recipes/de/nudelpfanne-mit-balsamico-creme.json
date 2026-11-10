@@ -1,6 +1,6 @@
 {
   "id": "nudelpfanne-mit-balsamico-creme",
-  "version": 1,
+  "version": 2,
   "title": "Nudelpfanne mit Balsamico-Creme",
   "summary": "Leichte Spaghetti-Pfanne mit Tomaten, Spinat, gerösteter Zitrone und Balsamico.",
   "emoji": "🍅",
@@ -47,7 +47,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Spinat",
@@ -57,7 +59,9 @@
       "pantry": false,
       "shelfLifeDays": 2,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Zitrone",
@@ -173,7 +177,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ]
     },
     {
@@ -188,28 +193,82 @@
   "steps": [
     {
       "text": "Die Nudeln in einem Topf kochen.",
-      "timerMinutes": 9
+      "timerMinutes": 9,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Zwiebel und Knoblauch schälen und kleinschneiden, Spinat waschen und Tomaten vierteln."
+      "text": "Zwiebel und Knoblauch schälen und kleinschneiden, Spinat waschen und Tomaten vierteln.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "In einer Pfanne Olivenöl erhitzen und die halbierte Zitrone 3 Minuten anrösten.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Die Zitrone aus der Pfanne nehmen und die Zwiebeln anbraten.",
       "timerMinutes": 2
     },
     {
-      "text": "Knoblauch, Pinienkerne, Paprikapulver, italienische Kräuter und Honig dazugeben."
+      "text": "Knoblauch, Pinienkerne, Paprikapulver, italienische Kräuter und Honig dazugeben.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Die Nudeln abgießen und zusammen mit Balsamico-Creme, Spinat und Tomaten in die Pfanne geben und 5 Minuten kochen lassen. Mit Salz abschmecken.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
-      "text": "Mit Chilipulver und den Zitronenhälften servieren."
+      "text": "Mit Chilipulver und den Zitronenhälften servieren.",
+      "ingredients": [
+        {
+          "ingredient": 11
+        }
+      ]
     }
   ]
 }

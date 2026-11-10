@@ -1,6 +1,6 @@
 {
   "id": "grunes-shashuka",
-  "version": 1,
+  "version": 2,
   "title": "Grünes Shakshuka",
   "summary": "Eier in Spinat, Erbsen und weißen Bohnen mit Feta, dazu knuspriges Knoblauch-Ciabatta.",
   "emoji": "🍳",
@@ -26,7 +26,9 @@
       "category": "frozen",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Erbsen",
@@ -237,28 +239,98 @@
   ],
   "steps": [
     {
-      "text": "Zwiebel und Knoblauch schälen und klein hacken."
+      "text": "Zwiebel und Knoblauch schälen und klein hacken.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 5,
+          "share": 0.8
+        }
+      ]
     },
     {
       "text": "In einer Pfanne Öl erhitzen und das Paprikapulver ins Öl mischen. Zwiebel und Knoblauch darin anbraten.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Jetzt den TK-Spinat und die Erbsen in die Pfanne geben und auftauen lassen.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Die Lauchzwiebeln klein schneiden und mit den weißen Bohnen in die Pfanne geben. Mit Petersilie, Pfeffer und Salz würzen."
+      "text": "Die Lauchzwiebeln klein schneiden und mit den weißen Bohnen in die Pfanne geben. Mit Petersilie, Pfeffer und Salz würzen.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
-      "text": "4 Kuhlen in der Pfanne freimachen und in jede ein Ei schlagen."
+      "text": "4 Kuhlen in der Pfanne freimachen und in jede ein Ei schlagen.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Den Feta darüberbröseln, einen Deckel auf die Pfanne setzen und alles 10 Minuten bei mittlerer Temperatur garen.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
-      "text": "Währenddessen das Ciabatta toasten und mit Butter, Knoblauch, Salz und Schnittlauch belegen."
+      "text": "Währenddessen das Ciabatta toasten und mit Butter, Knoblauch, Salz und Schnittlauch belegen.",
+      "ingredients": [
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 5,
+          "share": 0.2
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 15
+        }
+      ]
     }
   ]
 }

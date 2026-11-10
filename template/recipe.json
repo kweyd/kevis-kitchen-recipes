@@ -32,7 +32,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": ["soy"]
+          "allergens": [
+            "soy"
+          ]
         }
       ]
     },
@@ -67,14 +69,32 @@
   "steps": [
     {
       "text": "Cook the rice according to the package instructions.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Dice the onion and the chicken. Fry both in a pan until golden.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Season with salt and serve with the rice."
+      "text": "Season with salt and serve with the rice.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "huhnersuppe",
-  "version": 1,
+  "version": 2,
   "title": "Hühnersuppe",
   "summary": "Wärmende Hühnersuppe mit viel Gemüse und Buchstabennudeln – wie früher bei Oma.",
   "emoji": "🍲",
@@ -96,7 +96,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Knoblauch",
@@ -246,28 +248,90 @@
   ],
   "steps": [
     {
-      "text": "Knoblauch schälen und klein hacken."
+      "text": "Knoblauch schälen und klein hacken.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
-      "text": "Champignons vierteln. Sellerie und Karotten schälen und klein schneiden. Porree in Ringe und die Hähnchenbrustfilets klein schneiden."
+      "text": "Champignons vierteln. Sellerie und Karotten schälen und klein schneiden. Porree in Ringe und die Hähnchenbrustfilets klein schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Zuerst den Knoblauch in etwas Öl andünsten und dann das Tomatenmark dazugeben.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Mit der Brühe ablöschen und aufkochen lassen."
+      "text": "Mit der Brühe ablöschen und aufkochen lassen.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Hähnchenflügel, Kräuter der Provence, Paprikapulver, Porree, Champignons, Karotten, Knollensellerie und die Hähnchenbrustfilets dazugeben und insgesamt 25 Minuten kochen lassen.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "Die letzten 10 Minuten die Buchstabennudeln dazugeben.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Lauchzwiebel in Ringe schneiden. Die Suppe mit Pfeffer und Salz abschmecken und mit Lauchzwiebeln servieren."
+      "text": "Lauchzwiebel in Ringe schneiden. Die Suppe mit Pfeffer und Salz abschmecken und mit Lauchzwiebeln servieren.",
+      "ingredients": [
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 14
+        }
+      ]
     }
   ]
 }

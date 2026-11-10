@@ -1,6 +1,6 @@
 {
   "id": "chili-oil-rice",
-  "version": 1,
+  "version": 2,
   "title": "Chilli Oil Rice",
   "summary": "Quick rice with peas, spring onions and garlic in sizzling chilli oil.",
   "emoji": "🌶️",
@@ -94,7 +94,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -104,7 +105,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -125,7 +127,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -142,17 +145,49 @@
   "steps": [
     {
       "text": "Cook the rice.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Cut the spring onions into rings. Peel and finely chop the garlic and put everything in a bowl."
+      "text": "Cut the spring onions into rings. Peel and finely chop the garlic and put everything in a bowl.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Heat the oil in a small pot and pour it into the bowl. Mix with the crispy chilli, soy sauce and rice wine vinegar."
+      "text": "Heat the oil in a small pot and pour it into the bowl. Mix with the crispy chilli, soy sauce and rice wine vinegar.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Warm the peas with the rice for the last few minutes of cooking.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Combine everything and stir well."

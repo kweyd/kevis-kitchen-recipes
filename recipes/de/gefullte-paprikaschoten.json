@@ -1,6 +1,6 @@
 {
   "id": "gefullte-paprikaschoten",
-  "version": 1,
+  "version": 2,
   "title": "Gefüllte Paprikaschoten",
   "summary": "Paprika gefüllt mit Hackfleisch und Reis, im Ofen in Tomatensoße mit Käse überbacken.",
   "emoji": "🫑",
@@ -122,7 +122,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Gemüsebrühe",
@@ -152,7 +154,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Gratinkäse (gerieben)",
@@ -196,17 +200,55 @@
   ],
   "steps": [
     {
-      "text": "Paprika waschen, Deckel abschneiden und innen aushöhlen."
+      "text": "Paprika waschen, Deckel abschneiden und innen aushöhlen.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Reis kochen.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Währenddessen die Zwiebel und den Knoblauch schälen und klein hacken. Die Chili klein schneiden."
+      "text": "Währenddessen die Zwiebel und den Knoblauch schälen und klein hacken. Die Chili klein schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Alles mit dem gekochten Reis, dem Hackfleisch, den Eiern und der Petersilie vermischen und mit Salz und Pfeffer würzen."
+      "text": "Alles mit dem gekochten Reis, dem Hackfleisch, den Eiern und der Petersilie vermischen und mit Salz und Pfeffer würzen.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
       "text": "Den Ofen auf 160 °C vorheizen."
@@ -217,7 +259,21 @@
     },
     {
       "text": "Die passierten Tomaten mit Gemüsebrühe und Tomatenmark vermischen und für die letzten 15 Minuten mit in die Form geben. Den Käse darüberstreuen.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     }
   ]
 }

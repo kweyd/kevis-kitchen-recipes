@@ -1,6 +1,6 @@
 {
   "id": "bestis-schweinelende-mit-aepfeln-und-kaese-ueberbacken",
-  "version": 1,
+  "version": 2,
   "title": "Besti's Schweinelende mit Äpfeln und Käse überbacken",
   "summary": "Angebratene Schweinelende mit Äpfeln und Zwiebeln in einer würzigen Curry-Senf-Sahne, mit Käse goldbraun überbacken.",
   "emoji": "🥘",
@@ -144,7 +144,8 @@
       "diet": "plant",
       "allergens": [
         "mustard",
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -221,20 +222,69 @@
       "text": "Den Backofen auf 225 °C Ober-/Unterhitze vorheizen."
     },
     {
-      "text": "Die Schweinelende von Sehnen und Silberhaut befreien, in dicke Scheiben schneiden und salzen. In etwas Öl scharf anbraten."
+      "text": "Die Schweinelende von Sehnen und Silberhaut befreien, in dicke Scheiben schneiden und salzen. In etwas Öl scharf anbraten.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
-      "text": "Die Äpfel schälen, entkernen und in Scheiben schneiden. Die Zwiebel schälen und ebenfalls in Scheiben schneiden."
+      "text": "Die Äpfel schälen, entkernen und in Scheiben schneiden. Die Zwiebel schälen und ebenfalls in Scheiben schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
-      "text": "Die angebratenen Fleischscheiben pfeffern und zusammen mit den Zwiebeln und Äpfeln in eine Auflaufform schichten. Rosmarin nach Geschmack dazugeben."
+      "text": "Die angebratenen Fleischscheiben pfeffern und zusammen mit den Zwiebeln und Äpfeln in eine Auflaufform schichten. Rosmarin nach Geschmack dazugeben.",
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
-      "text": "Die Sahne mit Ketchup, Senf, Mehl und Currypulver gut verrühren. Über die geschichteten Zutaten gießen."
+      "text": "Die Sahne mit Ketchup, Senf, Mehl und Currypulver gut verrühren. Über die geschichteten Zutaten gießen.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Mit geriebenem Käse bedecken und im vorgeheizten Ofen etwa 30 Minuten backen.",
-      "timerMinutes": 30
+      "timerMinutes": 30,
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     }
   ]
 }

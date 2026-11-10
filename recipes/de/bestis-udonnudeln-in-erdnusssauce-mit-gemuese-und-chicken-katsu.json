@@ -1,6 +1,6 @@
 {
   "id": "bestis-udonnudeln-in-erdnusssauce-mit-gemuese-und-chicken-katsu",
-  "version": 1,
+  "version": 2,
   "title": "Besti's Udonnudeln in Erdnusssauce mit Gemüse und Chicken Katsu",
   "summary": "Dicke Udonnudeln in cremiger Erdnusssauce mit Teriyaki-Möhren aus dem Airfryer und knusprigem Chicken Katsu.",
   "emoji": "🍜",
@@ -35,7 +35,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "peanuts"
+        "peanuts",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -45,7 +46,8 @@
           "category": "breakfast",
           "diet": "plant",
           "allergens": [
-            "nuts"
+            "nuts",
+            "histamine"
           ]
         },
         {
@@ -69,7 +71,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -79,7 +82,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -323,32 +327,109 @@
   ],
   "steps": [
     {
-      "text": "Für die Erdnusssauce eine Knoblauchzehe schälen und fein hacken oder pressen. Mit Erdnussmus, Sojasauce, 5 g Honig sowie etwas Zitronenabrieb und Zitronensaft verrühren. Nach und nach Wasser hinzufügen, bis die Sauce cremig ist. Abschmecken und beiseitestellen."
+      "text": "Für die Erdnusssauce eine Knoblauchzehe schälen und fein hacken oder pressen. Mit Erdnussmus, Sojasauce, 5 g Honig sowie etwas Zitronenabrieb und Zitronensaft verrühren. Nach und nach Wasser hinzufügen, bis die Sauce cremig ist. Abschmecken und beiseitestellen.",
+      "ingredients": [
+        {
+          "ingredient": 3,
+          "share": 0.5
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 5,
+          "share": 0.5
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
-      "text": "Die Möhren schälen und in dünne Stifte oder Scheiben schneiden. Die Zwiebel schälen und in Spalten schneiden. Die zweite Knoblauchzehe schälen und fein hacken."
+      "text": "Die Möhren schälen und in dünne Stifte oder Scheiben schneiden. Die Zwiebel schälen und in Spalten schneiden. Die zweite Knoblauchzehe schälen und fein hacken.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 3,
+          "share": 0.5
+        }
+      ]
     },
     {
       "text": "Das Gemüse mit Knoblauch, 5 g Honig, Öl, Sesam und Teriyakisauce vermengen. Im Airfryer bei 150 °C etwa 14 Minuten garen. Zwischendurch wenden und bei Bedarf die Garzeit verlängern, bis die Möhren die gewünschte Bissfestigkeit haben.",
-      "timerMinutes": 14
+      "timerMinutes": 14,
+      "ingredients": [
+        {
+          "ingredient": 5,
+          "share": 0.5
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Die Hähnchenbrust in zwei möglichst gleich dicke Schnitzel schneiden und bei Bedarf etwas flach klopfen."
+      "text": "Die Hähnchenbrust in zwei möglichst gleich dicke Schnitzel schneiden und bei Bedarf etwas flach klopfen.",
+      "ingredients": [
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
-      "text": "Mehl, verquirltes Ei und Panko auf drei separate Teller geben. Das Hähnchen zuerst im Mehl, dann im Ei und zuletzt im Panko wenden. Die Panade leicht andrücken."
+      "text": "Mehl, verquirltes Ei und Panko auf drei separate Teller geben. Das Hähnchen zuerst im Mehl, dann im Ei und zuletzt im Panko wenden. Die Panade leicht andrücken.",
+      "ingredients": [
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 15
+        }
+      ]
     },
     {
-      "text": "Öl in einer tiefen Pfanne oder einem Topf erhitzen. Die Hähnchenschnitzel darin bei mittlerer bis hoher Hitze von beiden Seiten goldbraun frittieren, bis sie innen vollständig durchgegart sind. Auf Küchenpapier abtropfen lassen."
+      "text": "Öl in einer tiefen Pfanne oder einem Topf erhitzen. Die Hähnchenschnitzel darin bei mittlerer bis hoher Hitze von beiden Seiten goldbraun frittieren, bis sie innen vollständig durchgegart sind. Auf Küchenpapier abtropfen lassen.",
+      "ingredients": [
+        {
+          "ingredient": 16
+        }
+      ]
     },
     {
-      "text": "Währenddessen die Udonnudeln nach Packungsanweisung in heißem Wasser zubereiten und abgießen."
+      "text": "Währenddessen die Udonnudeln nach Packungsanweisung in heißem Wasser zubereiten und abgießen.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Die Erdnusssauce vorsichtig in einem Topf erwärmen. Mit den Udonnudeln vermengen und bei Bedarf etwas Wasser hinzufügen."
     },
     {
-      "text": "Das Chicken Katsu in Streifen schneiden. Die Nudeln und das Gemüse auf zwei Teller verteilen und das Hähnchen darauf anrichten."
+      "text": "Das Chicken Katsu in Streifen schneiden. Die Nudeln und das Gemüse auf zwei Teller verteilen und das Hähnchen darauf anrichten.",
+      "ingredients": [
+        {
+          "ingredient": 11
+        }
+      ]
     }
   ]
 }

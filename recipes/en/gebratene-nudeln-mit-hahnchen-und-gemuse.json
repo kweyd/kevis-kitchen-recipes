@@ -1,6 +1,6 @@
 {
   "id": "gebratene-nudeln-mit-hahnchen-und-gemuse",
-  "version": 1,
+  "version": 2,
   "title": "Fried Noodles with Chicken and Vegetables",
   "summary": "Mie noodles with marinated chicken, lots of crunchy vegetables and soy sauce – better than takeaway.",
   "emoji": "🍜",
@@ -157,7 +157,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -167,7 +168,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -288,33 +290,113 @@
   ],
   "steps": [
     {
-      "text": "Cut the chicken into thin strips."
+      "text": "Cut the chicken into thin strips.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Marinate the chicken in a bowl with 2 tbsp soy sauce, garlic powder, ginger, sesame oil and honey and leave for 30 minutes.",
-      "timerMinutes": 30
+      "timerMinutes": 30,
+      "ingredients": [
+        {
+          "ingredient": 9,
+          "share": 0.6667
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "Cook the chicken in the air fryer at 200 °C for 2× 9 minutes.",
       "timerMinutes": 18
     },
     {
-      "text": "Chop the spring onion, red and white onion and mushrooms. Cut the broccoli, carrots and pepper into bite-sized pieces."
+      "text": "Chop the spring onion, red and white onion and mushrooms. Cut the broccoli, carrots and pepper into bite-sized pieces.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Pour boiling water over the noodles and let them soak for 5 minutes.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Stir-fry the vegetables in a pan with a little oil. Season with chili powder, pepper, salt and 0.5 tbsp soy sauce.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 18
+        },
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 9,
+          "share": 0.1667
+        }
+      ]
     },
     {
       "text": "Toss the noodles with 0.5 tbsp soy sauce and briefly fry them in the pan.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 9,
+          "share": 0.1666
+        }
+      ]
     },
     {
-      "text": "Serve on plates with the chicken and sprinkle with spring onion and a few sesame seeds."
+      "text": "Serve on plates with the chicken and sprinkle with spring onion and a few sesame seeds.",
+      "ingredients": [
+        {
+          "ingredient": 15
+        }
+      ]
     }
   ]
 }

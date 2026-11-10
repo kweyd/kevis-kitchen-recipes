@@ -1,6 +1,6 @@
 {
   "id": "blumenkohl-curry",
-  "version": 1,
+  "version": 2,
   "title": "Cauliflower Curry",
   "summary": "Creamy coconut curry with cauliflower, sweet potato and chickpeas, served with a fresh parsley yoghurt.",
   "emoji": "🍛",
@@ -188,32 +188,85 @@
   ],
   "steps": [
     {
-      "text": "Peel and dice the sweet potatoes."
+      "text": "Peel and dice the sweet potatoes.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Lightly fry the curry paste in a pan and deglaze with the coconut milk.",
-      "timerMinutes": 1
+      "timerMinutes": 1,
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Add the sweet potatoes to the pan and cook with a lid on for 5 minutes.",
       "timerMinutes": 5
     },
     {
-      "text": "Wash the cauliflower and cut it into bite-sized florets."
+      "text": "Wash the cauliflower and cut it into bite-sized florets.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Add the cauliflower and stock to the pan and simmer uncovered for 15 minutes.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Drain and rinse the chickpeas. Add them to the pan and cook for another 10 minutes.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
-      "text": "Season with paprika, nutmeg, curry powder, marjoram and salt."
+      "text": "Season with paprika, nutmeg, curry powder, marjoram and salt.",
+      "ingredients": [
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
-      "text": "Chop the parsley, mix it with the yoghurt and serve with the curry."
+      "text": "Chop the parsley, mix it with the yoghurt and serve with the curry.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     }
   ]
 }

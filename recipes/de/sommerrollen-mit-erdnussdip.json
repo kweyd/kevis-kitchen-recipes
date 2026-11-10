@@ -1,6 +1,6 @@
 {
   "id": "sommerrollen-mit-erdnussdip",
-  "version": 1,
+  "version": 2,
   "title": "Sommerrollen mit Erdnussdip",
   "summary": "Knackige Sommerrollen mit buntem Gemüse und knusprigem Tofu, dazu ein cremiger Erdnussdip.",
   "emoji": "🥢",
@@ -127,7 +127,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -137,7 +138,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -197,7 +199,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -218,7 +221,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "peanuts"
+        "peanuts",
+        "histamine"
       ]
     },
     {
@@ -233,23 +237,83 @@
   ],
   "steps": [
     {
-      "text": "Paprika, Karotten, Rotkohl und Gurke in Streifen schneiden."
+      "text": "Paprika, Karotten, Rotkohl und Gurke in Streifen schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Den Tofu klein schneiden, mit etwas Öl besprühen und für 2x 8 Minuten bei 200 °C in den Airfryer geben.",
-      "timerMinutes": 16
+      "timerMinutes": 16,
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 15
+        }
+      ]
     },
     {
-      "text": "Für die Soße Knoblauch und Ingwer klein schneiden und die Limette auspressen."
+      "text": "Für die Soße Knoblauch und Ingwer klein schneiden und die Limette auspressen.",
+      "ingredients": [
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Alles mit Erdnussbutter, Honig, 3 EL Wasser, Kokosmilch, Sojasoße und Reisessig zu einer Soße verrühren."
+      "text": "Alles mit Erdnussbutter, Honig, 3 EL Wasser, Kokosmilch, Sojasoße und Reisessig zu einer Soße verrühren.",
+      "ingredients": [
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
-      "text": "Einen Teller mit lauwarmem Wasser bedecken und das Reispapier jeweils von beiden Seiten kurz aufweichen."
+      "text": "Einen Teller mit lauwarmem Wasser bedecken und das Reispapier jeweils von beiden Seiten kurz aufweichen.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Das Reispapier auf einem trockenen Teller mit Gemüse und Tofu belegen, mit Sesam bestreuen und aufrollen."
+      "text": "Das Reispapier auf einem trockenen Teller mit Gemüse und Tofu belegen, mit Sesam bestreuen und aufrollen.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "bestis-kartoffel-rote-bete-pueree-mit-birne-und-feta",
-  "version": 1,
+  "version": 2,
   "title": "Besti's Kartoffel-Rote-Bete-Püree mit Birne, karamellisierten Walnüssen und Feta",
   "summary": "Leuchtend pinkes Kartoffelpüree mit Roter Bete, getoppt mit hauchdünnen Birnenscheiben, Feta und karamellisierten Walnüssen.",
   "emoji": "🥔",
@@ -166,7 +166,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "nuts"
+        "nuts",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -225,28 +226,81 @@
   "steps": [
     {
       "text": "Die Kartoffeln in gleich große Stücke schneiden und in Salzwasser etwa 20 Minuten weich kochen.",
-      "timerMinutes": 20
+      "timerMinutes": 20,
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
-      "text": "Währenddessen die Walnüsse grob zerteilen. Den Zucker mit 1 TL Wasser in einer kleinen Pfanne erhitzen, bis er schmilzt und leicht goldbraun wird. Die Walnüsse unterrühren und anschließend auf Backpapier verteilen. Abkühlen lassen."
+      "text": "Währenddessen die Walnüsse grob zerteilen. Den Zucker mit 1 TL Wasser in einer kleinen Pfanne erhitzen, bis er schmilzt und leicht goldbraun wird. Die Walnüsse unterrühren und anschließend auf Backpapier verteilen. Abkühlen lassen.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Die Birne waschen, vierteln und entkernen. In sehr dünne Scheiben schneiden oder hobeln und mit Zitronensaft beträufeln. Wer mag, legt die Scheiben später überlappend zu einer Rose."
+      "text": "Die Birne waschen, vierteln und entkernen. In sehr dünne Scheiben schneiden oder hobeln und mit Zitronensaft beträufeln. Wer mag, legt die Scheiben später überlappend zu einer Rose.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
-      "text": "Die Rote Bete klein schneiden, mit der Milch in einem kleinen Topf erwärmen und anschließend fein pürieren."
+      "text": "Die Rote Bete klein schneiden, mit der Milch in einem kleinen Topf erwärmen und anschließend fein pürieren.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
-      "text": "Die Kartoffeln abgießen und kurz ausdampfen lassen. Mit der Butter zerstampfen oder durch eine Kartoffelpresse drücken."
+      "text": "Die Kartoffeln abgießen und kurz ausdampfen lassen. Mit der Butter zerstampfen oder durch eine Kartoffelpresse drücken.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Das warme Rote-Bete-Püree unter die Kartoffeln rühren. Mit Salz, Pfeffer und etwas Muskatnuss abschmecken. Bei Bedarf einen kleinen Schuss Wasser hinzufügen."
+      "text": "Das warme Rote-Bete-Püree unter die Kartoffeln rühren. Mit Salz, Pfeffer und etwas Muskatnuss abschmecken. Bei Bedarf einen kleinen Schuss Wasser hinzufügen.",
+      "ingredients": [
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "Das Püree auf zwei Tellern verstreichen. Die Birnenscheiben darauf anrichten."
     },
     {
-      "text": "Den Feta darüberbröseln und mit den karamellisierten Walnüssen bestreuen."
+      "text": "Den Feta darüberbröseln und mit den karamellisierten Walnüssen bestreuen.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        }
+      ]
     }
   ]
 }

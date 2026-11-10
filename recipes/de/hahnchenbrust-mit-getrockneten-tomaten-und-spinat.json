@@ -1,6 +1,6 @@
 {
   "id": "hahnchenbrust-mit-getrockneten-tomaten-und-spinat",
-  "version": 1,
+  "version": 2,
   "title": "Hähnchenbrust mit getrockneten Tomaten und Spinat",
   "summary": "Hähnchen in cremiger Parmesan-Sahnesoße mit getrockneten Tomaten und Spinat, dazu Reis.",
   "emoji": "🍅",
@@ -54,7 +54,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Spinat",
@@ -64,7 +66,9 @@
       "pantry": false,
       "shelfLifeDays": 2,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Parmesan",
@@ -75,7 +79,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -84,7 +89,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -231,24 +238,89 @@
   "steps": [
     {
       "text": "Reis waschen und kochen.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Zwiebel und Knoblauch schälen und klein hacken."
+      "text": "Zwiebel und Knoblauch schälen und klein hacken.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Hähnchenbrust in mundgerechte Stücke schneiden, mit etwas Öl, Pfeffer und Salz marinieren und für 2x 8 Minuten bei 200 °C in den Airfryer geben.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 8,
+          "share": 0.5
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
       "text": "In einer Pfanne etwas Öl erhitzen. Zwiebel und Knoblauch leicht anbraten, dann den gewaschenen Spinat und die abgetropften getrockneten Tomaten in die Pfanne geben.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 8,
+          "share": 0.5
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Nach ein paar Minuten mit Gemüsebrühe ablöschen. Die Sahne und das Hähnchen mit in die Pfanne geben."
+      "text": "Nach ein paar Minuten mit Gemüsebrühe ablöschen. Die Sahne und das Hähnchen mit in die Pfanne geben.",
+      "ingredients": [
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
-      "text": "Mit Oregano, Basilikum, Pfeffer und Salz abschmecken. Den Parmesan in die Pfanne reiben."
+      "text": "Mit Oregano, Basilikum, Pfeffer und Salz abschmecken. Den Parmesan in die Pfanne reiben.",
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Reis auf die Teller verteilen und den Pfanneninhalt darübergeben."

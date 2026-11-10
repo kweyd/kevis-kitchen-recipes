@@ -1,6 +1,6 @@
 {
   "id": "reissalat-mit-rote-beete",
-  "version": 1,
+  "version": 2,
   "title": "Reissalat mit Roter Bete",
   "summary": "Bunter Reissalat mit Roter Bete, Apfel, Avocado und Ziegenkäse, angemacht mit rotem Pesto.",
   "emoji": "🥗",
@@ -100,7 +100,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Rotes Pesto",
@@ -112,7 +114,8 @@
       "diet": "animal",
       "allergens": [
         "milk",
-        "nuts"
+        "nuts",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -122,7 +125,8 @@
           "category": "canned",
           "diet": "plant",
           "allergens": [
-            "nuts"
+            "nuts",
+            "histamine"
           ]
         }
       ]
@@ -131,13 +135,43 @@
   "steps": [
     {
       "text": "Den Reis nach Packungsanleitung kochen und etwas abkühlen lassen.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Apfel, Avocado, Rote Bete, Gurke, Salat und Ziegenkäse in kleine Stücke schneiden."
+      "text": "Apfel, Avocado, Rote Bete, Gurke, Salat und Ziegenkäse in kleine Stücke schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
-      "text": "Alles mit dem Reis und dem Pesto vermischen und anrichten."
+      "text": "Alles mit dem Reis und dem Pesto vermischen und anrichten.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        }
+      ]
     }
   ]
 }

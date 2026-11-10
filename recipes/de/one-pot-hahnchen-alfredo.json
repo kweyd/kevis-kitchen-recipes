@@ -1,6 +1,6 @@
 {
   "id": "one-pot-hahnchen-alfredo",
-  "version": 1,
+  "version": 2,
   "title": "One-Pot-Hähnchen-Alfredo",
   "summary": "Cremige Bandnudeln mit Hähnchen, Parmesan und einem Spritzer Zitrone – alles aus einem Topf.",
   "emoji": "🍝",
@@ -168,7 +168,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -177,7 +178,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -239,21 +242,64 @@
   ],
   "steps": [
     {
-      "text": "Hähnchen in mundgerechte Stücke schneiden und den Knoblauch klein hacken."
+      "text": "Hähnchen in mundgerechte Stücke schneiden und den Knoblauch klein hacken.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Einen Topf mit etwas Öl erhitzen und Knoblauch und Hähnchen scharf anbraten.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Mit Hühnerbrühe und Kochsahne ablöschen."
+      "text": "Mit Hühnerbrühe und Kochsahne ablöschen.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Die Nudeln dazugeben und mit Deckel unter regelmäßigem Umrühren 15 Minuten kochen lassen.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Geriebenen Parmesan und Petersilie unterheben und mit Pfeffer, Salz und dem Saft einer halben Zitrone abschmecken."
+      "text": "Geriebenen Parmesan und Petersilie unterheben und mit Pfeffer, Salz und dem Saft einer halben Zitrone abschmecken.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     }
   ]
 }

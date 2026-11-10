@@ -1,6 +1,6 @@
 {
   "id": "vereinfachtes-bulgoki",
-  "version": 1,
+  "version": 2,
   "title": "Vereinfachtes Bulgogi",
   "summary": "Koreanisch inspiriertes Rindfleisch in süß-würziger Birnen-Soja-Marinade mit Pilzen und Reis.",
   "emoji": "🥩",
@@ -82,7 +82,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -92,7 +93,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -192,10 +194,47 @@
   ],
   "steps": [
     {
-      "text": "Das Fleisch in dünne, 2 cm lange Streifen schneiden und in eine Schüssel geben."
+      "text": "Das Fleisch in dünne, 2 cm lange Streifen schneiden und in eine Schüssel geben.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Für die Marinade Zucker, Knoblauch, Birne, Pfeffer, eine Karotte, Sojasoße, Chili-Schote, eine Lauchzwiebel und eine Zwiebel klein machen und mischen."
+      "text": "Für die Marinade Zucker, Knoblauch, Birne, Pfeffer, eine Karotte, Sojasoße, Chili-Schote, eine Lauchzwiebel und eine Zwiebel klein machen und mischen.",
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 5,
+          "share": 0.5
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 2,
+          "share": 0.5
+        },
+        {
+          "ingredient": 1,
+          "share": 0.5
+        }
+      ]
     },
     {
       "text": "Die Marinade zum Fleisch in die Schüssel geben und alles gut vermischen. Die Schüssel abdecken und mindestens 30 Minuten in den Kühlschrank stellen.",
@@ -203,17 +242,49 @@
     },
     {
       "text": "Den Reis kochen.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
-      "text": "Champignons und die restliche Karotte, Zwiebel und Lauchzwiebel klein schneiden."
+      "text": "Champignons und die restliche Karotte, Zwiebel und Lauchzwiebel klein schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 5,
+          "share": 0.5
+        },
+        {
+          "ingredient": 1,
+          "share": 0.5
+        },
+        {
+          "ingredient": 2,
+          "share": 0.5
+        }
+      ]
     },
     {
       "text": "Eine Pfanne mit Öl erhitzen und Champignons, Karotte und Zwiebel anbraten. Kurz danach das Fleisch mit der Marinade dazugeben und kurz scharf anbraten.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
-      "text": "Beim Anrichten die Lauchzwiebeln und den Sesam über das Essen streuen."
+      "text": "Beim Anrichten die Lauchzwiebeln und den Sesam über das Essen streuen.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        }
+      ]
     }
   ]
 }

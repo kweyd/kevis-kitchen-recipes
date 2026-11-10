@@ -1,6 +1,6 @@
 {
   "id": "gebratene-nudeln-mit-hahnchen-und-gemuse",
-  "version": 1,
+  "version": 2,
   "title": "Gebratene Nudeln mit Hähnchen und Gemüse",
   "summary": "Mie-Nudeln mit mariniertem Hähnchen, viel knackigem Gemüse und Sojasoße – besser als vom Asia-Imbiss.",
   "emoji": "🍜",
@@ -157,7 +157,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -167,7 +168,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -288,33 +290,113 @@
   ],
   "steps": [
     {
-      "text": "Das Hähnchen in dünne Streifen schneiden."
+      "text": "Das Hähnchen in dünne Streifen schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Das Hähnchen in einer Schüssel mit 2 EL Sojasoße, Knoblauchpulver, Ingwer, Sesamöl und Honig marinieren und 30 Minuten ziehen lassen.",
-      "timerMinutes": 30
+      "timerMinutes": 30,
+      "ingredients": [
+        {
+          "ingredient": 9,
+          "share": 0.6667
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "Das Hähnchen für 2× 9 Minuten bei 200 °C in den Airfryer geben.",
       "timerMinutes": 18
     },
     {
-      "text": "Frühlingszwiebel, rote und weiße Zwiebel und Champignons kleinschneiden. Brokkoli, Karotten und Paprika in mundgerechte Stücke schneiden."
+      "text": "Frühlingszwiebel, rote und weiße Zwiebel und Champignons kleinschneiden. Brokkoli, Karotten und Paprika in mundgerechte Stücke schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Die Nudeln mit kochendem Wasser übergießen und 5 Minuten ziehen lassen.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Das Gemüse in einer Pfanne mit etwas Öl anbraten. Mit Chilipulver, Pfeffer, Salz und 0,5 EL Sojasoße abschmecken.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 18
+        },
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 9,
+          "share": 0.1667
+        }
+      ]
     },
     {
       "text": "Die Nudeln mit 0,5 EL Sojasoße durchmischen und in der Pfanne kurz anbraten.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 9,
+          "share": 0.1666
+        }
+      ]
     },
     {
-      "text": "Mit dem Hähnchen auf Tellern servieren, Lauchzwiebel und etwas Sesamsamen darüber geben."
+      "text": "Mit dem Hähnchen auf Tellern servieren, Lauchzwiebel und etwas Sesamsamen darüber geben.",
+      "ingredients": [
+        {
+          "ingredient": 15
+        }
+      ]
     }
   ]
 }

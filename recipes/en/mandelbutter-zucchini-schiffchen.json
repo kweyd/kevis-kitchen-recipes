@@ -1,6 +1,6 @@
 {
   "id": "mandelbutter-zucchini-schiffchen",
-  "version": 1,
+  "version": 2,
   "title": "Almond Butter Courgette Boats",
   "summary": "Hollowed-out courgettes filled with chicken and peas in a creamy almond and coconut sauce.",
   "emoji": "🥒",
@@ -34,7 +34,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -43,7 +44,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -97,7 +100,8 @@
           "category": "breakfast",
           "diet": "plant",
           "allergens": [
-            "peanuts"
+            "peanuts",
+            "histamine"
           ]
         }
       ]
@@ -175,24 +179,68 @@
   ],
   "steps": [
     {
-      "text": "Wash the courgettes and halve them lengthways. Hollow them out with a spoon."
+      "text": "Wash the courgettes and halve them lengthways. Hollow them out with a spoon.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Cut the chicken into small pieces and marinate with pepper, salt, a little oil, chilli powder and sweet paprika."
+      "text": "Cut the chicken into small pieces and marinate with pepper, salt, a little oil, chilli powder and sweet paprika.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Air-fry the chicken at 200 °C for 2 x 8 minutes.",
       "timerMinutes": 8
     },
     {
-      "text": "Meanwhile, warm the coconut milk with the peas and almond butter in a pot. When the chicken is done, stir it briefly into the mixture."
+      "text": "Meanwhile, warm the coconut milk with the peas and almond butter in a pot. When the chicken is done, stir it briefly into the mixture.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Place the hollowed-out courgettes in the air fryer, fill them with the mixture from the pot and cook at 180 °C for 14 minutes.",
       "timerMinutes": 14
     },
     {
-      "text": "Garnish with chives and parmesan."
+      "text": "Garnish with chives and parmesan.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     }
   ]
 }

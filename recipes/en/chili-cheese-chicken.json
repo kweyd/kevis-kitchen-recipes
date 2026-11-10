@@ -1,6 +1,6 @@
 {
   "id": "chili-cheese-chicken",
-  "version": 1,
+  "version": 2,
   "title": "Chili Cheese Chicken",
   "summary": "Juicy chicken on crisp romaine with a spicy jalapeño cheese sauce – low carb and really filling.",
   "emoji": "🌶️",
@@ -67,7 +67,8 @@
       "shelfLifeDays": 14,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -248,24 +249,73 @@
   ],
   "steps": [
     {
-      "text": "Cut the chicken and onion into small pieces."
+      "text": "Cut the chicken and onion into small pieces.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Spray a pan with oil and heat it. Fry the chicken and onion.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
       "text": "Remove the chicken from the pan."
     },
     {
       "text": "Add the cream, vegetable stock, the Old Amsterdam cut into pieces and the cream cheese spread to the pan and let it melt.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Slice the jalapeño into rings and add to the pan with the paprika and chili powder. Season with pepper and salt."
+      "text": "Slice the jalapeño into rings and add to the pan with the paprika and chili powder. Season with pepper and salt.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
-      "text": "Divide the lettuce leaves between the plates and top with the chicken."
+      "text": "Divide the lettuce leaves between the plates and top with the chicken.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Finally, pour the chili cheese sauce over the top."

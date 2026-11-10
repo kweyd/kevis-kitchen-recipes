@@ -1,6 +1,6 @@
 {
   "id": "chili-hahnchen-mit-reis",
-  "version": 1,
+  "version": 2,
   "title": "Chili-Hähnchen mit Reis",
   "summary": "Scharf mariniertes Sesam-Hähnchen mit Gemüse, Reis und einem Ajvar-Chili-Dip.",
   "emoji": "🌶️",
@@ -223,15 +223,59 @@
   ],
   "steps": [
     {
-      "text": "Hähnchen, Chilis, Knoblauch und Zwiebel klein schneiden. Hähnchen und Chilis in eine Schüssel geben."
+      "text": "Hähnchen, Chilis, Knoblauch und Zwiebel klein schneiden. Hähnchen und Chilis in eine Schüssel geben.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Etwas Rapsöl darübersprühen, Paprikapulver, Knoblauch und Chilipulver dazugeben. Mit Pfeffer und Salz würzen, 1 EL Sesamsamen darüberstreuen und das Hähnchen mit allem marinieren.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 15,
+          "share": 0.5
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 11,
+          "share": 0.3333
+        }
+      ]
     },
     {
       "text": "Den Reis in einem Topf kochen.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "In einer Pfanne den Schüsselinhalt zusammen mit der Zwiebel anbraten.",
@@ -239,10 +283,40 @@
     },
     {
       "text": "Paprika und Champignons klein schneiden und in die Pfanne geben. Bei Bedarf noch etwas Rapsöl darübersprühen und die restlichen 2 EL Sesamsamen dazugeben.",
-      "timerMinutes": 6
+      "timerMinutes": 6,
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 15,
+          "share": 0.5
+        },
+        {
+          "ingredient": 11,
+          "share": 0.6667
+        }
+      ]
     },
     {
-      "text": "Für den Dip die Mayonnaise mit Ajvar, Olivenöl und Crispy Chili Öl mischen."
+      "text": "Für den Dip die Mayonnaise mit Ajvar, Olivenöl und Crispy Chili Öl mischen.",
+      "ingredients": [
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
       "text": "Hähnchen-Gemüse mit Reis und Dip servieren."

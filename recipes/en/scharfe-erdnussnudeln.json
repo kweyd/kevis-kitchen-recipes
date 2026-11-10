@@ -1,6 +1,6 @@
 {
   "id": "scharfe-erdnussnudeln",
-  "version": 1,
+  "version": 2,
   "title": "Spicy Peanut Noodles",
   "summary": "Mie noodles with tofu, pak choi and a creamy, spicy peanut-miso sauce.",
   "emoji": "🍜",
@@ -122,7 +122,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -132,7 +133,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -162,7 +164,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "peanuts"
+        "peanuts",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -172,7 +175,8 @@
           "category": "breakfast",
           "diet": "plant",
           "allergens": [
-            "nuts"
+            "nuts",
+            "histamine"
           ]
         },
         {
@@ -197,7 +201,8 @@
       "diet": "plant",
       "allergens": [
         "gluten",
-        "soy"
+        "soy",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -207,7 +212,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         }
       ]
@@ -283,22 +289,75 @@
   ],
   "steps": [
     {
-      "text": "Chop the pak choi, carrots, spring onions and garlic. Press the tofu and cut it into small pieces too."
+      "text": "Chop the pak choi, carrots, spring onions and garlic. Press the tofu and cut it into small pieces too.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Pour hot water over the noodles in a bowl, let them soak for 5 minutes, then drain.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Heat oil in a pan and fry the carrots. Then add the tofu and fry it too.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
       "text": "Once the tofu is lightly browned, add the pak choi, garlic and spring onions to the pan.",
       "timerMinutes": 3
     },
     {
-      "text": "For the sauce, stir together the peanut butter, miso paste, honey, lemon juice, chili powder, soy sauce, sesame oil and water."
+      "text": "For the sauce, stir together the peanut butter, miso paste, honey, lemon juice, chili powder, soy sauce, sesame oil and water.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Add the noodles to the pan and toss them with the sauce."

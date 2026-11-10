@@ -1,6 +1,6 @@
 {
   "id": "hahnchenschnitzel-mit-kartoffeln-und-pilzen",
-  "version": 1,
+  "version": 2,
   "title": "Chicken Schnitzel with Potatoes and Mushrooms",
   "summary": "Crispy air-fryer schnitzel with creamy mushrooms and baby potatoes.",
   "emoji": "🍗",
@@ -243,30 +243,87 @@
   "steps": [
     {
       "text": "Wash the potatoes and boil them in a pot.",
-      "timerMinutes": 25
+      "timerMinutes": 25,
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Slice the mushrooms and onion and fry them in a pan with a little oil.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Season the chicken escalope with pepper and salt on both sides."
+      "text": "Season the chicken escalope with pepper and salt on both sides.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
-      "text": "Set out three deep plates: whisk the egg in one, spread the flour in the second and the breadcrumbs in the third."
+      "text": "Set out three deep plates: whisk the egg in one, spread the flour in the second and the breadcrumbs in the third.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Bread the schnitzel in this order, twice."
     },
     {
-      "text": "Add the cooking cream to the pan and season with pepper and salt."
+      "text": "Add the cooking cream to the pan and season with pepper and salt.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
       "text": "Air-fry the schnitzel at 200 °C for 2× 8 minutes, turning it halfway.",
       "timerMinutes": 16
     },
     {
-      "text": "Drain the potatoes and put them on the plate. Spoon the mushrooms over them and garnish with parsley. Squeeze the half lemon over the schnitzel as you like."
+      "text": "Drain the potatoes and put them on the plate. Spoon the mushrooms over them and garnish with parsley. Squeeze the half lemon over the schnitzel as you like.",
+      "ingredients": [
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     }
   ]
 }

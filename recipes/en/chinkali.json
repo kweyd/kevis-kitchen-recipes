@@ -1,6 +1,6 @@
 {
   "id": "chinkali",
-  "version": 1,
+  "version": 2,
   "title": "Khinkali",
   "summary": "Georgian dumplings with a juicy, spicy mince filling – a bit of work, but worth every pleat.",
   "emoji": "🥟",
@@ -191,21 +191,70 @@
   ],
   "steps": [
     {
-      "text": "Put the flour, salt, oil and egg yolk in a bowl and gradually add 250 ml water while kneading."
+      "text": "Put the flour, salt, oil and egg yolk in a bowl and gradually add 250 ml water while kneading.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 3,
+          "share": 0.5
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Let the dough rest in the fridge for at least 2 hours.",
       "timerMinutes": 120
     },
     {
-      "text": "For the filling, finely dice the onion, garlic and chilies. Wash the parsley, shake it dry and chop finely."
+      "text": "For the filling, finely dice the onion, garlic and chilies. Wash the parsley, shake it dry and chop finely.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Mix everything with the mince. Season with salt, pepper and cayenne."
+      "text": "Mix everything with the mince. Season with salt, pepper and cayenne.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 3,
+          "share": 0.5
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Add a pinch of beef stock powder and mix with about 2 cups of water in a bowl. Also leave to rest in the fridge for at least 2 hours.",
-      "timerMinutes": 120
+      "timerMinutes": 120,
+      "ingredients": [
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "Roll the dough out thinly on a floured surface and cut out circles about 10–15 cm in diameter."

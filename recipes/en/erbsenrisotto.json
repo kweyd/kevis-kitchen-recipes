@@ -1,6 +1,6 @@
 {
   "id": "erbsenrisotto",
-  "version": 1,
+  "version": 2,
   "title": "Pea Risotto",
   "summary": "Creamy risotto with white wine and puréed peas – green, fresh and comforting.",
   "emoji": "🍚",
@@ -35,7 +35,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -140,17 +141,44 @@
   ],
   "steps": [
     {
-      "text": "Peel and finely chop the shallots."
+      "text": "Peel and finely chop the shallots.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
       "text": "Heat olive oil in a pot and fry the shallots.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
-      "text": "Add the risotto rice to the pot and deglaze with the white wine."
+      "text": "Add the risotto rice to the pot and deglaze with the white wine.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Prepare the vegetable stock and blend 100 ml of it with 50 g of the peas."
+      "text": "Prepare the vegetable stock and blend 100 ml of it with 50 g of the peas.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 2,
+          "share": 0.3226
+        }
+      ]
     },
     {
       "text": "Gradually pour the remaining stock over the rice, adding the stock with the puréed peas as well.",
@@ -158,10 +186,27 @@
     },
     {
       "text": "For the last 5 minutes, add the remaining peas and season with pepper and salt.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 2,
+          "share": 0.6774
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "To serve, sprinkle 2 tablespoons of grated cheese on top."
+      "text": "To serve, sprinkle 2 tablespoons of grated cheese on top.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     }
   ]
 }

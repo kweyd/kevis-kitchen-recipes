@@ -1,6 +1,6 @@
 {
   "id": "erdnuss-suppe",
-  "version": 1,
+  "version": 2,
   "title": "Peanut Soup",
   "summary": "Spicy, creamy tomato peanut soup with ginger and chili, served with basmati rice.",
   "emoji": "🥜",
@@ -27,7 +27,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "peanuts"
+        "peanuts",
+        "histamine"
       ]
     },
     {
@@ -37,7 +38,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Vegetable stock",
@@ -98,7 +101,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "peanuts"
+        "peanuts",
+        "histamine"
       ]
     },
     {
@@ -117,7 +121,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Chili powder",
@@ -156,21 +162,70 @@
   "steps": [
     {
       "text": "Peel and finely chop the onion, ginger and garlic and fry in a pot with a little oil.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
-      "text": "Deglaze with the vegetable stock and passata."
+      "text": "Deglaze with the vegetable stock and passata.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Cook the rice.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
       "text": "Add the peanut butter, tomato paste, chili powder, pepper and salt to the soup and simmer for 15 minutes.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
-      "text": "Serve the soup with the rice and sprinkle the peanuts over each portion."
+      "text": "Serve the soup with the rice and sprinkle the peanuts over each portion.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        }
+      ]
     }
   ]
 }

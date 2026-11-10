@@ -1,6 +1,6 @@
 {
   "id": "shiitake-schoko-risotto",
-  "version": 1,
+  "version": 2,
   "title": "Shiitake Chocolate Risotto",
   "summary": "Unusually good: white wine risotto with savoury shiitake and a hint of dark chocolate.",
   "emoji": "🍄",
@@ -35,7 +35,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -133,7 +134,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -143,7 +145,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -165,28 +168,63 @@
       "note": "a variety without milk ingredients",
       "diet": "plant",
       "allergens": [
-        "soy"
+        "soy",
+        "histamine"
       ]
     }
   ],
   "steps": [
     {
       "text": "Finely chop the onion and brown it in a pan with the butter.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Add the risotto rice and, once it turns slightly translucent, deglaze with the white wine."
+      "text": "Add the risotto rice and, once it turns slightly translucent, deglaze with the white wine.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Let the rice simmer, topping it up with vegetable stock again and again so that it stays just covered with liquid.",
-      "timerMinutes": 20
+      "timerMinutes": 20,
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "In another pan, fry the shiitake mushrooms with the soy sauce.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
-      "text": "Cut the chocolate into small pieces."
+      "text": "Cut the chocolate into small pieces.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "When the liquid in the rice pan has cooked off, divide the risotto between the plates."

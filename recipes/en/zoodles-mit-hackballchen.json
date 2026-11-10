@@ -1,6 +1,6 @@
 {
   "id": "zoodles-mit-hackballchen",
-  "version": 1,
+  "version": 2,
   "title": "Zoodles with Meatballs",
   "summary": "Courgette noodles with juicy beef and salami meatballs in a fruity tomato sauce.",
   "emoji": "🧆",
@@ -56,7 +56,9 @@
       "pantry": false,
       "shelfLifeDays": 14,
       "diet": "meat",
-      "allergens": [],
+      "allergens": [
+        "histamine"
+      ],
       "alternatives": [
         {
           "name": "Vegan salami",
@@ -66,7 +68,8 @@
           "diet": "plant",
           "allergens": [
             "soy",
-            "gluten"
+            "gluten",
+            "histamine"
           ],
           "shelfLifeDays": 14
         }
@@ -103,7 +106,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -112,7 +116,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -158,7 +164,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Chopped tomatoes",
@@ -167,7 +175,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Onion",
@@ -195,7 +205,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Honey",
@@ -224,7 +236,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -282,23 +295,104 @@
   ],
   "steps": [
     {
-      "text": "Wash the courgettes and cut them into ribbons with a vegetable peeler."
+      "text": "Wash the courgettes and cut them into ribbons with a vegetable peeler.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Peel the onion and garlic and chop finely."
     },
     {
-      "text": "In a bowl, mix the beef, salami, egg, grated cheese, pepper, salt and half of the garlic, onion and parmesan, then roll into small balls."
+      "text": "In a bowl, mix the beef, salami, egg, grated cheese, pepper, salt and half of the garlic, onion and parmesan, then roll into small balls.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 18
+        },
+        {
+          "ingredient": 10,
+          "share": 0.5
+        },
+        {
+          "ingredient": 9,
+          "share": 0.5
+        },
+        {
+          "ingredient": 4,
+          "share": 0.5
+        }
+      ]
     },
     {
       "text": "Heat oil in a pan and brown the meatballs. Then take them out.",
-      "timerMinutes": 6
+      "timerMinutes": 6,
+      "ingredients": [
+        {
+          "ingredient": 16
+        }
+      ]
     },
     {
-      "text": "Fry the remaining onion and garlic in the pan. Add the passata, chopped tomatoes and tomato paste."
+      "text": "Fry the remaining onion and garlic in the pan. Add the passata, chopped tomatoes and tomato paste.",
+      "ingredients": [
+        {
+          "ingredient": 10,
+          "share": 0.5
+        },
+        {
+          "ingredient": 9,
+          "share": 0.5
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
-      "text": "Season with vinegar, honey, oregano and dried basil. Add a little more pepper and salt if needed."
+      "text": "Season with vinegar, honey, oregano and dried basil. Add a little more pepper and salt if needed.",
+      "ingredients": [
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 18
+        }
+      ]
     },
     {
       "text": "Return the meatballs to the sauce and simmer everything for 10 minutes.",
@@ -306,10 +400,24 @@
     },
     {
       "text": "In another pan, sauté the zoodles in a little oil.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 16
+        }
+      ]
     },
     {
-      "text": "Plate up and sprinkle the remaining parmesan and the fresh basil over the portions."
+      "text": "Plate up and sprinkle the remaining parmesan and the fresh basil over the portions.",
+      "ingredients": [
+        {
+          "ingredient": 4,
+          "share": 0.5
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     }
   ]
 }

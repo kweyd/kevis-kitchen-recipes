@@ -1,6 +1,6 @@
 {
   "id": "spaghetti-mit-chili-basilikum-pesto",
-  "version": 1,
+  "version": 2,
   "title": "Spaghetti with Chili Basil Pesto",
   "summary": "Homemade basil pesto with a gentle chili kick – quickly blended and wonderfully fresh.",
   "emoji": "🌿",
@@ -90,7 +90,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -99,7 +100,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -141,14 +144,47 @@
   ],
   "steps": [
     {
-      "text": "Put the peeled garlic, chili, parmesan, basil, olive oil and pine nuts in a blender and blitz."
+      "text": "Put the peeled garlic, chili, parmesan, basil, olive oil and pine nuts in a blender and blitz.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Season the pesto with pepper and salt."
+      "text": "Season the pesto with pepper and salt.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Cook the spaghetti.",
-      "timerMinutes": 9
+      "timerMinutes": 9,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Drain the spaghetti and toss with the pesto."

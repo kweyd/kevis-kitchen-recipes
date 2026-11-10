@@ -1,6 +1,6 @@
 {
   "id": "gratinierter-feta-mit-gemuse",
-  "version": 1,
+  "version": 2,
   "title": "Baked Feta with Vegetables",
   "summary": "A block of feta baked with colourful vegetables, olives and whole garlic cloves – perfect for dipping with baguette.",
   "emoji": "🧀",
@@ -59,7 +59,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Parsley",
@@ -208,16 +210,69 @@
   ],
   "steps": [
     {
-      "text": "Place the feta in the middle of an ovenproof dish."
+      "text": "Place the feta in the middle of an ovenproof dish.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Peel the garlic bulb and put the whole cloves in a bowl."
+      "text": "Peel the garlic bulb and put the whole cloves in a bowl.",
+      "ingredients": [
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
-      "text": "Peel the onions and cut them into strips, finely chop the chili, halve the olives, dice the bell pepper, and quarter and slice the courgette."
+      "text": "Peel the onions and cut them into strips, finely chop the chili, halve the olives, dice the bell pepper, and quarter and slice the courgette.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Add everything to the bowl with the cherry tomatoes and mix with the spices, parsley, honey and olive oil."
+      "text": "Add everything to the bowl with the cherry tomatoes and mix with the spices, parsley, honey and olive oil.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Spread the vegetables over the feta in the dish."
@@ -227,7 +282,12 @@
       "timerMinutes": 25
     },
     {
-      "text": "Serve with some baguette if you like."
+      "text": "Serve with some baguette if you like.",
+      "ingredients": [
+        {
+          "ingredient": 15
+        }
+      ]
     }
   ]
 }

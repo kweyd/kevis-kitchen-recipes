@@ -1,6 +1,6 @@
 {
   "id": "orange-chicken-mit-reis",
-  "version": 1,
+  "version": 2,
   "title": "Orange Chicken with Rice",
   "summary": "Crispy air-fried chicken bites in a fruity orange-soy sauce over rice.",
   "emoji": "🍊",
@@ -103,7 +103,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -113,7 +114,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -143,7 +145,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ]
     },
     {
@@ -303,13 +306,55 @@
   "steps": [
     {
       "text": "Cook the rice.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "For the sauce, put the orange zest and juice in a bowl with the soy sauce, water, rice vinegar, sugar, sesame oil and cornflour and stir."
+      "text": "For the sauce, put the orange zest and juice in a bowl with the soy sauce, water, rice vinegar, sugar, sesame oil and cornflour and stir.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
-      "text": "Dice the chicken breast, dust it with flour and coat it in milk and breadcrumbs."
+      "text": "Dice the chicken breast, dust it with flour and coat it in milk and breadcrumbs.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
       "text": "Air-fry the breaded chicken at 200 °C for 16 minutes, turning after 8 minutes.",
@@ -317,17 +362,41 @@
     },
     {
       "text": "Peel and finely chop the garlic and shallot and fry them in a pot with oil.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 17
+        }
+      ]
     },
     {
       "text": "Add the sauce from the bowl and bring it to the boil until it thickens a little. Season with pepper and salt.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 16
+        }
+      ]
     },
     {
       "text": "Finally, briefly fold the chicken into the sauce."
     },
     {
-      "text": "Spoon the rice onto plates, top with the chicken and sauce and sprinkle with a few pieces of spring onion."
+      "text": "Spoon the rice onto plates, top with the chicken and sauce and sprinkle with a few pieces of spring onion.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        }
+      ]
     }
   ]
 }

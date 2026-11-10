@@ -1,6 +1,6 @@
 {
   "id": "green-curry-mit-tofu",
-  "version": 1,
+  "version": 2,
   "title": "Green Curry mit Tofu",
   "summary": "Cremiges grünes Kokoscurry mit Brokkoli, Zuckerschoten und knusprigem Tofu.",
   "emoji": "🍛",
@@ -178,21 +178,70 @@
   ],
   "steps": [
     {
-      "text": "Den Brokkoli in kleine Röschen teilen, die Frühlingszwiebel in kleine Ringe schneiden und die Zuckerschoten waschen."
+      "text": "Den Brokkoli in kleine Röschen teilen, die Frühlingszwiebel in kleine Ringe schneiden und die Zuckerschoten waschen.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Den Reis nach Packungsangabe kochen.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Knoblauch und Ingwer klein hacken."
+      "text": "Knoblauch und Ingwer klein hacken.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Das Rapsöl in einem Topf erhitzen und Knoblauch, Ingwer, Currypaste und die Gewürze kurz rösten.",
-      "timerMinutes": 1
+      "timerMinutes": 1,
+      "ingredients": [
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
-      "text": "Brokkoli, Frühlingszwiebel, Zuckerschoten und Zitronenabrieb hinzugeben und mit Kokosmilch und etwas Wasser auffüllen."
+      "text": "Brokkoli, Frühlingszwiebel, Zuckerschoten und Zitronenabrieb hinzugeben und mit Kokosmilch und etwas Wasser auffüllen.",
+      "ingredients": [
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
       "text": "Bei mittlerer Hitze 15 Minuten kochen lassen.",
@@ -200,7 +249,12 @@
     },
     {
       "text": "Inzwischen den Tofu kleinschneiden, nach Belieben marinieren und für 12 Minuten bei 200 °C in den Airfryer geben.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Das Curry mit Reis und Tofu servieren."

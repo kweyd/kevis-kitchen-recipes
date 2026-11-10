@@ -1,6 +1,6 @@
 {
   "id": "spaghetti-mit-chili-basilikum-pesto",
-  "version": 1,
+  "version": 2,
   "title": "Spaghetti mit Chili-Basilikum-Pesto",
   "summary": "Selbstgemachtes Basilikum-Pesto mit einer feinen Chili-Schärfe – schnell gemixt und herrlich frisch.",
   "emoji": "🌿",
@@ -90,7 +90,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -99,7 +100,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -141,14 +144,47 @@
   ],
   "steps": [
     {
-      "text": "Geschälten Knoblauch, Chili, Parmesan, Basilikum, Olivenöl und Pinienkerne in einen Mixer geben und zerkleinern."
+      "text": "Geschälten Knoblauch, Chili, Parmesan, Basilikum, Olivenöl und Pinienkerne in einen Mixer geben und zerkleinern.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Das Pesto mit Pfeffer und Salz abschmecken."
+      "text": "Das Pesto mit Pfeffer und Salz abschmecken.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Die Nudeln kochen.",
-      "timerMinutes": 9
+      "timerMinutes": 9,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Die Nudeln abgießen und mit dem Pesto vermischen."

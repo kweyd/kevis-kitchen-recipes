@@ -1,6 +1,6 @@
 {
   "id": "gefullte-paprikaschoten",
-  "version": 1,
+  "version": 2,
   "title": "Stuffed Peppers",
   "summary": "Peppers stuffed with mince and rice, baked in tomato sauce with melted cheese.",
   "emoji": "🫑",
@@ -122,7 +122,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Vegetable stock",
@@ -152,7 +154,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Grated gratin cheese",
@@ -196,17 +200,55 @@
   ],
   "steps": [
     {
-      "text": "Wash the peppers, cut off the tops and hollow them out."
+      "text": "Wash the peppers, cut off the tops and hollow them out.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Cook the rice.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Meanwhile, peel and finely chop the onion and garlic. Finely chop the chilli."
+      "text": "Meanwhile, peel and finely chop the onion and garlic. Finely chop the chilli.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Mix everything with the cooked rice, the mince, the eggs and the parsley and season with salt and pepper."
+      "text": "Mix everything with the cooked rice, the mince, the eggs and the parsley and season with salt and pepper.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
       "text": "Preheat the oven to 160 °C."
@@ -217,7 +259,21 @@
     },
     {
       "text": "Mix the passata with the stock and tomato paste and pour it into the dish for the last 15 minutes. Sprinkle the cheese over the top.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     }
   ]
 }

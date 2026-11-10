@@ -1,6 +1,6 @@
 {
   "id": "brokkoli-cheddar-suppe",
-  "version": 1,
+  "version": 2,
   "title": "Broccoli Cheddar Soup",
   "summary": "Velvety broccoli soup with melted cheddar and pan-fried florets – proper comfort food.",
   "emoji": "🥦",
@@ -47,7 +47,8 @@
       "shelfLifeDays": 14,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -191,21 +192,51 @@
   ],
   "steps": [
     {
-      "text": "Separate the broccoli florets from the stalk and chop the stalk."
+      "text": "Separate the broccoli florets from the stalk and chop the stalk.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Peel and chop the onion and garlic."
+      "text": "Peel and chop the onion and garlic.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Heat a third of the butter in a pot and fry the onion with the broccoli stalk.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 5,
+          "share": 0.3333
+        }
+      ]
     },
     {
       "text": "Add the garlic and cook until lightly browned.",
       "timerMinutes": 2
     },
     {
-      "text": "Deglaze with the vegetable stock and season with pepper and salt."
+      "text": "Deglaze with the vegetable stock and season with pepper and salt.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Blend everything with a stick blender until smooth and let it simmer.",
@@ -213,11 +244,25 @@
     },
     {
       "text": "In another pot, fry the broccoli florets in the remaining butter.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 5,
+          "share": 0.6667
+        }
+      ]
     },
     {
       "text": "Once the broccoli is lightly browned, add the blended soup, the cream and the cheddar and cook, stirring, until the cheddar has melted.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     }
   ]
 }

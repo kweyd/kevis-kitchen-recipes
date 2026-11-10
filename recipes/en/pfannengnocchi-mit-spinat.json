@@ -1,6 +1,6 @@
 {
   "id": "pfannengnocchi-mit-spinat",
-  "version": 1,
+  "version": 2,
   "title": "Pan-Fried Gnocchi with Spinach",
   "summary": "Skillet gnocchi with cherry tomatoes, spinach and gently caramelised onions – ready in no time.",
   "emoji": "🍅",
@@ -49,7 +49,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Spinach",
@@ -60,7 +62,9 @@
       "note": "fresh",
       "shelfLifeDays": 2,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Red onions",
@@ -164,7 +168,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -173,7 +178,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -191,25 +198,76 @@
   ],
   "steps": [
     {
-      "text": "Peel the red onions and garlic and chop them finely."
+      "text": "Peel the red onions and garlic and chop them finely.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Then fry them in oil. Add half a teaspoon of honey to lightly caramelise the onions.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
       "text": "Halve the cherry tomatoes and add them to the pan with the spinach. Wait until the spinach has wilted.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
-      "text": "Mix 50 ml water with half a teaspoon of vegetable stock and add it to the pan together with the gnocchi."
+      "text": "Mix 50 ml water with half a teaspoon of vegetable stock and add it to the pan together with the gnocchi.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Season with pepper and salt to taste and let it cook for 5 minutes.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
-      "text": "Finish with some parmesan and basil and serve."
+      "text": "Finish with some parmesan and basil and serve.",
+      "ingredients": [
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     }
   ]
 }

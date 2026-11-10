@@ -1,6 +1,6 @@
 {
   "id": "chili-sesam-hahnchen",
-  "version": 1,
+  "version": 2,
   "title": "Chili-Sesam-Hähnchen",
   "summary": "Würziges Sesam-Hähnchen aus dem Airfryer mit Butterreis, Pfannengemüse und Ajvar-Chili-Mayo.",
   "emoji": "🌶️",
@@ -91,7 +91,9 @@
       "category": "spices",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Reis",
@@ -239,14 +241,49 @@
   ],
   "steps": [
     {
-      "text": "Hähnchenbrust klein schneiden. Knoblauch schälen und pressen."
+      "text": "Hähnchenbrust klein schneiden. Knoblauch schälen und pressen.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
-      "text": "Das Hähnchen mit 15 ml Olivenöl, Knoblauch, Chilipulver, Paprikapulver und einem Esslöffel Sesam marinieren."
+      "text": "Das Hähnchen mit 15 ml Olivenöl, Knoblauch, Chilipulver, Paprikapulver und einem Esslöffel Sesam marinieren.",
+      "ingredients": [
+        {
+          "ingredient": 3,
+          "share": 0.75
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 1,
+          "share": 0.3333
+        },
+        {
+          "ingredient": 16
+        }
+      ]
     },
     {
       "text": "Reis zusammen mit der Butter in einem Topf kochen.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Das marinierte Hähnchen für 18 Minuten bei 200 °C in den Airfryer geben. Nach der Hälfte umdrehen.",
@@ -254,13 +291,51 @@
     },
     {
       "text": "Paprika, Zwiebel und Champignons kleinschneiden. Alles mit etwas Öl in einer Pfanne anbraten.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 15
+        }
+      ]
     },
     {
-      "text": "Ajvar mit Mayonnaise, 5 ml Olivenöl und Crispy Chili Oil mischen."
+      "text": "Ajvar mit Mayonnaise, 5 ml Olivenöl und Crispy Chili Oil mischen.",
+      "ingredients": [
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 3,
+          "share": 0.25
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
-      "text": "Lauchzwiebel klein schneiden und alles zusammen servieren, mit dem restlichen Sesam bestreut."
+      "text": "Lauchzwiebel klein schneiden und alles zusammen servieren, mit dem restlichen Sesam bestreut.",
+      "ingredients": [
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 1,
+          "share": 0.6667
+        }
+      ]
     }
   ]
 }

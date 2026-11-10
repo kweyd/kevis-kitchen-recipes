@@ -1,6 +1,6 @@
 {
   "id": "chicken-gung-bao",
-  "version": 1,
+  "version": 2,
   "title": "Chicken Gung Bao",
   "summary": "Hähnchen mit Pak Choi und Sprossen in würziger Soja-Soße, dazu Basmatireis und Erdnüsse.",
   "emoji": "🥜",
@@ -112,7 +112,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -144,7 +145,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "peanuts"
+        "peanuts",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -174,7 +176,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -196,7 +199,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -206,7 +210,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -267,18 +272,56 @@
   ],
   "steps": [
     {
-      "text": "Zwiebel, Knoblauch und Ingwer schälen und kleinhacken. Lauchzwiebeln und Pak Choi waschen und kleinschneiden."
+      "text": "Zwiebel, Knoblauch und Ingwer schälen und kleinhacken. Lauchzwiebeln und Pak Choi waschen und kleinschneiden.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
-      "text": "Sprossen waschen und Hähnchen in Streifen schneiden."
+      "text": "Sprossen waschen und Hähnchen in Streifen schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Den Reis waschen und kochen.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Öl in einer Pfanne erhitzen und das Hähnchen anbraten. Mit dem Weißwein ablöschen.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Knoblauch, Zwiebel und Ingwer in die Pfanne geben und anbraten.",
@@ -286,14 +329,41 @@
     },
     {
       "text": "Pak Choi, Lauchzwiebeln und Sprossen in die Pfanne geben. Mit Pfeffer und Salz abschmecken.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 15
+        }
+      ]
     },
     {
       "text": "Gemüsebrühe, Sojasoße, Essig und Speisestärke verrühren, in die Pfanne geben und alles aufkochen lassen.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Mit Erdnüssen und Reis servieren."
+      "text": "Mit Erdnüssen und Reis servieren.",
+      "ingredients": [
+        {
+          "ingredient": 9
+        }
+      ]
     }
   ]
 }

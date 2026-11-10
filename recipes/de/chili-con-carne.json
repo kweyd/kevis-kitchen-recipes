@@ -1,6 +1,6 @@
 {
   "id": "chili-con-carne",
-  "version": 1,
+  "version": 2,
   "title": "Chili con Carne",
   "summary": "Herzhaftes Chili mit Hackfleisch, Bohnen, Mais und einem Stück Schokolade für die Tiefe.",
   "emoji": "🌶️",
@@ -114,7 +114,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Passierte Tomaten",
@@ -123,7 +125,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Kidneybohnen",
@@ -152,7 +156,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Paprikapulver edelsüß",
@@ -183,7 +189,8 @@
       "allergens": [
         "milk",
         "lactose",
-        "soy"
+        "soy",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -192,7 +199,9 @@
           "unit": "piece",
           "category": "snacks",
           "diet": "plant",
-          "allergens": []
+          "allergens": [
+            "histamine"
+          ]
         }
       ]
     },
@@ -276,26 +285,103 @@
   ],
   "steps": [
     {
-      "text": "Zwiebel und Knoblauch schälen und klein hacken. Paprika und Chili-Schoten klein schneiden."
+      "text": "Zwiebel und Knoblauch schälen und klein hacken. Paprika und Chili-Schoten klein schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "In einem Topf Öl erhitzen und das Hackfleisch scharf anbraten. Zwischendurch immer wieder mit etwas Rinderbrühe ablöschen, bis die Hälfte der Brühe verbraucht ist. Die Brühe soll dabei verdampfen.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 18
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5,
+          "share": 0.5
+        }
+      ]
     },
     {
       "text": "Anschließend Zwiebeln und Knoblauch dazugeben. Wenn die Zwiebeln leicht glasig sind, Paprikapulver und Tomatenmark dazugeben und kurz anbraten.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Jetzt die restlichen Gewürze, Paprika, Chili-Schoten, passierte und stückige Tomaten sowie die restliche Brühe dazugeben und alles 30 Minuten kochen.",
-      "timerMinutes": 30
+      "timerMinutes": 30,
+      "ingredients": [
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5,
+          "share": 0.5
+        }
+      ]
     },
     {
       "text": "Dann Mais, Kidneybohnen und Schokolade in den Topf geben und weitere 10 Minuten köcheln lassen.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
-      "text": "Mit Pfeffer und Salz abschmecken und mit je einem Esslöffel Crème fraîche servieren."
+      "text": "Mit Pfeffer und Salz abschmecken und mit je einem Esslöffel Crème fraîche servieren.",
+      "ingredients": [
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 19
+        }
+      ]
     }
   ]
 }

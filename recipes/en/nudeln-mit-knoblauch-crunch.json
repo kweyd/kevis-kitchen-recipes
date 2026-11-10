@@ -1,6 +1,6 @@
 {
   "id": "nudeln-mit-knoblauch-crunch",
-  "version": 1,
+  "version": 2,
   "title": "Pasta with Garlic Crunch",
   "summary": "Creamy tomato pasta topped with a crispy crunch of garlic, breadcrumbs and sesame.",
   "emoji": "🧄",
@@ -49,7 +49,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -58,7 +59,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -146,7 +149,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Sesame seeds",
@@ -230,7 +235,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Fresh parsley",
@@ -261,26 +268,80 @@
   ],
   "steps": [
     {
-      "text": "Melt the butter in a pan. Peel the garlic and grate it into the pan."
+      "text": "Melt the butter in a pan. Peel the garlic and grate it into the pan.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Add the breadcrumbs and sesame seeds and toast everything until golden brown. Then set aside.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Cook the pasta.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Peel and finely chop the onion. Heat the olive oil in a large pan and fry the onion.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "Add the tomato paste and let it toast a little. Add the passata and cream and season with salt and pepper.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
-      "text": "Add a splash of pasta water to the pan and drain the pasta. Then add the pasta to the pan, grate the parmesan over it and add the chopped parsley. Stir everything and leave it in the pan briefly."
+      "text": "Add a splash of pasta water to the pan and drain the pasta. Then add the pasta to the pan, grate the parmesan over it and add the chopped parsley. Stir everything and leave it in the pan briefly.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "Serve and sprinkle the cooled garlic crunch over the portions."

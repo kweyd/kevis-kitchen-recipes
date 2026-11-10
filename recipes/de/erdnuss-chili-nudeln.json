@@ -1,6 +1,6 @@
 {
   "id": "erdnuss-chili-nudeln",
-  "version": 1,
+  "version": 2,
   "title": "Erdnuss-Chili-Nudeln",
   "summary": "Scharfe, cremige Nudelsuppe mit Erdnussbutter, Kokosmilch und gebratenem Tofu.",
   "emoji": "🥜",
@@ -51,7 +51,8 @@
       "diet": "plant",
       "allergens": [
         "gluten",
-        "soy"
+        "soy",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -128,7 +129,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "peanuts"
+        "peanuts",
+        "histamine"
       ]
     },
     {
@@ -212,7 +214,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -222,7 +225,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -263,28 +267,90 @@
   ],
   "steps": [
     {
-      "text": "Den Tofu mit Küchenpapier ausdrücken und in kleine Würfel schneiden. Die Zwiebel schälen und kleinschneiden."
+      "text": "Den Tofu mit Küchenpapier ausdrücken und in kleine Würfel schneiden. Die Zwiebel schälen und kleinschneiden.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Zwiebel und Tofu in einem Topf mit etwas Öl anbraten.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
       "text": "Knoblauch und Ingwer klein schneiden und in den Topf geben. Nach ein paar Minuten die Hot Pepper Paste hinzugeben.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Gemüsebrühe, Kokosnussmilch, Sojasoße, Crispy Chili Öl und Erdnussbutter mit in den Topf geben. Mit Salz und Chiliflocken abschmecken."
+      "text": "Gemüsebrühe, Kokosnussmilch, Sojasoße, Crispy Chili Öl und Erdnussbutter mit in den Topf geben. Mit Salz und Chiliflocken abschmecken.",
+      "ingredients": [
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
       "text": "Die Mie-Nudeln mit kochendem Wasser übergießen und 5 Minuten ziehen lassen.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Die Sesamsamen in einer Pfanne ohne Öl rösten."
+      "text": "Die Sesamsamen in einer Pfanne ohne Öl rösten.",
+      "ingredients": [
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Die Nudeln abgießen und mit der Soße auf die Teller verteilen. Mit Lauchzwiebeln und Sesam garnieren."
+      "text": "Die Nudeln abgießen und mit der Soße auf die Teller verteilen. Mit Lauchzwiebeln und Sesam garnieren.",
+      "ingredients": [
+        {
+          "ingredient": 9
+        }
+      ]
     }
   ]
 }

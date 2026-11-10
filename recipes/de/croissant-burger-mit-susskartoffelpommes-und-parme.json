@@ -1,6 +1,6 @@
 {
   "id": "croissant-burger-mit-susskartoffelpommes-und-parme",
-  "version": 1,
+  "version": 2,
   "title": "Croissant-Burger mit Süßkartoffelpommes und Parmesan-Dip",
   "summary": "Buttriges Croissant mit Rinderpatty, Cheddar und Bacon, dazu Süßkartoffelpommes und ein cremiger Parmesan-Dip.",
   "emoji": "🥐",
@@ -80,7 +80,9 @@
       "pantry": false,
       "shelfLifeDays": 7,
       "diet": "meat",
-      "allergens": [],
+      "allergens": [
+        "histamine"
+      ],
       "alternatives": [
         {
           "name": "Räuchertofu (in Scheiben)",
@@ -89,7 +91,8 @@
           "category": "dairy",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ],
           "shelfLifeDays": 14
         }
@@ -102,7 +105,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Eisbergsalat",
@@ -123,7 +128,8 @@
       "shelfLifeDays": 14,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -132,7 +138,9 @@
           "unit": "slice",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 14
         }
       ]
@@ -168,7 +176,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Balsamico-Essig",
@@ -178,7 +188,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ]
     },
     {
@@ -308,7 +319,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -317,7 +329,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -330,7 +344,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -366,38 +381,132 @@
   "steps": [
     {
       "text": "Eine Pfanne ohne Öl erhitzen und den Bacon darin knusprig braten. Währenddessen Salat und Tomate klein schneiden.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Für die Soße die Mayonnaise mit Tomatenmark, Balsamico-Essig, Honig, Oregano, Pfeffer und Salz mischen. Die Cornichons klein schneiden und ebenfalls in die Soße geben."
+      "text": "Für die Soße die Mayonnaise mit Tomatenmark, Balsamico-Essig, Honig, Oregano, Pfeffer und Salz mischen. Die Cornichons klein schneiden und ebenfalls in die Soße geben.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Das Rinderhackfleisch ungewürzt zu zwei länglichen Patties formen. Den knusprigen Bacon aus der Pfanne nehmen und dafür die Patties hineinlegen."
+      "text": "Das Rinderhackfleisch ungewürzt zu zwei länglichen Patties formen. Den knusprigen Bacon aus der Pfanne nehmen und dafür die Patties hineinlegen.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Die Patties von beiden Seiten braten. Für die letzte Minute den Cheddar darauflegen und unter einem Deckel schmelzen lassen.",
-      "timerMinutes": 6
+      "timerMinutes": 6,
+      "ingredients": [
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
-      "text": "Die Croissants aufschneiden und beide Seiten mit der Soße bestreichen. Auf die Unterseite Salat, dann Patty, Tomaten und Bacon legen und zuklappen."
+      "text": "Die Croissants aufschneiden und beide Seiten mit der Soße bestreichen. Auf die Unterseite Salat, dann Patty, Tomaten und Bacon legen und zuklappen.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Die Süßkartoffel schälen und in 1 cm dicke Streifen schneiden. Für knusprigere Pommes die Streifen vor dem Würzen 30 Minuten in kaltes Wasser legen und gut abtrocknen.",
-      "timerMinutes": 30
+      "timerMinutes": 30,
+      "ingredients": [
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
       "text": "Die Streifen in einer Schüssel mit etwas Öl, Salz und gepresstem Knoblauch mischen und 2 × 10 Minuten bei 190 °C in den Airfryer geben.",
-      "timerMinutes": 20
+      "timerMinutes": 20,
+      "ingredients": [
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 16,
+          "share": 0.4
+        }
+      ]
     },
     {
       "text": "Für den Dip die Butter in einer Pfanne erhitzen. Gepressten Knoblauch hineingeben und die Pfanne vom Herd nehmen, bevor der Knoblauch braun wird.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 16,
+          "share": 0.6
+        }
+      ]
     },
     {
-      "text": "Den Weißweinessig dazugeben, den Parmesan und etwas Petersilie einrühren und gut weiterrühren. Am besten ein Küchengerät nutzen, sonst dauert es lange, bis eine homogene Masse entsteht."
+      "text": "Den Weißweinessig dazugeben, den Parmesan und etwas Petersilie einrühren und gut weiterrühren. Am besten ein Küchengerät nutzen, sonst dauert es lange, bis eine homogene Masse entsteht.",
+      "ingredients": [
+        {
+          "ingredient": 19
+        },
+        {
+          "ingredient": 18
+        },
+        {
+          "ingredient": 20
+        }
+      ]
     },
     {
-      "text": "Beim Servieren ein paar geschnittene Lauchzwiebeln über den Dip streuen."
+      "text": "Beim Servieren ein paar geschnittene Lauchzwiebeln über den Dip streuen.",
+      "ingredients": [
+        {
+          "ingredient": 21
+        }
+      ]
     }
   ]
 }

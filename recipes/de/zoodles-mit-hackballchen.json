@@ -1,6 +1,6 @@
 {
   "id": "zoodles-mit-hackballchen",
-  "version": 1,
+  "version": 2,
   "title": "Zoodles mit Hackbällchen",
   "summary": "Zucchini-Nudeln mit saftigen Hack-Salami-Bällchen in fruchtiger Tomatensoße.",
   "emoji": "🧆",
@@ -56,7 +56,9 @@
       "pantry": false,
       "shelfLifeDays": 14,
       "diet": "meat",
-      "allergens": [],
+      "allergens": [
+        "histamine"
+      ],
       "alternatives": [
         {
           "name": "Vegane Salami",
@@ -66,7 +68,8 @@
           "diet": "plant",
           "allergens": [
             "soy",
-            "gluten"
+            "gluten",
+            "histamine"
           ],
           "shelfLifeDays": 14
         }
@@ -103,7 +106,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -112,7 +116,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -158,7 +164,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Stückige Tomaten",
@@ -167,7 +175,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Zwiebel",
@@ -195,7 +205,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Honig",
@@ -224,7 +236,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -282,23 +295,104 @@
   ],
   "steps": [
     {
-      "text": "Zucchini waschen und mit einem Sparschäler in Streifen schneiden."
+      "text": "Zucchini waschen und mit einem Sparschäler in Streifen schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Zwiebel und Knoblauch schälen und kleinschneiden."
     },
     {
-      "text": "In einer Schüssel Rinderhack, Salami, Ei, geriebenen Käse, Pfeffer, Salz und die Hälfte von Knoblauch, Zwiebel und Parmesan vermengen und zu kleinen Bällchen rollen."
+      "text": "In einer Schüssel Rinderhack, Salami, Ei, geriebenen Käse, Pfeffer, Salz und die Hälfte von Knoblauch, Zwiebel und Parmesan vermengen und zu kleinen Bällchen rollen.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 18
+        },
+        {
+          "ingredient": 10,
+          "share": 0.5
+        },
+        {
+          "ingredient": 9,
+          "share": 0.5
+        },
+        {
+          "ingredient": 4,
+          "share": 0.5
+        }
+      ]
     },
     {
       "text": "In einer Pfanne Öl erhitzen und die Hackbällchen braun anbraten. Dann herausnehmen.",
-      "timerMinutes": 6
+      "timerMinutes": 6,
+      "ingredients": [
+        {
+          "ingredient": 16
+        }
+      ]
     },
     {
-      "text": "Den Rest der Zwiebeln und des Knoblauchs in der Pfanne anbraten. Passierte und stückige Tomaten sowie Tomatenmark dazugeben."
+      "text": "Den Rest der Zwiebeln und des Knoblauchs in der Pfanne anbraten. Passierte und stückige Tomaten sowie Tomatenmark dazugeben.",
+      "ingredients": [
+        {
+          "ingredient": 10,
+          "share": 0.5
+        },
+        {
+          "ingredient": 9,
+          "share": 0.5
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
-      "text": "Mit Essig, Honig, Oregano und gerebeltem Basilikum würzen. Gegebenenfalls noch etwas Pfeffer und Salz dazugeben."
+      "text": "Mit Essig, Honig, Oregano und gerebeltem Basilikum würzen. Gegebenenfalls noch etwas Pfeffer und Salz dazugeben.",
+      "ingredients": [
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 18
+        }
+      ]
     },
     {
       "text": "Die Fleischbällchen mit in die Soße geben und alles 10 Minuten köcheln lassen.",
@@ -306,10 +400,24 @@
     },
     {
       "text": "In einer anderen Pfanne die Zoodles mit etwas Öl andünsten.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 16
+        }
+      ]
     },
     {
-      "text": "Anrichten und den restlichen Parmesan und das frische Basilikum über die Portionen verteilen."
+      "text": "Anrichten und den restlichen Parmesan und das frische Basilikum über die Portionen verteilen.",
+      "ingredients": [
+        {
+          "ingredient": 4,
+          "share": 0.5
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     }
   ]
 }

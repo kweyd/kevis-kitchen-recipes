@@ -1,6 +1,6 @@
 {
   "id": "tofu-schnitzel-bowl",
-  "version": 1,
+  "version": 2,
   "title": "Tofu Schnitzel Bowl",
   "summary": "Crispy panko tofu schnitzel on rice with courgette in sweet chilli sauce, avocado and a peanut-lime topping.",
   "emoji": "🍚",
@@ -25,7 +25,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Courgette",
@@ -105,7 +107,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "peanuts"
+        "peanuts",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -197,7 +200,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -207,7 +211,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -249,23 +254,89 @@
   "steps": [
     {
       "text": "Cook the rice.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Meanwhile, peel and finely chop the garlic. Slice the courgette thinly. Cut the spring onion into rings, the limes into quarters and the peeled avocado into strips."
+      "text": "Meanwhile, peel and finely chop the garlic. Slice the courgette thinly. Cut the spring onion into rings, the limes into quarters and the peeled avocado into strips.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "In a bowl, mix the sweet chilli sauce with 150 ml water, the honey, soy sauce, a little pepper and the cornflour."
+      "text": "In a bowl, mix the sweet chilli sauce with 150 ml water, the honey, soy sauce, a little pepper and the cornflour.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "Heat oil in a pan and fry the garlic and courgette.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
-      "text": "Whisk the egg with pepper and salt on one plate and put the panko on another. Press the tofu and cut it through the middle to make two flat schnitzels. Coat them in egg and then panko – ideally do both stations twice."
+      "text": "Whisk the egg with pepper and salt on one plate and put the panko on another. Press the tofu and cut it through the middle to make two flat schnitzels. Coat them in egg and then panko – ideally do both stations twice.",
+      "ingredients": [
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
-      "text": "Mix the spring onion rings with the lime juice and the peanuts."
+      "text": "Mix the spring onion rings with the lime juice and the peanuts.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Pour the sweet chilli sauce over the courgette in the pan and let it simmer.",
@@ -273,7 +344,12 @@
     },
     {
       "text": "Fry the breaded tofu schnitzels at 200 °C for 4 minutes on each side.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
       "text": "Arrange the rice on plates and top with the courgette in sweet chilli sauce. Add the avocado strips and the peanut, spring onion and lime mixture. Cut the schnitzels into pieces and place them on top."

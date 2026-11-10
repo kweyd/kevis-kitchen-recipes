@@ -1,6 +1,6 @@
 {
   "id": "bestis-pilzfrikassee",
-  "version": 1,
+  "version": 2,
   "title": "Besti's Pilzfrikassee",
   "summary": "Cremiges Frikassee mit Kräuterseitlingen, Champignons, Möhren und Erbsen, frisch abgeschmeckt mit Zitrone und serviert mit Reis.",
   "emoji": "🍄",
@@ -341,22 +341,83 @@
   ],
   "steps": [
     {
-      "text": "Die Champignons putzen und in Scheiben schneiden. Die Kräuterseitlinge putzen und in mittelgroße Stücke zerreißen."
+      "text": "Die Champignons putzen und in Scheiben schneiden. Die Kräuterseitlinge putzen und in mittelgroße Stücke zerreißen.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Knoblauch schälen, zerdrücken und fein schneiden. Zwiebel und Möhren schälen und klein schneiden."
+      "text": "Knoblauch schälen, zerdrücken und fein schneiden. Zwiebel und Möhren schälen und klein schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Eine Pfanne erhitzen. Die Champignons ohne Öl braten, bis die austretende Flüssigkeit weitgehend verdampft ist. Anschließend beiseitestellen."
     },
     {
-      "text": "Die Kräuterseitlinge ebenfalls kurz ohne Öl braten. Mit Paprikapulver und Kreuzkümmel würzen. Öl, Zwiebel und Knoblauch hinzufügen und glasig dünsten. Den Knoblauch nicht bräunen lassen."
+      "text": "Die Kräuterseitlinge ebenfalls kurz ohne Öl braten. Mit Paprikapulver und Kreuzkümmel würzen. Öl, Zwiebel und Knoblauch hinzufügen und glasig dünsten. Den Knoblauch nicht bräunen lassen.",
+      "ingredients": [
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Die Butter in einem großen Topf schmelzen. Das Mehl einrühren und kurz anschwitzen, ohne es zu bräunen. Milch und Gemüsefond nach und nach unter kräftigem Rühren zugießen."
+      "text": "Die Butter in einem großen Topf schmelzen. Das Mehl einrühren und kurz anschwitzen, ohne es zu bräunen. Milch und Gemüsefond nach und nach unter kräftigem Rühren zugießen.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
-      "text": "Möhren, Erbsen und sämtliche Pilze samt Zwiebel und Knoblauch hinzufügen. Mit Muskatnuss, Salz, Zitronenabrieb und etwas Zitronensaft würzen. Nach Wunsch etwas Sahne unterrühren."
+      "text": "Möhren, Erbsen und sämtliche Pilze samt Zwiebel und Knoblauch hinzufügen. Mit Muskatnuss, Salz, Zitronenabrieb und etwas Zitronensaft würzen. Nach Wunsch etwas Sahne unterrühren.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 18
+        },
+        {
+          "ingredient": 19
+        }
+      ]
     },
     {
       "text": "Das Frikassee mindestens 30 Minuten bei kleiner Hitze köcheln lassen. Gelegentlich umrühren und bei Bedarf etwas Flüssigkeit ergänzen.",
@@ -364,13 +425,37 @@
     },
     {
       "text": "Währenddessen den Reis nach Packungsanweisung in einem separaten Topf mit Wasser und etwas Salz kochen.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 20
+        },
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
-      "text": "Sobald das Gemüse gar und die Sauce sämig ist, gehackte Petersilie unter das Frikassee rühren. Mit Pfeffer, Salz und Zitronensaft abschmecken."
+      "text": "Sobald das Gemüse gar und die Sauce sämig ist, gehackte Petersilie unter das Frikassee rühren. Mit Pfeffer, Salz und Zitronensaft abschmecken.",
+      "ingredients": [
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
-      "text": "Das Frikassee mit dem Reis auf zwei Portionen verteilen und mit fein geschnittenem Lauchzwiebelgrün bestreuen."
+      "text": "Das Frikassee mit dem Reis auf zwei Portionen verteilen und mit fein geschnittenem Lauchzwiebelgrün bestreuen.",
+      "ingredients": [
+        {
+          "ingredient": 16
+        }
+      ]
     }
   ]
 }

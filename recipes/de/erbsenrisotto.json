@@ -1,6 +1,6 @@
 {
   "id": "erbsenrisotto",
-  "version": 1,
+  "version": 2,
   "title": "Erbsenrisotto",
   "summary": "Cremiges Risotto mit Weißwein und pürierten Erbsen – grün, frisch und gemütlich.",
   "emoji": "🍚",
@@ -35,7 +35,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -140,17 +141,44 @@
   ],
   "steps": [
     {
-      "text": "Die Schalotten schälen und klein schneiden."
+      "text": "Die Schalotten schälen und klein schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
       "text": "In einem Topf Olivenöl erhitzen und die Schalotten anbraten.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
-      "text": "Den Risottoreis in den Topf geben und mit dem Weißwein ablöschen."
+      "text": "Den Risottoreis in den Topf geben und mit dem Weißwein ablöschen.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Die Gemüsebrühe anrühren und 100 ml davon mit 50 g der Erbsen pürieren."
+      "text": "Die Gemüsebrühe anrühren und 100 ml davon mit 50 g der Erbsen pürieren.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 2,
+          "share": 0.3226
+        }
+      ]
     },
     {
       "text": "Die restliche Gemüsebrühe nach und nach zum Reis gießen, dabei auch die Brühe mit den pürierten Erbsen dazugeben.",
@@ -158,10 +186,27 @@
     },
     {
       "text": "In den letzten 5 Minuten die restlichen Erbsen dazugeben und mit Pfeffer und Salz abschmecken.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 2,
+          "share": 0.6774
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Zum Servieren 2 Esslöffel geriebenen Käse darübergeben."
+      "text": "Zum Servieren 2 Esslöffel geriebenen Käse darübergeben.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     }
   ]
 }

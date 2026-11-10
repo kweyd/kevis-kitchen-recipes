@@ -1,6 +1,6 @@
 {
   "id": "lachs-mit-brokkolipuree",
-  "version": 1,
+  "version": 2,
   "title": "Lachs mit Brokkolipüree",
   "summary": "Zitronen-Lachs aus dem Airfryer auf cremigem Brokkolipüree mit Reis und roter Kokos-Curry-Soße.",
   "emoji": "🐟",
@@ -35,7 +35,8 @@
           "category": "dairy",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ],
           "shelfLifeDays": 14
         }
@@ -174,26 +175,77 @@
   "steps": [
     {
       "text": "Reis nach Packungsanleitung kochen.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Brokkoli waschen, klein schneiden und 10 Minuten in Salzwasser kochen.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Lachs mit Salz und Pfeffer würzen. 2 Scheiben Zitrone auf jedes Lachsstück legen und für 20 Minuten bei 160 °C in den Airfryer geben.",
-      "timerMinutes": 20
+      "timerMinutes": 20,
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Currypaste in eine Pfanne geben und anrösten lassen.",
-      "timerMinutes": 1
+      "timerMinutes": 1,
+      "ingredients": [
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
       "text": "Mit Kokosmilch ablöschen und kurz köcheln lassen.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
-      "text": "Das Wasser vom Brokkoli abgießen, Schlagsahne, Muskatnuss, Pfeffer und Salz dazugeben und alles pürieren."
+      "text": "Das Wasser vom Brokkoli abgießen, Schlagsahne, Muskatnuss, Pfeffer und Salz dazugeben und alles pürieren.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Alles zusammen mit den Zitronenscheiben servieren."

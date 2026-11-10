@@ -1,6 +1,6 @@
 {
   "id": "gnocchi-mit-rinderfilet",
-  "version": 1,
+  "version": 2,
   "title": "Gnocchi with Beef Tenderloin",
   "summary": "Tender beef fillet on creamy mushroom gnocchi – almost like at a restaurant.",
   "emoji": "🥩",
@@ -187,22 +187,66 @@
   "steps": [
     {
       "text": "Finely chop the shallots and mushrooms and fry them in a pan with a little oil.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Add the gnocchi and beef stock and let it simmer.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
       "text": "Season the beef tenderloin with pepper and salt and sear it on all sides for 2 minutes.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "Then air-fry it at 150 °C for 10 minutes.",
       "timerMinutes": 10
     },
     {
-      "text": "Add the cooking cream to the pan with the mushrooms and season with pepper, salt and parsley."
+      "text": "Add the cooking cream to the pan with the mushrooms and season with pepper, salt and parsley.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Slice the beef and serve it on top of the gnocchi."

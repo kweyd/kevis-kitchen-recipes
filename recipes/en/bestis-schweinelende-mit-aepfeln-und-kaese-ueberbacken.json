@@ -1,6 +1,6 @@
 {
   "id": "bestis-schweinelende-mit-aepfeln-und-kaese-ueberbacken",
-  "version": 1,
+  "version": 2,
   "title": "Besti's Pork Tenderloin Baked with Apples and Cheese",
   "summary": "Seared pork tenderloin layered with apples and onions in a tangy curry mustard cream, baked golden under a layer of cheese.",
   "emoji": "🥘",
@@ -144,7 +144,8 @@
       "diet": "plant",
       "allergens": [
         "mustard",
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -221,20 +222,69 @@
       "text": "Preheat the oven to 225 °C (conventional, top and bottom heat)."
     },
     {
-      "text": "Trim the sinew and silver skin off the pork tenderloin, cut it into thick slices and season with salt. Sear them in a little oil over high heat."
+      "text": "Trim the sinew and silver skin off the pork tenderloin, cut it into thick slices and season with salt. Sear them in a little oil over high heat.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
-      "text": "Peel, core and slice the apples. Peel the onion and slice it as well."
+      "text": "Peel, core and slice the apples. Peel the onion and slice it as well.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
-      "text": "Season the seared pork with pepper and layer it in a baking dish with the onions and apples. Add rosemary to taste."
+      "text": "Season the seared pork with pepper and layer it in a baking dish with the onions and apples. Add rosemary to taste.",
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
-      "text": "Whisk the cream with the ketchup, mustard, flour and curry powder. Pour it over the layered ingredients."
+      "text": "Whisk the cream with the ketchup, mustard, flour and curry powder. Pour it over the layered ingredients.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Cover with the grated cheese and bake in the preheated oven for about 30 minutes.",
-      "timerMinutes": 30
+      "timerMinutes": 30,
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     }
   ]
 }

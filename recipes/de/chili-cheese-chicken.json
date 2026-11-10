@@ -1,6 +1,6 @@
 {
   "id": "chili-cheese-chicken",
-  "version": 1,
+  "version": 2,
   "title": "Chili Cheese Chicken",
   "summary": "Saftiges Hähnchen auf knackigem Romanasalat mit scharfer Jalapeño-Käsesoße – Low Carb und richtig satt machend.",
   "emoji": "🌶️",
@@ -67,7 +67,8 @@
       "shelfLifeDays": 14,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -248,24 +249,73 @@
   ],
   "steps": [
     {
-      "text": "Hähnchen und Zwiebel klein schneiden."
+      "text": "Hähnchen und Zwiebel klein schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Eine Pfanne mit Öl besprühen und erhitzen. Hähnchen und Zwiebel darin anbraten.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
       "text": "Das Hähnchen aus der Pfanne nehmen."
     },
     {
       "text": "Sahne, Gemüsebrühe, den in Stücke geschnittenen Old Amsterdam und den Sahne-Schmelzkäse in die Pfanne geben und schmelzen lassen.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Die Jalapeño in Ringe schneiden und zusammen mit Paprikapulver und Chilipulver in die Pfanne geben. Mit Pfeffer und Salz abschmecken."
+      "text": "Die Jalapeño in Ringe schneiden und zusammen mit Paprikapulver und Chilipulver in die Pfanne geben. Mit Pfeffer und Salz abschmecken.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
-      "text": "Salatblätter auf die Teller verteilen und das Hähnchen darauf verteilen."
+      "text": "Salatblätter auf die Teller verteilen und das Hähnchen darauf verteilen.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Am Ende die Chili-Cheese-Soße darüber geben."

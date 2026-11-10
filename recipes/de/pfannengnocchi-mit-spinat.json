@@ -1,6 +1,6 @@
 {
   "id": "pfannengnocchi-mit-spinat",
-  "version": 1,
+  "version": 2,
   "title": "Pfannengnocchi mit Spinat",
   "summary": "Gnocchi aus der Pfanne mit Kirschtomaten, Spinat und leicht karamellisierten Zwiebeln – ruckzuck fertig.",
   "emoji": "🍅",
@@ -49,7 +49,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Spinat",
@@ -60,7 +62,9 @@
       "note": "frisch",
       "shelfLifeDays": 2,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Rote Zwiebeln",
@@ -164,7 +168,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -173,7 +178,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -191,25 +198,76 @@
   ],
   "steps": [
     {
-      "text": "Die roten Zwiebeln und den Knoblauch schälen und klein hacken."
+      "text": "Die roten Zwiebeln und den Knoblauch schälen und klein hacken.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Anschließend in Öl anbraten. Einen halben Teelöffel Honig dazugeben, um die Zwiebeln leicht zu karamellisieren.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
       "text": "Die Kirschtomaten halbieren und mit dem Spinat in die Pfanne geben. Warten, bis der Spinat eingefallen ist.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
-      "text": "50 ml Wasser mit einem halben Teelöffel Gemüsebrühe mischen und zusammen mit den Gnocchi in die Pfanne geben."
+      "text": "50 ml Wasser mit einem halben Teelöffel Gemüsebrühe mischen und zusammen mit den Gnocchi in die Pfanne geben.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Nach Bedarf mit Pfeffer und Salz würzen und 5 Minuten kochen lassen.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
-      "text": "Am Ende etwas Parmesan und Basilikum darübergeben und servieren."
+      "text": "Am Ende etwas Parmesan und Basilikum darübergeben und servieren.",
+      "ingredients": [
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     }
   ]
 }

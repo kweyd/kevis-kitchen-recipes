@@ -1,6 +1,6 @@
 {
   "id": "lachs-erbsen-pasta",
-  "version": 1,
+  "version": 2,
   "title": "Lachs-Erbsen-Pasta",
   "summary": "Cremige Pasta mit Erbsen und Crème fraîche, dazu saftiger Zitronen-Lachs.",
   "emoji": "🐟",
@@ -37,7 +37,8 @@
           "category": "dairy",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ],
           "shelfLifeDays": 14
         }
@@ -184,7 +185,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -193,7 +195,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -227,23 +231,69 @@
   ],
   "steps": [
     {
-      "text": "Die Schalotte kleinschneiden, den Parmesan reiben und den Lachs waschen und trocken tupfen."
+      "text": "Die Schalotte kleinschneiden, den Parmesan reiben und den Lachs waschen und trocken tupfen.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Die Nudeln mit etwas Salz in einem Topf kochen.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Die Butter in einer Pfanne schmelzen und die Schalotte darin anbraten.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Den Lachs nach Belieben würzen, mit Zitronensaft beträufeln und für 16 Minuten bei 160 °C in den Airfryer geben.",
-      "timerMinutes": 16
+      "timerMinutes": 16,
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Erbsen, Gemüsebrühe und Crème fraîche in die Pfanne geben und aufkochen lassen.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Die Nudeln abgießen und in die Pfanne geben."

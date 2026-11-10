@@ -1,6 +1,6 @@
 {
   "id": "truffel-feta-pasta",
-  "version": 1,
+  "version": 2,
   "title": "Trüffel-Feta-Pasta",
   "summary": "Bandnudeln in einer cremigen Feta-Frischkäse-Soße mit Trüffelöl – einfach alles in den Mixer.",
   "emoji": "🍝",
@@ -174,19 +174,54 @@
   "steps": [
     {
       "text": "Die Nudeln in einem Topf nach Packungsanleitung kochen.",
-      "timerMinutes": 9
+      "timerMinutes": 9,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Feta, Kräuterfrischkäse, Trüffelöl, Honig und Knoblauchpulver in einen Mixer geben."
+      "text": "Feta, Kräuterfrischkäse, Trüffelöl, Honig und Knoblauchpulver in einen Mixer geben.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
-      "text": "Etwas Wasser dazugeben und mixen, bis die gewünschte Konsistenz erreicht ist. Mit Pfeffer und Salz abschmecken."
+      "text": "Etwas Wasser dazugeben und mixen, bis die gewünschte Konsistenz erreicht ist. Mit Pfeffer und Salz abschmecken.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Die Nudeln abgießen und mit der Soße vermischen."
     },
     {
-      "text": "Noch ein bisschen Basilikum für die Optik darüber geben."
+      "text": "Noch ein bisschen Basilikum für die Optik darüber geben.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        }
+      ]
     }
   ]
 }

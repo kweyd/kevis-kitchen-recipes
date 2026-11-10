@@ -1,6 +1,6 @@
 {
   "id": "pasta-mit-zitronenschnitzel",
-  "version": 1,
+  "version": 2,
   "title": "Pasta mit Zitronenschnitzel",
   "summary": "Zarte Hähnchenschnitzel in cremiger Zitronen-Knoblauch-Soße mit Bandnudeln und Kürbiskernen.",
   "emoji": "🍋",
@@ -260,30 +260,90 @@
   ],
   "steps": [
     {
-      "text": "Etwas Olivenöl in eine Schüssel geben. Knoblauch schälen und in die Schüssel pressen. Den Abrieb einer Zitrone und den Saft von 1,5 Zitronen zusammen mit 25 ml Milch, Salz und Pfeffer dazugeben."
+      "text": "Etwas Olivenöl in eine Schüssel geben. Knoblauch schälen und in die Schüssel pressen. Den Abrieb einer Zitrone und den Saft von 1,5 Zitronen zusammen mit 25 ml Milch, Salz und Pfeffer dazugeben.",
+      "ingredients": [
+        {
+          "ingredient": 8,
+          "share": 0.25
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 4,
+          "share": 0.1
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "Das Hähnchenbrustfilet in dünne Schnitzel schneiden, in der Schüssel marinieren und kurz ziehen lassen.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Die Nudeln kochen.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Währenddessen Öl in einer Pfanne erhitzen und die Schnitzel von beiden Seiten scharf anbraten. Dann aus der Pfanne nehmen.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 8,
+          "share": 0.75
+        }
+      ]
     },
     {
       "text": "Die Butter in der Pfanne schmelzen und das Mehl darin anschwitzen.",
-      "timerMinutes": 1
+      "timerMinutes": 1,
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Die restliche Marinade und Milch in die Pfanne geben und die Gemüsebrühe einrühren. Aufkochen lassen, dann die Schnitzel wieder dazugeben und 10 Minuten kochen lassen.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 4,
+          "share": 0.9
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Die Nudeln, Schnitzel und Soße auf die Teller verteilen und Kürbiskerne darüberstreuen."
+      "text": "Die Nudeln, Schnitzel und Soße auf die Teller verteilen und Kürbiskerne darüberstreuen.",
+      "ingredients": [
+        {
+          "ingredient": 9
+        }
+      ]
     }
   ]
 }

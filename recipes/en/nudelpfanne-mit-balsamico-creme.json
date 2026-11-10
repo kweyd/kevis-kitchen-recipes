@@ -1,6 +1,6 @@
 {
   "id": "nudelpfanne-mit-balsamico-creme",
-  "version": 1,
+  "version": 2,
   "title": "Pasta Pan with Balsamic Glaze",
   "summary": "Light spaghetti pan with tomatoes, spinach, roasted lemon and balsamic glaze.",
   "emoji": "🍅",
@@ -47,7 +47,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Spinach",
@@ -57,7 +59,9 @@
       "pantry": false,
       "shelfLifeDays": 2,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Lemon",
@@ -173,7 +177,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ]
     },
     {
@@ -188,28 +193,82 @@
   "steps": [
     {
       "text": "Cook the pasta in a pot.",
-      "timerMinutes": 9
+      "timerMinutes": 9,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Peel and finely chop the onion and garlic, wash the spinach and quarter the tomatoes."
+      "text": "Peel and finely chop the onion and garlic, wash the spinach and quarter the tomatoes.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Heat the olive oil in a pan and roast the halved lemon in it for 3 minutes.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Take the lemon out of the pan and fry the onion.",
       "timerMinutes": 2
     },
     {
-      "text": "Add the garlic, pine nuts, paprika, Italian herbs and honey."
+      "text": "Add the garlic, pine nuts, paprika, Italian herbs and honey.",
+      "ingredients": [
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Drain the pasta and add it to the pan with the balsamic glaze, spinach and tomatoes, then cook for 5 minutes. Season with salt.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
-      "text": "Serve with chili powder and the lemon halves."
+      "text": "Serve with chili powder and the lemon halves.",
+      "ingredients": [
+        {
+          "ingredient": 11
+        }
+      ]
     }
   ]
 }

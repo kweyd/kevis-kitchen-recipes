@@ -1,6 +1,6 @@
 {
   "id": "zitronen-petersilienrisotto",
-  "version": 1,
+  "version": 2,
   "title": "Lemon Parsley Risotto",
   "summary": "Creamy white wine risotto with a fresh lemon parsley pesto and parmesan.",
   "emoji": "🍋",
@@ -36,7 +36,8 @@
       "note": "dry",
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -119,7 +120,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -128,7 +130,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -173,25 +177,80 @@
   ],
   "steps": [
     {
-      "text": "Peel and chop the onion. Grate the parmesan."
+      "text": "Peel and chop the onion. Grate the parmesan.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Sauté the onion in a little oil in a pan, then add the risotto rice shortly after.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 6,
+          "share": 0.25
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Before the rice starts to catch, deglaze with the white wine."
+      "text": "Before the rice starts to catch, deglaze with the white wine.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Let the wine cook down and meanwhile blend the parsley with the juice and zest of one lemon, the pine nuts, olive oil, half of the parmesan, pepper and salt into a pesto.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 6,
+          "share": 0.75
+        },
+        {
+          "ingredient": 7,
+          "share": 0.5
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "When the wine has almost evaporated, keep topping up the pan with stock until the rice is covered.",
-      "timerMinutes": 20
+      "timerMinutes": 20,
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
-      "text": "When almost all the liquid is absorbed, stir the pesto into the rice and serve with the remaining parmesan."
+      "text": "When almost all the liquid is absorbed, stir the pesto into the rice and serve with the remaining parmesan.",
+      "ingredients": [
+        {
+          "ingredient": 7,
+          "share": 0.5
+        }
+      ]
     }
   ]
 }

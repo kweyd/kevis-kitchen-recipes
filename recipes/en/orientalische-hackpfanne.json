@@ -1,6 +1,6 @@
 {
   "id": "orientalische-hackpfanne",
-  "version": 1,
+  "version": 2,
   "title": "Middle Eastern Mince Skillet with Yoghurt Dip",
   "summary": "Spiced mince skillet with peppers, chickpeas and feta, served with a fresh garlic yoghurt dip.",
   "emoji": "🌶️",
@@ -169,7 +169,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Honey",
@@ -218,29 +220,99 @@
   ],
   "steps": [
     {
-      "text": "Finely chop the onion, garlic, peppers and chilli."
+      "text": "Finely chop the onion, garlic, peppers and chilli.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Heat the oil in a pan and fry the onion until translucent.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "Add the mince and fry until crumbly.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Add the peppers, half of the garlic and the chilli and fry.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 7,
+          "share": 0.5
+        }
+      ]
     },
     {
       "text": "Add the tomato paste, paprika, pepper and salt. After two minutes, pour in 75 ml water and bring to the boil.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
-      "text": "Stir in the chickpeas and the chopped feta."
+      "text": "Stir in the chickpeas and the chopped feta.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
-      "text": "For the dip, stir the yoghurt with the remaining garlic, honey and chives and season with pepper and salt."
+      "text": "For the dip, stir the yoghurt with the remaining garlic, honey and chives and season with pepper and salt.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 7,
+          "share": 0.5
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 14
+        }
+      ]
     }
   ]
 }

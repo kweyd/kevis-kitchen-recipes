@@ -1,6 +1,6 @@
 {
   "id": "wikinger-topf",
-  "version": 1,
+  "version": 2,
   "title": "Wikinger-Topf",
   "summary": "Deftige Hackbällchen mit Bacon in cremiger Soße mit Erbsen und Möhren, dazu Salzkartoffeln.",
   "emoji": "🍲",
@@ -122,7 +122,9 @@
       "category": "meatFish",
       "pantry": false,
       "diet": "meat",
-      "allergens": [],
+      "allergens": [
+        "histamine"
+      ],
       "alternatives": [
         {
           "name": "Räuchertofu",
@@ -131,7 +133,8 @@
           "category": "dairy",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ],
           "shelfLifeDays": 14
         }
@@ -284,28 +287,107 @@
   ],
   "steps": [
     {
-      "text": "Kartoffeln schälen und in mundgerechte Stücke schneiden."
+      "text": "Kartoffeln schälen und in mundgerechte Stücke schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Die Kartoffeln in einem Topf mit Wasser und Salz kochen.",
-      "timerMinutes": 20
+      "timerMinutes": 20,
+      "ingredients": [
+        {
+          "ingredient": 15
+        }
+      ]
     },
     {
-      "text": "In einer Schüssel Hackfleisch, klein geschnittenen Bacon, Paniermehl, Ei, klein geschnittene Zwiebel, klein gehackten Knoblauch, Chilipulver, Paprikapulver, Pfeffer und Salz vermengen."
+      "text": "In einer Schüssel Hackfleisch, klein geschnittenen Bacon, Paniermehl, Ei, klein geschnittene Zwiebel, klein gehackten Knoblauch, Chilipulver, Paprikapulver, Pfeffer und Salz vermengen.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 12,
+          "share": 0.75
+        },
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 15
+        }
+      ]
     },
     {
       "text": "In einer Pfanne Öl erhitzen, aus dem Hackfleisch kleine Bällchen formen und diese anbraten.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 16
+        }
+      ]
     },
     {
-      "text": "Die Erbsen und Möhren dazugeben und mit Rinderbrühe ablöschen."
+      "text": "Die Erbsen und Möhren dazugeben und mit Rinderbrühe ablöschen.",
+      "ingredients": [
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Nach ein paar Minuten die Sahne dazugeben und kurz aufkochen lassen. Gegebenenfalls etwas Speisestärke dazugeben.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
-      "text": "Mit Pfeffer, Salz, Paprikapulver und Petersilie abschmecken."
+      "text": "Mit Pfeffer, Salz, Paprikapulver und Petersilie abschmecken.",
+      "ingredients": [
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 12,
+          "share": 0.25
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Die Kartoffeln abgießen und servieren."

@@ -1,6 +1,6 @@
 {
   "id": "hahnchenpasta-mit-kohlrabi-und-zuckerschoten",
-  "version": 1,
+  "version": 2,
   "title": "Hähnchenpasta mit Kohlrabi und Zuckerschoten",
   "summary": "Cremige Bandnudeln mit zartem Kohlrabi, knackigen Zuckerschoten und Hähnchen.",
   "emoji": "🥬",
@@ -126,7 +126,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -135,7 +136,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -247,11 +250,27 @@
   ],
   "steps": [
     {
-      "text": "Die Hähnchenbrust in Stücke schneiden. Kohlrabi schälen und würfeln. Zuckerschoten waschen."
+      "text": "Die Hähnchenbrust in Stücke schneiden. Kohlrabi schälen und würfeln. Zuckerschoten waschen.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Die Nudeln in einem Topf kochen.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Die Hähnchenbrust nach Belieben marinieren und für 2x 9 Minuten bei 200 °C in den Airfryer geben.",
@@ -259,14 +278,38 @@
     },
     {
       "text": "Die Butter in einer Pfanne erwärmen und den Kohlrabi darin dünsten.",
-      "timerMinutes": 6
+      "timerMinutes": 6,
+      "ingredients": [
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
       "text": "Die Zuckerschoten hinzugeben und mit der Kochsahne ablöschen. Die Gemüsebrühe einrühren.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Den Parmesan zur Soße geben und mit Pfeffer und Salz abschmecken."
+      "text": "Den Parmesan zur Soße geben und mit Pfeffer und Salz abschmecken.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "Die Nudeln und das Hähnchen noch kurz mit in die Pfanne geben."

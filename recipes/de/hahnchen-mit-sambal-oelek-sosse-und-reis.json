@@ -1,6 +1,6 @@
 {
   "id": "hahnchen-mit-sambal-oelek-sosse-und-reis",
-  "version": 1,
+  "version": 2,
   "title": "Hähnchen mit Sambal-Oelek-Soße und Reis",
   "summary": "Hähnchen in scharfer Kokos-Sambal-Soße mit Curryreis, frischem Gurkensalat und Erdnüssen.",
   "emoji": "🌶️",
@@ -93,7 +93,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -124,7 +125,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -134,7 +136,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -155,7 +158,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "peanuts"
+        "peanuts",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -165,7 +169,8 @@
           "category": "snacks",
           "diet": "plant",
           "allergens": [
-            "nuts"
+            "nuts",
+            "histamine"
           ]
         },
         {
@@ -224,24 +229,92 @@
   "steps": [
     {
       "text": "Den Reis mit etwas Salz und einem Teelöffel Currypulver kochen.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Öl in einer Pfanne erhitzen, das Hähnchen leicht salzen und von beiden Seiten kurz anbraten.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
       "text": "Die Pfanne auf mittlere Hitze stellen und Sambal Oelek, Sojasoße und Kokosmilch dazugeben. Deckel drauf und 10 Minuten köcheln lassen.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Die Gurke in Scheiben schneiden und in eine Schüssel geben. Pfeffer, Salz, Weißweinessig, Zucker, ein Drittel der Erdnüsse und den Saft einer halben Limette dazugeben und alles verrühren."
+      "text": "Die Gurke in Scheiben schneiden und in eine Schüssel geben. Pfeffer, Salz, Weißweinessig, Zucker, ein Drittel der Erdnüsse und den Saft einer halben Limette dazugeben und alles verrühren.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 8,
+          "share": 0.3333
+        },
+        {
+          "ingredient": 3,
+          "share": 0.5
+        }
+      ]
     },
     {
       "text": "Zum Anrichten den Reis auf die Teller geben, daneben etwas Gurkensalat. Das Hähnchen in Streifen schneiden und mit der Soße auf die Teller geben."
     },
     {
-      "text": "Dazu je ein Limettenviertel und die restlichen Erdnüsse servieren."
+      "text": "Dazu je ein Limettenviertel und die restlichen Erdnüsse servieren.",
+      "ingredients": [
+        {
+          "ingredient": 3,
+          "share": 0.5
+        },
+        {
+          "ingredient": 8,
+          "share": 0.6667
+        }
+      ]
     }
   ]
 }

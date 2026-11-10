@@ -1,6 +1,6 @@
 {
   "id": "gebratene-asia-nudeln-mit-tofu",
-  "version": 1,
+  "version": 2,
   "title": "Gebratene Asia-Nudeln mit Tofu",
   "summary": "Süß-scharfe Mie-Nudeln mit knusprigem Airfryer-Tofu und Sesam.",
   "emoji": "🍜",
@@ -142,7 +142,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -152,7 +153,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -182,7 +184,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ]
     },
     {
@@ -210,27 +213,73 @@
   "steps": [
     {
       "text": "Die Nudeln in einer Schüssel mit kochendem Wasser ziehen lassen.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Den Tofu auf einem Küchenpapier ausdrücken, in kleine Stücke schneiden und mit Speisestärke bestreuen."
+      "text": "Den Tofu auf einem Küchenpapier ausdrücken, in kleine Stücke schneiden und mit Speisestärke bestreuen.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
       "text": "Den Tofu für 2x 5 Minuten bei 200 °C in den Airfryer geben.",
       "timerMinutes": 10
     },
     {
-      "text": "Karotten, Knoblauch und Chilis kleinschneiden und in eine Schüssel geben."
+      "text": "Karotten, Knoblauch und Chilis kleinschneiden und in eine Schüssel geben.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
       "text": "Sesam, Agavendicksaft, Erdnussöl, Sojasoße und Reisessig dazugeben. Alles miteinander vermischen und in einer Pfanne aufkochen.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
       "text": "Die Nudeln abgießen und in einer anderen Pfanne kurz anbraten. Dann die Soße und den Tofu dazugeben und alles vermischen."
     },
     {
-      "text": "Die Lauchzwiebeln in Ringe schneiden und über die Portionen verteilen."
+      "text": "Die Lauchzwiebeln in Ringe schneiden und über die Portionen verteilen.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     }
   ]
 }

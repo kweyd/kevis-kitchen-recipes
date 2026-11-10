@@ -1,6 +1,6 @@
 {
   "id": "chili-oil-rice",
-  "version": 1,
+  "version": 2,
   "title": "Chili Oil Rice",
   "summary": "Schneller Reis mit Erbsen, Lauchzwiebeln und Knoblauch in heißem Chiliöl.",
   "emoji": "🌶️",
@@ -94,7 +94,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -104,7 +105,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -125,7 +127,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -142,17 +145,49 @@
   "steps": [
     {
       "text": "Reis kochen.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
-      "text": "Lauchzwiebeln in Ringe schneiden. Knoblauch schälen und klein schneiden und alles in eine Schüssel geben."
+      "text": "Lauchzwiebeln in Ringe schneiden. Knoblauch schälen und klein schneiden und alles in eine Schüssel geben.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Das Öl in einem Topf erhitzen und in die Schüssel geben. Mit Crispy Chili, Sojasoße und Reisweinessig mischen."
+      "text": "Das Öl in einem Topf erhitzen und in die Schüssel geben. Mit Crispy Chili, Sojasoße und Reisweinessig mischen.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "In den letzten Minuten beim Reiskochen die Erbsen mit erwärmen.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Alles zusammenfügen und umrühren."

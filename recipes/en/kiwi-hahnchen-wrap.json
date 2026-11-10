@@ -1,6 +1,6 @@
 {
   "id": "kiwi-hahnchen-wrap",
-  "version": 1,
+  "version": 2,
   "title": "Kiwi Chicken Wrap",
   "summary": "Crispy chicken strips with sweet golden kiwi, spinach and mustard crème fraîche in a wholegrain wrap.",
   "emoji": "🌯",
@@ -131,7 +131,9 @@
       "pantry": false,
       "shelfLifeDays": 2,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Mustard",
@@ -171,21 +173,56 @@
   ],
   "steps": [
     {
-      "text": "Cut the chicken breast into thin strips and spray with a little oil."
+      "text": "Cut the chicken breast into thin strips and spray with a little oil.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Air-fry the chicken at 200 °C for 2 x 8 minutes.",
       "timerMinutes": 16
     },
     {
-      "text": "Wash the spinach and kiwis and slice the kiwis."
+      "text": "Wash the spinach and kiwis and slice the kiwis.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "In a bowl, stir the crème fraîche with mustard, pepper and salt."
+      "text": "In a bowl, stir the crème fraîche with mustard, pepper and salt.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     },
     {
       "text": "Warm the tortillas on both sides in a hot dry pan.",
-      "timerMinutes": 2
+      "timerMinutes": 2,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Spread the cream down the middle of each tortilla, top with chicken, kiwi and spinach and roll up."

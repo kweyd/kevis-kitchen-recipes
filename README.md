@@ -59,13 +59,13 @@ on their next update, unless the user changed it.
 | `emoji` | One emoji, shown when there is no photo |
 | `servings` | Portions the amounts are for. The app scales from there |
 | `prepMinutes` | Total time in minutes |
-| `kind` | Optional. `baking` for cakes, cookies and the like: the app doesn't suggest them as daily meals, but they can be added to a day. Leave it out for normal meals. For cookies, `servings` is the number of pieces |
+| `kind` | Optional. `baking` for cakes, cookies and the like: the app doesn't suggest them as daily meals, but they can be added to a day. For cookies, `servings` is the number of pieces. `breakfast` or `dinner` (app 1.5+): only suggested for that meal when the user plans it, never as a main meal; apps before 1.5 treat them as normal meals. Leave it out for normal meals |
 | `tags` | Optional. German: `vegetarisch`, `vegan`, `schnell` · English: `vegetarian`, `vegan`, `quick` |
 | `author` | Your name, or `Kevi's Kitchen` |
 | `license` | Always `CC0-1.0` |
 | `nutritionPerServing` | `kcal`, `protein`, `fat`, `carbs` (grams) per portion, estimated is fine |
 | `ingredients` | List of ingredients, see below |
-| `steps` | List of `{ "text": "…" }`, optionally with `"timerMinutes"` for a timer button in cook mode |
+| `steps` | List of `{ "text": "…" }`, optionally with `"timerMinutes"` for a timer button in cook mode and `"ingredients"`, see below |
 
 ### Ingredients
 
@@ -79,8 +79,21 @@ on their next update, unless the user changed it.
 | `note` | Optional, shown next to the ingredient (`large`, `drained`) |
 | `shelfLifeDays` | Optional. How many days it stays fresh; decides which shopping trip it's bought on. Without it the category default is used; `0` means it keeps for a long time |
 | `diet` | `plant`, `animal` (dairy, eggs, honey), `fish`, `meat` |
-| `allergens` | Any of `gluten`, `crustaceans`, `eggs`, `fish`, `peanuts`, `soy`, `milk`, `lactose`, `nuts`, `celery`, `mustard`, `sesame`, `sulphites`, `lupin`, `molluscs`. Empty list if none |
+| `allergens` | Any of `gluten`, `crustaceans`, `eggs`, `fish`, `peanuts`, `soy`, `milk`, `lactose`, `nuts`, `celery`, `mustard`, `sesame`, `sulphites`, `lupin`, `molluscs`, `histamine` (rich in histamine or a known trigger: aged cheese, cured meat, smoked or canned fish, tomatoes, spinach, vinegar, wine, soy sauce …). Empty list if none |
 | `alternatives` | Optional replacements for other diets or allergies (same fields, without `pantry`). An alternative must change the diet or remove an allergen |
+
+### Step ingredients
+
+Optional (app 1.5+). Cook mode shows them below the step, scaled to the portions. Each entry points at an
+ingredient by its position in `ingredients` (counting from 0):
+
+```json
+{ "text": "Fry half of the garlic in oil.", "ingredients": [{ "ingredient": 4, "share": 0.5 }, { "ingredient": 7 }] }
+```
+
+`share` is the part of the amount the step uses (above 0, at most 1). Leave it out when the step uses all of it.
+Together the steps can't use more than all of an ingredient. German and English list the same step ingredients. Apps before 1.5 ignore
+step ingredients and the `histamine` allergen.
 
 ## Submitting a recipe from the app
 

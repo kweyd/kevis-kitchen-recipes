@@ -1,6 +1,6 @@
 {
   "id": "pizzasuppe-mit-baguette",
-  "version": 1,
+  "version": 2,
   "title": "Pizza Soup with Baguette",
   "summary": "Creamy mince and tomato soup with peppers and corn – tastes like pizza, served with crispy herb bread.",
   "emoji": "🍲",
@@ -54,7 +54,8 @@
           "category": "dairy",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ],
           "shelfLifeDays": 14
         }
@@ -105,7 +106,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Diced tomatoes",
@@ -114,7 +117,9 @@
       "category": "canned",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Whipping cream",
@@ -305,7 +310,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -313,7 +319,9 @@
           "unit": "to taste",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -337,29 +345,113 @@
   ],
   "steps": [
     {
-      "text": "Peel the onion and garlic and chop finely. Cut the pepper into bite-sized pieces. Drain the corn, wash the basil and chop it."
+      "text": "Peel the onion and garlic and chop finely. Cut the pepper into bite-sized pieces. Drain the corn, wash the basil and chop it.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
       "text": "Heat the olive oil in a pot and fry the onion and pepper.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 15,
+          "share": 0.6667
+        }
+      ]
     },
     {
       "text": "Add the garlic, corn, diced ham and mince and fry until the mince is crumbly.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Deglaze with the stock, cream and tomatoes and let it simmer for about 10 minutes.",
-      "timerMinutes": 10
+      "timerMinutes": 10,
+      "ingredients": [
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Stir in the ajvar, herb cream cheese and Italian herbs. Season with salt, pepper and honey."
+      "text": "Stir in the ajvar, herb cream cheese and Italian herbs. Season with salt, pepper and honey.",
+      "ingredients": [
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 12,
+          "share": 0.5
+        },
+        {
+          "ingredient": 18
+        },
+        {
+          "ingredient": 19
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
       "text": "Slice the baguette, drizzle with a little olive oil, sprinkle with Italian herbs and toast in the air fryer.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 15,
+          "share": 0.3333
+        },
+        {
+          "ingredient": 12,
+          "share": 0.5
+        }
+      ]
     },
     {
-      "text": "Ladle the soup into bowls and serve with parmesan and basil."
+      "text": "Ladle the soup into bowls and serve with parmesan and basil.",
+      "ingredients": [
+        {
+          "ingredient": 17
+        }
+      ]
     }
   ]
 }

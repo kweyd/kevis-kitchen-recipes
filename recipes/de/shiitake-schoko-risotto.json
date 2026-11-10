@@ -1,6 +1,6 @@
 {
   "id": "shiitake-schoko-risotto",
-  "version": 1,
+  "version": 2,
   "title": "Shiitake-Schoko-Risotto",
   "summary": "Ungewöhnlich gut: Weißwein-Risotto mit würzigen Shiitake und einem Hauch Zartbitterschokolade.",
   "emoji": "🍄",
@@ -35,7 +35,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -133,7 +134,8 @@
       "diet": "plant",
       "allergens": [
         "soy",
-        "gluten"
+        "gluten",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -143,7 +145,8 @@
           "category": "spices",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ]
         },
         {
@@ -165,28 +168,63 @@
       "note": "Sorte ohne Milchbestandteile",
       "diet": "plant",
       "allergens": [
-        "soy"
+        "soy",
+        "histamine"
       ]
     }
   ],
   "steps": [
     {
       "text": "Zwiebel kleinschneiden und mit der Butter in einer Pfanne anbräunen.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Den Risottoreis dazugeben und, wenn er leicht glasig wird, mit dem Weißwein ablöschen."
+      "text": "Den Risottoreis dazugeben und, wenn er leicht glasig wird, mit dem Weißwein ablöschen.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Den Reis kochen lassen und immer wieder mit Gemüsebrühe auffüllen, bis der Reis mit Flüssigkeit bedeckt ist.",
-      "timerMinutes": 20
+      "timerMinutes": 20,
+      "ingredients": [
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "In einer anderen Pfanne die Shiitake-Pilze mit der Sojasoße anbraten.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
-      "text": "Die Schokolade in kleine Stücke schneiden."
+      "text": "Die Schokolade in kleine Stücke schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Wenn die Flüssigkeit in der Pfanne mit dem Reis verkocht ist, das Risotto auf die Teller verteilen."

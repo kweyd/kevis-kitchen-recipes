@@ -1,6 +1,6 @@
 {
   "id": "frikadellen-mit-kartoffeln-und-truffelmayo",
-  "version": 1,
+  "version": 2,
   "title": "Meat Patties with Potatoes and Truffle Mayo",
   "summary": "Juicy German meat patties, crispy baby potatoes with bacon and rosemary and a quick truffle mayo.",
   "emoji": "🥔",
@@ -206,7 +206,8 @@
           "category": "dairy",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ],
           "shelfLifeDays": 14
         }
@@ -262,7 +263,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -304,24 +306,105 @@
   "steps": [
     {
       "text": "Parboil the potatoes for 15 minutes.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 11
+        }
+      ]
     },
     {
       "text": "Then put them in the air fryer with a little salt, pepper, the diced ham and rosemary for 17 minutes at 180 °C.",
-      "timerMinutes": 17
+      "timerMinutes": 17,
+      "ingredients": [
+        {
+          "ingredient": 18
+        },
+        {
+          "ingredient": 19
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
-      "text": "For the truffle mayo, stir the mayonnaise with a little salt, the white wine vinegar and truffle oil."
+      "text": "For the truffle mayo, stir the mayonnaise with a little salt, the white wine vinegar and truffle oil.",
+      "ingredients": [
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 18
+        },
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 15
+        }
+      ]
     },
     {
-      "text": "Peel the shallot and garlic and chop finely."
+      "text": "Peel the shallot and garlic and chop finely.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
-      "text": "Mix the mince with the remaining ingredients (shallot, garlic, egg, breadcrumbs, mustard, honey, parsley, paprika, stock powder, garlic powder, salt and pepper) and shape into patties."
+      "text": "Mix the mince with the remaining ingredients (shallot, garlic, egg, breadcrumbs, mustard, honey, parsley, paprika, stock powder, garlic powder, salt and pepper) and shape into patties.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 18
+        },
+        {
+          "ingredient": 19
+        }
+      ]
     },
     {
       "text": "Fry the patties in a pan with a little oil over medium heat with a lid on, turning once.",
-      "timerMinutes": 12
+      "timerMinutes": 12,
+      "ingredients": [
+        {
+          "ingredient": 17
+        }
+      ]
     },
     {
       "text": "Serve the patties with the potatoes and truffle mayo."

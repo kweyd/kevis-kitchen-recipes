@@ -1,6 +1,6 @@
 {
   "id": "hahnchenschnitzel-mit-kartoffeln-und-pilzen",
-  "version": 1,
+  "version": 2,
   "title": "Hähnchenschnitzel mit Kartoffeln und Pilzen",
   "summary": "Knuspriges Schnitzel aus dem Airfryer mit cremigen Champignons und Drillingen.",
   "emoji": "🍗",
@@ -243,30 +243,87 @@
   "steps": [
     {
       "text": "Kartoffeln waschen und in einem Topf kochen.",
-      "timerMinutes": 25
+      "timerMinutes": 25,
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
       "text": "Pilze und Zwiebeln schneiden und in einer Pfanne mit etwas Öl anbraten.",
-      "timerMinutes": 5
+      "timerMinutes": 5,
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 0
+        },
+        {
+          "ingredient": 10
+        }
+      ]
     },
     {
-      "text": "Das Hähnchenschnitzel von beiden Seiten mit Pfeffer und Salz bestreuen."
+      "text": "Das Hähnchenschnitzel von beiden Seiten mit Pfeffer und Salz bestreuen.",
+      "ingredients": [
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
-      "text": "Drei tiefe Teller vorbereiten: In einem das Ei verquirlen, im anderen Mehl und im dritten Paniermehl verteilen."
+      "text": "Drei tiefe Teller vorbereiten: In einem das Ei verquirlen, im anderen Mehl und im dritten Paniermehl verteilen.",
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 7
+        }
+      ]
     },
     {
       "text": "Das Schnitzel in dieser Reihenfolge in zwei Durchgängen panieren."
     },
     {
-      "text": "Die Kochsahne in die Pfanne geben und mit Pfeffer und Salz würzen."
+      "text": "Die Kochsahne in die Pfanne geben und mit Pfeffer und Salz würzen.",
+      "ingredients": [
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 12
+        }
+      ]
     },
     {
       "text": "Das Schnitzel für 2x 8 Minuten bei 200 °C in den Airfryer geben, dazwischen wenden.",
       "timerMinutes": 16
     },
     {
-      "text": "Die Kartoffeln abgießen und auf den Teller geben. Die Champignons darüber verteilen und mit Petersilie garnieren. Den Saft der halben Zitrone nach Belieben über dem Schnitzel verteilen."
+      "text": "Die Kartoffeln abgießen und auf den Teller geben. Die Champignons darüber verteilen und mit Petersilie garnieren. Den Saft der halben Zitrone nach Belieben über dem Schnitzel verteilen.",
+      "ingredients": [
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 8
+        }
+      ]
     }
   ]
 }

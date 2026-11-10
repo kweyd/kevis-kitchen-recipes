@@ -1,6 +1,6 @@
 {
   "id": "pasta-mit-kirschtomaten",
-  "version": 1,
+  "version": 2,
   "title": "Pasta mit Kirschtomaten",
   "summary": "Spaghetti mit geschmorten Kirschtomaten, Schinken, Zitrone und knusprigen Brot-Croutons mit Pinienkernen.",
   "emoji": "🍅",
@@ -25,7 +25,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Spaghetti",
@@ -75,7 +77,8 @@
           "category": "dairy",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ],
           "shelfLifeDays": 14
         }
@@ -132,7 +135,8 @@
       "pantry": false,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -155,7 +159,8 @@
       "shelfLifeDays": 0,
       "diet": "animal",
       "allergens": [
-        "milk"
+        "milk",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -164,7 +169,9 @@
           "unit": "g",
           "category": "dairy",
           "diet": "plant",
-          "allergens": [],
+          "allergens": [
+            "histamine"
+          ],
           "shelfLifeDays": 0
         }
       ]
@@ -199,7 +206,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ]
     },
     {
@@ -209,7 +217,9 @@
       "category": "canned",
       "pantry": true,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Zitrone",
@@ -268,32 +278,115 @@
   "steps": [
     {
       "text": "Die Nudeln kochen.",
-      "timerMinutes": 9
+      "timerMinutes": 9,
+      "ingredients": [
+        {
+          "ingredient": 1
+        }
+      ]
     },
     {
-      "text": "Schalotte und Knoblauch schälen und klein hacken."
+      "text": "Schalotte und Knoblauch schälen und klein hacken.",
+      "ingredients": [
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 13
+        }
+      ]
     },
     {
       "text": "In einer Pfanne Olivenöl erhitzen und die Schalotte anbraten. Anschließend Knoblauch, Schinkenwürfel und Kirschtomaten dazugeben und braten, bis die Tomaten aufplatzen und ihren Saft verteilen.",
-      "timerMinutes": 8
+      "timerMinutes": 8,
+      "ingredients": [
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Dann Tomatenmark, Apfelessig und Weißwein in die Pfanne geben und den Alkohol verkochen lassen.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 6
+        }
+      ]
     },
     {
       "text": "Die Pinienkerne in einer anderen Pfanne anrösten.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 4
+        }
+      ]
     },
     {
       "text": "Das Weißbrot in kleine Würfel schneiden, mit Olivenöl beträufeln und in der Pfanne, in der die Pinienkerne waren, goldbraun rösten.",
-      "timerMinutes": 4
+      "timerMinutes": 4,
+      "ingredients": [
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
-      "text": "Den Abrieb der Zitrone, Petersilie, Basilikum und den Großteil des Parmesans in die Soße geben. Mit Pfeffer und Salz abschmecken – wenn es zu sauer ist, mit etwas Zucker."
+      "text": "Den Abrieb der Zitrone, Petersilie, Basilikum und den Großteil des Parmesans in die Soße geben. Mit Pfeffer und Salz abschmecken – wenn es zu sauer ist, mit etwas Zucker.",
+      "ingredients": [
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 9,
+          "share": 0.75
+        },
+        {
+          "ingredient": 7,
+          "share": 0.8
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 17
+        }
+      ]
     },
     {
-      "text": "Alles auf den Tellern anrichten und noch etwas Parmesan und Basilikum darübergeben."
+      "text": "Alles auf den Tellern anrichten und noch etwas Parmesan und Basilikum darübergeben.",
+      "ingredients": [
+        {
+          "ingredient": 7,
+          "share": 0.2
+        },
+        {
+          "ingredient": 9,
+          "share": 0.25
+        }
+      ]
     }
   ]
 }

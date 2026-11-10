@@ -1,6 +1,6 @@
 {
   "id": "susskartoffeln-mit-lachs",
-  "version": 1,
+  "version": 2,
   "title": "Süßkartoffeln mit Lachs",
   "summary": "Gefüllte Süßkartoffel mit Lachs-Reis-Salat und Knoblauch-Joghurt-Dip, alles aus dem Airfryer.",
   "emoji": "🍠",
@@ -46,7 +46,8 @@
           "category": "dairy",
           "diet": "plant",
           "allergens": [
-            "soy"
+            "soy",
+            "histamine"
           ],
           "shelfLifeDays": 14
         }
@@ -88,7 +89,9 @@
       "category": "produce",
       "pantry": false,
       "diet": "plant",
-      "allergens": []
+      "allergens": [
+        "histamine"
+      ]
     },
     {
       "name": "Gurke",
@@ -196,7 +199,8 @@
       "pantry": true,
       "diet": "plant",
       "allergens": [
-        "sulphites"
+        "sulphites",
+        "histamine"
       ],
       "alternatives": [
         {
@@ -228,7 +232,12 @@
   "steps": [
     {
       "text": "Die Süßkartoffel gründlich waschen, einschneiden und für 25 Minuten bei 200 °C in den Airfryer geben.",
-      "timerMinutes": 25
+      "timerMinutes": 25,
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Die Süßkartoffel wenden und weitere 25 Minuten garen.",
@@ -236,20 +245,92 @@
     },
     {
       "text": "Reis in einem Topf kochen.",
-      "timerMinutes": 15
+      "timerMinutes": 15,
+      "ingredients": [
+        {
+          "ingredient": 3
+        }
+      ]
     },
     {
-      "text": "Petersilie klein schneiden. Radieschen und Gurke würfeln und mit einem Teil der Petersilie und dem Rucola in eine Schüssel geben. Kirschtomaten halbieren und dazugeben."
+      "text": "Petersilie klein schneiden. Radieschen und Gurke würfeln und mit einem Teil der Petersilie und dem Rucola in eine Schüssel geben. Kirschtomaten halbieren und dazugeben.",
+      "ingredients": [
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 8,
+          "share": 0.5
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 5
+        }
+      ]
     },
     {
-      "text": "Mit etwas Essig, Öl, Pfeffer und Salz ein Dressing machen und darübergeben. Den fertigen Reis dazugeben."
+      "text": "Mit etwas Essig, Öl, Pfeffer und Salz ein Dressing machen und darübergeben. Den fertigen Reis dazugeben.",
+      "ingredients": [
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 14
+        }
+      ]
     },
     {
-      "text": "Für den Dip die Knoblauchzehen in den Joghurt pressen. Etwas Pfeffer, Salz, Honig und die restliche Petersilie dazugeben."
+      "text": "Für den Dip die Knoblauchzehen in den Joghurt pressen. Etwas Pfeffer, Salz, Honig und die restliche Petersilie dazugeben.",
+      "ingredients": [
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 9
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 8,
+          "share": 0.5
+        }
+      ]
     },
     {
       "text": "Den Lachs mit Pfeffer und Salz würzen, mit Zitronenscheiben belegen und für 20 Minuten bei 160 °C in den Airfryer geben.",
-      "timerMinutes": 20
+      "timerMinutes": 20,
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 2
+        }
+      ]
     },
     {
       "text": "Den Lachs zerpflücken und mit dem Salat vermischen."

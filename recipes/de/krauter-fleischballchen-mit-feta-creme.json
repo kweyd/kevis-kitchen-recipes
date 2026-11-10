@@ -1,6 +1,6 @@
 {
   "id": "krauter-fleischballchen-mit-feta-creme",
-  "version": 1,
+  "version": 2,
   "title": "Kräuter-Fleischbällchen mit Feta-Creme",
   "summary": "Würzige Kräuter-Fleischbällchen mit knusprigen Zitronen-Kartoffelspalten auf cremiger Feta-Joghurt-Creme.",
   "emoji": "🧆",
@@ -277,25 +277,101 @@
   ],
   "steps": [
     {
-      "text": "Kartoffeln waschen und in Spalten schneiden."
+      "text": "Kartoffeln waschen und in Spalten schneiden.",
+      "ingredients": [
+        {
+          "ingredient": 0
+        }
+      ]
     },
     {
       "text": "Die Kartoffelspalten mit dem Abrieb einer Zitrone, etwas Öl, Paprikapulver, Knoblauchpulver, Salz und Pfeffer marinieren und für 25 Minuten bei 160 °C in den Airfryer geben.",
-      "timerMinutes": 25
+      "timerMinutes": 25,
+      "ingredients": [
+        {
+          "ingredient": 14
+        },
+        {
+          "ingredient": 15
+        },
+        {
+          "ingredient": 12
+        },
+        {
+          "ingredient": 13
+        },
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 16
+        }
+      ]
     },
     {
       "text": "Pinienkerne ohne Öl in einer Pfanne anrösten.",
-      "timerMinutes": 3
+      "timerMinutes": 3,
+      "ingredients": [
+        {
+          "ingredient": 9
+        }
+      ]
     },
     {
-      "text": "Das Hackfleisch mit einem Teil der Pinienkerne, Eigelb, Minze, Dill, Petersilie, Chilipulver, Paniermehl, Salz und Pfeffer vermengen und kleine Fleischbällchen rollen."
+      "text": "Das Hackfleisch mit einem Teil der Pinienkerne, Eigelb, Minze, Dill, Petersilie, Chilipulver, Paniermehl, Salz und Pfeffer vermengen und kleine Fleischbällchen rollen.",
+      "ingredients": [
+        {
+          "ingredient": 1
+        },
+        {
+          "ingredient": 7
+        },
+        {
+          "ingredient": 2
+        },
+        {
+          "ingredient": 3
+        },
+        {
+          "ingredient": 4
+        },
+        {
+          "ingredient": 11
+        },
+        {
+          "ingredient": 8
+        },
+        {
+          "ingredient": 17
+        },
+        {
+          "ingredient": 16
+        }
+      ]
     },
     {
       "text": "Die Fleischbällchen für 12 Minuten bei 200 °C in den Airfryer geben.",
       "timerMinutes": 12
     },
     {
-      "text": "Für die Creme den Feta mit griechischem Joghurt, Olivenöl, dem Saft einer Zitrone, Pfeffer und Salz pürieren."
+      "text": "Für die Creme den Feta mit griechischem Joghurt, Olivenöl, dem Saft einer Zitrone, Pfeffer und Salz pürieren.",
+      "ingredients": [
+        {
+          "ingredient": 6
+        },
+        {
+          "ingredient": 5
+        },
+        {
+          "ingredient": 10
+        },
+        {
+          "ingredient": 16
+        },
+        {
+          "ingredient": 17
+        }
+      ]
     },
     {
       "text": "Zum Anrichten die Fleischbällchen mit den Kartoffelspalten auf der Creme anrichten und die restlichen Pinienkerne darüber streuen."
