@@ -1,0 +1,123 @@
+{
+  "id": "quark-mit-apfel-und-crunch",
+  "version": 1,
+  "title": "Quark mit Apfel und Crunch",
+  "summary": "Besonders passend zur kalten Jahreszeit.",
+  "emoji": "🥣",
+  "servings": 1,
+  "prepMinutes": 10,
+  "kind": "breakfast",
+  "tags": [],
+  "author": "Kevi's Kitchen Community",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 428,
+    "protein": 34,
+    "fat": 18,
+    "carbs": 41
+  },
+  "ingredients": [
+    {
+      "name": "Speisequark",
+      "amount": 250,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ]
+    },
+    {
+      "name": "Kleiner Apfel",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Erdnussmus",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "other",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "peanuts",
+        "histamine"
+      ]
+    },
+    {
+      "name": "Knuspermüsli",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Milch",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ]
+    },
+    {
+      "name": "Zimt",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honig",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agavendicksaft",
+          "unit": "to taste",
+          "category": "drinks",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "text": "Quark in eine Schüssel geben und mit der Milch verrühren."
+    },
+    {
+      "text": "Apfel bei Bedarf zunächst schälen oder alternativ mit Schale belassen, diesen vierteln. Apfelstücke in kleine Scheibchen schneiden und in eine kleine Pfanne geben."
+    },
+    {
+      "text": "Pfanne erhitzen und sobald das erste Zischen vom Apfel zu hören ist, Hitze auf mittleren Wert stellen."
+    },
+    {
+      "text": "Zimt und Honig in die Pfanne geben und mit den Apfelstückchen verrühren. Anschließend etwa 5 Minuten erhitzen, bis die Äpfel etwas weicher geworden und der Honig zerlaufen ist.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Apfel auf den Quark in die Schüssel geben und mit dem Müsli toppen."
+    },
+    {
+      "text": "Erdnussmus als letztes Topping oben drauf geben und die Mahlzeit genießen! ☺️"
+    }
+  ]
+}
