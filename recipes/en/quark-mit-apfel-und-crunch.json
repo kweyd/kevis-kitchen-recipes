@@ -1,0 +1,123 @@
+{
+  "id": "quark-mit-apfel-und-crunch",
+  "version": 1,
+  "title": "Quark with apple and crunch",
+  "summary": "Especially suitable for the cold season.",
+  "emoji": "🥣",
+  "servings": 1,
+  "prepMinutes": 10,
+  "kind": "breakfast",
+  "tags": [],
+  "author": "Kevi's Kitchen Community",
+  "license": "CC0-1.0",
+  "nutritionPerServing": {
+    "kcal": 428,
+    "protein": 34,
+    "fat": 18,
+    "carbs": 41
+  },
+  "ingredients": [
+    {
+      "name": "Edible quark",
+      "amount": 250,
+      "unit": "g",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ]
+    },
+    {
+      "name": "Small apple",
+      "amount": 1,
+      "unit": "piece",
+      "category": "produce",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Peanut butter",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "other",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": [
+        "peanuts",
+        "histamine"
+      ]
+    },
+    {
+      "name": "Crispy muesli",
+      "amount": 1,
+      "unit": "tbsp",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Milk",
+      "amount": 2,
+      "unit": "tbsp",
+      "category": "dairy",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [
+        "milk",
+        "lactose"
+      ]
+    },
+    {
+      "name": "Cinnamon",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "spices",
+      "pantry": false,
+      "diet": "plant",
+      "allergens": []
+    },
+    {
+      "name": "Honey",
+      "amount": 1,
+      "unit": "tsp",
+      "category": "breakfast",
+      "pantry": false,
+      "diet": "animal",
+      "allergens": [],
+      "alternatives": [
+        {
+          "name": "Agave syrup",
+          "unit": "to taste",
+          "category": "drinks",
+          "diet": "plant",
+          "allergens": []
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "text": "Put the quark in a bowl and mix with the milk."
+    },
+    {
+      "text": "If necessary, first peel the apple or alternatively leave it with the peel, cut it into quarters. Cut apple pieces into small slices and place in a small pan."
+    },
+    {
+      "text": "Heat the pan and as soon as the first hiss of the apple is heard, set the heat to medium."
+    },
+    {
+      "text": "Add cinnamon and honey to the pan and mix with the apple pieces. Then heat for about 5 minutes until the apples become a little softer and the honey has melted.",
+      "timerMinutes": 5
+    },
+    {
+      "text": "Put apple on the quark in the bowl and top with the muesli."
+    },
+    {
+      "text": "Add peanut butter as the last topping on top and enjoy the meal! ☺️"
+    }
+  ]
+}

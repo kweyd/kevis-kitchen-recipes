@@ -632,6 +632,15 @@
       }
     },
     {
+      "id": "quark-mit-apfel-und-crunch",
+      "version": 1,
+      "image": "images/quark-mit-apfel-und-crunch.jpg",
+      "languages": {
+        "de": "recipes/de/quark-mit-apfel-und-crunch.json",
+        "en": "recipes/en/quark-mit-apfel-und-crunch.json"
+      }
+    },
+    {
       "id": "quarknudeln-mit-schinken-und-pilzen",
       "version": 2,
       "image": "images/quarknudeln-mit-schinken-und-pilzen.jpg",
